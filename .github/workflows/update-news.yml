@@ -1,0 +1,33 @@
+name: 自動產生新聞 JSON
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # 每天台灣早上 9 點（UTC+8）
+  workflow_dispatch:      # 可手動觸發
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 下載 repo
+        uses: actions/checkout@v3
+
+      - name: 安裝 Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: 安裝依賴（可跳過）
+        run: npm install || true
+
+      - name: 產生 news.json
+        run: node generateNews.js
+
+      - name: Commit 並推回 GitHub
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add news.json
+          git commit -m "📰 自動更新新聞"
+          git push
