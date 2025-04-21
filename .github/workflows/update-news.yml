@@ -3,7 +3,7 @@ name: 自動產生新聞 JSON
 on:
   schedule:
     - cron: '*/5 * * * *'  # 每 5 分鐘跑一次（UTC 時區）
-  workflow_dispatch:        # 可手動執行
+  workflow_dispatch:        # 可手動觸發
 
 jobs:
   build:
@@ -28,7 +28,10 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git pull origin main --rebase        # ✅ 先同步遠端，避免 push 被拒
           git add news.json
+          git stash                          # ✅ 暫存修改
+          git pull origin main --rebase     # ✅ 先拉最新 main
+          git stash pop                     # ✅ 還原修改
+          git add news.json                 # ✅ 再次加入
           git commit -m "📰 自動更新新聞 $(date '+%Y-%m-%d %H:%M:%S')"
           git push
