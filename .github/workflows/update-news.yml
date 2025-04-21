@@ -2,8 +2,8 @@ name: 自動產生新聞 JSON
 
 on:
   schedule:
-   - cron: '*/5 * * * *'  # ← 原本每 5 分鐘一次
-  workflow_dispatch:        # 可手動觸發
+    - cron: '0 0 * * *'  # ✅ 台灣時間早上 8 點（UTC 0 點）
+  workflow_dispatch:
 
 jobs:
   build:
