@@ -1,0 +1,13 @@
+{
+  "name": "line-news-bot",
+  "version": "1.0.0",
+  "description": "使用 NewsAPI 自動產生每日財經新聞 JSON",
+  "main": "generateNews.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node generateNews.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
