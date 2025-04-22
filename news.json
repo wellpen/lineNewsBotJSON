@@ -1,11 +1,55 @@
 {
-  "date": "2025-04-22",
-  "time": "15:25:31",
+  "generatedAt": "2025-04-23 00:33:05",
   "news": [
-    "🕒 測試產生時間為：2025-04-22 15:25:31",
-    "微軟推出新一代 AI 晶片",
-    "台積電宣布設廠德國，強化歐洲供應鏈",
-    "比特幣重新站上 7 萬美元",
-    "美國 CPI 降溫，市場預期降息近了"
+    {
+      "index": 1,
+      "title": "Gainey McKenna & Egleston Announces A Class Action Lawsuit Has Been Filed Against NET Power Inc. (NPWR)",
+      "url": "https://www.globenewswire.com/news-release/2025/04/21/3064828/10782/en/Gainey-McKenna-Egleston-Announces-A-Class-Action-Lawsuit-Has-Been-Filed-Against-NET-Power-Inc-NPWR.html"
+    },
+    {
+      "index": 2,
+      "title": "Rating agencies don’t treat the Global South fairly: changes South Africa should champion in G20 hot seat",
+      "url": "https://theconversation.com/rating-agencies-dont-treat-the-global-south-fairly-changes-south-africa-should-champion-in-g20-hot-seat-254735"
+    },
+    {
+      "index": 3,
+      "title": "Paul Rudd reprises role as Nintendo hypeman in new Switch 2 commercial",
+      "url": "https://www.techspot.com/news/107628-paul-rudd-reprises-role-nintendo-hypeman-new-switch.html"
+    },
+    {
+      "index": 4,
+      "title": "Reddit Outage: Users report issues with website, app",
+      "url": "https://economictimes.indiatimes.com/tech/technology/reddit-outage-users-report-issues-with-website-app/articleshow/120492610.cms"
+    },
+    {
+      "index": 5,
+      "title": "From fava beans to future foods: Researchers turn to plant-based proteins for a healthier planet",
+      "url": "https://phys.org/news/2025-04-fava-beans-future-foods-based.html"
+    },
+    {
+      "index": 6,
+      "title": "Reddit down? Thousands of users face outage worldwide",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/reddit-down-thousands-of-users-face-outage-worldwide/articleshow/120492559.cms"
+    },
+    {
+      "index": 7,
+      "title": "Islamic finance Market to Reach $3.4 Trillion by 2027 in the short run and $7.7 Trillion by 2033 Globally, at 12.0% CAGR: Allied Market Research",
+      "url": "https://www.globenewswire.com/news-release/2025/04/21/3064824/0/en/Islamic-finance-Market-to-Reach-3-4-Trillion-by-2027-in-the-short-run-and-7-7-Trillion-by-2033-Globally-at-12-0-CAGR-Allied-Market-Research.html"
+    },
+    {
+      "index": 8,
+      "title": "Tech-Focused Executive Search Firm Riviera Partners Welcomes Back Sam Wholley as Managing Partner",
+      "url": "https://www.globenewswire.com/news-release/2025/04/21/3064825/0/en/Tech-Focused-Executive-Search-Firm-Riviera-Partners-Welcomes-Back-Sam-Wholley-as-Managing-Partner.html"
+    },
+    {
+      "index": 9,
+      "title": "Sports world mourns soccer-loving Pope Francis with games in Italy postponed",
+      "url": "https://apnews.com/article/pope-francis-soccer-san-lorenzo-b8687e9b67c05af7f0e7920af0fb942a"
+    },
+    {
+      "index": 10,
+      "title": "Chevron, Total Start Landmark Oil Production at Ballymore in Gulf",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Total-Start-Landmark-Oil-Production-at-Ballymore-in-Gulf.html"
+    }
   ]
 }
