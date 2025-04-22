@@ -35,7 +35,7 @@ async function fetchNews() {
       news: newsList
     };
 
-    fs.writeFileSync('public/news.json', JSON.stringify(finalOutput, null, 2));
+   fs.writeFileSync('news.json', JSON.stringify(finalOutput, null, 2));
     console.log('✅ news.json 寫入成功！');
   } catch (err) {
     console.error('❌ 抓新聞失敗：', err.message);
