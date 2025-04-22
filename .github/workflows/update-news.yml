@@ -4,11 +4,14 @@ on:
   schedule:
     - cron: '0 22 * * *'  # 台灣早上 6 點
     - cron: '0 10 * * *'  # 台灣晚上 6 點
-  workflow_dispatch:        # 可手動觸發
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    env:
+      NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
 
     steps:
       - name: 下載 repo
@@ -30,9 +33,9 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add news.json
-          git stash                          # ✅ 暫存修改
-          git pull origin main --rebase     # ✅ 先拉最新 main
-          git stash pop                     # ✅ 還原修改
-          git add news.json                 # ✅ 再次加入
+          git stash
+          git pull origin main --rebase
+          git stash pop
+          git add news.json
           git commit -m "📰 自動更新新聞 $(date '+%Y-%m-%d %H:%M:%S')"
           git push
