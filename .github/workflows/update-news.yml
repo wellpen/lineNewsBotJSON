@@ -28,14 +28,20 @@ jobs:
       - name: 產生 news.json
         run: node generateNews.js
 
-      - name: Commit 並推回 GitHub
+      - name: Commit 並推回 GitHub（只在有變更時）
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add news.json
-          git stash
-          git pull origin main --rebase
-          git stash pop
-          git add news.json
-          git commit -m "📰 自動更新新聞 $(date '+%Y-%m-%d %H:%M:%S')"
-          git push
+          git add public/news.json
+          git stash || true
+          git pull origin main --rebase || true
+          git stash pop || true
+          git add public/news.json
+
+          # ✅ 只在 news.json 有變化時才 commit + push
+          if ! git diff --cached --quiet; then
+            git commit -m "📰 自動更新新聞 $(date '+%Y-%m-%d %H:%M:%S')"
+            git push
+          else
+            echo "📭 沒有檔案變更，不推送。"
+          fi
