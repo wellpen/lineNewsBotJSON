@@ -36,7 +36,7 @@ jobs:
           git stash || true
           git pull origin main --rebase || true
           git stash pop || true
-          git add public/news.json
+          git add news.json
 
           # ✅ 只在 news.json 有變化時才 commit + push
           if ! git diff --cached --quiet; then
