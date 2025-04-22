@@ -32,7 +32,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add public/news.json
+          git add news.json
           git stash || true
           git pull origin main --rebase || true
           git stash pop || true
