@@ -7,7 +7,7 @@ const timestamp = `${taiwanTime.toISOString().slice(0, 10)} ${taiwanTime.toTimeS
 
 async function fetchNews() {
   const apiKey = process.env.NEWS_API_KEY;
-  const url = `https://newsapi.org/v2/everything?q=finance%20AND%20economy&language=en&pageSize=5&sortBy=publishedAt&apiKey=${apiKey}`;
+  const url = `https://newsapi.org/v2/everything?q=finance OR stock market OR banking OR interest rates&language=en&pageSize=5&sortBy=popularity&apiKey=${apiKey}`;
 
   try {
     const response = await axios.get(url);
@@ -20,7 +20,7 @@ async function fetchNews() {
     }));
 
     console.log(`🕒 台灣時間：${timestamp}`);
-    console.log('📢 最新金融新聞：\n');
+    console.log('🔥 熱門金融新聞：\n');
     newsList.forEach((n) => {
       console.log(`${n.index}. ${n.title}`);
       console.log(`👉 ${n.url}`);
