@@ -13,7 +13,8 @@ async function fetchNews() {
     return;
   }
 
-  const url = `https://newsapi.org/v2/everything?q=finance OR stock market OR banking OR interest rates&language=en&pageSize=5&sortBy=popularity&apiKey=${apiKey}`;
+  const url = `https://newsapi.org/v2/everything?q=finance&language=en&pageSize=5&sortBy=publishedAt&apiKey${apiKey}`;
+               
 
   console.log('🛰️ API URL:', url); // ← 印出實際請求網址
 
