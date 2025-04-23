@@ -7,11 +7,28 @@ const timestamp = `${taiwanTime.toISOString().slice(0, 10)} ${taiwanTime.toTimeS
 
 async function fetchNews() {
   const apiKey = process.env.NEWS_API_KEY;
+
+  if (!apiKey) {
+    console.error('❌ NEWS_API_KEY 未設定，請檢查 .env 檔或環境變數');
+    return;
+  }
+
   const url = `https://newsapi.org/v2/everything?q=finance OR stock market OR banking OR interest rates&language=en&pageSize=5&sortBy=popularity&apiKey=${apiKey}`;
+
+  console.log('🛰️ API URL:', url); // ← 印出實際請求網址
 
   try {
     const response = await axios.get(url);
     const articles = response.data.articles;
+
+    if (!articles || articles.length === 0) {
+      console.warn('⚠️ 查無熱門金融新聞，請檢查關鍵字或 API 限制');
+      fs.writeFileSync('news.json', JSON.stringify({
+        generatedAt: timestamp,
+        news: []
+      }, null, 2));
+      return;
+    }
 
     const newsList = articles.map((a, i) => ({
       index: i + 1,
