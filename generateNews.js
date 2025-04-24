@@ -5,17 +5,19 @@ const now = new Date();
 const taiwanTime = new Date(now.getTime() + 8 * 60 * 60 * 1000);
 const timestamp = `${taiwanTime.toISOString().slice(0, 10)} ${taiwanTime.toTimeString().split(' ')[0]}`;
 
-async function fetchLatestFinanceNews() {
+async function fetchTopFinanceNews() {
   const apiKey = process.env.NEWS_API_KEY;
-  const query = 'finance OR financial markets OR central bank OR interest rates OR banking';
-  const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&language=en&pageSize=5&sortBy=publishedAt&apiKey=${apiKey}`;
+
+  const sources = 'bloomberg,reuters,financial-times,the-wall-street-journal,cnbc';
+  const query = 'finance OR economy OR stock market OR central bank OR interest rates';
+  const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&sources=${sources}&language=en&pageSize=5&sortBy=publishedAt&apiKey=${apiKey}`;
 
   try {
     const response = await axios.get(url);
     const articles = response.data.articles;
 
     if (!articles || articles.length === 0) {
-      console.warn('⚠️ 沒有抓到最新金融新聞');
+      console.warn('⚠️ 查無主流金融新聞資料');
     }
 
     const newsList = articles.map((a, i) => ({
@@ -43,4 +45,4 @@ async function fetchLatestFinanceNews() {
   }
 }
 
-fetchLatestFinanceNews();
+fetchTopFinanceNews();
