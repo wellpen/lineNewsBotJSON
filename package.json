@@ -1,13 +1,22 @@
 {
-  "name": "line-news-bot",
+  "name": "01.linenewsbot",
   "version": "1.0.0",
-  "description": "使用 NewsAPI 自動產生每日財經新聞 JSON",
-  "main": "generateNews.js",
-  "type": "commonjs",
+  "description": "LINE Bot with render",
+  "main": "index.js",
   "scripts": {
-    "start": "node generateNews.js"
+    "start": "node index.js"   
   },
-  "dependencies": {
-    "axios": "^1.6.8"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {    
+    "axios": "^1.8.4",
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",    
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
   }
 }
