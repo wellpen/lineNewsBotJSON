@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-04-26 18:24:23",
-  "news": [
-    {
-      "index": 1,
-      "title": "South Korea’s economy shrinks as tariffs darken global outlook",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-23/south-korea-s-economy-shrinks-as-political-turmoil-dents-demand"
-    },
-    {
-      "index": 2,
-      "title": "UBS drops long-held bearish view on India, downgrades Hong Kong",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-24/ubs-drops-long-held-bearish-view-on-india-downgrades-hong-kong"
-    },
-    {
-      "index": 3,
-      "title": "Billionaires keep control after freak sell-off in bond market",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-14/drahi-and-coulson-maneuvers-are-painful-for-their-debt-investors"
-    },
-    {
-      "index": 4,
-      "title": "Asian stocks drop as Trump’s tariff deadline nears: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-08/stock-market-today-dow-s-p-live-updates"
-    },
-    {
-      "index": 5,
-      "title": "Trump keeps investors on edge with clashing tariff comments",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-08/trump-s-clashing-tariff-comments-keep-stock-market-investors-on-edge"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "丈夫女兒一年內相繼離世 60歲婦也肝硬化 醫喊1事很重要 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3ByZEd0a1JwanFRaUY4RHl1MDFDMVc0V2VZRmpYaF9wdVZIajltQmFhOTFQLXlycjlXS0VaaVFTRUxhd3lodi1STW50YU1oUlVfeE1LdGp1ZFhtMVBKYm1ZTjE4dTB1MklJUGVpbUpQMU52OU5XRkRCV1ZMdTNrNk9rTU9QOVBCRDV5R2ctMA?oc=5",
+    "date": "2025/04/26",
+    "fetched_at": "2025/04/26 18:44:24"
+  },
+  {
+    "serial": 2,
+    "title": "館長感謝韓國瑜「柯爸家祭坐到尾」　哽咽喊話：幫我救出柯文哲 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWZmpqNVZQVFhNSXdJSm5VTFptR0F4bXZGNDVpcFM1TklIZWlFenVmNkw1WFdYUjhxVUpaOGNoU0U2aERSQzM1UDhhUnVwN2xYaDZpTzJxQ3JXMkVzaGfSAWhBVV95cUxQVUZyUjZ1MjV2dXhkdUFQNW9rRnlNdXNja2g0M05BMFFQeGVPeFRtYk9lQmdZZFpxQUgtcnNPcW1hd01VM0tCaVNFZ1RlMVUtRmNsVG16WEE3T1JSdzkwUXJqN29iMkpKTg?oc=5",
+    "date": "2025/04/26",
+    "fetched_at": "2025/04/26 18:44:24"
+  },
+  {
+    "serial": 3,
+    "title": "中職》美職球探鬆口追蹤徐若熙 葉總提及先做好一件事 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aUWJ3V0hlWFhFUHhuVXlEbV90WTJNMUo3MkV4VzNXOFU4NXFBN2tuZmFOYjNWX0l6QzNMYjRBeTNORHE0UkU4UjA0QzlJdnRCSVNyNHRNU2dDRVRqQ3hUZtIBZkFVX3lxTE0zZjJnN2FreHVadnVHcmxHTDIyNEY0MkIzRHJsWWdKempkRFRsV0ZmaTY3dnc0OXVhUFgydjc0WFlSVnRjaU1DcFFjN1FzcXRmanZvdkpvRm5SZzFSWnFaa0RxUFp4UQ?oc=5",
+    "date": "2025/04/26",
+    "fetched_at": "2025/04/26 18:44:24"
+  },
+  {
+    "serial": 4,
+    "title": "時代雜誌：川普稱習近平主動來電談貿易 預告數百項協議將於數週內出爐 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xU19pbnBaWkxnaFJlT3hPeGktRW5uNm1pMVhtY05lcHBTeG5wRDB1NGRiY3VnSERNSTk5a011T05pY3FkRWcxRmZUU19RQ0E?oc=5",
+    "date": "2025/04/26",
+    "fetched_at": "2025/04/26 18:44:24"
+  },
+  {
+    "serial": 5,
+    "title": "中職》怎麼了？富邦悍將32名本土投手 超過半數躺在傷兵名單 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83M0xROENMUE5JOXVuS3Y4WkNwY3FjaElzVVE1a1pqaTl5TkNDSmEyNm1PZ3VMLWF2V3daelNNZlZ0YWMwSUFzaHFEYzNabU5iZjRMNzREYnRublFVb05DNNIBZkFVX3lxTE1QYmRBM1NPWUhId3B3WHR5OVNzeXMxdHg4YjIyOWVVZWFxcFpOVWdSMzFvNFN2S0IwOWg2cDJMSXZmNmV3NHZXS1hsZDc2VDc5QU9oMEJ6M29FM2Q1R3lsMEZaTlQ5UQ?oc=5",
+    "date": "2025/04/26",
+    "fetched_at": "2025/04/26 18:44:24"
+  },
+  {
+    "serial": 6,
+    "title": "支援玩家罷工奏效？《Marvel Rivals》開發商承諾加強策略師角色| 遊戲情報站 - GANK 電玩誌",
+    "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPMmxiV2cwR3ZJX2VSb3J3N3lJajB4b1hSRlFRLTc2Q2tMX3V0WW4tMEE2LWJNWUpDQ2dsOU1PYlpYc2hkZmVJQTlpckpLYUtYN2hFbVZ5R19FbWVGRDJvMWZjZlBVd0pRTFBBUlY5SjI1UWtYcHp5MnQ5SWc1Y19QZGhoRnBKczlQSUtCalc0T1gwTU1OOVZfVzYzR1lXaTJNZmpYMHJlcU9IWVlONkJNbTVUZ0ktTV9RMmdrNEo0a1h2RjM4ZTdrNk05a1ozdlpIMndDel81OHlEMS1ycEpILWpkZldGVm52MjZ0cWhMZlRhc2dNYTFTY2FRa1Z2TU5ZNVlqUTJTRjZDUDZWSk9fVXVaNWk2UjhUN2Zfb2piVUw2WklYM1lSclhkTEZSVkE5eTBpWUY0eEhwQWNjbEJGUXEtdWJwcWIwTkd3Q1VvSG40WEwyeTVSOGJ6VTltX1EyWnc?oc=5",
+    "date": "2025/04/26",
+    "fetched_at": "2025/04/26 18:44:24"
+  },
+  {
+    "serial": 7,
+    "title": "NBA／唐西奇胃部不適靠詹皇獨撐 灰狼G3末節猛攻擊潰湖人 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xcDJMWkdUR0swclFiWFVoVHdkTnhkU3ZHbFZXU2xLSTkyYzFWdGxLY3VxaXp3akp5anlUX0pFWGotcmpSZHoxUEFMcGRHLTVN0gFWQVVfeXFMTlZNZzluMGxfbnBoaDA0Mmw2aVFaMUZGd3lralZfYTBlbURPX25mcU8ydVR0alZianRCcXZ4VnFHWVJ0NkRXZUhZTzdtcGRrUmg3RkMxb0E?oc=5",
+    "date": "2025/04/26",
+    "fetched_at": "2025/04/26 18:44:24"
+  },
+  {
+    "serial": 8,
+    "title": "Android 最低儲存容量規定提升，未來手機至少需配備 32GB 才能搭載 Android 15 - T客邦",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKdDV1bDllOXNtVEpOak1aVkFCeWxucTJnZjlacEZFZk9hSUlwQXp5MTJfcEFjeUh0U2d4TnY1MjdaVUdwUzR6VzhkSlZ2bzJyQktTWjNnSHBaTVlWeWFyMzluZ1gzLVZsd2NTYlN4b1F1M0ZpZUhmaEtWb2VfR0nSAYQBQVVfeXFMTnVGa1hOVFdDUldSaV9mV2pvNl8yTGFaVnllYjBrTXZEbDZWWGxBNDIxVGlpNWRzYncwbVFvTU42TE9jZkJfT1dVT2ZJVks3MVFKMm1ZaVFuYnM2ZHFNbWUyNV9WckRIUjR2U19pSUVQc0U3LVZpczlpMzNnQmRoN1RLWXlk?oc=5",
+    "date": "2025/04/26",
+    "fetched_at": "2025/04/26 18:44:24"
+  },
+  {
+    "serial": 9,
+    "title": "國民黨426凱道遊行 曹興誠批：叛國的集會、騙徒的表演 - 自由時報",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13U3dXNkliOW1wdUNsRDZ2Uk9ISXBldVhpSHVoU2I5UG9XTVh0R0ViMmZ0amlmT3Q5RVQtYkVZQU8zTmg0R3V6Rm4wUTNtREtDYkQ1YXUwZWZQbk5GamxYbzd4Q3owaC1La1HSAW9BVV95cUxNVGFNQkVjc3RVZFZHMXZfUjVuRnBqUVpfNEZqMi12MVpEOWE3eUpIS19HdTNCZ25xb0thWTJRRVpwdTV5X3FZVTlqRkhUMGNsSHVWMWhNTnlsd29nUXpWYjBWZjlPdjVNc3VvWnRiMWc?oc=5",
+    "date": "2025/04/26",
+    "fetched_at": "2025/04/26 18:44:24"
+  },
+  {
+    "serial": 10,
+    "title": "鍾小平道歉！陳佩琪仍不買單、決定不上凱道 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPdXVxNmliQktMU0ZUeGNDMFVtdGk0eEd6X0Q4YlVpZ3BwMjNGTFVuendkN1EzdXd1TkdXV1JhR2JBd0FGQlBGN093LU02VGJhc1B6YWZqbVFBMElsdFVSSlk4bzdTeWh6UmFBeG94dWZVQU1WZlhGLV90a2o3dGgxVjNzWmNkQnBWMG53b1hxaEl4TzB3ZnpxMG1hdnJGbk5Sa3Vpd3Z0empvdVVXVHRJN0drVlRHU1FVbXNURWI2X2ZfQUdoNEdQVmdnOGNkWFA4QTVQZU10VnlIVW55SVJKT1F2dzAyREZ3YXQwLTQ1OWI4S1NOc0V4ZEVYVy03aDl4QnlQSXp4SGMzZVVlM0FoYlVWdWZKVGxEdWkzQVFSR19tMGQxNHFKQXU0UEw5UQ?oc=5",
+    "date": "2025/04/26",
+    "fetched_at": "2025/04/26 18:44:24"
+  }
+]
