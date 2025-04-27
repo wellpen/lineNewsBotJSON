@@ -25,18 +25,30 @@ function flexCarouselTemplate(newsList) {
             contents: newsList.map(item => ({
                 type: "bubble",
                 size: "mega",
+                styles: {
+                    body: {
+                        backgroundColor: "#F5F5F5"
+                    }
+                },
+                hero: {
+                    type: "image",
+                    url: "https://fakeimg.pl/600x400/?text=News&font=lobster",
+                    size: "full",
+                    aspectRatio: "16:9",
+                    aspectMode: "cover"
+                },
                 body: {
                     type: "box",
                     layout: "vertical",
+                    spacing: "sm", // ✅ 加小一點間距
                     contents: [
                         {
                             type: "text",
                             text: item.title,
                             weight: "bold",
-                            size: "md",
+                            size: "lg",
                             wrap: true,
-                            maxLines: 3,        // 👈 最多顯示3行
-                            height: "60px"      // 👈 高度固定
+                            maxLines: 3 // ✅ 只用這個，不加 height
                         },
                         {
                             type: "button",
@@ -46,7 +58,7 @@ function flexCarouselTemplate(newsList) {
                                 uri: item.link
                             },
                             style: "primary",
-                            margin: "md"
+                            margin: "md" // ✅ 統一按鈕位置
                         }
                     ]
                 }
