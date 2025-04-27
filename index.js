@@ -18,6 +18,8 @@ app.post('/webhook', async (req, res) => {
       const text = event.message.text.trim().toLowerCase();
       if (text === 'news' || text === '新聞') {
         await sendFlexNews(event.replyToken);
+      } else if (text === '幹') {
+        await replyText(event.replyToken, '閉嘴白癡');
       } else {
         await replyText(event.replyToken, '請輸入「news」來獲取今日國際新聞 🗞️');
       }
