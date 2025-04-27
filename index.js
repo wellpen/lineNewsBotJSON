@@ -8,6 +8,7 @@ const cheerio = require('cheerio');
 const app = express();
 const PORT = process.env.PORT || 3000;
 const LINE_TOKEN = process.env.LINE_CHANNEL_TOKEN;
+const RAPIDAPI_KEY = process.env.RAPIDAPI_KEY;
 
 app.use(bodyParser.json());
 
@@ -20,17 +21,17 @@ app.post('/webhook', async (req, res) => {
         await sendFlexNews(event.replyToken);
       } else if (text === '幹') {
         await replyText(event.replyToken, '閉嘴白癡');
-      } else if (/^[a-zA-Z]{1,5}$/.test(text)) {
-        const stockMsg = await fetchStockPrice(text.toUpperCase());
-        await replyText(event.replyToken, stockMsg);
+      } else if (/^[a-zA-Z]{1,5}$/.test(text)) { // 假設是股票代號
+        await sendStockPrice(event.replyToken, text.toUpperCase());
       } else {
-        await replyText(event.replyToken, '請輸入「news」查新聞或股票代號查股價 🗞️📈');
+        await replyText(event.replyToken, '請輸入「news」查新聞或股票代號查股價 📈');
       }
     }
   }
   res.sendStatus(200);
 });
 
+// 抓新聞 JSON 並帶圖
 async function fetchNewsWithImages() {
   const res = await axios.get('https://wellpen.github.io/lineNewsBotJSON/news.json');
   const newsList = res.data;
@@ -58,6 +59,7 @@ async function fetchNewsWithImages() {
   return enrichedNews;
 }
 
+// Flex 格式
 function flexCarouselTemplate(newsList) {
   return {
     type: "flex",
@@ -67,11 +69,7 @@ function flexCarouselTemplate(newsList) {
       contents: newsList.map(item => ({
         type: "bubble",
         size: "mega",
-        styles: {
-          body: {
-            backgroundColor: "#F5F5F5"
-          }
-        },
+        styles: { body: { backgroundColor: "#F5F5F5" } },
         hero: {
           type: "image",
           url: item.image,
@@ -84,37 +82,9 @@ function flexCarouselTemplate(newsList) {
           layout: "vertical",
           spacing: "sm",
           contents: [
-            {
-              type: "text",
-              text: `🗓️ ${item.date}`,
-              size: "sm",
-              color: "#888888"
-            },
-            {
-              type: "box",
-              layout: "vertical",
-              contents: [
-                {
-                  type: "text",
-                  text: item.title,
-                  weight: "bold",
-                  size: "lg",
-                  wrap: true,
-                  maxLines: 3
-                }
-              ],
-              height: "100px"
-            },
-            {
-              type: "button",
-              action: {
-                type: "uri",
-                label: "🔗 查看新聞",
-                uri: item.link
-              },
-              style: "primary",
-              margin: "md"
-            }
+            { type: "text", text: `🗓️ ${item.date}`, size: "sm", color: "#888888" },
+            { type: "text", text: item.title, weight: "bold", size: "md", wrap: true, maxLines: 3 },
+            { type: "button", action: { type: "uri", label: "🔗 查看新聞", uri: item.link }, style: "primary", margin: "md" }
           ]
         }
       }))
@@ -122,6 +92,7 @@ function flexCarouselTemplate(newsList) {
   };
 }
 
+// 回覆新聞 Flex
 async function sendFlexNews(replyToken) {
   try {
     const newsList = await fetchNewsWithImages();
@@ -133,55 +104,54 @@ async function sendFlexNews(replyToken) {
   }
 }
 
+// 查股票價
 async function fetchStockPrice(symbol) {
   try {
-    const res = await axios.get(`https://query1.finance.yahoo.com/v7/finance/quote?symbols=${symbol}`);
-    const stock = res.data.quoteResponse.result[0];
+    const res = await axios.get(`https://yahoo-finance15.p.rapidapi.com/api/yahoo/qu/quote/${symbol}`, {
+      headers: {
+        'X-RapidAPI-Key': RAPIDAPI_KEY,
+        'X-RapidAPI-Host': 'yahoo-finance15.p.rapidapi.com'
+      }
+    });
+    const stock = res.data[0];
     if (stock) {
       return `${stock.shortName} (${stock.symbol})\n現價：$${stock.regularMarketPrice} USD`;
     } else {
       return `⚠️ 找不到股票代號：${symbol}`;
     }
   } catch (error) {
-    console.error('❌ 抓股價失敗:', error.message);
+    console.error('❌ 抓股價失敗:', error.response?.data || error);
     return '⚠️ 無法取得股價，請稍後再試';
   }
 }
 
+// 回覆股價純文字
+async function sendStockPrice(replyToken, symbol) {
+  const priceMessage = await fetchStockPrice(symbol);
+  await replyText(replyToken, priceMessage);
+}
+
+// 回覆 Flex Message
 async function replyFlex(replyToken, flexContent) {
   await axios.post(
     'https://api.line.me/v2/bot/message/reply',
-    {
-      replyToken,
-      messages: [flexContent]
-    },
-    {
-      headers: {
-        Authorization: `Bearer ${LINE_TOKEN}`,
-        'Content-Type': 'application/json'
-      }
-    }
+    { replyToken, messages: [flexContent] },
+    { headers: { Authorization: `Bearer ${LINE_TOKEN}`, 'Content-Type': 'application/json' } }
   );
   console.log('✅ Flex Message 回覆成功');
 }
 
+// 回覆純文字
 async function replyText(replyToken, message) {
   await axios.post(
     'https://api.line.me/v2/bot/message/reply',
-    {
-      replyToken,
-      messages: [{ type: 'text', text: message }]
-    },
-    {
-      headers: {
-        Authorization: `Bearer ${LINE_TOKEN}`,
-        'Content-Type': 'application/json'
-      }
-    }
+    { replyToken, messages: [{ type: 'text', text: message }] },
+    { headers: { Authorization: `Bearer ${LINE_TOKEN}`, 'Content-Type': 'application/json' } }
   );
   console.log('✅ 純文字回覆成功');
 }
 
+// 啟動伺服器
 app.listen(PORT, () => {
   console.log(`🚀 LINE Bot server is running at http://localhost:${PORT}`);
 });
