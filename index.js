@@ -13,13 +13,11 @@ const RAPIDAPI_KEY = process.env.RAPIDAPI_KEY;
 
 app.use(bodyParser.json());
 
-// Webhook 處理
 app.post('/webhook', async (req, res) => {
   const events = req.body.events;
   for (const event of events) {
     if (event.type === 'message' && event.message.type === 'text') {
       const text = event.message.text.trim().toLowerCase();
-
       if (text === 'news' || text === '新聞') {
         await sendFlexNews(event.replyToken);
       } else if (text === '幹') {
@@ -34,7 +32,6 @@ app.post('/webhook', async (req, res) => {
   res.sendStatus(200);
 });
 
-// 抓新聞資料並補圖片
 async function fetchNewsWithImages() {
   const res = await axios.get('https://wellpen.github.io/lineNewsBotJSON/news.json');
   const newsList = res.data;
@@ -58,7 +55,6 @@ async function fetchNewsWithImages() {
   return enrichedNews;
 }
 
-// 更美版 Flex Carousel 模板
 function flexCarouselTemplate(newsList) {
   return {
     type: "flex",
@@ -81,41 +77,14 @@ function flexCarouselTemplate(newsList) {
         body: {
           type: "box",
           layout: "vertical",
-          spacing: "md",
+          spacing: "sm",
           contents: [
-            {
-              type: "text",
-              text: `🗓️ ${item.date}`,
-              size: "xs",
-              color: "#888888",
-              align: "start"
-            },
-            {
-              type: "box",
-              layout: "vertical",
-              height: "100px",
-              contents: [
-                {
-                  type: "text",
-                  text: item.title,
-                  weight: "bold",
-                  size: "md",
-                  wrap: true,
-                  maxLines: 3,
-                  align: "center"
-                }
-              ]
-            },
+            { type: "text", text: `🗓️ ${item.date}`, size: "xs", color: "#888888", align: "start" },
+            { type: "text", text: item.title, weight: "bold", size: "md", wrap: true, align: "start", margin: "md" },
             {
               type: "button",
-              action: {
-                type: "uri",
-                label: "🔗 查看新聞",
-                uri: item.link
-              },
+              action: { type: "uri", label: "🔗 查看新聞", uri: item.link },
               style: "primary",
-              color: "#00C853",
-              height: "sm",
               margin: "md"
             }
           ]
@@ -125,7 +94,6 @@ function flexCarouselTemplate(newsList) {
   };
 }
 
-// 發送 Flex 新聞
 async function sendFlexNews(replyToken) {
   try {
     const newsList = await fetchNewsWithImages();
@@ -137,7 +105,6 @@ async function sendFlexNews(replyToken) {
   }
 }
 
-// 查詢股價 (RapidAPI)
 async function fetchStockPrice(symbol) {
   try {
     const res = await axios.get(`https://yahoo-finance15.p.rapidapi.com/api/v1/markets/quote?ticker=${symbol}&type=STOCKS`, {
@@ -147,9 +114,10 @@ async function fetchStockPrice(symbol) {
       }
     });
 
-    const data = res.data.body.primaryData;
-    if (data && data.lastSalePrice) {
-      return `${symbol} 現價：${data.lastSalePrice} (變動 ${data.netChange}, ${data.percentageChange})`;
+    const stock = res.data.body;
+
+    if (stock && stock.symbol && stock.primaryData && stock.primaryData.lastSalePrice) {
+      return `${stock.companyName || stock.symbol} (${stock.symbol})\n現價：${stock.primaryData.lastSalePrice}`;
     } else {
       return `⚠️ 找不到股票代號：${symbol}`;
     }
@@ -159,13 +127,11 @@ async function fetchStockPrice(symbol) {
   }
 }
 
-// 發送股價純文字
 async function sendStockPrice(replyToken, symbol) {
   const priceMessage = await fetchStockPrice(symbol);
   await replyText(replyToken, priceMessage);
 }
 
-// 回覆 Flex
 async function replyFlex(replyToken, flexContent) {
   await axios.post(
     'https://api.line.me/v2/bot/message/reply',
@@ -175,7 +141,6 @@ async function replyFlex(replyToken, flexContent) {
   console.log('✅ Flex Message 回覆成功');
 }
 
-// 回覆純文字
 async function replyText(replyToken, message) {
   await axios.post(
     'https://api.line.me/v2/bot/message/reply',
@@ -185,7 +150,6 @@ async function replyText(replyToken, message) {
   console.log('✅ 純文字回覆成功');
 }
 
-// 啟動伺服器
 app.listen(PORT, () => {
   console.log(`🚀 LINE Bot server is running at http://localhost:${PORT}`);
 });
