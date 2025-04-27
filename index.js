@@ -15,42 +15,45 @@ console.log('🔍 所有載入的 env keys:', Object.keys(process.env).filter(ke
 
 app.use(bodyParser.json());
 
-// Flex Message 樣板
-function flexMessageTemplate(title, link) {
+// ✅ 產生 Carousel Flex 結構
+function flexCarouselTemplate(newsList) {
     return {
         type: "flex",
         altText: "📰 今日新聞",
         contents: {
-            type: "bubble",
-            size: "mega",
-            body: {
-                type: "box",
-                layout: "vertical",
-                contents: [
-                    {
-                        type: "text",
-                        text: title,
-                        weight: "bold",
-                        size: "md",
-                        wrap: true
-                    },
-                    {
-                        type: "button",
-                        action: {
-                            type: "uri",
-                            label: "🔗 查看新聞",
-                            uri: link
+            type: "carousel",
+            contents: newsList.map(item => ({
+                type: "bubble",
+                size: "mega",
+                body: {
+                    type: "box",
+                    layout: "vertical",
+                    contents: [
+                        {
+                            type: "text",
+                            text: item.title,
+                            weight: "bold",
+                            size: "md",
+                            wrap: true
                         },
-                        style: "primary",
-                        margin: "md"
-                    }
-                ]
-            }
+                        {
+                            type: "button",
+                            action: {
+                                type: "uri",
+                                label: "🔗 查看新聞",
+                                uri: item.link
+                            },
+                            style: "primary",
+                            margin: "md"
+                        }
+                    ]
+                }
+            }))
         }
     };
 }
 
-// 傳送 Flex新聞卡片
+// ✅ 專門傳送 Flex新聞Carousel
 async function sendFlexNews(replyToken) {
     try {
         const res = await axios.get('https://wellpen.github.io/lineNewsBotJSON/news.json');
@@ -61,14 +64,16 @@ async function sendFlexNews(replyToken) {
             return;
         }
 
-        const topNews = newsList.slice(0, 5); // 只拿前5則，避免超載
-        const messages = topNews.map(item => flexMessageTemplate(item.title, item.link));
+        // 最多只拿10則新聞
+        const topNews = newsList.slice(0, 10);
+
+        const flexMessage = flexCarouselTemplate(topNews);
 
         await axios.post(
             'https://api.line.me/v2/bot/message/reply',
             {
                 replyToken,
-                messages
+                messages: [flexMessage]
             },
             {
                 headers: {
@@ -77,14 +82,14 @@ async function sendFlexNews(replyToken) {
                 }
             }
         );
-        console.log('✅ Flex News回覆成功');
+        console.log('✅ Flex Carousel回覆成功');
     } catch (error) {
-        console.error('❌ Flex News回覆失敗：', error.response?.data || error);
+        console.error('❌ Flex Carousel回覆失敗：', error.response?.data || error);
         await replyText(replyToken, '⚠️ 無法取得新聞，請稍後再試');
     }
 }
 
-// 傳送文字訊息（備用）
+// ✅ 傳送文字訊息（備用）
 async function replyText(replyToken, text) {
     await axios.post(
         'https://api.line.me/v2/bot/message/reply',
@@ -101,7 +106,7 @@ async function replyText(replyToken, text) {
     );
 }
 
-// 處理 webhook 請求
+// ✅ 處理 webhook 請求
 app.post('/webhook', async (req, res) => {
     console.log('📥 收到來自 LINE 的 webhook：', JSON.stringify(req.body, null, 2));
 
@@ -122,7 +127,7 @@ app.post('/webhook', async (req, res) => {
     res.sendStatus(200);
 });
 
-// 啟動伺服器
+// ✅ 啟動伺服器
 app.listen(PORT, () => {
     console.log(`🚀 LINE Bot server is running at http://localhost:${PORT}`);
 });
