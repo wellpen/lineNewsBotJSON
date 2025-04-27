@@ -62,8 +62,8 @@ async function fetchNews() {
         }
 
         let message = '📰 今日新聞列表：\n\n';
-        newsList.forEach((item, index) => {
-            message += `${index + 1}. ${item.title}\n`;
+            newsList.forEach((item, index) => {
+            message += `${index + 1}. ${item.title}\n${item.link}\n\n`;
         });
 
         return message;
