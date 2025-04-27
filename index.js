@@ -18,6 +18,7 @@ app.post('/webhook', async (req, res) => {
   for (const event of events) {
     if (event.type === 'message' && event.message.type === 'text') {
       const text = event.message.text.trim().toLowerCase();
+
       if (text === 'news' || text === '新聞') {
         await sendFlexNews(event.replyToken);
       } else if (text === '幹') {
@@ -25,13 +26,14 @@ app.post('/webhook', async (req, res) => {
       } else if (/^[a-zA-Z]{1,5}$/.test(text)) {
         await sendStockPrice(event.replyToken, text.toUpperCase());
       } else {
-        await replyText(event.replyToken, '請輸入「news」查新聞或股票代號查股價 📈');
+        await replyText(event.replyToken, '請輸入「news」查新聞或輸入股票代號查詢股價 📈');
       }
     }
   }
   res.sendStatus(200);
 });
 
+// 抓新聞 JSON 並補上圖片
 async function fetchNewsWithImages() {
   const res = await axios.get('https://wellpen.github.io/lineNewsBotJSON/news.json');
   const newsList = res.data;
@@ -55,6 +57,7 @@ async function fetchNewsWithImages() {
   return enrichedNews;
 }
 
+// Flex Carousel 模板
 function flexCarouselTemplate(newsList) {
   return {
     type: "flex",
@@ -79,8 +82,22 @@ function flexCarouselTemplate(newsList) {
           layout: "vertical",
           spacing: "sm",
           contents: [
-            { type: "text", text: `🗓️ ${item.date}`, size: "xs", color: "#888888", align: "start" },
-            { type: "text", text: item.title, weight: "bold", size: "md", wrap: true, align: "start", margin: "md" },
+            { type: "text", text: `🗓️ ${item.date}`, size: "sm", color: "#888888" },
+            {
+              type: "box",
+              layout: "vertical",
+              contents: [
+                {
+                  type: "text",
+                  text: item.title,
+                  size: "md",
+                  wrap: true,
+                  maxLines: 4,
+                  align: "start"
+                }
+              ],
+              height: "80px" // ✅ 固定高度，讓標題區一樣高
+            },
             {
               type: "button",
               action: { type: "uri", label: "🔗 查看新聞", uri: item.link },
@@ -105,6 +122,7 @@ async function sendFlexNews(replyToken) {
   }
 }
 
+// 查股價
 async function fetchStockPrice(symbol) {
   try {
     const res = await axios.get(`https://yahoo-finance15.p.rapidapi.com/api/v1/markets/quote?ticker=${symbol}&type=STOCKS`, {
@@ -116,8 +134,8 @@ async function fetchStockPrice(symbol) {
 
     const stock = res.data.body;
 
-    if (stock && stock.symbol && stock.primaryData && stock.primaryData.lastSalePrice) {
-      return `${stock.companyName || stock.symbol} (${stock.symbol})\n現價：${stock.primaryData.lastSalePrice}`;
+    if (stock && stock.primaryData && stock.primaryData.lastSalePrice) {
+      return `${stock.companyName} (${stock.symbol})\n現價：${stock.primaryData.lastSalePrice}`;
     } else {
       return `⚠️ 找不到股票代號：${symbol}`;
     }
@@ -150,6 +168,7 @@ async function replyText(replyToken, message) {
   console.log('✅ 純文字回覆成功');
 }
 
+// 啟動伺服器
 app.listen(PORT, () => {
   console.log(`🚀 LINE Bot server is running at http://localhost:${PORT}`);
 });
