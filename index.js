@@ -13,7 +13,7 @@ const RAPIDAPI_KEY = process.env.RAPIDAPI_KEY;
 
 app.use(bodyParser.json());
 
-// Webhook 接收訊息
+// Webhook 處理
 app.post('/webhook', async (req, res) => {
   const events = req.body.events;
   for (const event of events) {
@@ -27,14 +27,14 @@ app.post('/webhook', async (req, res) => {
       } else if (/^[a-zA-Z]{1,5}$/.test(text)) {
         await sendStockPrice(event.replyToken, text.toUpperCase());
       } else {
-        await replyText(event.replyToken, '請輸入「news」查新聞或輸入股票代號查詢股價 📈');
+        await replyText(event.replyToken, '請輸入「news」查新聞或股票代號查股價 📈');
       }
     }
   }
   res.sendStatus(200);
 });
 
-// 抓新聞資料加圖片
+// 抓新聞資料並補圖片
 async function fetchNewsWithImages() {
   const res = await axios.get('https://wellpen.github.io/lineNewsBotJSON/news.json');
   const newsList = res.data;
@@ -58,7 +58,7 @@ async function fetchNewsWithImages() {
   return enrichedNews;
 }
 
-// Flex Carousel 模板
+// 更美版 Flex Carousel 模板
 function flexCarouselTemplate(newsList) {
   return {
     type: "flex",
@@ -68,7 +68,9 @@ function flexCarouselTemplate(newsList) {
       contents: newsList.map(item => ({
         type: "bubble",
         size: "mega",
-        styles: { body: { backgroundColor: "#F5F5F5" } },
+        styles: {
+          body: { backgroundColor: "#F5F5F5" }
+        },
         hero: {
           type: "image",
           url: item.image,
@@ -79,14 +81,41 @@ function flexCarouselTemplate(newsList) {
         body: {
           type: "box",
           layout: "vertical",
-          spacing: "sm",
+          spacing: "md",
           contents: [
-            { type: "text", text: `🗓️ ${item.date}`, size: "sm", color: "#888888" },
-            { type: "text", text: item.title, weight: "bold", size: "md", wrap: true, maxLines: 3 },
+            {
+              type: "text",
+              text: `🗓️ ${item.date}`,
+              size: "xs",
+              color: "#888888",
+              align: "start"
+            },
+            {
+              type: "box",
+              layout: "vertical",
+              height: "100px",
+              contents: [
+                {
+                  type: "text",
+                  text: item.title,
+                  weight: "bold",
+                  size: "md",
+                  wrap: true,
+                  maxLines: 3,
+                  align: "center"
+                }
+              ]
+            },
             {
               type: "button",
-              action: { type: "uri", label: "🔗 查看新聞", uri: item.link },
+              action: {
+                type: "uri",
+                label: "🔗 查看新聞",
+                uri: item.link
+              },
               style: "primary",
+              color: "#00C853",
+              height: "sm",
               margin: "md"
             }
           ]
@@ -96,7 +125,7 @@ function flexCarouselTemplate(newsList) {
   };
 }
 
-// 發送新聞 Flex
+// 發送 Flex 新聞
 async function sendFlexNews(replyToken) {
   try {
     const newsList = await fetchNewsWithImages();
@@ -104,34 +133,29 @@ async function sendFlexNews(replyToken) {
     await replyFlex(replyToken, flexMessage);
   } catch (error) {
     console.error('❌ Flex Carousel 回覆失敗:', error.response?.data || error.message);
-    await replyText(replyToken, '⚠️ 無法取得新聞，請稍候再試');
+    await replyText(replyToken, '⚠️ 無法取得新聞，請稍後再試');
   }
 }
 
-// 查詢股票價格 (RapidAPI - YH Finance)
+// 查詢股價 (RapidAPI)
 async function fetchStockPrice(symbol) {
   try {
-    const res = await axios.get('https://yahoo-finance15.p.rapidapi.com/api/v1/markets/quote', {
-      params: {
-        ticker: symbol,
-        type: 'STOCKS'
-      },
+    const res = await axios.get(`https://yahoo-finance15.p.rapidapi.com/api/v1/markets/quote?ticker=${symbol}&type=STOCKS`, {
       headers: {
         'X-RapidAPI-Key': RAPIDAPI_KEY,
         'X-RapidAPI-Host': 'yahoo-finance15.p.rapidapi.com'
       }
     });
 
-    const stock = res.data.body;
-
-    if (stock && stock.symbol && stock.primaryData && stock.primaryData.lastSalePrice) {
-      return `${stock.companyName} (${stock.symbol})\n現價：${stock.primaryData.lastSalePrice} USD`;
+    const data = res.data.body.primaryData;
+    if (data && data.lastSalePrice) {
+      return `${symbol} 現價：${data.lastSalePrice} (變動 ${data.netChange}, ${data.percentageChange})`;
     } else {
       return `⚠️ 找不到股票代號：${symbol}`;
     }
   } catch (error) {
     console.error('❌ 抓股價失敗:', error.response?.data || error.message);
-    return '⚠️ 無法取得股價，請稍候再試';
+    return '⚠️ 無法取得股價，請稍後再試';
   }
 }
 
@@ -141,7 +165,7 @@ async function sendStockPrice(replyToken, symbol) {
   await replyText(replyToken, priceMessage);
 }
 
-// 回覆 Flex Message
+// 回覆 Flex
 async function replyFlex(replyToken, flexContent) {
   await axios.post(
     'https://api.line.me/v2/bot/message/reply',
@@ -151,7 +175,7 @@ async function replyFlex(replyToken, flexContent) {
   console.log('✅ Flex Message 回覆成功');
 }
 
-// 回覆純文字訊息
+// 回覆純文字
 async function replyText(replyToken, message) {
   await axios.post(
     'https://api.line.me/v2/bot/message/reply',
