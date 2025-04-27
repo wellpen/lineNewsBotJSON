@@ -3,21 +3,15 @@ require('dotenv').config();
 const express = require('express');
 const bodyParser = require('body-parser');
 const axios = require('axios');
+const cheerio = require('cheerio');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 const LINE_TOKEN = process.env.LINE_CHANNEL_TOKEN;
 
-// 除錯資訊
-console.log('🧪 測試讀取 LINE_CHANNEL_TOKEN:', LINE_TOKEN);
-console.log('🔍 所有載入的 env keys:', Object.keys(process.env).filter(key => key.startsWith('LINE')));
-
 app.use(bodyParser.json());
 
-// 處理 LINE webhook
 app.post('/webhook', async (req, res) => {
-  console.log('📥 收到來自 LINE 的 webhook：', JSON.stringify(req.body, null, 2));
-
   const events = req.body.events;
   for (const event of events) {
     if (event.type === 'message' && event.message.type === 'text') {
@@ -29,11 +23,36 @@ app.post('/webhook', async (req, res) => {
       }
     }
   }
-
   res.sendStatus(200);
 });
 
-// 產生 Flex Carousel
+async function fetchNewsWithImages() {
+  const res = await axios.get('https://wellpen.github.io/lineNewsBotJSON/news.json');
+  const newsList = res.data;
+
+  const enrichedNews = await Promise.all(newsList.slice(0, 10).map(async (item) => {
+    if (item.image && item.image.trim() !== '') {
+      return item;
+    } else {
+      try {
+        const page = await axios.get(item.link, { timeout: 5000 });
+        const $ = cheerio.load(page.data);
+        const ogImage = $('meta[property="og:image"]').attr('content');
+        if (ogImage) {
+          item.image = ogImage;
+        } else {
+          item.image = 'https://fakeimg.pl/600x400/?text=News&font=lobster';
+        }
+      } catch (error) {
+        item.image = 'https://fakeimg.pl/600x400/?text=News&font=lobster';
+      }
+      return item;
+    }
+  }));
+
+  return enrichedNews;
+}
+
 function flexCarouselTemplate(newsList) {
   return {
     type: "flex",
@@ -50,9 +69,7 @@ function flexCarouselTemplate(newsList) {
         },
         hero: {
           type: "image",
-          url: item.image && item.image.trim() !== ''
-            ? item.image
-            : "https://fakeimg.pl/600x400/?text=News&font=lobster",
+          url: item.image,
           size: "full",
           aspectRatio: "16:9",
           aspectMode: "cover"
@@ -60,7 +77,14 @@ function flexCarouselTemplate(newsList) {
         body: {
           type: "box",
           layout: "vertical",
+          spacing: "sm",
           contents: [
+            {
+              type: "text",
+              text: `🗓️ ${item.date}`,
+              size: "sm",
+              color: "#888888"
+            },
             {
               type: "box",
               layout: "vertical",
@@ -74,7 +98,7 @@ function flexCarouselTemplate(newsList) {
                   maxLines: 3
                 }
               ],
-              height: "100px" // ✅ 標題區固定高度
+              height: "100px"
             },
             {
               type: "button",
@@ -93,21 +117,10 @@ function flexCarouselTemplate(newsList) {
   };
 }
 
-// 取得新聞資料並發送 Flex Message
 async function sendFlexNews(replyToken) {
   try {
-    const res = await axios.get('https://wellpen.github.io/lineNewsBotJSON/news.json');
-    const newsList = res.data;
-
-    if (!Array.isArray(newsList) || newsList.length === 0) {
-      await replyText(replyToken, '⚠️ 目前沒有可顯示的新聞');
-      return;
-    }
-
-    // 只取前10則
-    const top10 = newsList.slice(0, 10);
-
-    const flexMessage = flexCarouselTemplate(top10);
+    const newsList = await fetchNewsWithImages();
+    const flexMessage = flexCarouselTemplate(newsList);
     await replyFlex(replyToken, flexMessage);
   } catch (error) {
     console.error('❌ Flex Carousel回覆失敗：', error.response?.data || error);
@@ -115,7 +128,6 @@ async function sendFlexNews(replyToken) {
   }
 }
 
-// 回覆 Flex
 async function replyFlex(replyToken, flexContent) {
   await axios.post(
     'https://api.line.me/v2/bot/message/reply',
@@ -133,7 +145,6 @@ async function replyFlex(replyToken, flexContent) {
   console.log('✅ Flex Message 回覆成功');
 }
 
-// 回覆純文字
 async function replyText(replyToken, message) {
   await axios.post(
     'https://api.line.me/v2/bot/message/reply',
@@ -151,7 +162,6 @@ async function replyText(replyToken, message) {
   console.log('✅ 純文字回覆成功');
 }
 
-// 啟動伺服器
 app.listen(PORT, () => {
   console.log(`🚀 LINE Bot server is running at http://localhost:${PORT}`);
 });
