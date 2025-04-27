@@ -20,8 +20,11 @@ app.post('/webhook', async (req, res) => {
         await sendFlexNews(event.replyToken);
       } else if (text === '幹') {
         await replyText(event.replyToken, '閉嘴白癡');
+      } else if (/^[a-zA-Z]{1,5}$/.test(text)) {
+        const stockMsg = await fetchStockPrice(text.toUpperCase());
+        await replyText(event.replyToken, stockMsg);
       } else {
-        await replyText(event.replyToken, '請輸入「news」來獲取今日國際新聞 🗞️');
+        await replyText(event.replyToken, '請輸入「news」查新聞或股票代號查股價 🗞️📈');
       }
     }
   }
@@ -127,6 +130,21 @@ async function sendFlexNews(replyToken) {
   } catch (error) {
     console.error('❌ Flex Carousel回覆失敗：', error.response?.data || error);
     await replyText(replyToken, '⚠️ 無法取得新聞，請稍後再試');
+  }
+}
+
+async function fetchStockPrice(symbol) {
+  try {
+    const res = await axios.get(`https://query1.finance.yahoo.com/v7/finance/quote?symbols=${symbol}`);
+    const stock = res.data.quoteResponse.result[0];
+    if (stock) {
+      return `${stock.shortName} (${stock.symbol})\n現價：$${stock.regularMarketPrice} USD`;
+    } else {
+      return `⚠️ 找不到股票代號：${symbol}`;
+    }
+  } catch (error) {
+    console.error('❌ 抓股價失敗:', error.message);
+    return '⚠️ 無法取得股價，請稍後再試';
   }
 }
 
