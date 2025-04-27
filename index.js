@@ -13,7 +13,7 @@ const RAPIDAPI_KEY = process.env.RAPIDAPI_KEY;
 
 app.use(bodyParser.json());
 
-// Webhook 處理
+// Webhook 接收訊息
 app.post('/webhook', async (req, res) => {
   const events = req.body.events;
   for (const event of events) {
@@ -34,7 +34,7 @@ app.post('/webhook', async (req, res) => {
   res.sendStatus(200);
 });
 
-// 抓新聞 JSON 並補上圖片
+// 抓新聞資料加圖片
 async function fetchNewsWithImages() {
   const res = await axios.get('https://wellpen.github.io/lineNewsBotJSON/news.json');
   const newsList = res.data;
@@ -104,30 +104,34 @@ async function sendFlexNews(replyToken) {
     await replyFlex(replyToken, flexMessage);
   } catch (error) {
     console.error('❌ Flex Carousel 回覆失敗:', error.response?.data || error.message);
-    await replyText(replyToken, '⚠️ 無法取得新聞，請稍後再試');
+    await replyText(replyToken, '⚠️ 無法取得新聞，請稍候再試');
   }
 }
 
-// 查詢股價（RapidAPI Yahoo Finance Real Time）
+// 查詢股票價格 (RapidAPI - YH Finance)
 async function fetchStockPrice(symbol) {
   try {
-    const res = await axios.get(`https://yahoo-finance127.p.rapidapi.com/price?symbol=${symbol}`, {
+    const res = await axios.get('https://yahoo-finance15.p.rapidapi.com/api/v1/markets/quote', {
+      params: {
+        ticker: symbol,
+        type: 'STOCKS'
+      },
       headers: {
         'X-RapidAPI-Key': RAPIDAPI_KEY,
-        'X-RapidAPI-Host': 'yahoo-finance127.p.rapidapi.com'
+        'X-RapidAPI-Host': 'yahoo-finance15.p.rapidapi.com'
       }
     });
 
-    const stock = res.data;
+    const stock = res.data.body;
 
-    if (stock && stock.symbol && stock.regularMarketPrice) {
-      return `${stock.shortName || stock.symbol} (${stock.symbol})\n現價：$${stock.regularMarketPrice} USD`;
+    if (stock && stock.symbol && stock.primaryData && stock.primaryData.lastSalePrice) {
+      return `${stock.companyName} (${stock.symbol})\n現價：${stock.primaryData.lastSalePrice} USD`;
     } else {
       return `⚠️ 找不到股票代號：${symbol}`;
     }
   } catch (error) {
     console.error('❌ 抓股價失敗:', error.response?.data || error.message);
-    return '⚠️ 無法取得股價，請稍後再試';
+    return '⚠️ 無法取得股價，請稍候再試';
   }
 }
 
@@ -137,7 +141,7 @@ async function sendStockPrice(replyToken, symbol) {
   await replyText(replyToken, priceMessage);
 }
 
-// 回覆 Flex
+// 回覆 Flex Message
 async function replyFlex(replyToken, flexContent) {
   await axios.post(
     'https://api.line.me/v2/bot/message/reply',
@@ -147,7 +151,7 @@ async function replyFlex(replyToken, flexContent) {
   console.log('✅ Flex Message 回覆成功');
 }
 
-// 回覆純文字
+// 回覆純文字訊息
 async function replyText(replyToken, message) {
   await axios.post(
     'https://api.line.me/v2/bot/message/reply',
