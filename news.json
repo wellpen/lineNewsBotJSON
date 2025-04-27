@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-04-27 18:25:26",
-  "news": [
-    {
-      "index": 1,
-      "title": "IMF says Asian central banks can cut rates to tackle trade war impact",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-25/imf-says-asia-can-cut-rates-to-cushion-economy-from-tariff-shock"
-    },
-    {
-      "index": 2,
-      "title": "South Korea’s economy shrinks as tariffs darken global outlook",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-23/south-korea-s-economy-shrinks-as-political-turmoil-dents-demand"
-    },
-    {
-      "index": 3,
-      "title": "UBS drops long-held bearish view on India, downgrades Hong Kong",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-24/ubs-drops-long-held-bearish-view-on-india-downgrades-hong-kong"
-    },
-    {
-      "index": 4,
-      "title": "Billionaires keep control after freak sell-off in bond market",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-14/drahi-and-coulson-maneuvers-are-painful-for-their-debt-investors"
-    },
-    {
-      "index": 5,
-      "title": "Asian stocks drop as Trump’s tariff deadline nears: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-08/stock-market-today-dow-s-p-live-updates"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "Once Upon A Puppet 評論 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12b3k3UTVRaEVFTEtDN21pNEpXWThJenl6eE5maG1xSUh4QjZmZHI1VXdldTlTRVZkTXZJVGhvY2Z5OWZpZlh6RnA3elY0UlVqU2hDdU9PZGxSOEJHN1RuSS1aWE4?oc=5",
+    "date": "2025/04/27",
+    "fetched_at": "2025/04/27 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "中職》大巨蛋龍象戰開紅盤！創本季第2高票房紀錄 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05WUxMQ2RMdWFZUVUxOFlHQ0ljd2JqMjBVaDVIUGxuWnhCMGdTNWJ0Y29yT2ViekN1bXlnTzVZR3JzOGlhQS1vVjVtd2wwS3ZMVndqcjh0Um9UZnp6WkVpbNIBZkFVX3lxTE43N0R3cnQ3NDRXbmE0UzUxcG5OSnhzVHM4cXppSlMxdF9rOEZuTU9jaGNLdEFtOUZJVzE1cklpZ1hIUVd2dTkwUWNTeFlaSnhYeEZYYjBOVTIxMXZXV0d2c3J6bHQ3Zw?oc=5",
+    "date": "2025/04/27",
+    "fetched_at": "2025/04/27 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "美國麻疹失控近900例 研究：若疫苗覆蓋率下降10% 25年內恐有1110萬例確診 - Taiwan News",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLSnRuT1FGU1N5RHN0TkV2QkZpM2g5ckVGTnk5MUdFcnlpdUQ1N2xNcS1GOWNhVEg0bDF4dDM3NXk3NmVjWjRxSWFWYV9JYUE1SmJHV1VHZFc?oc=5",
+    "date": "2025/04/27",
+    "fetched_at": "2025/04/27 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "健康網》維生素D能預防疾病？ 研究：僅建議4情況補充 - 自由健康網",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05WVlqcFZCM2RMTTFJWVk4QzJ3ODZTZnpQX0daUXBBN05QMGktNkpYSDI1RVNvX1FrWjdkekdEN2thb3VIdWhFM2N3T2h3Vi1DbDN2TUpXRldoYl9nYmVnR0JPakrSAWpBVV95cUxPVjZlOTJSQW5hYlZlNnNPZ0JzOEoxdWNRM2YtVE9lTldySDRLeGJOLVhwODhmbC1sazhGTXhhVzNkb0pCOEhveF9UNTVlb2RiR0dBeW9XN1ItSTllX3RLNVZwcy1PMHVfeFd3?oc=5",
+    "date": "2025/04/27",
+    "fetched_at": "2025/04/27 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "影／移工426上凱道違法？綠營告發鄭正鈐 新住民亮身分證抗議「歧視」 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iUXp4eFVnUHNEcGpyY2lLbTd0clBHQUhpejJXWWVJR2p4VlpzcllrLXphRTNxdkNFOWo0UlBuQmIwenNKWGl4aVhKczk0NTZuVk1r0gFYQVVfeXFMUDR5Z1RWSDFXekVoTDZRcDV6VTRabC0tQW1EYUxfZ2lETFJqbkM2T1NpOTZjR2NNdko3LTFmZEVST1FiLVhqREtwSHVMYVdWeFc0ZFFtcWhaYg?oc=5",
+    "date": "2025/04/27",
+    "fetched_at": "2025/04/27 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "71歲心衰竭老翁成功接受微創手術置換主動脈瓣膜 隨後入住加護病房 - 台視新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vYnd0NUNSYW5Sb1ZxWnpuQ2pkX1hhbm45Z0F6aElxUkItbGR4UjNHZ0w1Y3NQLWU1Z05QTEFoa3V5M29qQ1MzZnp6ODNtTmg2WTdvT0ZBaw?oc=5",
+    "date": "2025/04/27",
+    "fetched_at": "2025/04/27 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "跨黨派立委組團今起訪美5天 將與傾共和黨智庫座談 - 自由時報",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41MUMwWTBQNGNZSGR4azRvRFZJdFhMZnFuWVlNREJyQjQxV2tseUVyRy01cFhPZlcxSWtFN0FtX3BSQ3dfX1dHMlFCTEtIZTZma0ZqbXpLRFIzb2dIYkZYUnBGdmNZeXE4aFHSAW9BVV95cUxPT29IMDJEb3I1c082WmFLdzV0M2lnMC1SbmdiR2YySUg5OUU0NWlNYTk5c1kyNmlNYnZWampKQ3hfc3dBQ1J2QU9oWEJWSnlaMmRsUDI4MlFjbmg1MGtBdHhwX3BOWVBmbzJ5ZjRXcjg?oc=5",
+    "date": "2025/04/27",
+    "fetched_at": "2025/04/27 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "台北榮總下月開會不給甜頭了 咖啡禁加糖 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tYjZac2V0OWdHandodWUtTEYtd1RzMnR3X0RIY0RKZnFkRWVUelo2ODJzTFVNSFQ1RTlrQnNGTm1seW5IbnNqbEZFLTBZVDZzT0xrWmlDc3ZpMThFcUozU2QxR2Mwc0hUMDhxNXNR?oc=5",
+    "date": "2025/04/27",
+    "fetched_at": "2025/04/27 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "李多慧上場前「衣服沒了」遇突發狀況！哭腔：真的完蛋 機智反應被讚爆 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fUjRDYWNqd3F4V0pUbEFReFJ5QXMtakJWdmRTYmktQ1BxWk9MU1V0RG9YTEpNdlJkdllpQS1jVVVJdGpXUjc5YkdZdUFCd9IBakFVX3lxTE93T21ER2dzNW9SRVpibFY5RkFIQVBFN0xfc1NTTU1SOXBiRWtybVlPZ2Y1RkN0ajYwOERMSzRFa0sya2RoeUNqU3g1enNKd0d1UTVXeVE3T3drU3JheUxrejdvSjFzZFFzNnc?oc=5",
+    "date": "2025/04/27",
+    "fetched_at": "2025/04/27 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "【一週脆報】本週Threads紅什麼：7-ELEVEn的秘密你知道嗎？、「露比醬～」持續洗腦中！ - GQ Taiwan",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zbXZQM2hkRExwSkVicVMySllXWGt1TkJFdkJLOTNINkFHWHhIYURoS0xFSVRDTHBYc0M3QU92UDZ6NHJsc3I5ODdQbFBFV1laTzhOVmpnVXFiUG44bVlHdEg3ME5Ta05aMzdmc05fa2dhdlBKdjdZWQ?oc=5",
+    "date": "2025/04/27",
+    "fetched_at": "2025/04/27 18:51:24"
+  }
+]
