@@ -34,7 +34,9 @@ function flexCarouselTemplate(newsList) {
                             text: item.title,
                             weight: "bold",
                             size: "md",
-                            wrap: true
+                            wrap: true,
+                            maxLines: 3,        // 👈 最多顯示3行
+                            height: "60px"      // 👈 高度固定
                         },
                         {
                             type: "button",
@@ -52,6 +54,7 @@ function flexCarouselTemplate(newsList) {
         }
     };
 }
+
 
 // ✅ 專門傳送 Flex新聞Carousel
 async function sendFlexNews(replyToken) {
