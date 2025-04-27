@@ -54,8 +54,8 @@ app.post('/webhook', async (req, res) => {
 // }
 async function fetchNews() {
     try {
-        const res = await axios.get('https://wellpen.github.io/lineNewsBotJSON/news.json'); // ← 改成你的 JSON 檔名
-        const newsList = res.data;
+        const res = await axios.get('https://wellpen.github.io/lineNewsBotJSON/news.json'); 
+        const newsList = res.data; // 直接拿到陣列
 
         if (!Array.isArray(newsList) || newsList.length === 0) {
             return '⚠️ 目前沒有可顯示的新聞';
@@ -63,7 +63,7 @@ async function fetchNews() {
 
         let message = '📰 今日新聞列表：\n\n';
         newsList.forEach((item, index) => {
-            message += `${index + 1}. ${item}\n`;
+            message += `${index + 1}. ${item.title}\n`;
         });
 
         return message;
@@ -72,6 +72,7 @@ async function fetchNews() {
         return '⚠️ 無法取得新聞，請稍後再試';
     }
 }
+
 
 async function fuck() {
     const fakeNewsList = '閉嘴白癡';
