@@ -55,7 +55,7 @@ app.post('/webhook', async (req, res) => {
 async function fetchNews() {
     try {
         const res = await axios.get('https://wellpen.github.io/lineNewsBotJSON/news.json'); // ← 改成你的 JSON 檔名
-        const newsList = res.data.news;
+        const newsList = res.data;
 
         if (!Array.isArray(newsList) || newsList.length === 0) {
             return '⚠️ 目前沒有可顯示的新聞';
