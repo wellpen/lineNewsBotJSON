@@ -1,72 +1,30 @@
-[
-  {
-    "serial": 1,
-    "title": "星野源「Gen Hoshino presents MAD HOPE Asia Tour」宣布 8 月於台北 TICC 登場 - GNN 新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55TzlzSndGck5TZFp6TnVJYkQtVGxYVWppamF1NE9BeHFwNWtwLVp5blFDMUF3RTdmS2NaTDZtZUIzbzM1aEhHRmo0U2Q5VjNXbmtXVkpCNEg?oc=5",
-    "date": "2025/04/28",
-    "fetched_at": "2025/04/28 18:51:24"
-  },
-  {
-    "serial": 2,
-    "title": "【試玩】金子一馬與AI 的巧妙結合《神魔獵人月讀》讓玩家自己創造專屬卡牌《神魔狩りのツクヨミ》 - GNN 新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YQVFGWTNHUDFrRTRkcEdFYXE2alFDWVlPdUlyYktFRGJyMGUwTmxKcnRfaXpQU000V1pocGVMdHo1RVZHVWlPMkFnYUFZSzBlS2xlaEczYVA?oc=5",
-    "date": "2025/04/28",
-    "fetched_at": "2025/04/28 18:51:24"
-  },
-  {
-    "serial": 3,
-    "title": "中職》兄弟外野傷兵潮！首輪大物有望出擊？ - 自由體育",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQaXlMV1FqYzFydFcwRm94RU42RlZIMXJRT2xFVHVGX1pDOHNqVDZLaFBpNE4wbnBYeFJxQ3FBU0N4MkV5WllrcVNGSjRjTzZTbFBIaTRlVm9FMlhZdVJnTdIBZkFVX3lxTE45QWFaOGdBSnZHTFNpYmpnc0RybHNXemNGbmliMDczNUNBVDE5bnBNU2xKLXBCZGUxNURRSElVWGt6T1JiOWdFSjFvQm9pZ1ZfdzB0YkRpZ3VmVnFHSjlUdngzcng2Zw?oc=5",
-    "date": "2025/04/28",
-    "fetched_at": "2025/04/28 18:51:24"
-  },
-  {
-    "serial": 4,
-    "title": "汪小菲揪妻幫小玥兒慶生 S媽思念大S連發3次：肝腸寸斷 - 奇摩新聞",
-    "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxORFctcGIwV3VqaFhRYWNIWTNaMnJSZk04dVhWaUMxT0V6MmFQWkdaQVNKNlM5Yi1GNHV4VVpQMGdvZW1KRTktQmgwZDIzVlptb2tiNVRLYTQ2ci1IaXJOa05wMEt6bkR5S3JqZk1zQmt3bl82czByajI2R3dtVk5IaERPSmtNRmpDV3VISE5KejlOTEFtZWowTlIwTjIyeUNacXowcDdJRkZXcFBlOG4zSkd1RElmY29wMFd6M2ZDd3ZHWng2cnVWcGhqaUlLaFNXNHFQZjlBaWdpcFJLekE3Ym1UX2I4aGdQNFhGX1Q5RHRKWGJhV3JLMWhjQTRqSklhYm15V0plSmxZYkdkc1FlMGNnWGZZeGJYVU9oMGNLMGFqLUkyMGhNa3VJVjhIRkdhNlNvaTVsTnB0WnQ0NDBqOVp1d19iMkhZdDV6b0RvVkZkSF9lbHVFdXNfenRqckZzVUE?oc=5",
-    "date": "2025/04/28",
-    "fetched_at": "2025/04/28 18:51:24"
-  },
-  {
-    "serial": 5,
-    "title": "北市黨部剛宣布張延廷代理主委　國民黨中央突通知：由戴錫欽代理 - ETtoday新聞雲",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IZjVpNWtxZDY2cmw1WG1mRW91c2hRaGRvaFBCamw0N19QRUVJXzJENkdZZmJOUmtYZDdwcUZhVUcxNms0WFFBU3cwbHJIQkNQTXpBVUplWmpCdjA5bFHSAWhBVV95cUxQTjJNb3NibEJsMzVnX0ppYXVHZDF2bG1SclpuNVM5aHhmbzVnQk13OEJuZlhhd2U4R053VVdfRV9JanliVjRKdWRfSnFsOVR0aXRPajZFWXVlWjRmWG9IdHFieGtuN3Vvag?oc=5",
-    "date": "2025/04/28",
-    "fetched_at": "2025/04/28 18:51:24"
-  },
-  {
-    "serial": 6,
-    "title": "不忍了！林俊憲點名陳亭妃 藉國民黨力量打擊同志 - 聯合新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BNi1zZ2FxYXJsTWZ5cElYSHpuMks5QmctdEZTTk1SVk41RDZGMlBHcGIybloyZ1BEX3c5LXFEeWg3S2NTdUg1NFpTYjByWG1S0gFWQVVfeXFMTzU4dVBKM3c3bzhnN25QVUJKS2VPOFV5Qlh6ZlQ1MEpIM0Y5MDNpSWNVaVdlX1k3NWNCeFV3eDFEaW12dF9PU1JLM2Jlbi1UbEJka3dOdGc?oc=5",
-    "date": "2025/04/28",
-    "fetched_at": "2025/04/28 18:51:24"
-  },
-  {
-    "serial": 7,
-    "title": "【Follow法人】台股量縮…外資小額買超58億元 僅自營商站賣方 - 奇摩股市",
-    "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOV1ZSVW9DWGhBalFjUFFmeGktU3FaTWJ5QVRsZXlieXhiclRQdWFHWHNwQzA4eEFVbGtfeG5YOUVnNFc3MXVISUxtaWI4M1AyaGFoU2hPelgzcnRyS3gtWDR6dmJOSUhFTmprNmtZUnZBYmpUY2kzamdYTUN3Z0hQRkU4cWUyc1A2MlplaWRsWTFZbWk4RlJoUWtvbnpNTmJsblYxVF9XX1dTalk5bjhONUZjdWVRTE1kM0ZxT0ZiaEJaUExseF9LLWstMl9ubzVkX0ZUSEFkWGRRU0Y4S1l4Nm1iTWVoQU9nSnVTQkluNWY4cndLQzhvS2Z3X1AyTExNbGVWMGZzekF4WldBRzhIdDN2Rnd3c1hFaUo0MWg0SVZTcFhuSzZoVWxuYXdkekEyWEtZX3NPTVhZNEU2SEpITDNKQWxPTDVqTW9xZmlfMzdQbXFIVkhQVENIRldndjk4QzRGZTJROU1rM3diQzFHOFg1VGx5eVFFQk1V?oc=5",
-    "date": "2025/04/28",
-    "fetched_at": "2025/04/28 18:51:24"
-  },
-  {
-    "serial": 8,
-    "title": "任賢齊身價22億！　爆砸億元買下「青島一條街」經紀人回應了 - ETtoday星光雲",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tcTdfWk5sbUg2RFVHZEJaLWxYQmhMbDFUemQtTzJqYm9sUDByb2V2ZWVfNXdXZUw5a0o4VWRpTGRTSXk4MHF3czdkRmt5UdIBakFVX3lxTE0tX1RKV3VOVlR6ck8yekRkb2ZweW41OXQzN0JWLUFTUmJWdG4zcXl0eTUxYzJmNE9rdEFfQkw5Z3NNMDN6MDhCXzRpNHY1UmZNNExKdm0tdlJXMEZjTEp3U1U2bDh5QU1Ua2c?oc=5",
-    "date": "2025/04/28",
-    "fetched_at": "2025/04/28 18:51:24"
-  },
-  {
-    "serial": 9,
-    "title": "以為蚊子狂叮40個包？？女童全身「紅豆冰」卻被確診為水痘，家醫科醫生：即使打過疫苗，還是會得 - mombaby.com.tw",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpeHZHa3RDTjZpZEt4MzE3Z0xya3M0OG5WMHROWk9wdnViVXBGM1lJd1NoQ0RIazhwYXFWdlpHcTA3ZFdscFk1OEtmNThwQlBJdXo0RjVB?oc=5",
-    "date": "2025/04/28",
-    "fetched_at": "2025/04/28 18:51:24"
-  },
-  {
-    "serial": 10,
-    "title": "《KING’s RAID - 王之逆襲》重返市場將會有 PC 版！Steam 官方網頁曝光 - GNN 新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YRXQyV0V4cHdNR0l3UGlHU25BMzhXdWZhSzEwVXc5ajdtVi1MdHlQVDJqVkhzQ000VDVEQWpnT3pQaTNnZFVNeFZQLUVYdDZqZGFQR0g3UXI?oc=5",
-    "date": "2025/04/28",
-    "fetched_at": "2025/04/28 18:51:24"
-  }
-]
+{
+  "generatedAt": "2025-04-28 19:10:01",
+  "news": [
+    {
+      "index": 1,
+      "title": "IMF says Asian central banks can cut rates to tackle trade war impact",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-25/imf-says-asia-can-cut-rates-to-cushion-economy-from-tariff-shock"
+    },
+    {
+      "index": 2,
+      "title": "South Korea’s economy shrinks as tariffs darken global outlook",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-23/south-korea-s-economy-shrinks-as-political-turmoil-dents-demand"
+    },
+    {
+      "index": 3,
+      "title": "UBS drops long-held bearish view on India, downgrades Hong Kong",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-24/ubs-drops-long-held-bearish-view-on-india-downgrades-hong-kong"
+    },
+    {
+      "index": 4,
+      "title": "Billionaires keep control after freak sell-off in bond market",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-14/drahi-and-coulson-maneuvers-are-painful-for-their-debt-investors"
+    },
+    {
+      "index": 5,
+      "title": "Asian stocks drop as Trump’s tariff deadline nears: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-08/stock-market-today-dow-s-p-live-updates"
+    }
+  ]
+}
