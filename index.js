@@ -14,6 +14,9 @@ const RAPIDAPI_KEY = process.env.RAPIDAPI_KEY;
 app.use(bodyParser.json());
 
 app.post('/webhook', async (req, res) => {
+  // 一收到 webhook，馬上回 200，告訴 LINE「有收到」
+  res.sendStatus(200);
+
   const events = req.body.events;
   for (const event of events) {
     if (event.type === 'message' && event.message.type === 'text') {
@@ -30,7 +33,6 @@ app.post('/webhook', async (req, res) => {
       }
     }
   }
-  res.sendStatus(200);
 });
 
 // 抓新聞 JSON 並補上圖片
