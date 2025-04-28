@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-04-28 19:10:01",
-  "news": [
-    {
-      "index": 1,
-      "title": "IMF says Asian central banks can cut rates to tackle trade war impact",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-25/imf-says-asia-can-cut-rates-to-cushion-economy-from-tariff-shock"
-    },
-    {
-      "index": 2,
-      "title": "South Korea’s economy shrinks as tariffs darken global outlook",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-23/south-korea-s-economy-shrinks-as-political-turmoil-dents-demand"
-    },
-    {
-      "index": 3,
-      "title": "UBS drops long-held bearish view on India, downgrades Hong Kong",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-24/ubs-drops-long-held-bearish-view-on-india-downgrades-hong-kong"
-    },
-    {
-      "index": 4,
-      "title": "Billionaires keep control after freak sell-off in bond market",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-14/drahi-and-coulson-maneuvers-are-painful-for-their-debt-investors"
-    },
-    {
-      "index": 5,
-      "title": "Asian stocks drop as Trump’s tariff deadline nears: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-08/stock-market-today-dow-s-p-live-updates"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "《東方計畫幻想的女武神》Switch / PS5 版確定2025 年內發售《Valkyrie of Phantasm》 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XUVp0bUNlZ2Vqck92aVpESzhHYVY5Y01aLWRGUnpNV0p5UEZTVGFFYjNPN1VPalhaeHp2eTNOMmdpdWVEM3VDOHJrUjBrVzhqdld3NnhUbW4?oc=5",
+    "date": "2025/04/28",
+    "fetched_at": "2025/04/28 19:21:25"
+  },
+  {
+    "serial": 2,
+    "title": "【試玩】金子一馬與AI 的巧妙結合《神魔獵人月讀》讓玩家自己創造專屬卡牌《神魔狩りのツクヨミ》 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YQVFGWTNHUDFrRTRkcEdFYXE2alFDWVlPdUlyYktFRGJyMGUwTmxKcnRfaXpQU000V1pocGVMdHo1RVZHVWlPMkFnYUFZSzBlS2xlaEczYVA?oc=5",
+    "date": "2025/04/28",
+    "fetched_at": "2025/04/28 19:21:25"
+  },
+  {
+    "serial": 3,
+    "title": "影／罷團指「冬瓜路」是顏清標造成？ 立委顏寬恒駁：父親當年才11歲 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByYS1uSjA1MFB3TC1fU1VkaTlPZE5GejJoRmo5X29VRGRMQll4UVNvSEFnSEI0R1dnM2oyOWJLT2xFLW9HVXFTWEd3dEVBckxhUmV5cTVaVlBGMjAyaHl6LWQ3MDZZejjSAVhBVV95cUxPdUl5QTFwc2w4Z3JsM1VMTkJHUzBWdEJFcmdSTzlSUUdnY3JWazVxSXBvajRLdUs4OHhGQ25GQVFVeHFOTGtrY09DV0ZWT1pXTEU3VDF5NXZu?oc=5",
+    "date": "2025/04/28",
+    "fetched_at": "2025/04/28 19:21:25"
+  },
+  {
+    "serial": 4,
+    "title": "獨／中和雙屍命案！房東聯繫不上...開門驚見日籍男與前妻雙亡 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BV0ZBMEpDN1dpT29LWDZ5MUZqeGxhQTljVXVPYmpOVXFERldjT24xU3RnMWM1NFRCZ2YySWJROFlqdW11YVU1eG9nUHg0QklsYjFNQWFyQlBELUllZlHSAWhBVV95cUxPZnBQeTd1WWREU3hQWW5iZXl1N1I4QV9jSlZsYmtVaVBDajMwZHhXZklPajFVQl9QYy1CbE1BaElOS01GUlRNSXN5c3NyZ0w2cjh4cmhvUUFWU0MwOTczSFNiX0t4OFVVYg?oc=5",
+    "date": "2025/04/28",
+    "fetched_at": "2025/04/28 19:21:25"
+  },
+  {
+    "serial": 5,
+    "title": "原傳張延廷代理 國民黨：台北市黨部主委由戴錫欽代理 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yeTlqR1NDcV9yeVpUdlgtVWJQN3V5NExvV0dVb0NNaHdyYzdITktEdHRZSVloQVJ3bktJcDl2N2FEaDFUbHkxUXhxdzlyUDJuSmJV0gFYQVVfeXFMTml0RndTZzFxVTFBekdoUkdFUktrdkVMRG1EcmRlYmktVmR4VmVTMWN5VG5WZGgxRTB5djhhb0xyT3hIR1A4bUg0LWJGUnV2UC1NbTE1WERrTw?oc=5",
+    "date": "2025/04/28",
+    "fetched_at": "2025/04/28 19:21:25"
+  },
+  {
+    "serial": 6,
+    "title": "中職》不容人身攻擊！黃韋盛與家人遭辱 中信球團與經紀公司發聲 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZUo5aXRRNjZ0WkhNczdQUWtsdDdVNjE2RG9fNXJTRy05TkM3M21penJfNk9zNzBRYXVwNHd6Q1JWeW5GbHNablZUWkpNVTFjcGEyTmdTMHJyQjltUDE3ONIBZkFVX3lxTE1kMGZ6NkFJdmNRUzJaS0VzR2czODB0TjFaYTcxM2VaNTFiemNGR1JIWHFtVWhnQXJ3WFBXSllCM2x2TmRtRnZCaUtpeHlVR0lSRUtZekc3RHVRNEJfekJ0T3o5b3pMQQ?oc=5",
+    "date": "2025/04/28",
+    "fetched_at": "2025/04/28 19:21:25"
+  },
+  {
+    "serial": 7,
+    "title": "【Follow法人】台股量縮…外資小額買超58億元 僅自營商站賣方 - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOV1ZSVW9DWGhBalFjUFFmeGktU3FaTWJ5QVRsZXlieXhiclRQdWFHWHNwQzA4eEFVbGtfeG5YOUVnNFc3MXVISUxtaWI4M1AyaGFoU2hPelgzcnRyS3gtWDR6dmJOSUhFTmprNmtZUnZBYmpUY2kzamdYTUN3Z0hQRkU4cWUyc1A2MlplaWRsWTFZbWk4RlJoUWtvbnpNTmJsblYxVF9XX1dTalk5bjhONUZjdWVRTE1kM0ZxT0ZiaEJaUExseF9LLWstMl9ubzVkX0ZUSEFkWGRRU0Y4S1l4Nm1iTWVoQU9nSnVTQkluNWY4cndLQzhvS2Z3X1AyTExNbGVWMGZzekF4WldBRzhIdDN2Rnd3c1hFaUo0MWg0SVZTcFhuSzZoVWxuYXdkekEyWEtZX3NPTVhZNEU2SEpITDNKQWxPTDVqTW9xZmlfMzdQbXFIVkhQVENIRldndjk4QzRGZTJROU1rM3diQzFHOFg1VGx5eVFFQk1V?oc=5",
+    "date": "2025/04/28",
+    "fetched_at": "2025/04/28 19:21:25"
+  },
+  {
+    "serial": 8,
+    "title": "美元還沒貶夠！高盛：2隻黑天鵝揮之不去 貶值已成大趨勢 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUSDJLeldaNnJZRkdHZk5HNWVHRHc5ZnZ5d05VbEZhSEpyYW9nNkd6T1ZzTmpzanlyTzUtRmZlUTlIWHhnUERUaXNGUUYxTlFhTTAzSjZQTjN2UTRESkhZ0gFkQVVfeXFMT3J5VWVPNkFkQ0tBRUk5TGhEdDN2a3NELXZ0QlJ5N0FGNnFRdW81M1NxYVRZM2JYSzJuY1pDSk5KazB6SXVuTVFqZjlRa1Vaa09nNGNkMHpSYlJDTUVJaU9mNDhNdQ?oc=5",
+    "date": "2025/04/28",
+    "fetched_at": "2025/04/28 19:21:25"
+  },
+  {
+    "serial": 9,
+    "title": "關曉彤爆分手2月「腫臉現身」還戴假髮！零P圖真面目現形 工作室回應了 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12bllhRHhpc1JEOVY1MVM5eWloQWNJOEdPRFZDUmZicmNKWUNtLUNpQ05TcF9Ia0xvc1p5RWZDS2tHNXNyaHlybmVIYl9UUdIBakFVX3lxTE5EMzBPY3lTWmNQdDNkZXhlYkNHYVRMNHBaOExtaFNCYWtpeWg1azZZX0daVnloZ0tNeFJaWEdQbTJ6VUpTU0w4NmJrTVJwUmlCVVRVcHlPUk5wQ3VyX2d4Tlpzc1dpZ0xrdWc?oc=5",
+    "date": "2025/04/28",
+    "fetched_at": "2025/04/28 19:21:25"
+  },
+  {
+    "serial": 10,
+    "title": "以為蚊子狂叮40個包？？女童全身「紅豆冰」卻被確診為水痘，家醫科醫生：即使打過疫苗，還是會得 - mombaby.com.tw",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpeHZHa3RDTjZpZEt4MzE3Z0xya3M0OG5WMHROWk9wdnViVXBGM1lJd1NoQ0RIazhwYXFWdlpHcTA3ZFdscFk1OEtmNThwQlBJdXo0RjVB?oc=5",
+    "date": "2025/04/28",
+    "fetched_at": "2025/04/28 19:21:25"
+  }
+]
