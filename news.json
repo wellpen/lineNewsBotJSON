@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-02 06:11:06",
-  "news": [
-    {
-      "index": 1,
-      "title": "Indian insurers to shift ₹3.5 lakh crore in contracts to bond forwards for risk management",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-30/indian-insurers-plan-a-41-billion-trade-switch-to-bond-forwards"
-    },
-    {
-      "index": 2,
-      "title": "IMF says Asian central banks can cut rates to tackle trade war impact",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-25/imf-says-asia-can-cut-rates-to-cushion-economy-from-tariff-shock"
-    },
-    {
-      "index": 3,
-      "title": "South Korea’s economy shrinks as tariffs darken global outlook",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-23/south-korea-s-economy-shrinks-as-political-turmoil-dents-demand"
-    },
-    {
-      "index": 4,
-      "title": "UBS drops long-held bearish view on India, downgrades Hong Kong",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-24/ubs-drops-long-held-bearish-view-on-india-downgrades-hong-kong"
-    },
-    {
-      "index": 5,
-      "title": "Billionaires keep control after freak sell-off in bond market",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-14/drahi-and-coulson-maneuvers-are-painful-for-their-debt-investors"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "沃茲轉任駐聯合國大使 川普：魯比歐兼任國安顧問 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pZUtsZTFmeGk4VFN0ZlNuVy12bzJzY2tJUHlVR0hvSmk5SW5MN1RIcWVNR3JIN1ZCOEQ4enNMb3hycERYazdjNDhqTGsxaVVp0gFWQVVfeXFMTzFjdGtkSGIyN1UtOFpmR0xfd3psamZJUWhEODFIcE5jVDR3NUNZSUNHdV9uQngyQ2lxNWw1SGFhOEc1ZFp4RXl2NlpDZVJEb0YySXRRQmc?oc=5",
+    "date": "2025/05/02",
+    "fetched_at": "2025/05/02 06:21:25"
+  },
+  {
+    "serial": 2,
+    "title": "影／「粉紅超跑」白沙屯媽與山邊媽午夜合轎 凌晨正式出發 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNFVrNEhWUjQwRG1Wa25BT1RvOTNnOFdoVHVzbDlEWkU0ZXdMdC13RDVmOTE0NjY4eXFLNkVxejhSaWFkUThIWGtKa2ttNHQ10gFWQVVfeXFMUFdGeFVpbWFDVDF1dXgzcE9lbk0tcDhMVUYtTUJzNlRVSVNLdEtqdTN0RmZvM2VzOFgwaXl2bGl5Sk1uR2N4MHlHSDFEWkgtdXVGam5sQ1E?oc=5",
+    "date": "2025/05/02",
+    "fetched_at": "2025/05/02 06:21:25"
+  },
+  {
+    "serial": 3,
+    "title": "美中對抗升溫！CIA突發宣傳片 公開策反中國人當間諜 - 自由時報",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IWFZSU0pRamp1UWhpTjhsWUhWallaU2VEcU5fYmVEVm9qSERTemVTZWhkNmRkODV4YlZCNmxDRE9yYjRuQUxoLXlXTFotNnBCeERsZDg4OXNVeFhab1Jhc2ZxZHkyUdIBa0FVX3lxTE95RU1peGhjaE44VUdzUmd3aEVkS3phaC1pR0pvVlVxbkFEWk1CZFFma20xdWJBcHk1TnNPTFRDVWxMYmE2RksyM05Xb181QVNmcGdPX2RsZHV6ZHpIUzRhYmlPRGlRUnRUMk5j?oc=5",
+    "date": "2025/05/02",
+    "fetched_at": "2025/05/02 06:21:25"
+  },
+  {
+    "serial": 4,
+    "title": "詹姆士被指「空手套白狼」不忍了 深夜千字文開撕王鈞夫妻 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxObUN0VmdGcXpEaWhpRzdCX2RTZDlIWks0bjRLSlhsMUhNaXZ2V3pBUU1vdFRqNUd2WE9RQS1LekJJNTFWX2IwYl9SN0djTWZFejVaZG9RcXF2MkVNbTYxaFJPUnpxRmxVY3NyaXZ0RVJyWU9wUDhMUEptOG5SS3Z1dVM0T3RSUXRpcUxsWVJQNlRmVlFWNWkySXdQRVNHWG04T1pwU01tUWFneG1EZkNvRTR2Y0E0R3AyQkxlVExHTGJMMUpqMFo2UHhhaHZrQklGTDVFUjg5aDdLOW93QTVvUlc4OVhfUEpDVUFvYWx4ZXlPaTF1VVBVU3ctV1hOY0lFSWxueWhfOUtQcjJEUncwNF96cFRCOHVqVUN6andGQ0ZUbmZfaFJDdi1uZndVUzg1bFRsX3lycHFHU2JXc0NTemdkSWRxamtQUlRod19KWGdrZnNXZzc5bGw5ZnBUUHRQaEdmUzJDSlZsaDF1WlhDVHdXZm9IS3c?oc=5",
+    "date": "2025/05/02",
+    "fetched_at": "2025/05/02 06:21:25"
+  },
+  {
+    "serial": 5,
+    "title": "輝達與Anthropic激烈交鋒 美國AI晶片出口政策現分歧 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04STZKay1JdlJ4aFZ0TnloSHAyUFlINkZGWEh2dldVdUJ0aDkyYm1KMDVJN1JObnk0TGtJcmpnaWstX2hBOWFMT3dYNnNPdVU?oc=5",
+    "date": "2025/05/02",
+    "fetched_at": "2025/05/02 06:21:25"
+  },
+  {
+    "serial": 6,
+    "title": "快訊／南韓政壇大變！副總理也請辭　總統將由教育部長代理 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5COGU1VnpiTWVEYzEzYVh1NkRjLUc4bEJSdk5HLWpCckJPWlo5Ujg5SzRPQmUycVBaTTFaVmVIMHZHcjU1dHA1b1pJem5SRWJhQ0RHWWRlZGFvWVdZTEHSAWhBVV95cUxPNVNsVk1Nc0RjNW9NT0tVczRtSWNjNUM3S1R3b2VYbUtfOVJReDFvR3VGSUVyV29VRDZqX2pHcC1UQXBiRHdLMVZ0S3pYRUdyX0xfMTRDU3dyR1lvWFhtWHdZeURSX1BORw?oc=5",
+    "date": "2025/05/01",
+    "fetched_at": "2025/05/02 06:21:25"
+  },
+  {
+    "serial": 7,
+    "title": "AI全面上攻...美股四大指數大漲！那斯達克飆348點 輝達、台積電ADR皆漲近4% - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOaDRPVXFkcWVhbDVkXzFNckhwQWVvdDBKQkQyQm8tci1leUtlUVFQdWxlc085N05VUTR6ckZtUzdYOURlUGZfb3MwRlpWYVNjeF9aVWdBWFZRalBMWEZTX2tyWENzVGVOdmw5Rk1ZckJ2YldYdEo1TUVTakNlR1FRQmNPZWdhdm9KM0RxaGdPT3k5MEJHbWkzZkZNYWdXX0tGZUZpWmhNQ0VSMU1rWnE4UHpzNVduZFg1VjZKY2lFVVJuTmpUaUhuaHBrbWx2SUY4c2IyZzBVSi1hSHFNUTcwOXJiTWZBRXVmLWdPRU40VnB3NVVrTmN0THU2QnhqaVF5alR5T2R5TE5CSXFCZ0I1dVZYR1A5dXo4aUlXVlpuSloxU0l6UkE2WUptd2RROVkyUUtKdW9xd214Wkl4a3EtVHJLa2VPcGQ5S2dXWE14Qk1VRHNoWFVVTFVHcEJkcWt0Ml9yZU53NllCWjJKdmRtQVVid0ZaMG1DeFpnM1VwdkRGYzM4dkNJU0NNaGdGSGNMVk9wY19DM1hVbWZyd2JLQzdXa2Y?oc=5",
+    "date": "2025/05/01",
+    "fetched_at": "2025/05/02 06:21:25"
+  },
+  {
+    "serial": 8,
+    "title": "街機類太空射擊 PC 遊戲《超級太空俱樂部》限時免費 - 流動日報",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcW5KUHV5a0hBeHZxN1MtZUdoYms4aXRaTFF6MXlSYVlvdHJpUDNQWHNHbTJUNXczekpndHJ0RWNkeFRqelpFSkY1WFJWdmdZVzd2NVEwQVpPVm9aZ1VScUp4Q095UGlrSVliZUtEYkRhSFZIZVJRNUlEamN6cWFnT0VEZlVfeGVTQ1Vrb3o4QWtHQWFpLVFScGI4RQ?oc=5",
+    "date": "2025/05/01",
+    "fetched_at": "2025/05/02 06:21:25"
+  },
+  {
+    "serial": 9,
+    "title": "快訊／貴婦奈奈湊到200萬交保　戴電子腳鐐沉默離開北檢 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Rbm5mTlczc0FJdlhsYUNvc2tuZHN5OXVtTDF3ZjB1RUFEMEdWVjVpeGhSVUtORTRPNlF4dGk3Ul9hblJzZFlrWHd1MlBwTEZhTGtvSEtYcElZQklxQ3fSAWhBVV95cUxNRFdwbHV6cXd2UzNkdUJ1QS1fd0tMMElueEExNDZ6cDVuZXNrdU00cUhWVFdOaDFmVXVNY1R6VEg1cDdSbnZkQ1gySm1tNDVtU2wxRG56Mmk5ck1CYW5ZQ2ZadkhQM0NkWg?oc=5",
+    "date": "2025/05/01",
+    "fetched_at": "2025/05/02 06:21:25"
+  },
+  {
+    "serial": 10,
+    "title": "中職》台灣隊長陳傑憲9局驚天轟 一棒打出相隔2174天的紀錄 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVVUJQNVdvQUFxbWVPa2UwSjlxVzUyZTFDV3M2ZlFWemFnTGdJaWtsNzhLejhoYU0wVjZ6UUR0eG91bi1IVVQxNHR6ckpmamZ0LXdYbXpXTklxRldPVE9yStIBZkFVX3lxTFBUMktGRGFmWnhjQVdYUDNjb1NvbVpWS05GdEIyN1ZFSlpBalZDcDlSamNMY0JhV09FbzkybzVUMmpVajJjY1E5cENsZ3VVZzVReTdyY19hSk96WF90MjU0V1pwUHVZQQ?oc=5",
+    "date": "2025/05/01",
+    "fetched_at": "2025/05/02 06:21:25"
+  }
+]
