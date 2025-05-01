@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-01 18:27:22",
-  "news": [
-    {
-      "index": 1,
-      "title": "Indian insurers to shift ₹3.5 lakh crore in contracts to bond forwards for risk management",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-30/indian-insurers-plan-a-41-billion-trade-switch-to-bond-forwards"
-    },
-    {
-      "index": 2,
-      "title": "IMF says Asian central banks can cut rates to tackle trade war impact",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-25/imf-says-asia-can-cut-rates-to-cushion-economy-from-tariff-shock"
-    },
-    {
-      "index": 3,
-      "title": "South Korea’s economy shrinks as tariffs darken global outlook",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-23/south-korea-s-economy-shrinks-as-political-turmoil-dents-demand"
-    },
-    {
-      "index": 4,
-      "title": "UBS drops long-held bearish view on India, downgrades Hong Kong",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-24/ubs-drops-long-held-bearish-view-on-india-downgrades-hong-kong"
-    },
-    {
-      "index": 5,
-      "title": "Billionaires keep control after freak sell-off in bond market",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-14/drahi-and-coulson-maneuvers-are-painful-for-their-debt-investors"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "Takahisa Taura 離開 PlatinumGames 成立了自己的工作室- Astral Chain - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ21ZQ0VaR2ZaekJIU3NaaWJjVm5wODg3Zk84aWRiTUxvOWNtUk82eGJDWWtxQXV1OXRwTlRXejlfUUFPbWF6T0MzN2FLa0F3MUlSV0M0cmZwRlZRX0s1bThpNjZvQmZ1a3ZzVE5ySzZ5YmVralVXUTFYN1liN0E5aUtYM1FGcFlaamxFVUhEdEZkRUpQWWl2UlpxNA?oc=5",
+    "date": "2025/05/01",
+    "fetched_at": "2025/05/01 18:51:25"
+  },
+  {
+    "serial": 2,
+    "title": "蘭博基尼與 ESL FACEIT Group 合作，成為 DreamHack 達拉斯合作夥伴 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTl0elBCZXNSdXpRVVpMSjBCQkN4RkU3dE1EZ1laWDZTb3J5MTBLd0V3TUQ1OUwyUEdCQzQ1Vjl0b0g2T0JFY0VnWm9NX1dFN3lBTWFRNXhoQzhBcm5yNHQ5b3NqOEZQUFkyVHlURUpvQ0pQdFVtNUstOGg0QkdVQkg3OUJwazBWTDZwYUFFdUF2SnE4ZENEUjA3R19hWFR0TXkwZXlpWWNzQQ?oc=5",
+    "date": "2025/05/01",
+    "fetched_at": "2025/05/01 18:51:25"
+  },
+  {
+    "serial": 3,
+    "title": "快訊／王大陸閃兵案外案！為直播主女友找上四海幫　查個資遭起訴 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ralJtRU1xZ3U1NzY3czV3X0ZUME03a0J0bXRwby1aOWdjSk5pOVZFNXRXa2dYeU9pQnFUV29Hb1lucGlYZ2JBSXJpNFdHcldvOE1pb3EzY0o1dFpjMEHSAWhBVV95cUxOQzd1anJDdnhSeGlXU3c0VDhRX0RFMXN1b21GaDVUWkVhWUo5UGptRlBacEJTREZyTGhCa0FtbUIzQTZmWGpfd0lZYTJQRWNjOEpJQkw5V19FbnZzMUxNWlVDVWdEZHVlUA?oc=5",
+    "date": "2025/05/01",
+    "fetched_at": "2025/05/01 18:51:25"
+  },
+  {
+    "serial": 4,
+    "title": "日職Live》古林睿煬第2局賞2K 火腿 0：2 軟銀 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wSnRGU2Y2dDRuWXpaZUxKX1VIcVpmZkpLamJhamtEY28wSGZpNVp3QkNBZHozQVBHNk1zQ0RHVHRyNXZ6VjdtaE1MNmhPaGlYcFV6dm9wakVOcjROUk9ic9IBZkFVX3lxTE9tbS1SYzM1Q3Eya3hreXBqamtzVUtQc1F4MUE5NWo2dXd4TGJUb3JhVHhxT0hGTWZqX2xUY3doVmJOcnpGUVF0WE5EV3lVQjFjT1o2ODFuX0c0a2pfaE5vb19Jb2NwQQ?oc=5",
+    "date": "2025/05/01",
+    "fetched_at": "2025/05/01 18:51:25"
+  },
+  {
+    "serial": 5,
+    "title": "中職》預約美國來的「秘密武器」 陳傑憲將成為史上第1人 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTLWt1NFd0d3k4NHpocGM2YUxrV0ZtbW5PUF9kQlh4TmhPVHd6dWlNcjJaSEZaRU5BSDF4VHdtVW12aDVVSDV0YUpmWW5FVUo3cm9KTEk3cm1leUpvbnRweNIBZkFVX3lxTFBZSGQ3VkM3S1VlelY5ODdYNXdOMEdMOWJTeExlbWZmMUVlYU9LTFhPeHNKLVVOZllTVHAtTDgwZ3VFa3MxalNaMHc4b3Y2UUZraW5PSFpSbmt0SklTa00xMGFUdExzQQ?oc=5",
+    "date": "2025/05/01",
+    "fetched_at": "2025/05/01 18:51:25"
+  },
+  {
+    "serial": 6,
+    "title": "內政部官員這句話 周軒：謝國樑跟國民黨好戲在後頭 - 自由時報",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xQlBvSWg3NnN0dzZtTFdCdkhGSm9kSzcwOVNZSHA3MUtHRm9TeVF1aFcwUGdINmFqaXBXQkV3czA4M2VoR05CMnNjelVoVFRxcVE5ZTVvbUZVcGRYR2ZDYlQxczNCOGRDR2fSAW9BVV95cUxOWUVQbVBRT0JVTmZDQXZkUWszb3ZkaXVtUklQWUgyWk9rOFcxMVFOOXJYWUlJUzlEZG9YUlpMaWhTWUtWUmlIZUJ3cWVUME9aa2pJLW45Qm1Hd3J5M3F6UzQ3SE5CVFhNeEN0MUdYTnM?oc=5",
+    "date": "2025/05/01",
+    "fetched_at": "2025/05/01 18:51:25"
+  },
+  {
+    "serial": 7,
+    "title": "怕曝露手上的牌？陸方暫緩對美貿易談判 港媒：看川普聽哪位顧問意見 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Zbm50MjZEcEZNWXEwNURDY0dTSnZiRG4wVmFRMjY5Y1NUSnhqUi1EUk5CLUl1Rkx0cUJEbWtPYU1ZZHoydDMyN0NvRV8xUGNhLVdJ0gFYQVVfeXFMTk5TMDJiNFpaVXVZSnF0ZnhwNEJ3VlpfOEN1Zmo1blY0bDlrbTF6czhySEZHSnVSYXhJWXNkNWJSZVREdllBOXdHRWdyNzlYMmhiSGdVQkoxMQ?oc=5",
+    "date": "2025/05/01",
+    "fetched_at": "2025/05/01 18:51:25"
+  },
+  {
+    "serial": 8,
+    "title": "國銀前進日本第11家！ 土銀東京分行今獲准成立 - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQdDV3V2pRbmFGaV9SSDVFZ3ltTTFaMTZUQ3JfUFoyOWRVOXZUVm9KcHZQLTJZd2IzYXRfb09hcjREQUs4b19aZzVwQVBlRzQ4anRyU1RxWjIyc2VTdlI1SnVxbVJUYVZYdXVtcGh3QzZwdVdNemRPWHFjV21jS1hnTXloVzFpdFNlbTBBNF9FaEhlRGNhTFZlU1VZa3Jkd3N3Z3IwdWZlNEFXUVdYalpkU0hCOUpuSHBuZ0FRcU9MY08zbVVDLTM4Z0xyZWdoMEVPQ0s5c1k1eUJ0ellfUGdzQW1SczE5NDZVaWhZZGNmc1NINmxTb1N1UlBOTVFHV2szZk9NTTlXNFpNbGdpY0VOWmFPVzJ6cmJobHZjVVltNm4wNEJralN2bE5adE1udVRkNjJBdDBiaGNDNUk3c2lVU0xDRkJUQXFVdVFCeE1BSQ?oc=5",
+    "date": "2025/05/01",
+    "fetched_at": "2025/05/01 18:51:25"
+  },
+  {
+    "serial": 9,
+    "title": "補充維生素D防百病又延壽？ 研究：4族群有用- 健康 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEhXRVg1RjhYT1VsRVpCVk5nTE9ZR3VuVWpzdldqcnkwWFJKQTFTWjZNb0R5Y1l6U3hvcFpXRkpaVEp3OF9RalZZSGpLRTdtaXk4TndnUmlRZnNlQV81RWhDVHU0c0dGY1I1TVZyaGpHTTZFa2RoY3lJVWxERzhXdk9DWndCSl9hRnY4Q1VuVQ?oc=5",
+    "date": "2025/05/01",
+    "fetched_at": "2025/05/01 18:51:25"
+  },
+  {
+    "serial": 10,
+    "title": "Drag x Drive 動手預覽：我剛剛玩了什麼？ 預告 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb3NrdVJFa3lOSjJRRElvRjNzTUtqRExjamxlclpnaDB1cUowMHJ0TWNUVDhlUGNNb0pIRnlYUHlxRlhmVnFlbG1LZHBxU2luRkEtWkVvNE9xMGxyVVF0aFBuNUZhbmg5SnMxSzNxdVktZERuTXNOdm5QMXNrc28zdVlYSmFVZXhQLUhNOFRGMA?oc=5",
+    "date": "2025/05/01",
+    "fetched_at": "2025/05/01 18:51:25"
+  }
+]
