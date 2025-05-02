@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-02 18:27:03",
-  "news": [
-    {
-      "index": 1,
-      "title": "Indian insurers to shift ₹3.5 lakh crore in contracts to bond forwards for risk management",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-30/indian-insurers-plan-a-41-billion-trade-switch-to-bond-forwards"
-    },
-    {
-      "index": 2,
-      "title": "IMF says Asian central banks can cut rates to tackle trade war impact",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-25/imf-says-asia-can-cut-rates-to-cushion-economy-from-tariff-shock"
-    },
-    {
-      "index": 3,
-      "title": "South Korea’s economy shrinks as tariffs darken global outlook",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-23/south-korea-s-economy-shrinks-as-political-turmoil-dents-demand"
-    },
-    {
-      "index": 4,
-      "title": "UBS drops long-held bearish view on India, downgrades Hong Kong",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-24/ubs-drops-long-held-bearish-view-on-india-downgrades-hong-kong"
-    },
-    {
-      "index": 5,
-      "title": "Billionaires keep control after freak sell-off in bond market",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-14/drahi-and-coulson-maneuvers-are-painful-for-their-debt-investors"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "Saber Interactive 確認 Evil Dead: The Game 已死 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEkyVV9sSVBycWdkNk9XeE9kMFJQVEJlNEJWX2l0djVHOHVzWm9wNDN5cEFNZmVXSU9kbFV1ODRmcjZkSGRGdHJxYmRZYXlzMTk4cGM4bGxsS0xGN2F4Y2JGZm9ONTZaUncwNk9ZaGdzSm5sTUVsaWtrSVluRTN0TU5XUTJtdWhYTzVhTWdDZHJRZGM?oc=5",
+    "date": "2025/05/02",
+    "fetched_at": "2025/05/02 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "《GTA 線上模式》新限時內容拖吊車服務及「電話殺機」祭出雙倍獎勵《Grand Theft Auto 5》 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SVzZRRU40dktaOWppVFFoTnhYMHl2NUZQQzYwRy1wQzNMX1lnTlZhOWhzVXlVMnY0Snp2UDZBMmZWS3VnM0FyT1hicE9LTmV4ei1QWDdPd3c?oc=5",
+    "date": "2025/05/02",
+    "fetched_at": "2025/05/02 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "《魔族時間》重製版《魔族時間 Re》開發確認 前作中的角色們再度活躍 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84RWVnSTA4anZqRWp0YXRmUkFvVWgxU2FMYVk0ajlqQmxkSjlSbE5MTFpNcC0yUlFvV05sSUNRRDAtaHNxQ0RPZWxPWDR3MkRXall4aXV0aTQ?oc=5",
+    "date": "2025/05/02",
+    "fetched_at": "2025/05/02 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "日職》古林睿煬再進化 日本教練觀察到「極細微變化」 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLSkRiRUJLaUliQVBvRDVzdV9CVUdyQS1uanVIN19qbzVQZzJ3V1JjZGFaMEhkN2prTzNadl9WLUtKMF82MnVmNTd1czBCVDdoODlGZXRNNm13dXNuYm1IQtIBZkFVX3lxTE9XUEl5TGNZZTZFQUhsTjhUajRiclFNWDNwaUxkMGVVMDI5OFpBQ3hBaGZUZG5HRC1xYnpINzJhVEZ6c2FpTEZzN254SzVvREdZaUtqZ1pTWFFTQ0VCVmxJbnN6WEhqUQ?oc=5",
+    "date": "2025/05/02",
+    "fetched_at": "2025/05/02 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "股匯雙漲！新台幣強升9.5角/外資掃貨387億台股強漲周線連二紅/央行被打臉？升值恐衝擊台積電營收｜Yahoo財經掃描 - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMikgVBVV95cUxQNWdaNi1hYlNzZkRZUmhsTmN6OHRUNUlZWUlMT3Y0SjBwVDBISXpTVTNOWEFYZ2g4UGFHNWRqWmVuTEpfQ2l6NkJMTW9scVVRZjdjMnc2Z3Qyc1U1YVIzdXVGMW1kYkFvU2Nia2I1anAxemVHZnZzc3NvMmFKU3Uyby1sSmNwWXRKQUM2c21NRU11LXphYUpxYXJpV0pkN0xwS0dtTU1YeGlMbDdxQWNqZVBzYjEtd3M0Q1ZBSUdJS2VlempVQV9RMnFzZExNLXJzV1NubXg3cS1GWVhYM2VWbkhDTGo1ZkxSRDNadEd6UkUydlVTMWttZFA4VGt6ZEd4RV9pRFBrd1VIcnlhN0hGYzllNzFrNTd4MnJac3RxakUyTTNGMXdXdks0X2dlZF9SRTUxQUtPRV9ybG40dWNVWDRzankzbnFjc0pJckVUQWd6R1d0WGpFU21pMDNnQnlQM3dwamZ6V2hNLU5YcFQyYnZTWGNWODV4b01rVXNaWTExWklwTFJhZl9hLTczV2VOOEhoY3RVZGpnZGl4bVEwUmhhOEdqNkhXZnFPZGNPNVB1ZWFyV0VKWEt0TU51dDk0Sm1mbjJNaEZ0Q1MwNVpZVVAtbzNMTzNPMFFHaXF6bUNEbEVrUVZJVi1GZlZVSG1TNzlfYktFYjlMQVZkR1hjV2EzVE16bEtWdXJhVFJON051M1FxaDJaTUZ2OEhpYTdBNHJ4NUF4NGZJUXp0TFg5SmhBU1hDT29qNU95ZzI1Ql9mWEpTNVh6YlFUUllNTVVCakZ0ell4VmpLbHppeUo0djJDcWFRTUdMMTB0dnVYa0YtMk9LZmxKYm55MEJTVFRYbGFqY2pRUkhvbUtwNnJjN2FB?oc=5",
+    "date": "2025/05/02",
+    "fetched_at": "2025/05/02 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "《毀滅戰士：黑暗時代》GeForce RTX 50 系列同捆限時推出 公開 DLSS 4 多畫格生成新支援陣容 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtbjU5NGxfWTU1VWl1MUVGNmp4UzJ0dXVfYmpRREtpaDVLbVJRaTZCLXdocGhGMWQwNlBjUk9rVEtFdC16OGdtQ09ZX2I1NktGSnBBVXpmdU8?oc=5",
+    "date": "2025/05/02",
+    "fetched_at": "2025/05/02 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "央行尾盤出手、新台幣收盤升9.5角！成交量爆30億美元 創今年次高 - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOeTZpV1NCc1JzQ01ZNHQ3TnBWc0ZxemxNVDRjOUgwVW9SZkUwVVFoQ2lyVWtZSzhTaVBoclYzcWQ2a1NhcU1LUGJiLWJLbEtiYnJFdmRPcUpwRU8wajQwM0NzT0wwbGhQZ0pybDlLSmtzdl9yOGRfaUIzZ1N0cy1TN0ZXZWNYaWxoWmt6MlM2ME9XNGZteWFZOC1wNm10alJXVzdlci1qY0VlSFJ1a1A3M25aQWFKaGFneVlhekZCaFV2bDhacFJNdTcxckxPVHZMSkJPMG1EdV93ZEd4RzFkNHYzODhZM20zMUZqZ1U4ZDdZakp1WnpORzNFQ3BTZkQwSUtnT1lCNms0WWVHWElJOEI0MDlHREV2T3ZadUFQTkdmMzVIckpRVTNha1FjN1RFZXF6SVR0aXFndk9JdDBqczZDcUlrdTF0WGROVU9ZcHRrcXBzQVpReEo1R0gyVlpLVzZxRUIxYTNNRVdlVTh5dTZscHV2MHlKT2JpVGlkOVZfSXp1LUhPY05SU1pEaTVPaG5UZzM5Z2VLaGpEelJsVkE4TVBiUQ?oc=5",
+    "date": "2025/05/02",
+    "fetched_at": "2025/05/02 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "遭「經濟學人」指政府失能 卓榮泰： 朝野都有責任 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzOXlxaVFDU2xKZ0VJWnNTRklBVld0N0c3dEwzeGtFdGNCaU15aDBiSlF2SWxlNmdTQ3oyRG5Xc2I5RU5nZjV6bGRQT3RqY1pY0gFWQVVfeXFMT0VBMVVTNmsyNkZzbGh2Z05KUjBjbkMtd3VTY3pkTUlDbTMyLWoyYlBZQ2VGWE5oTVhsbThZeW8zaDFpR1FUZzdSM0xaUDdjRFhPcU1CelE?oc=5",
+    "date": "2025/05/02",
+    "fetched_at": "2025/05/02 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "換季孩子特別容易感冒？醫曝「4大主因」 做好這6件事不再變天就感冒 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxPT3BxX3NkSU9mRkp0V1dDdHZScmFvWklLQjBMN3ZmQ0p2SmRVRFM4NjdJVHRQZkszTENkdTFSNmxzTkF3NDZtejY1NDlBZk53bHB5eE5qaXU3QUF6ajBhOWlLOHJHck9BVDY1Nkt3VmVDS0N3WHJyRFdBWXN6ZjVtOU1yU3RYUTNVamRvNVhVUE53VVJySE0wMDhfR2NOY2R1MWlvbURlMjlDdVRSZEU3TkdGZ2Z3X0tFYkprRFhPOHhpODlPb3RpOEVRanFlWEJDcnpVQTZaZGVJYjdKN2t3bXY3NXVnUjFwNC14Um05MzV1MVZVdGdqVlZ2MzlnYzNGbmRPNzV4UUZzRENDeWFzX0d6el9IQlRPeWo4ZTBmZ25JQUZzN1B1Rk05QVQ4TEN6RlotdVl4OUMtS2pfMzdiMUNkejlZMk1qNjIySHpVZEcza2FUWEZZeGtXVVlHZy1KUzJ6U1lfbGY4OFZWTUkzS0o2Q0tCdjB2TkxPeVFVMDNUS1JHelNLUEVPTnJsWUQweTlYNWtEUERpR296aWc?oc=5",
+    "date": "2025/05/02",
+    "fetched_at": "2025/05/02 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "快訊／易烊千璽時隔8年再度來台！　「純元皇后」蔣勤勤同行會影迷 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6VndTbmtSckM1d0YzYWduWnRxOHEtY2lMcmNVTTV2bWVWcDE4VnZxS0I3WkxzTlpwODN0UEpKTzdvdnJVRFZZeFhaamhrQdIBakFVX3lxTE1ob1VkV0pCQlQ4TGN0ZkYzT2ZiajA3Y3U5MHppb3BmS2FpVkNlQjJCalRpWHdwZVNHcWw1aWUwbm5qcXU4R2pyWXJaRzJ5NzljQndOXzMzVXhtUE8wWXZ1R0x6RnI4MUZLaUE?oc=5",
+    "date": "2025/05/02",
+    "fetched_at": "2025/05/02 18:51:24"
+  }
+]
