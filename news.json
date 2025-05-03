@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-04 06:10:17",
-  "news": [
-    {
-      "index": 1,
-      "title": "Indian insurers to shift ₹3.5 lakh crore in contracts to bond forwards for risk management",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-30/indian-insurers-plan-a-41-billion-trade-switch-to-bond-forwards"
-    },
-    {
-      "index": 2,
-      "title": "IMF says Asian central banks can cut rates to tackle trade war impact",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-25/imf-says-asia-can-cut-rates-to-cushion-economy-from-tariff-shock"
-    },
-    {
-      "index": 3,
-      "title": "South Korea’s economy shrinks as tariffs darken global outlook",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-23/south-korea-s-economy-shrinks-as-political-turmoil-dents-demand"
-    },
-    {
-      "index": 4,
-      "title": "UBS drops long-held bearish view on India, downgrades Hong Kong",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-24/ubs-drops-long-held-bearish-view-on-india-downgrades-hong-kong"
-    },
-    {
-      "index": 5,
-      "title": "Billionaires keep control after freak sell-off in bond market",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-14/drahi-and-coulson-maneuvers-are-painful-for-their-debt-investors"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "新加坡大選執政黨守住席次- 國際大事- 中國時報 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xcDlLY0E0aE1WUlQydldwRDA0cVB3dGhDam12aXpxQkJIMHEwNmQySWVMbFUyUm9xcGJhX2dib1V0LUZjb0JBN0J5eXlBUkdkWUVSd0JEaENLVzk3VUxDQ0RZMmtPd3R4Y1ZJ?oc=5",
+    "date": "2025/05/04",
+    "fetched_at": "2025/05/04 06:21:24"
+  },
+  {
+    "serial": 2,
+    "title": "查看 MindsEye 的 10 分鐘遊戲 - SINA HONG KONG LIMITED",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUWI5ZHhrbUdBVUhKb19OcjNVSVhYSTlWQ2JLVXRIakRLeFUtbVYyRmktX1BGUDcyaU5PZUN0QmM0eV9rRkI2TWlhRGNRekpBOG9FWmlTMGlLQnE1TGNxLW1YUVRNVlZldTFZSjN0aDl3RDNfb05RM0pmT0ozSXFWa1NramtEby1jVVllSHpLWnJfdUdmSUdFd2doV19lNkpOWk50b01TcU5aRlBtVjQyQlRXSC0tdzc4cWJ6cnl6SUtpMi1qSFkycFB2aExRSDJUendRM1pqRlZYejg?oc=5",
+    "date": "2025/05/04",
+    "fetched_at": "2025/05/04 06:21:24"
+  },
+  {
+    "serial": 3,
+    "title": "小米板王！小米平板7 Ultra現身 - XFastest News",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FajRnVDJWMVZxeDNMeWVXaTExQUw1QXVoVElhRGNRV0xaNWxFZGc0WkVJRWdwU2syaHV6aUo1czFIcjhPaGRxVVRFeE01M3NDS1VMN2JKaGY0MTFBSXpCWA?oc=5",
+    "date": "2025/05/03",
+    "fetched_at": "2025/05/04 06:21:24"
+  },
+  {
+    "serial": 4,
+    "title": "波克夏股東會／來自台灣女粉絲超狂！創作巴菲特銅像兜售 要價74萬 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxYjJ1QUZ3MHBCZHpQcmU3TmJFc0RKODBiVmNtT1VQWHJnSDJ2VmhJLUltVG9WMUE0Z1NRZkZDS0w4eFNCWEJmRGEtd1E2aGM50gFWQVVfeXFMUFQtTzZhRy1Sb0NCYzltUW52TnF0WExSQWdtLWFFUHVjZ0hQYnNDTWVWdEs1SEpwMEFVdTF1UWxFUUNxUzFXSjNvVHBrbUZTcUZvemtBSEE?oc=5",
+    "date": "2025/05/03",
+    "fetched_at": "2025/05/04 06:21:24"
+  },
+  {
+    "serial": 5,
+    "title": "《周處》破30億後再出招！阮經天瘋狂大復仇　卡司曾寶儀震撼：像整年發佈會 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51VWRsWXQ3Z01SZ3ZJUklKMnVBQ3RWU01RMm5xcldHNm5tSjNhbEJUWkZsT2tvZi01RnBEUndKTlFPcHJoUmtERUpkVHgtUdIBakFVX3lxTE5FVWJjb1JYb3V6UnZINTRJYkpZZmFZUVVGWnV1SUdhSDFLUEtNVnVsYkloWFBTNFRNZWlBcUJhUzZ5TGZlWjFiQjF2SUR1bE80aEoxZnIxd0NaSDdBUHg0eEVfUXJ4V1Y3Nnc?oc=5",
+    "date": "2025/05/03",
+    "fetched_at": "2025/05/04 06:21:24"
+  },
+  {
+    "serial": 6,
+    "title": "加拿大、澳洲掀反川普風潮？在野主要政黨領袖皆丟連任20多年席位 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YNE1wQnlBTDhJTEg4aXNra3BDdnhzck5hY0pGb1FjdHppSmdpMnFTdW5oVFl2cmJ4TDl6N3lPOHBtOHg3NlRGaVJvTHVaVnBk0gFWQVVfeXFMTjNlRXYwbXpxR2V6Ml9UR3h1QWkwdnJTd3dETE56U2pQVjZtUDRnWUdCZU85SFlMaFVVbUNVOUJkazJLZUNJaHphaDFESEs2VjE0RzAxOFE?oc=5",
+    "date": "2025/05/03",
+    "fetched_at": "2025/05/04 06:21:24"
+  },
+  {
+    "serial": 7,
+    "title": "羅美玲每月偷刷3萬 帥尪Terry得知真相震怒：腦袋放清楚 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPUnl2MFAyWTdSWnJFY1A1djBmYnJCRl8ybDlHOE53bXhMemgxS0d2UzVreGFjeDFQS0wxRUFKTzVzVklqbVR0SXRFUVN0SC1JSDVmbzN6OVQxQ3lHQVNJMUhsVGt6Yk93dHRvb1hyelEzcU5pODdwdzBidUFwN2QtdjhUeDRvOTVIX3hpZ1VVLVF6LUF4Z0p5dlpycGJtdmJMbklhb1BrQWVMcUc2RHRuLWtvRG9XZ1NCODBjQjdTNERJWFlpMnhpYjJGTFQ5Ty1FZWJ0UWpwUGRHZG1ESWFqOVIzdDZZb21HXzNoLWdOMGkzTW42V3E2VXZkdGxEaU9UMlFqVUlJMk95aHVLb25TU1JqbENkeTdPYnJhMlZPOGdtalNtVUM1eFNjemY1aEFxcm9QcDl3NVdTRW9rZThuNUhZbFdiYnNGRUdIMmtnc0dkRFdDN1FFNVV3?oc=5",
+    "date": "2025/05/03",
+    "fetched_at": "2025/05/04 06:21:24"
+  },
+  {
+    "serial": 8,
+    "title": "65歲後多久需運動一次？哈佛研究：瑜珈對老年人身體靈活度與大腦健康有顯著幫助 - ELLE",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSVNBc1BHQnplYzJmbmVSNVl6dmxaLWNiWlpyUXpQVUJYQVUtWHhtcWpjSUhZMFREbXZJdFg5UXppME5uVHRRWmNDSmV3M3RfcnpxVVNPUkZkVlBEc1lUNjZQemFSYUtGNjl5eEV5N29zZXMzT0R3T01kU1dkMGNGNmh3?oc=5",
+    "date": "2025/05/03",
+    "fetched_at": "2025/05/04 06:21:24"
+  },
+  {
+    "serial": 9,
+    "title": "中職》纏鬥12球「磨」出本季首轟！ 邱智呈談對決過程 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56ZmFlN0FibjVDVG85MWVlX1YzTHY5TFBoOVpoWjNpNTI4eHFyQzBIYVdXNW9pSkFBaVYzc3IwVGc5cWQ4NjhlWEY1SzRIa3NOMWVUZkdrMjZ4R3B6aGVRVNIBZkFVX3lxTFBPUmhBUUFKcGt5YlpEcTF4MHh1VV9FM2piT2dhRFJCNV9uT2lRdFZycUhKZVpWWTdUc0VyOVd1Y213S1JyYWFRc2pVTzBNTWtWMHo3bV8zNUtHUTBqWEo3RjNrMnJsZw?oc=5",
+    "date": "2025/05/03",
+    "fetched_at": "2025/05/04 06:21:24"
+  },
+  {
+    "serial": 10,
+    "title": "「台幣匯率猛升」卻笑不出來？台積電利潤恐遭侵蝕 張忠謀早就說過了！ - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPc3BZQ1lWbXJCbllkQjZ5YWowZnpRVWZmUmxHZ0R1RTVvODZGbndXR3dvOW53SkZ1ZmRYbnRMM2hRaF94OFFoSHlxZXVNMzk4bEt6VWlHbWdZTEo2QWZSeDBjYW91MVdQY1Zsc1BOci1MRHRHWFI0S1BIUjd6VUMxNktPTF94enlWbHNpTjdhd0UwcTdXcWgzc0hyX3Y1YWcxSG5JcHRheXRBV3o4dHFLRGtFUWdjSTRqTE5pZkhOZzEtRjlpSHRxd1RvRW8wb0tRczRhTUd2VTRBNzVsQTMzQ3dtVy16eEhjVG9VekJHTVI2UGdrTkd1MG90b2Y4QWZPekYzZG0ySkpwVTBmb3BTY1E1Vkdmbm1icGZqTS1kWjRWc0QzbktLd1FvTDZNU2xSY2pFbmRhWjRqTGRUOEVhQkdERXIxckswMWR6UWtFX3BPbE53ZEhMY29PcUZYaXZtTHBPckg5Z2RzMmtFRU5sajBRaXZISHYwR3FQWThHWUZPb2xCQTZONUQ0T3FOaUYwZ0hWdXRqUl9NYi1LRl95SUhONjNVV2hNal84SWZGQQ?oc=5",
+    "date": "2025/05/03",
+    "fetched_at": "2025/05/04 06:21:24"
+  }
+]
