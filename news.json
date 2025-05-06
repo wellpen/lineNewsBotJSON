@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-06 18:27:50",
-  "news": [
-    {
-      "index": 1,
-      "title": "U.S. Economy Shows Remarkable Resilience in Face of Trade Turmoil",
-      "url": "https://www.wsj.com/economy/us-economy-data-direction-trump-bb5672eb"
-    },
-    {
-      "index": 2,
-      "title": "Indian insurers to shift ₹3.5 lakh crore in contracts to bond forwards for risk management",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-30/indian-insurers-plan-a-41-billion-trade-switch-to-bond-forwards"
-    },
-    {
-      "index": 3,
-      "title": "IMF says Asian central banks can cut rates to tackle trade war impact",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-25/imf-says-asia-can-cut-rates-to-cushion-economy-from-tariff-shock"
-    },
-    {
-      "index": 4,
-      "title": "South Korea’s economy shrinks as tariffs darken global outlook",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-23/south-korea-s-economy-shrinks-as-political-turmoil-dents-demand"
-    },
-    {
-      "index": 5,
-      "title": "UBS drops long-held bearish view on India, downgrades Hong Kong",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-24/ubs-drops-long-held-bearish-view-on-india-downgrades-hong-kong"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "Clair Obscur: Expedition 33 的主要作者在 Reddit 上被發現 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcGFqeEJMVlVWX0xzUmJoczlQX1YyajZTVkhoc0RxbjVRYXVBSkFxRGJ0V3E5bkZsTm9iWUVTV01sU2R1UXl1WVhob1lvQTlJUDg4M29IcUItZlRSNjR0TUdoSjJlelB0UWowQTZUdGo2enVSQWZOTkI1dmQzUkZHeUJVeTllR0pCd2c4NjFOWk8zUk1xcWtpR1ZLRQ?oc=5",
+    "date": "2025/05/06",
+    "fetched_at": "2025/05/06 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "宋芸樺爆「想退休」認了「能量耗盡」在美國觸法進警局：被罰了2萬8 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQcndVVzdvMHFjQkh3RmdCQmMtZUtpS0pTSUhtVEZVVHhPVENBNGJNLWgtQkVPeXVzcGpNX09LQWc0TkZvRllKS05PV3F2bDZpY2FSSUtxMmZtQlJ2RF9TNUpkclBPbWR0NVpJekdpR0ZHQzg2cUVmTnpUWW1KUTVQci1raUg4UHA5Uy1uYmFrM2hKcGlVamdIMjhRR2ltWlRUdUpYNVJQQnI5UHhleXFocDRPZFlhc2p2REVFVDJObWZjNWpMcmJLc3lFQktKMlZvdl9NdEJwTTNBc1ExRFJyelRZVWM2MlB5RWs5N05hclF1U3RMVGxJT21Yd3FoWFRYLUozZy1uNjRJUG04UkEzMW9NaThBSFVFVlhHdm5aNlM5eTlabmY4VDEyVW92Z3d1eUlUd1VhREttZ3I1VFlQSHU5aTZDTzhObmV4QzgtRVlyUHNf?oc=5",
+    "date": "2025/05/06",
+    "fetched_at": "2025/05/06 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "黃呂錦茹「曾指示他人製作某文件傳給共犯」 確定羈押禁見 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wc3ZMYXllZUVvOTYxbGZfUVpUeG5IelhHbXpIX3Q3UWhsaHNsN0FIOGtua1ZrUUU4aTBFVUc5WEJoRHJJZjBSWm9qQ09iRGFn0gFWQVVfeXFMTTl3bnNVMGptOTZDUGNDaHB3TXN0UjFYckNvWnlmdi1qZWs1WVhiNHF6dUp3TFdSRERBRExKaVNIelM2eW45THIxM2swTFpMN1g2SHYzUVE?oc=5",
+    "date": "2025/05/06",
+    "fetched_at": "2025/05/06 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "澳洲冷凍豬腳再檢出萊劑 邱泰源：3批進口豬肉在標準內按規定放行 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPZjNwUkkzejUyeFJFWnVoVTdZUTZ4eDIxT0RiSW9rRnBvZFkxRS1TRnRNME41NFB0YVhMaVZFQlpxZzJWV3lmN1dYUGRCMlpHU0N0c1lScHV6Qi02ZVRmNkNEbUdlNWNzSWUza0Y4N2R0NHJYb0VLc1hnQ3R0N1BZdFJ4aFZaUHoyakFxYUZqYlU1QVpXd1BRaEM3dE5NcTE1WnFyVjl1RWVNZloyNm5yOXVMdWYzTnVmZ04wTTlFbTRZMzQ0NjJDY0lvdjlzSkg4V0c4Q2I1RFNzYU5sOGdOVHl2eC1xTDNFQ3pJcTU2M1JwdkxCaVJJMEJsRDBHZXBrRWlxWlU2S0RKenNNT1lXZzBUckYtVWZfNEI4TWdnV283dTlqWFIzRW41ZnFTcFdCb25lbkFsaERDSkR0OWJjVWNLQl82RThTOEN5TmI2NUxYdVJXWDU4bURTTEtiSkxYZ2RwbHpLMWp1bHBNcjNzUXh6Sjl5Z1BRQlNNcF84UTBYZG1QYVNlSUhlaXBZYzFOYTJhbUtCZ0lJSGtvcFhUcEh3N0gzZ3NVUmFzX1ljdXItdw?oc=5",
+    "date": "2025/05/06",
+    "fetched_at": "2025/05/06 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "物理學家搞定重力難題，宇宙真理終於靠譜？ - 明日科學",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSMHIwMTY2bTFnVWdCZHNjeEV3dnRxOEV2MC1sbU9tNFFoSkRJTk9ienZ5UzZxa3pYSFFReXZZSm16alJoQVctQXZCS19wMUEzZUZ1WFNVR2puYWExWENHNVVyUHBJLU1kMGFLMQ?oc=5",
+    "date": "2025/05/06",
+    "fetched_at": "2025/05/06 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "以為抗老卻致癌 研究：「1保健品」吃多害罹攝護腺癌 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNNjdnRzBjYl81NWZ1aDl2cmliYzh1blgxVFVGOTZsYVdvR2kxT3JXdEJrNF9vWUpLeWNLa3hERnFWVXdVSHVmV3hSOFdMOW1zd1FvZDRuWU9IRGJ0bWZLZ0RaRGlpQUIwR0RpMDlYcVZiX09idTFNdmtCb2ROU3NoLTMzR3o3Mjc5YUtQSVg4X0tpZDFMNnIzSmJLbGN3cjRaX2RuT2xxcVdmLTlpODBENGpOc2s0Uzc4emtfOTkzRGhJU0hGRnFTeG1oV043WUZXQWU3dVVOS1JWcFhnQUpGVUk3ajlOaVRUTXJBbjZBYWFCc1k1OHZubTZhUi01OUpJeTR4UVVSRnZaNm9xcmFVSTdnQlJ2MC1HclhNLTB5aFB2LXg0Q0RKd3UtSy0tTjR6cGdFMkVWS19zZHRlc1N5SzVkVnJfMEFN?oc=5",
+    "date": "2025/05/06",
+    "fetched_at": "2025/05/06 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "〈台幣強升〉童子賢：台幣短期存在套利空間 湧入資金不一定是禿鷹 也可能是候鳥 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XM3RsR19oQ2ljeEpYaDJORFVKQkFJcy1pMVhqdlliVGU5ZVpfQzZhaHZGWjRaMGs2ajJKY2Y5a2FjeGFFRWlVQjZBSWJOM3c?oc=5",
+    "date": "2025/05/06",
+    "fetched_at": "2025/05/06 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "亞幣匯率震盪還沒結束？韓國央行行長：美國對各國施壓要求升值 - NOWnews今日新聞",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FN2x2ZlhkQzl3Q2FoTjNLNGpIQVQyMHZPQ2tHaDlNeFF2dzNUOHcxeXpCSW40d3hTcVlnWlV1QUFuY1lhbmJPOFdRU0zSAVJBVV95cUxONk9tR055UWl3SWYtUTdvM0F3LTJXc2pJUlB6SVpjOGw1QlJ0Z2tycUlHX1V1Q3ZxMi02VHEyRmNILXJDRDVRdERGUlZYM3RYbWlR?oc=5",
+    "date": "2025/05/06",
+    "fetched_at": "2025/05/06 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "剴剴待「人造無間地獄」115天 律師請求法官判劉彩萱115年 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKUG82NnBJVFlzVnpXYzgxTlBhSW9scnN1UDlHc3piVXVMRi0tYV8xYk1rSUhBMkxzVUgxOFhpY1lGcGo1VjhuZ191RWJaTXct0gFWQVVfeXFMTjNYN2RPYnRpSFFWX2cyaHpGQ0FlVDBIS3gwbDI1bll0Q21lYklVZTJ3YkxrOXRfZmZQWlRidGtGVlBySnE2NU1DUDJNdkREZ2RpeVhQS3c?oc=5",
+    "date": "2025/05/06",
+    "fetched_at": "2025/05/06 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "35歲男愛吃「2物」 慘罹糖尿病、重度脂肪肝！很多人的最愛 - 三立新聞網SETN.com",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pTUQzUlhDLURDeTdQZ01TZzlWSWlUTWJ4dEgxVFl1ai11SDlrWml5cVN6aElHTXFhUnRmSWRzQmdjbFVYWjI2aEYwTDc?oc=5",
+    "date": "2025/05/06",
+    "fetched_at": "2025/05/06 18:51:24"
+  }
+]
