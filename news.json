@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-07 06:11:00",
-  "news": [
-    {
-      "index": 1,
-      "title": "U.S. Economy Shows Remarkable Resilience in Face of Trade Turmoil",
-      "url": "https://www.wsj.com/economy/us-economy-data-direction-trump-bb5672eb"
-    },
-    {
-      "index": 2,
-      "title": "Indian insurers to shift ₹3.5 lakh crore in contracts to bond forwards for risk management",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-30/indian-insurers-plan-a-41-billion-trade-switch-to-bond-forwards"
-    },
-    {
-      "index": 3,
-      "title": "IMF says Asian central banks can cut rates to tackle trade war impact",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-25/imf-says-asia-can-cut-rates-to-cushion-economy-from-tariff-shock"
-    },
-    {
-      "index": 4,
-      "title": "South Korea’s economy shrinks as tariffs darken global outlook",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-23/south-korea-s-economy-shrinks-as-political-turmoil-dents-demand"
-    },
-    {
-      "index": 5,
-      "title": "UBS drops long-held bearish view on India, downgrades Hong Kong",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-24/ubs-drops-long-held-bearish-view-on-india-downgrades-hong-kong"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "〈美股盤後〉Fed決定前市場緊繃 美中貿易缺乏進展 道瓊摔近400點 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TOHp3bGx2S1hTV2RvQ3JYXzdXR1hfeU8tRzg1TEdqLUhhMVc1S0tBNmRQT1JLUTBrQWtOcFdnaGhFSFozTE14a29PYjNLOUE?oc=5",
+    "date": "2025/05/07",
+    "fetched_at": "2025/05/07 06:21:25"
+  },
+  {
+    "serial": 2,
+    "title": "林俊傑遭控「介入他人感情」！爆料者發不自殺聲明 經紀公司回應了 - 自由娛樂",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zUHFYSEF2aUZsbGZLRF9jSEtRUUFwWFlhU2IyNkd0MklxSXd2TU1WckNYdkVCS1ktNm9zZjdVUmd0UHBtQVFUTXpnMFV5dUV4UFdHRTNqcnczQVpk0gFiQVVfeXFMTXN2aEZob3p4LU9rZF9pQ3cyekJfdkVYS3ZLSS15RGNhQlB0WDV2VThEWmdFX2pHOE9TbUVhQ2M1VGNxZ29lUTdmTzJ0VW9IR0VFTThSc1B6LVBjb1VJUHZSQnc?oc=5",
+    "date": "2025/05/07",
+    "fetched_at": "2025/05/07 06:21:25"
+  },
+  {
+    "serial": 3,
+    "title": "“如果你已經為 Switch 1 進行了開發，那麼過渡到 Switch 2 將很容易”，Naoki Hamaguchi 說 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVTRRSVprSlNQVkJYS1RXRG85NVd1X1NZa3owVTVSbjQ1T2x6RmVScW1TX0lKVElzb3B5UTJfWFVGNkFjUkdzSjlST2dRbFJrd1dOWUdIOTlkN3I0c29ydWlnMmxaNGJRRmNGRHdLWXJIX2Zyeksyclo2bVl6TURRZm9lS2JQRFozNGJpMmhVX2N6SUdaQkZNcU1BRkdQcjlicWlfcHR4Ml9aLXpGVF9NeGprdXVIdTU4d0s3NjRUQUkyUQ?oc=5",
+    "date": "2025/05/07",
+    "fetched_at": "2025/05/07 06:21:25"
+  },
+  {
+    "serial": 4,
+    "title": "獨得億元幸運兒是你嗎？大樂透今晚開出頭獎 獎落這縣市 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2LTFhZl90NHdlQjZVcXk3Q0RKTk5qc1NzZllJYmRpSXFKWlA5U3U3ajhBSzk0S3I3aS1NU1RhMF9TZ01nTzU5ZktQNVlLdG5I0gFWQVVfeXFMTU1CZmxyVGRiamZIdnpYbEVtd29Pdm1hT19uT25fNm1vOUMyZ1FhYS1GdzAxWG82T1lJQ3Vuc2lmT1hCRllEZEwycERsTTdZODdjZXZxRGc?oc=5",
+    "date": "2025/05/07",
+    "fetched_at": "2025/05/07 06:21:25"
+  },
+  {
+    "serial": 5,
+    "title": "Doom： The Dark Ages 和 Revenge of the Savage Planet 即將添加到 Game Pass 中 - SINA HONG KONG LIMITED",
+    "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQcjBfb05MYm5QY2FQbjdKQ3I0UFlqM1M2VUUyeWtmTHp2VmtzN1BvWktQclNBNExFRXVZOTZmdDNRSFZtSk9BcnVPb1BwWlFRS2tudThuTlRfc1VXOU9ZQlJEVDNwVFl2U3RhYWVDb2czUnpxaTNuOHE3dG5IRXBYQlRsN1RKdXJxZTJnWmlXUml0a1hGYktEUUJGcUhIUlBsYm90OEFwSnNQbmNvQjA3MXBjMWhhT1dFdWFqcEdNdkxQeFF1YTYyMTdLRWlBa2hUZDZ2cHp2TXktMVZQNENyNDg3YmpCS0tRbHhxS3Z5d09EVHRBQVR1R0UwQnd3Y3ZTZmV4cEQzclVvMTFnX1lWZmxHcUlhcGJCaV9lVkJSRHB2S3lLRGV6c3ZTS3FlSEU0SmdDUjdndDRBS2JxaHRv?oc=5",
+    "date": "2025/05/07",
+    "fetched_at": "2025/05/07 06:21:25"
+  },
+  {
+    "serial": 6,
+    "title": "俄勝利日29領導人觀禮13國加入紅場閱兵1友邦不上陣- 國際 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiMjUtcl8tV01WcUY1dGNEMXlLTTRlTGV3TDJ3OFB1a054UmhvR2VQZkNmaUt2M1lyZ2E4MzlVMS14cmpzdTlXbmpLYmhGMmRfRklsZmxqa1NFQUJIUG5yQTZzOGgtYl9oWXN2Z2FB?oc=5",
+    "date": "2025/05/06",
+    "fetched_at": "2025/05/07 06:21:25"
+  },
+  {
+    "serial": 7,
+    "title": "梅爾茨當選德國總理 5/7凌晨宣誓就職[影] - 中央社 CNA",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBReFA0cDhVdUxOaFZPVWlldEVNTU9IVXNVc21pbjEwcnYzUThZU0llczRCdjNNc3Vtb1VWY29QSlN2M21SZ1pMNW00RGcxTEY4ZEFqa2x1SkYwbC1Lc21j?oc=5",
+    "date": "2025/05/06",
+    "fetched_at": "2025/05/07 06:21:25"
+  },
+  {
+    "serial": 8,
+    "title": "中職》威能帝好投、林泓育開轟 樂天勝率重返5成大關 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pVnJvZGlzdlRFOGF5Q09LeW5vYVdwR2NlNnhkeVUzSWpyOHBTWUZRSTg1VkhNZUgyVDVzbVhBTm8xdlJJeUtIc3RUZDJCZXptY2cxZ09VQmliVTJGME5CUg?oc=5",
+    "date": "2025/05/06",
+    "fetched_at": "2025/05/07 06:21:25"
+  },
+  {
+    "serial": 9,
+    "title": "剎不住！美國貿易逆差3月飆升至歷史新高 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SYkY4bXpfYmR5ZmVST1RjWTBtclV4M2xtaXRVNldvVVBHSUdiNWg4M3BSUlJXU05uWG1ncEVkZVFOeVdlNnV5dlJDbGNBWmc3U0FqYi1Ta2hXQkdYcktj0gFkQVVfeXFMTzRobTRaOU5NM0lBMFlBWU9YNlUzMlVnbV82c0FsQ2F1T0VBdk9yZmphd3VNQkJhQ2s0YlhpR3pUa1VWTF82dzV1bV9lVHM3VjRtNlJpeUlxc25qZDJGY2hPX2hOcA?oc=5",
+    "date": "2025/05/06",
+    "fetched_at": "2025/05/07 06:21:25"
+  },
+  {
+    "serial": 10,
+    "title": "中職》魔鷹連兩場雙響砲　非彈力球年代之前只有哥雅 | TSNA | LINE TODAY - LINE TODAY",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92UjlsYzY0eEhXMXI3OVZnQlBySlhENURMTGhuM01Tekh1d21fcUxmMzVpM0RqUjhTdzR0dWRtdzN0Tk4taE1sd0MxaWlYSk41YllKSW9B0gFbQVVfeXFMUGxmZmhBbnVQM3RoaHZONHVFYlRCVUZ5REhOTVRQNFhxeGdLQk9xdnFEeTMxVURHYnUwV2ZvemNQYy1Bbjl1VnFpSVFyMEJKS3hqN2pnSEc0OWtLSQ?oc=5",
+    "date": "2025/05/06",
+    "fetched_at": "2025/05/07 06:21:25"
+  }
+]
