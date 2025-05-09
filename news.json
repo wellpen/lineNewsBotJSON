@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-09 18:27:08",
-  "news": [
-    {
-      "index": 1,
-      "title": "Developing nations expect AI productivity boost soon, UN finds",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-06/developing-nations-expect-ai-productivity-boost-soon-un-finds"
-    },
-    {
-      "index": 2,
-      "title": "U.S. Economy Shows Remarkable Resilience in Face of Trade Turmoil",
-      "url": "https://www.wsj.com/economy/us-economy-data-direction-trump-bb5672eb"
-    },
-    {
-      "index": 3,
-      "title": "Indian insurers to shift ₹3.5 lakh crore in contracts to bond forwards for risk management",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-30/indian-insurers-plan-a-41-billion-trade-switch-to-bond-forwards"
-    },
-    {
-      "index": 4,
-      "title": "IMF says Asian central banks can cut rates to tackle trade war impact",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-25/imf-says-asia-can-cut-rates-to-cushion-economy-from-tariff-shock"
-    },
-    {
-      "index": 5,
-      "title": "South Korea’s economy shrinks as tariffs darken global outlook",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-23/south-korea-s-economy-shrinks-as-political-turmoil-dents-demand"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "3種飲料愈喝愈燒腦！ 每天一杯「這種牛奶」增39%失智風險 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNc19zYVhGbklWT2gyOVVGTlBRSTB5Vnc0NVdrS1RKS0RMOFdXWm5Zem1kd2VyVklUdEJWd1VoNzV5aVNCR2huWUVIOWpwMXRmem45SGs5T3Y3R051TkNCcWxwYVNic2tpLU1ueEZPV1BFV0VmV2lZYnZoMERqS190bFk2T0lIdkZYYllETmQyUkMwdDgxU1dXM1phaDJhWm50WFp3c21vMzZTbUhERDR4Z0s4YlRzbEVJMW1LWGxFVjJfRUtNT2xWa250MEFMVGlxYlRkWThNMWE1cE9yVVZiLVhUc2NENTlkaUwwVnBfSnNLLWUyNExITGRnZHFyXy1yaUFLNTNqWGdvLUVWekpldFMwZlVXOUFRcEkzVw?oc=5",
+    "date": "2025/05/09",
+    "fetched_at": "2025/05/09 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "《棕色塵埃2》調整Google Play年齡分級，上修至IARC 18+ - 4Gamers",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWDNIYkFmTDhyUE9tVHdPeVFWekRGS1o3RTh6UjNDWGwtak9NNFJKbUFtSjNaLXRRX0E0NU9raWU2dnhEYjNoTzFDaFhrNG5JSjk2cFVwRDI0MzZTTFQ1S3o1UG5sLTJMMHFSMU55amRyZ1Fsb0JGMVlFVnVOY0RnV1hLZ1RyYzVHbWJiYUQyMnY4TVl0RF9CYkZkY3ZjQQ?oc=5",
+    "date": "2025/05/09",
+    "fetched_at": "2025/05/09 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "川普喊進場台股強彈371點周線收連三紅/黃仁勳來台在即AI概念股亮燈迎賓/台積電營收驚豔專家點名拉貨潮藏玄機｜Yahoo財經掃描 - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxNNXlNcGRtUHFtcGQ4LU5NdnRNd0U3M1IxQ045TUhiQVJrWnE2WHJfSVctTlZaN2tsNmxzeGd3V1F4UnpJRzloalJiSHlLV3Bkc0tOUjBUS3ZzTFhRVXZONzdEOXQyVDhxei1MSjE0UmF0d1EzN1FQX2Q2WHdEbHFvOGdGdmJScWtzalZoYWFyMW1lYkJEOGRibnRNMHdXcG1TYVU4ZlpycldJWUUxUlpCT1FGckNpdVhiOWpSdUg2dEtzaHBDRlBaR2hkaDBfMjYtemNWRXE0UjhDSF9VenMxRUZBM1p3LW9xZlNWeGxna3c3Ri1TeXNiNmZ4dWhsUll4VUI2UkdpTFVaa0xJNHo1dXNlamRHZVlCTE1VYlNWcXV1aVBPRG1Uc2FIS3NmaEw1N0hDaDY0bDhTaHJBMnFrZlZUa3VVbGpVMFpOMThJdGsxbi01clpUcDZQb2JXVV9fRXVQVFpmRW91a19SbHJueVY1Y1p0TGtMZk5ETkRWTUQyUXVGSDNQak8wV1poM2tNR0o3ZTctdENsRHZvZlJlb2IzTl9wd1k4RWJ0Q1VGQVN4UFR1U3dLd3lQdmczeUMwWDRjM1RBenY4Qm9EV0xNb2NzVGp4R3ItbXc1NHNZM1ZyZXFxWmV0ekJ2TGxZN1o2b3Nveml3anNfUlBsa0R4UlZTWlZmTThheDFaeUFGMHFOTlhfa0pIdUhGTEUtWVM0XzJYcV9sQmxZZ04tVGp1NXRkQ08zRW9tWUMxTXdXUks5ZWJhaTk5NElqTFJ4RzUwYXhBdUpxVGRnWnV3bWVnQW05ekdOMmkzRTd0ZUo1X09zRXc0aVhUN1B3M1NTc3JkdThhRHVWZXpfRkR4OTIyQ1NnTXBDOHVqcHJBa3JtdXBLS1ZpTzR5VUFoM280a01XYjh4SHhSeFpMTFh5a3diM05MUEo2VjdnOUhBSDRBVkE5ZV9uWEUwOW1zNWM?oc=5",
+    "date": "2025/05/09",
+    "fetched_at": "2025/05/09 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "中俄簽署聯合聲明扭曲二戰史實 陸委會：嚴正抗議譴責 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPTjViRUVwVEdFTjZ4U01RQkJXYkhpb1dXQWFSMzhnMVl6SjBBREMzYVlHTGVEU19zczBpNzhLU09DR3JhaHItSUpRSDJ3bk1nQVhoNzE3V2daVmhXTWpxWHFCczBZd085OFpKMjhGUE8xYTlpZk45amFxR1paNmdudnRMX0FoMHFBUUswZG9TZXFoUGoweGdHS2xyVzBySHZteVdLS1FuaXJtXzd3Q1lrcjJsTWc3a0FJbmlvQW1DVUJEa1kzMDRHVndQalhwYXFOZGNLSmN0dDEwTWp0QnJTZGswd1daNnFtRTZoZmgxMkxlaXBOcExqQjUyeEhHMlBfdFhpUGZ1cXRjdDBndFZHSEoxVU5lNWE1eVA3V2ZzQVhwLVVYM0hwVUJOQmVOUksxVHBBbjFrM2o1SEpGS25RYmM3eVhSOU1Gdm9Bd084UlUwalM0U0FoWS1LLW5hckFkUF94RWMxSkVvOTRsWDdWLXk2M0Y?oc=5",
+    "date": "2025/05/09",
+    "fetched_at": "2025/05/09 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "獨家／小甜甜求復合千字文曝光　前夫宋晉賢13字回應了 - 鏡週刊Mirror Media",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95YU9lSS1RUVI5R2hxbDNzQTk5MkF4aUhybG1KSkwwNnBIS1otZWN6WExFY0pHanNNYVdzSGNNU2JFd3FVUUFjYm1SNVNZMEpVMzBjQ2VGb0xuTGPSAWBBVV95cUxOaXlvZTNPWGJWbXZXUTJNRUFGSFpPZjMzdmpYMEZIYlZZZkZYbG8yZ0RrVHRqUzVNSGtETmRuQzVXNWRkakZsRjlBOVpsRm1Xb2xUaFg0dVZpQmxJNTBWNmo?oc=5",
+    "date": "2025/05/09",
+    "fetched_at": "2025/05/09 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "林益全出書再提「801旅」事件　葉君璋坦言：如果當初更成熟... - ETtoday運動雲",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSbnZNSWZFOUhUTXpJSUpwQ3FIUjJpQVJyWXhuWnhWQWNpWW5rYVhsVDJfUFdXTll1bDFxV3JQemVNSnFtUDJlZ3ZySEY0M1F10gFsQVVfeXFMTVM1N3pOYUoxb0RhLVZQY0dIRnRKbmlmcnRvVXhFc0hGYXlIQmZNYkZqSFNnWHhUYW5jY1ZfTHBTTlE4bXpuS3ZfSHQwTnExdnVkTXNHRXJ5RHhzS3dWNVFKX21wVDRKMy1uUFhK?oc=5",
+    "date": "2025/05/09",
+    "fetched_at": "2025/05/09 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "直播 》俄嚴防烏克蘭攻擊習近平普丁同框大閱兵慶祝二戰勝利日- 政治圈 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jTm1yM1NKWDhWSnVoYjhDaERuOHhENVZoa1kxYVhFVmFxbm1tSDFaS3ZGU1QybEhOT1p3VC10d2xlQ0diRXU1QmV1YUhLd3dBSWY2RG5CLXhCZTdKM2dBRHVlaklkV0lIZzFsM0Zn?oc=5",
+    "date": "2025/05/09",
+    "fetched_at": "2025/05/09 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "《國津神：女神之道》Switch 2 版首發登場追加滑鼠操作模式與「畏界遷宮」《Kunitsu-Gami: Path of the Goddess》 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zSGVGcC1kQWVGYl93SkdlZTh1YlRIT2hyMmNycXJ5VnkzRTQ4OUllT19TQ2VDcE03TWx0Q21QWmQ4RURGS29jTUljeHhsdDBZaWhpM29iOGo?oc=5",
+    "date": "2025/05/09",
+    "fetched_at": "2025/05/09 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "《天命 2》即將迎接預言之年！資料片「命運邊緣」「反叛浪潮」接力登場《Destiny 2》 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Yem0xMEtQS2I0R1RiUVN4MEs0N2F3bGZ2MnE1c2pUdHJTcl95Y3ZXRlhwZTN0Y0tDRmtFX2FnQWxxZ3VIS29ScWY2RldJSm9lUmlzZDB1cjY?oc=5",
+    "date": "2025/05/09",
+    "fetched_at": "2025/05/09 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "快訊／高雄大規模跳電！科技園區、高鐵左營都受影響　原因曝光 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfUlpYMUpwTzltNHdFYkhOX2pVZ0NZWXl1ZWVwX0hfd1JjdVltN3BKcy1iVURfUWN6cS1lOXdjM3NSZ2hFQ1JIQ05zUHE5TGdyQTZ6SFNOSXViRktYTWfSAWhBVV95cUxOWVJEdldGMndVdXAtNk5tZElSdGt5NGhVS3dFRFFxbWNCRjYxUXc3U0xGb0pJUEFKa0dnQ0p5YXRfZzZGUG1FUktabGdTNW5pemU4bHNsQlF2c2lBaVJDcGVnUF8yY2tKdg?oc=5",
+    "date": "2025/05/09",
+    "fetched_at": "2025/05/09 18:51:24"
+  }
+]
