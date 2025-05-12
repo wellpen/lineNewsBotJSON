@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-13 06:11:38",
-  "news": [
-    {
-      "index": 1,
-      "title": "Why the Fed Isn’t Ready to Join Other Central Banks in Cutting Rates",
-      "url": "https://www.wsj.com/economy/central-banking/jerome-powell-fed-economy-d6eda04b"
-    },
-    {
-      "index": 2,
-      "title": "Developing nations expect AI productivity boost soon, UN finds",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-06/developing-nations-expect-ai-productivity-boost-soon-un-finds"
-    },
-    {
-      "index": 3,
-      "title": "U.S. Economy Shows Remarkable Resilience in Face of Trade Turmoil",
-      "url": "https://www.wsj.com/economy/us-economy-data-direction-trump-bb5672eb"
-    },
-    {
-      "index": 4,
-      "title": "Indian insurers to shift ₹3.5 lakh crore in contracts to bond forwards for risk management",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-30/indian-insurers-plan-a-41-billion-trade-switch-to-bond-forwards"
-    },
-    {
-      "index": 5,
-      "title": "IMF says Asian central banks can cut rates to tackle trade war impact",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-25/imf-says-asia-can-cut-rates-to-cushion-economy-from-tariff-shock"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "華爾街笑了！台指期夜盤飆漲400點 專家一句曝台股未來走勢 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPN2l4MVVCb0tGcm9SSno1OUlVMi1ubjBNNi1kbHMzOWxJaFhuUzAzSEVXRUhsYkZrYnlOVjhpcS1taWstdjJ4bnBLaHhJb3FSUnZ1ZlZxc2txbzBodUVGaHZEdjhsTzB5amRndndhaEY1OXBfWUVPMWVHbzNOMnlwcXBvMkE2TnRjSzVlZTJyVVZNeTU5N2MxSlVkLWZfUERQQk9UamV4N3NMVHhtVFRqQWNzbFQyVUJDRTBuV0E2cmZXbkZTWXk2cElvemQ2V2p2N0JrZXJ2MEd6MTkyUUQxam5uWmpiVk91dzZYX3BUUWtacGJGY3lnNEJ3RHY1UDBaTV9ZY0VMYURGQUdrUTJHblpudWVlTGgzaFc0S1R2YTFJVFU0cDQ2MWJrWUdHY1RmdXFIeldLbVVldW5oMEdkcC1YUW90UTJIYWM1SFNHZk12b2o2ZjFIQk1zclREaU1PQlc3amNHVXBUT1R3aWRj?oc=5",
+    "date": "2025/05/13",
+    "fetched_at": "2025/05/13 06:21:25"
+  },
+  {
+    "serial": 2,
+    "title": "世壯運週六開幕！爆多項賽事報名人數太少「參賽就得牌」　體育局這樣說 - 鏡週刊Mirror Media",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4aGdULXZpVHdJOG5WLV9KejhqeE5NeW9aNFdidkp0eWozT3NnWkR4czVOV2JhRk9iaTl1WnhWOWVEOGt2ZC1UMm9RSDFVSnlndk5RN3FZb2tVbnPSAWBBVV95cUxOSzRPUmg1TGFQTmNfU0YzTUZsSEJYYzJ6XzB6V1YteTRlemF4WmpsX1RjV1Y5NUxiU0ZvdngwTnhhNnJVWEdlRWNWOUk4Sjg0bHlfQTNRTTNWRDVKRHgtOHk?oc=5",
+    "date": "2025/05/13",
+    "fetched_at": "2025/05/13 06:21:25"
+  },
+  {
+    "serial": 3,
+    "title": "獨家》台中廣三SOGO槍擊案將滿26年！掃射「小小世界鐘」43槍 槍手成謎 - 自由時報",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yMHdNenlSa1VYRk1ReHZwVEhYZUlmbFVoaU5nM2d1QnQwcWpJd3RNRnNLenZtUjI3QXp3UVlfS1d4a09kU1ZHVVFubWdjcmtnVEFhZFREenVNRlMxRURMZWdBTmxqLVVX0gFuQVVfeXFMTWRtVlJFTWVERUhxVzN1cjk3X0YyVzJVaUFMTjhncmRPbFpHRFRKSkRRMnJQR0FvS1hrZU16TlNTeWk1WXdqbDdKcmpRTE85ZFhBRzBlSmZFY1czU0JfUFhKT1hXbGFHOVEzNjNrekE?oc=5",
+    "date": "2025/05/13",
+    "fetched_at": "2025/05/13 06:21:25"
+  },
+  {
+    "serial": 4,
+    "title": "墨西哥爆「當街槍殺」女市長候選人　血腥掃射3死！全程直播 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uZEh0aWs0aXlqbGVvX2FDSWV6WV9nYVh6LTd5b2tLOEJCd2JrUHhiaUpJcUozek41QkY4OE9USEFOMG1hbkpoVmtGUlZIRW1za1pWQ0liazZHaVpMUWfSAWhBVV95cUxPUUxYeWV1Yy1uYmVJTHFPcGxFUUw5UkQ1NzRMYkk2Wm1tWlhCd1g0MWtYVHprOXNSdnlKbS1QQjdyNDRKT0lCSk1KTFJEZG5ITmkwTU5XT3NhajdOTW5vcXRZNjFzQ1ZHdA?oc=5",
+    "date": "2025/05/13",
+    "fetched_at": "2025/05/13 06:21:25"
+  },
+  {
+    "serial": 5,
+    "title": "在新的閑置遊戲中創建一個奇幻生物農場 Whimside - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOENsbk1BdVpfRk1qVHdsUFZXaERjTUFweC1mT1hrYUpZeFMtTjVKMWpFRlI3anFXazRINFg1OXVsTXhiX1pJTl93TzFiZG02dTRJTGZMYjR2bkNkZXp3VWNYQ0dsMzZBTEtfQTYxcnlrdXRXNWVoQlVJX0JtRU5kRTlZWE1ZMzNGTzZWNU56RFJhZ1NPSkI0?oc=5",
+    "date": "2025/05/12",
+    "fetched_at": "2025/05/13 06:21:25"
+  },
+  {
+    "serial": 6,
+    "title": "台大婦產科住院醫師性侵女患者遭判刑3年 衛福部回應了 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5adUhLOEd6SUNkXzBhOFcyWTJqWlQxNGFfdnQzUjY4TFNpZVR4VENQbUQzN0FZdXp0aC1HWnFOSm5Jekt1a3BoYzJKbnZVNC1D0gFWQVVfeXFMTjEtdGN5NWJQTDE5VHU5aXMtRkQ0cm9TeFdkX0xfVUk1UmZQdVdzWUgtS29CNk1obF91d3BDbGZhdE41ejU5WkVqU1dTaU55b1c0YzNGRkE?oc=5",
+    "date": "2025/05/12",
+    "fetched_at": "2025/05/13 06:21:25"
+  },
+  {
+    "serial": 7,
+    "title": "黃仁勳來了？私人專機夜降松機 訪台3大行程搶先看 - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOTkdFODNoYThIZGtYTkRrNkhSSDNVUVg4U0ZkNTg3N1NjZUNTcE9qaDcweG4tZC1hVFlnT1l0M0ZjbEVJY3pMSTNWVFVEQXZiUnA5Y2NlVUpYZzd2NjZhWmtlbUg4UDVpczBNa3JnQU1vMTRyaGVldzZmbXBtMi0tVDBZaWU1dElWLUZ0TWZHLVlSSHd0dk9xR1VBZVJ4TkJMNUh1MEZPMlpWd2VwalR4bVNLUWtmak1zNDNBUHBJZ19PRFR0eUg1dXRZN3YtNGRkOXMyNFNfOGZuNkdoR2ZDblRqMWdjRU8xSEFlSjRMazBqM3FGN1B4cVFaZzUtbk9kTWlvVEEzRjN3TlM3WWZIUEdTQ2JEUm42RG9pWWE4VTBNYzBBSUpCRGtBSEtrcUZLR2FNQk1iYUhrVHo2RnZFVkdkaEZONzhKSXhDaUNSSkRfQ1A3Z1Z0cFREdw?oc=5",
+    "date": "2025/05/12",
+    "fetched_at": "2025/05/13 06:21:25"
+  },
+  {
+    "serial": 8,
+    "title": "美中談判關稅變化一圖看懂小額包裹限制、稀土問題懸而未決| 國際 - 中央社 CNA",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mcUtMWU9iTHF0aGoyZVV6dXpXUmpKaVZYemJ1eGhkc0ZZNHhmdm1CTzVBckRZcUNCYloydUhJNzJXT1JyU0xRZGFpcjlfRUxBNnlycndGZ0JmSkpISHJj?oc=5",
+    "date": "2025/05/12",
+    "fetched_at": "2025/05/13 06:21:25"
+  },
+  {
+    "serial": 9,
+    "title": "獨立團隊打造像素 JRPG《懷舊之種》募資逾 42 萬美元 - gnn.gamer.com.tw",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JMDRzV3UxcjJMU0hncFU4Q29jalY4TWFOaXRmbVRsUS1fQ0lPVlhHa3JJeDVyRnVMV1hHcThPYkh5VjFhYjhJc1Rsd1FGNXFxVnRYNXFGWGo?oc=5",
+    "date": "2025/05/12",
+    "fetched_at": "2025/05/13 06:21:25"
+  },
+  {
+    "serial": 10,
+    "title": "夫妻參加「交換伴侶聚會」憂染病！性病感染比例增 2類人應定期篩檢 - Heho健康",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GSGQ5VVF1blpESF91UkktT0VOUjFlaUU2R04wZG1NcThNc3FwdC0tRVJtb21SV0Zzdk91S0VvQS1lSXdQX3dWYndiaw?oc=5",
+    "date": "2025/05/12",
+    "fetched_at": "2025/05/13 06:21:25"
+  }
+]
