@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-13 18:29:04",
-  "news": [
-    {
-      "index": 1,
-      "title": "Why the Fed Isn’t Ready to Join Other Central Banks in Cutting Rates",
-      "url": "https://www.wsj.com/economy/central-banking/jerome-powell-fed-economy-d6eda04b"
-    },
-    {
-      "index": 2,
-      "title": "Developing nations expect AI productivity boost soon, UN finds",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-06/developing-nations-expect-ai-productivity-boost-soon-un-finds"
-    },
-    {
-      "index": 3,
-      "title": "U.S. Economy Shows Remarkable Resilience in Face of Trade Turmoil",
-      "url": "https://www.wsj.com/economy/us-economy-data-direction-trump-bb5672eb"
-    },
-    {
-      "index": 4,
-      "title": "Indian insurers to shift ₹3.5 lakh crore in contracts to bond forwards for risk management",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-30/indian-insurers-plan-a-41-billion-trade-switch-to-bond-forwards"
-    },
-    {
-      "index": 5,
-      "title": "IMF says Asian central banks can cut rates to tackle trade war impact",
-      "url": "https://www.bloomberg.com/news/articles/2025-04-25/imf-says-asia-can-cut-rates-to-cushion-economy-from-tariff-shock"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "Tony Hawk 和我們一樣想要 Underground 重製版 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQWVLQXJSeXlPd2lJQkJRbmJEdjBQaFRrQWJPXzRTZ3NldXhPWG5jWlBtank0SFIxZkNsZmRqMUp1NDkzYzZ3X0N6R2Y4OGFlclVPQkZ0M1cxVWx1SFZMZWZJazdvT0x5S0tHRU96Uk5GWnhzVkNlT1RrZ3Vmb0N1bXZGUDFiZ1MzdnhiMmEyVEFxeW1tR01xbnRuRFp0Zw?oc=5",
+    "date": "2025/05/13",
+    "fetched_at": "2025/05/13 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "快訊／《核管法》修法三讀 核電廠年限「40年延至60年」 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tQzZCTkhlRDR3Zzd4WVkyaURXZ2EybTlOWkZ3VTVpNVVvSllyb0V4MV95TFFheGQ0QzdvYl9id096NmMxMlR4MDVVLTlldGJkZ1pCQjJxVVNmOTB5dHc?oc=5",
+    "date": "2025/05/13",
+    "fetched_at": "2025/05/13 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "輝達海外總部傳選址台灣 侯友宜力邀黃仁勳來新北 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1McWpCMjFHbjdVMm5icWFMTVY2am5NX0NHNzBIRzgxWTZMcG5RaFZsLV9kc2xEMG9iZ29Vb1g3V0N1amk2T3JURkhNU19SOGJS0gFWQVVfeXFMT0xQR0cyYms3c1B2MWVkRGgtbkpkZDdSdzNhZkwxWTAtV3RsRHRyeDZzR1NLMVIyd1lLVkFhX3Z2ak0wUXZ3X0RFTnZjNjRYWVQzS255d0E?oc=5",
+    "date": "2025/05/13",
+    "fetched_at": "2025/05/13 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "外交警訊？台灣2邦交國出席北京中拉論壇 陸外交部這樣說 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rRC1nNnZ0bmlCcnExR29wY1dPX2xrWnBhTGpSdWdTd29CX0Foby10XzZtT28zMUR1a0JxYktjVjFWdC04N3JWQTRFVlhtRzUt0gFWQVVfeXFMUGM0UGZhcmdRYkVpcGt2b2NNUnM2U2o1djk5UWtuaUM5MVVDN0RjY3pFTGZ2cnlCVDc5dHVDWGJHYzdtNXpjMENQdmt0T2UzT3ZWV1J2Y0E?oc=5",
+    "date": "2025/05/13",
+    "fetched_at": "2025/05/13 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "悍將主場7連敗！富邦大董蔡明忠現身鼓勵　賽前半小時閉門會議 - ETtoday運動雲",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03OUhtdWhVeHJjN0tYX2E1Zks4QTdmT3RiSUdXTzQyMXlNa04xbWUtNHVJRVk1R09RWHJfeDdoZnQ1Ry0wVjdYNUVOUDIySnQ20gFsQVVfeXFMTW80SlB0WWhuZXZ6QkE3ZHFWWGljb3BEMnRmV2VqUk80dUhWWk1pR29sVk50UVRENVJVNzVmS2IxVzNMR01URVpyYnNub2p4Yktobk5rcW9HN2p1dnZtTW5BR0JHckRnMmJuQzVu?oc=5",
+    "date": "2025/05/13",
+    "fetched_at": "2025/05/13 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "世壯運狂出包！蘆洲變蘆竹、台北成TAIIPEI - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQeHlKVXZFQmhWdU1wMGRZam1XUGxUVDhxcFRIZ0RqckRUaFV5N0RvMEdVNTk3aHk4WmlNcUlJMGZxQnIwOEhocTVNSklYX290ZkVrRENWdjJHb2F6TkhyRXZiZUF4ckFBR0xPQzZVa3JwMWRyR2tyWVhILVN4Ukc5cE5XaG5vMHdjN2JiOUlUVlVxaW14OFZvTUNjb2JvNDRsT25WZUx3bjQtUVdtTlJXQ0ppdjhWRjhmVm0tUS01clpoSktGejNCWDZ3SWNhRmhtVnplSDFLSmtrZ2laOFhKS1BNR2trX3d1VTVNQmQ3RG1BOUtwUGFJZHNYZ1dJaG9uRzNDODN3RQ?oc=5",
+    "date": "2025/05/13",
+    "fetched_at": "2025/05/13 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "卓榮泰：擬推「婚育宅」 生1胎就加碼租金補貼50% - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOT0g2bGVURFRaMWY0dF9idkh1dkdGV1BOQTJrUEdIS3dzUkY2WmhSMU5ISWNNc0NQLU5CVUhpUkVOdEQxRWZaQWRYQ1lFcHBBb1NabDdfUUpDMUJTSW1rcUFUVDJvbnVMWVd5M2pYbGdKWk5KdXlEdkE5TE5iSmlFQ0hhcG1va1RGa2JJSGVfYXptU2lCeUwzMjVtMGVvUHlnNlhmbEpfUFdmOEc0Ml9JbklSelF4SXRIVUVadGpvZFFHZzFUQ0dFUXZONXJETF8wVGl4cjFtTzlQbW9SU0hqWWMxN2FBX3hvWjBZVzFqUUVnbFl3bmNMVmc1dVRtZzl2bVljZU1XSThZOWgyM3dCdFZYWndqdlMtTlNINUNpT0lKUWh3NHpDTkRCcmU5bTJXREhsREJPYlk1NGo0SVB1cHVqVHUteUFI?oc=5",
+    "date": "2025/05/13",
+    "fetched_at": "2025/05/13 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "里程碑式人類細胞學研究繪出超400種細胞圖譜（聚焦大腦），驗證了陳革成教授的精準醫療願景 - PChome Online 新聞",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb1huTEctR3lVY0hzbVBUYTFRZjlud2I4VVNNd1lOS1hJZmZsLVFOR1BsQWNWTnRFOUlFTlJPYnM1NnhGOGt5aUdNZGlJbjRHbW5wVTE4MjRaWTk0dlJhX2ZuUGFCUGRTNHEtdUgzdExWUi1wWHRSV2xueEpueUFlMFp6TUZtX0N6RHdB?oc=5",
+    "date": "2025/05/13",
+    "fetched_at": "2025/05/13 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "川普拋統一說惹議 總統府：美中貿易談判無涉台灣 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qT29zamdYYVZkTWVEdEJ6dzVxcEIwcm1xVUFidmdzSzc4d0dMOUhIUUViMlY1Mmd5X013SDdFRUl5eDJlN1Z5djc1cl9rMUcx0gFWQVVfeXFMUDBaRldCTTFsSGRjNTFRRlVTSEhCd0N4ODFTZVhCT0pMWm9VXzFEOTFPVHdtOFhNcnVQbGgtS2FuNF9OeHRLTXJRellXQzJidGZpa0h1TkE?oc=5",
+    "date": "2025/05/13",
+    "fetched_at": "2025/05/13 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "NBA》（影）Tatum左腿非接觸性受傷、明照MRI 綠衫軍更衣室氣壓低 - 奇摩運動",
+    "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPMW1OU0NyVUZZbWt4cG01QldQVXdpVjdLRU5XSktMOU05YzdDM1ZZVVpiLTkzUmIwbHpFRFhTX1lWaGozaDdIQ3dYek5ZVVBaLXRXLXdlNHNKVmNQeVhwaS1Cazl3LW1XSlVITk5Bd1l1U3lZZG44OTA2M1VIcTVYMUJGdzlkdlhPUGthNlVnYzdrU2ttOGlnQ2t2YTNyNVJ5ZFRzS0lxRFI3NS1LeGlubnNSQkFPREZtaHQxSWMxb0llNlhaUUtSWHpiWFZ6QTBEUHZpZ1YwQ2hwMjltMGNmN1hRRFJUVUtVWE4tSU42ODhUdkxLU3VSV21lZGNuRkJRZUxfd3NETEVWdTRaaDVPZDdNOTRwZDJRQ013N3dhamI0NHdaLWlIUGRodEdTOFdUcXg0UWpSX2l5R08yeUY0SHREd0pMYzF1b1gtOHF6SDAyOXlHSUNJeldQYjBtbnNU?oc=5",
+    "date": "2025/05/13",
+    "fetched_at": "2025/05/13 18:51:24"
+  }
+]
