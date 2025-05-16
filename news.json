@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-16 18:27:44",
-  "news": [
-    {
-      "index": 1,
-      "title": "RBI seeks to revive funding market vital for monetary policy",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-15/rbi-seeks-to-revive-funding-market-vital-for-monetary-policy"
-    },
-    {
-      "index": 2,
-      "title": "A 90-day tariff window spurs US retailers to restart production",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-12/us-china-trade-deal-has-american-businesses-restarting-operations"
-    },
-    {
-      "index": 3,
-      "title": "Why the Fed Isn’t Ready to Join Other Central Banks in Cutting Rates",
-      "url": "https://www.wsj.com/economy/central-banking/jerome-powell-fed-economy-d6eda04b"
-    },
-    {
-      "index": 4,
-      "title": "Developing nations expect AI productivity boost soon, UN finds",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-06/developing-nations-expect-ai-productivity-boost-soon-un-finds"
-    },
-    {
-      "index": 5,
-      "title": "U.S. Economy Shows Remarkable Resilience in Face of Trade Turmoil",
-      "url": "https://www.wsj.com/economy/us-economy-data-direction-trump-bb5672eb"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "立院藍白聯手 反廢死公投案闖關成功 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KNEdtYVVMdURLNDZpcWlNVzlfaUp2VVpfM1ZObjdHdjg1U2NwcnQ4ZFQwMGFZUVJiQVM0eEdKM0RoRG43SkhjNENoZXRtNlR00gFWQVVfeXFMTzVReEpSS2JWUXdodDh6QVRNWlQ1bUQ1dW1od2FPaVpMbGtWV0xPTldqWERheWpuNWc3d1ZGc3REbTFJbFVhaUc2MmpEakhOQjBnZDU3cWc?oc=5",
+    "date": "2025/05/16",
+    "fetched_at": "2025/05/16 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "黃呂錦茹羈押後首度提訊 15名黨工、志工疑抄連署罷免名冊遭約談 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TQkxyNWt2WVhnVmtiUklITWpFeHVUeWxaa2hKN0NhTU1LQmhqbzZzaHNlODYwWW03cHNJOW11LTA5ZDBtMm0xTFIzM3JoQ0RtYXpJ0gFYQVVfeXFMTks3ZUx0MkJ4bGktbVZIRERjakJkTzVNcDlZVlhhMUIzbW5GdW9XOVlwdm05QUw3MDZOY29Rb3NVMUxzSFFldHFxQVFSNzJoYkNNNUFUVFNyMQ?oc=5",
+    "date": "2025/05/16",
+    "fetched_at": "2025/05/16 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "工畫堂新款冒險遊戲《終將凋零的鏡花》今日釋出試玩版與讀心能力少女一起解開怪異事件《Dear Mirror Flower》 - gnn.gamer.com.tw",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xZmpTTEZaV1ZKSDZvakFyVHRsV01WRmlNMTYzemF5UUJ2Y3pOMXFUb2hnR0VnTWxPTFBSY0M5cENwY2hZbnpRQ3lWSVF6SDV5X29GOXdONjg?oc=5",
+    "date": "2025/05/16",
+    "fetched_at": "2025/05/16 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "台幣升值衝擊！「五壽險」遭列負向評等觀察名單 - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQOGRMRzVvclgwU3FOU09ERk1rajkxS1FrUmdYUVZEUDgxVkhYVlhZV2lnWXZhWUFQLTF4RlNFUE04QzJQMG9fVW1SU3hNLXRYYXNCaFVsajNyNW1qWW5xbmZKbGNQbjBnWk9zbDJoVXNxcmZ1MFhqbDFJUFh5dmIxUlhSblRUNkVMQVRsMHNkaWl5MUFrTmFfelpOMDJha1FhNXVLODhnZDF4eFBneE0xN0tLRzNPM3FEVkVuQWlGNFd2d2F0MlhOVkFENVIxTFhGWnEwY3BxTWlmeTBSVHdQQ2VsUVZma1MtT2NVRGR1bnkwOENmdHYwa0dpOUZkR3BDNzAxbnNZNGR1VlhHTWdlNzBKbTR3WGZpZFU3YnNYanBldjdvaUVmdE0wUFdqMi1LUXZ0T1dvSG5jMDZVMzdkV0Vn?oc=5",
+    "date": "2025/05/16",
+    "fetched_at": "2025/05/16 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "失智症成長率它世界第一2050年患者恐破億曝最可能危險因子- 國際 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjcVUtZmZQdExwLXkxVTBxSTkteTVSNklaRThCcUE5cWlncUtXODdDRkMxOXhtR3ZKRXNaQXlmdnhaMVdyTXZ4U3ZkT194M0p1NUdwSDE0bFdDOEcyWnROX2ZocWt6Yk1fOE92MlNB?oc=5",
+    "date": "2025/05/16",
+    "fetched_at": "2025/05/16 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "日本櫻島火山噴發「持續12小時」！航班急砍25班 機場快癱瘓 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNXzJ5SVJBTnpIQXNqSjkzdUliYWhZODdwcDlsMGU3SUMzdmpoWEdsYjFoQUk1TVhjV3h3RDNQMmZrNWZuTEFaU1JlZjBpWEJveWtlODhWZzF6UDlyaWhDNXFHU0dNdFppUXFKNUlEMjl6cWtaOXJnZnFuMmp1V18zU2ZmUFFCT19Sb1NxMWFYckc2cVVVVDJtclZCQWt5ZElOdFg1ZXlBRzN5YWc3LXotSS04Y2ExYWZENXFKNWpwUjZSTVNUd1ZfU2lnQW8wenN6WTZ4MHpSUU1GRTRsUXBKRjJRdllJbHBRVktvNFNJUGtlNGJ3Z2hfUUJJZEU1TWVkZ3ZWLWt5LXo3ek9TdUdaa0xkUmEyaXVzejFweWRERG9haUlPOWZKd3J3U0ROYTJ6UjBKcml0RUsyUnppUVZPeTZ3ZzFqMWt2bVU0Y05VajhSd3Y0bHJIV2ZXYzZhSkUwMzhKTQ?oc=5",
+    "date": "2025/05/16",
+    "fetched_at": "2025/05/16 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "MLB／運動家捕手K掉大谷留紀念球 每投1球都像在逃命：真的很可怕 - 奇摩運動",
+    "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNSmw5OFhaRXVHYVljdjdXM0E5eDM4Q3h6UDVFZUl5WTBTclR6UVJaVDhEQ2l6M25jOV9xWlU1NzVwc1J5RjlTRjdBUE1UVExPRUdQdWRqZWtkR3BxRXVGSTZLRlI4WXpldHl5S3VUZ2xmWXRyOXV0X04xS3JZMU1aMHdpVW1nQ21wbmtGc1lVWEYwNFd6d2pmdllJTk5NS1U0T0I5V084YWNVdkZfRW1aYko3bEExeUVwa0RNeUR5REl0N2h3MmpDdjdacjVGd2VGUHVZNFdzSWlxUm1SdjZ0ZUFwTlQ2ZWpJN0YwNElQS0J1QkJmT3JkeTB2cHAyMW11Y0FNZ0c2dmZ2Z3lZU1NzOUVQaXl6ZnF0YjkxWnRoUEZUSFl2eUxVejJ0Q00yZGM4WnVmYmh1Z01Cd0tMSW9tM2FtM2lxajdPQkpockd3a2VfVGQ2QUp1MFpIbm56bS1zOHgtbnJQT3Yzd2JBdDRUSWR0elU4Mk9GVDZGSFlpZmVuVG0zMWM5Y2M2bHZQOGpWSzFV?oc=5",
+    "date": "2025/05/16",
+    "fetched_at": "2025/05/16 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "曾國城捲風波首露面！慘丟工作認「有陰影」　吐心聲：講話容易被扭曲 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzTGpTcFBZZlNvOW4xNkxxV0dNVTVPUkFzQlhfTHhibE5yTmZfeDJKc1NjQ1ozdmhRQ21Td2RhY0pBa3Y4QVFfcmhMSG9Cd9IBakFVX3lxTE1FY2phaHhaZjdoUndyN2xQcTBJRUo3YktuclJyYUktYUV0V29seG9pelJQT0VQbmt0c2c4Y0pVT05YUThvRjB3WVJ3dFBuS2Y2SmVhd0c5Uk5TYkVTak84WTZnVUFocU9wSHc?oc=5",
+    "date": "2025/05/16",
+    "fetched_at": "2025/05/16 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "哈佛大學研究證實：這8個逆齡行為持續進行8週 可以年輕5歲，趕緊筆記 - Marie Claire 美麗佳人",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1RGpob1pFb09qcnByNG9seEJ3YlJDS1VIUTA3YW9oUENaUVkwb2lVUkV4RTEzRjRya3NERWwxcGNXanByaEs5LWpJMkF5SmJqLVNyRTlJczJTaGtzWFo3Z201TU90YWxhRVE?oc=5",
+    "date": "2025/05/16",
+    "fetched_at": "2025/05/16 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "維安忙翻！柳采葳怒批副總統臨時出席世壯運開幕蹭黃仁勳 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QZFRFa1ROZHRYUUUydVlLTmNQWXEwS2pSQWhlVXNFSFg5aGhHNHdVaDdGeDQtT3Zfb3l4bEJQWndtYUpQLTNTM29GZG9rSUZq0gFWQVVfeXFMTTNLVDg0RVV6cHVPcVpURmZUSEY0WGRfRjVqUlp1bUdFRTNLUHZzd004OGFuTkp4SlZTMjhWcGY5eGVqX0cwOTExTFJ1NjRYOVAwdXI2bGc?oc=5",
+    "date": "2025/05/16",
+    "fetched_at": "2025/05/16 18:51:24"
+  }
+]
