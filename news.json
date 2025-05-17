@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-18 06:10:06",
-  "news": [
-    {
-      "index": 1,
-      "title": "RBI seeks to revive funding market vital for monetary policy",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-15/rbi-seeks-to-revive-funding-market-vital-for-monetary-policy"
-    },
-    {
-      "index": 2,
-      "title": "A 90-day tariff window spurs US retailers to restart production",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-12/us-china-trade-deal-has-american-businesses-restarting-operations"
-    },
-    {
-      "index": 3,
-      "title": "Why the Fed Isn’t Ready to Join Other Central Banks in Cutting Rates",
-      "url": "https://www.wsj.com/economy/central-banking/jerome-powell-fed-economy-d6eda04b"
-    },
-    {
-      "index": 4,
-      "title": "Developing nations expect AI productivity boost soon, UN finds",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-06/developing-nations-expect-ai-productivity-boost-soon-un-finds"
-    },
-    {
-      "index": 5,
-      "title": "U.S. Economy Shows Remarkable Resilience in Face of Trade Turmoil",
-      "url": "https://www.wsj.com/economy/us-economy-data-direction-trump-bb5672eb"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "心衰竭患者 別自行減藥 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWW5kNHdOQTk4Y0FqenZVbTMyLTA4QVVCeE5EWHNpRU91bmRoVFdHTXR1YUowSy1ZMzZ3eVh0T1dtM0RSY2NOeUVGV1NvcjZIbENXV2U4VDIwQUt4OGdRek1oeHpaWjcxam1yUTFkN3NCTkM2WTJaUFd4cU01S1dXUml3TFpyMFByRmNZOEVkdnBObTNuMVp0YzZ2bTlsZTM5TzAySTN5UjJEU1JSbzFsaGxBQjhoQi1oY2ZuNkE1aVgzQ0pBY3lGY3BrV2M?oc=5",
+    "date": "2025/05/18",
+    "fetched_at": "2025/05/18 06:21:26"
+  },
+  {
+    "serial": 2,
+    "title": "兆元宴再現 黃仁勳：AI產業才正開始 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EM1lFVlJua3JHdE1RSGtsRXlJOHlINE5OUUlHbUV4ZFA4b1VkaGEycDdkU3hPcUl1anZEYXA0eW1Db0otX3dYTjZJVVRIeER0MDRZ0gFYQVVfeXFMTXZhSGlOU1FVV0liNUZ6bVJyZHFmaE5nOU1vVDFiZ0ZRbGpqVmNuczc3VTB5YlhlTDFabTFMRUlyUXk2MzZpSUJ0VFNETXpibnh2Y2JuQlA4aA?oc=5",
+    "date": "2025/05/18",
+    "fetched_at": "2025/05/18 06:21:26"
+  },
+  {
+    "serial": 3,
+    "title": "周湯豪道歉了！世壯運口誤喊「世大運」 訴懊悔心聲：會努力改進 - TVBS新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LVl9LWjZaRUZFcTlDTUVxS1pTYkNGWHRPRG9MWE5mRFY3U19yVjJFb3JQb3Ezb2swa09nUEhUcndCTXI4NmlHbEVTbmttcDBvTWVwbzQ0TExNUQ?oc=5",
+    "date": "2025/05/18",
+    "fetched_at": "2025/05/18 06:21:26"
+  },
+  {
+    "serial": 4,
+    "title": "世壯運／又出包？選手大禮包內乾燥劑遇水自燃 執委會回應 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YQ1k4azBvTGlHeW54cHBhOVl3QlFJWWMwYXJ2T01LRkszcXFoR2phWE5MTUpyM2ZZdWFHdktEU0hIYm1wb2wwRUlwR09ud3Vrdmg4?oc=5",
+    "date": "2025/05/17",
+    "fetched_at": "2025/05/18 06:21:26"
+  },
+  {
+    "serial": 5,
+    "title": "韋伯與哈伯合成新影像，滿滿光點幾乎都是星系 - TechNews 科技新報",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNHNnT25haHg5NmlIQ3d2R08zWWJ0Wm90OEl4R3FiWmxvYnpKc2NSb2p4QS1SYWRYcFZsaUQxVU1INHIxWU1IUUpBeHZ2N2EzX1dIZWdSM05TSXZmMVhnTUFGXzgwemUzczk2UnNDOF82Tlk5TXI5VElGU083WXpzdzcybjJ2WWFjbVE?oc=5",
+    "date": "2025/05/17",
+    "fetched_at": "2025/05/18 06:21:26"
+  },
+  {
+    "serial": 6,
+    "title": "黃仁勳：假如我現在是學生 我會用AI做好工作 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YZ2N6VnFVVzVjOXFKQ0tMdjVjM3BxUVJTaG13c2V2Y25IY1FKQVJmakZiT3ZpNU1CM1Rnc3F6S1ZEdXdlOVRSMzlJM2h4SVk4c3dvb2tQR1ZmZGhyVzhv0gFkQVVfeXFMUE1MWkgzQUlhRkFQTXhTSUl4Q2x0WVBfR0hFMWU3ekU5bmgyXzk4c2Q2SzgwSHJ6amRvZVRSbWgxaVJCczV4cUJ0YVdmY19CZDFfQWs0cC11b2t1YVpENWw3eGVETQ?oc=5",
+    "date": "2025/05/17",
+    "fetched_at": "2025/05/18 06:21:26"
+  },
+  {
+    "serial": 7,
+    "title": "中職》狂！魔力藍燃燒本季聯盟單場最多球 富邦暌違25天2連勝 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83bW5BeF8wWmZWWWgtdG5xZ3dtQjVBbG1qdk1PZkxVZGZwdmo3RGJjOXZQeWhzdi1HaVZFd01CckczQWg5RHN1Z0hWbGtvcHphaFFtblgxa05ZS2ZFWHUtWdIBZkFVX3lxTE03cmdtX0FRUjZJRjg3MG5Dek1ua0RqUVNGY2xoZDJoVWdSaTJ0TkZuQWpMNGx4ZEplWWY0V0pSWFl2Tklrd1ZqRHViSXJGYkppbkRtTWZaeXJhMzNnaUZ3d2tvck9udw?oc=5",
+    "date": "2025/05/17",
+    "fetched_at": "2025/05/18 06:21:26"
+  },
+  {
+    "serial": 8,
+    "title": "中職》陳傑憲說了什麼？邱智呈3分砲攻破林詩翔奪MVP - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pMElob3BLUXJqVnVSeHhPd2o1X01QLXpDcUxJWXlHU0xLMkJEZlNSMDhlUS1IYTVJdE0xVWtadWpOMENvNjJYRGIwdlJtemRHUlcyR3JDRHNST3F6Rlo3WNIBZkFVX3lxTE82bUxDNVdwN191ZlZpbW01eno1VjZEMTlQQTF5ZUtpT0JDT3Y2Q3dVODgzVEhhanR5U1N6Q1kyS3QwVmNrVTdfVms4eDZISkU4V2E0SmZ1d29famR2blJHc1gyanQ5QQ?oc=5",
+    "date": "2025/05/17",
+    "fetched_at": "2025/05/18 06:21:26"
+  },
+  {
+    "serial": 9,
+    "title": "不滿施政就是不愛台灣？　賴清德：批判政府自然、不會被貼標籤 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83YXFGb0llV3pGZFZUc3hwNVZmSVMzMmxWR3pHV3Z0YXl5R2VIQUpRUkx5NjJPaGlrTUloRmpjdDJYSDN6NTI2a3FPV3hDN0R3RUhYQ25JaUNaRTlLcmfSAWhBVV95cUxNX2o0eTlvRS1nbEJydGN3Q3NDMWswaXRkTTdiaEpETmV3VFA1dHhwVmRROVpvMWNkb3IxRWdzcHFvRFdhajUxRkVQbUM1Z2VOQ0R1MnZEZjJKdmpDM1JzV3hmemhuczV4bw?oc=5",
+    "date": "2025/05/17",
+    "fetched_at": "2025/05/18 06:21:26"
+  },
+  {
+    "serial": 10,
+    "title": "中職》樂天雙箭頭陳晨威、林立開轟擊潰中信 宋晟睿睽違1015天再登投手丘 - Yahoo運動",
+    "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxOdnE1ZU8tREp5Rlo4enBPRW0wY1RVdXFxbmxBWjFYQnhaTkg3TkI1RndESEFQdTJQem91bkR0Y3oxcXhrakRGRTVqRlVDTkFLMVNpVmNFa0hiTmVnakNDN1JFWU5BaU5ucVV1OVdNUWNFTHVDM012MGU5VTJ1M3V0eGJaU185U0hOeEJ4OGxGb2ZZdjV4T2dyTWpUMTVfZ09JVmZUM2UzWDJEVGlhYThaUnhwVkpHT3NkZjdCZ2VMbHJkTDNubmU5M2otMi1mNlhNVE9zeHpTT2ZHTlI2YWd2eWV1Wk1tVUwzbC04bzlDcUVLVTl0ZG93QWtqSE4wOTFYY1JING5hX1Nmc213MTE2dUpvSGtKb1NaWVp5cDUwTEIxRlo2emg4bWl3MW1ocDZGRGNrVG5rSWN1eUpTTEpZTUZCb0dyd2wyYWRkT0ptYXYxUm5BVXhWeWx2Z1FRdjFsZ25GQkVxLTJ6MXQxRUJWclB5ZzViNTRiYWhkbUJtYlhzNllub3NsMEJYOVdLc1dnSHpMaUhkbmlublF2TXg4aUF1UDdKVVJaV25jY1lLRngxUWtjV1FGQWlrdWF0UGxzZkE?oc=5",
+    "date": "2025/05/17",
+    "fetched_at": "2025/05/18 06:21:26"
+  }
+]
