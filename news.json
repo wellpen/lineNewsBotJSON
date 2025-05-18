@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-18 18:25:21",
-  "news": [
-    {
-      "index": 1,
-      "title": "RBI seeks to revive funding market vital for monetary policy",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-15/rbi-seeks-to-revive-funding-market-vital-for-monetary-policy"
-    },
-    {
-      "index": 2,
-      "title": "A 90-day tariff window spurs US retailers to restart production",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-12/us-china-trade-deal-has-american-businesses-restarting-operations"
-    },
-    {
-      "index": 3,
-      "title": "Why the Fed Isn’t Ready to Join Other Central Banks in Cutting Rates",
-      "url": "https://www.wsj.com/economy/central-banking/jerome-powell-fed-economy-d6eda04b"
-    },
-    {
-      "index": 4,
-      "title": "Developing nations expect AI productivity boost soon, UN finds",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-06/developing-nations-expect-ai-productivity-boost-soon-un-finds"
-    },
-    {
-      "index": 5,
-      "title": "U.S. Economy Shows Remarkable Resilience in Face of Trade Turmoil",
-      "url": "https://www.wsj.com/economy/us-economy-data-direction-trump-bb5672eb"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "中職／不是李珠珢！啦啦隊人氣王「她」奪后座首發聲 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQQjNLaEthWUtFZVNycURkVXZvZFFpT0dnZl9ialBsanphZWhsRXlnVEw5VWJpc1BRS0VEY0JsTGhkY3pCeE95d2JZME9kRkNSVTdSLVdyRUllcnZDc3JXd2diQ1RQOEhNQjRqa3NvbDdpcEduRC05cGFzdl9taWVrNy1jelBZZGhRYWNhRGJLY3paYmxEd25NbkYzZFlONExHVXBya0JKbUVjT0dVazJOUUZPTXNramdrOWtqRDhJVWNWRWFrLTdRdlNWc3VZQllFekQwSC14cVdja1RRbTJWV0NrR01TNExDX1hjVC1JM0pDSS1kd2MyRnE5YnZheF9aZjlKTVVxQ0tNUW01Y0doTkdoeks2NEt0UXUtclM2LWc0Vkk0VU1nTmtlWURCX28?oc=5",
+    "date": "2025/05/18",
+    "fetched_at": "2025/05/18 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "快訊／豪雨狂炸！台鐵和仁至崇德電車線遭大雨沖斷 新自強號卡隧道 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPdjkybXRldkxfeGJaUzJLSGp5clRXRVpvcGlOZUhIcG5CUDFkTjlNM0dDWXpvaUJ6UE41NEdzTkRuYW84RG5rOF81V1Y3Z3FHX0RnZHg4MXZfMzZwZnk3WXh1NXNlWXZxNlVCakx4R3Y2cGxOaEt0QzQ4MURQOVczeTlnZHM2YnJjRnFGb3VUM3ZrQTlMWEpOd21zS1ZvY255eTFQaVpuRnh1ZzFfX2lXb19hbGFicG1mdWJxTlQxSEdMX3BBWDF0SzVYajBoMW9DSHhBUUo4MmdpNG5CNnFrTURIRktVbjNvcWlINkh3R2t6UXFDMkhVbExZWEh4S25DV3JleERidlU5VDlLaUZGRGRxQ3plbVVhQTMzWGhzOEtGNGt4bXpUdm1HWDUyemFYWGxPQUpGeF9odjhrTUZSakgyQlljeUVaYlBZSHYzVGs3LXVPLWdWNXNXems2clJJR0NhemZ2ZVo4c0ZmMi1NeDNuR3Z0WlpGTl9BYnFjdWhrbnF6bC1MV3BBb2U2S1Fpb2ZKY2IxemJndWNjMGVHQUFjOUtLN1U?oc=5",
+    "date": "2025/05/18",
+    "fetched_at": "2025/05/18 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "Retro Hits：為阿卡姆系列鋪平道路的超級英雄遊戲 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNRjdmNHk0WVktM0ExVFRTVmRSWmYyUG16a3lmeXRJblFPVTV1bHJLcFBqdmg0X3h5Y0pfS2NPZDVqU1kwRGNFQkJCWVo0a3Bya0dlODFlYnBTUmt1TnRxYnRqV0VVOGljd1V2ZWVTdXcyVXRaVEg3WjNHcnNPWnZVaHZzVnZFZ2FEQ0x3WWMxR2dsM0d0S0hJNXdiZjRNMmJqa1pLUnE0QVlMN0Q2bTA3RElBXzVUQmtQRlVHeVZ5WjBjSlZuSm01VjY3VWhmYWZ5RGxQblNmVkpMVkJOenBtQXNia19DNS1HdW5jX3Q4QmNsWWhDX2ZXTmV2LWk0azk4d2RURWZHb0NaMnFHSXZwQ3NqQ0c1dlhIdFRBengxREpXT1I0bDF3MC1qUlYwaTVDTkM3SzJmZVhsTER5MFE?oc=5",
+    "date": "2025/05/18",
+    "fetched_at": "2025/05/18 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "不只要烏克蘭割地！　俄羅斯閉門和談「停火要求」曝光 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YYXp3NGxpZmp4TVB0UlhCaTM5STZ0eGxTZmF0M1phenp5aGJkb09VMDFjbEs0THZWX3JYbzU5V0pQOW1PYlNtZ1F4Zy1ud1RnbFQxZHFUNEctc2R4NlHSAWhBVV95cUxOV3B4anN5SDQ4NDJVUmcxVVNaVWFicmdGMnZzX1hDa3ZGVTRZTl9YS1N1ZUEzVzI0WTZoU0c2N2M5OTQ0ZnozZWhyb25TNVY5N1o4NEJHbHpXeU1pc1hBVVUwS01ROXAwbQ?oc=5",
+    "date": "2025/05/18",
+    "fetched_at": "2025/05/18 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "日職／古林睿煬加入後先發大爆滿 新庄剛志「開心的悲鳴」 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3N2V4dXVDX29USDBRcmdydktONEltemh5WldOQ3J3NG1qWWQ4OVJWUDVxZjRmcUxxRndRcGFDOHA3c1BEVGRjMEtlVXpHUVdY0gFWQVVfeXFMUE5yOXNKblgtMG5zNHlFbGtZbVJRd3RDdEEwcFVXMGVacVRscU5NRnF3R2xuQ0hoeE1NRmJ2ZWs4OWRlb0d4Vlh1VE5KN1FocHVWeXlhMGc?oc=5",
+    "date": "2025/05/18",
+    "fetched_at": "2025/05/18 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "黃仁勳簽名球轉賣5000元　本尊幽默喊「要55分帳」 - ETtoday財經雲",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0MEFtUTZtcG1XUnRmYlZCdU90LVJfZmNxX1pTaE5ZR0EzNjRWbGM2Q0JqRmNtQ0N6R2Qxdk1TQUlmUjBBWUtRSWtQNmF0c1Y3T2fSAW5BVV95cUxPTmtieVRJcVZuSzBiX0F6OXd4Mld1WnFteXY5c2dfWjdhNTlfMDFlTGxHVDJuWmNNblRXOVJwaUxtLThxMXZxSUoxWFA1bm1qbWNxVzlCRHRUWEgxOGN5VUxIX1lzWTg1NC0yVTVwZw?oc=5",
+    "date": "2025/05/18",
+    "fetched_at": "2025/05/18 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "十大癌症死因第3名！男罹腸癌復發轉移 醫靠這療法清除腫瘤讓他好好活 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPRUZGNU1kUGtyVFFXRk5tOURQclZLbVd4YXV5Ym5PdkRMQVg0cTRqNWt3bi1Sa2tDMV9kcks4S2pabmRYSjNEaVQ3Z0doenBCVXpoeDY2YkJON3djLWk5cV91NDJ5Sm9TLWtKTDJxaXdqbEQyc3dJOW1FaG90d1pIWHVsTW9UVklqVGJIaExoVlRZSUthbkMtenIyX25wV3BCSy1TOHdXY2U3dXVGbDJtSUJKcGFpSmVWMUlQQ1Q0NVJVWXM0bnNMeUNMNDl5dnp0Um5zdVpGUWZYR2ZwZWE4ZVAwSFZCTUp3OWVGZkw5NHFENXpnQmptNFB0cUFOdnNhUEJucnk0cjdEQWNnclg2YXFGWkdtem43ZTlJWjVTczJhOVJpQzJVeklTd1Vpd3BENW1teXRpX2t5dlNRaWtwd1Jnc19wWjh5bE5lemdMcnlpYTY0ZkFHY0tCcTZRazAwNHRwYTZub1FnX3ZZZDFBUERoTV9WQnNYTm51UWRNclJuZ2Y4N294UHBZX3RsN2hMY2hWNC1pbktiVFhHZWhsaVgtTGx0cTVSTnBMeGd5N3RvRi00eGp6STF0aElldFE?oc=5",
+    "date": "2025/05/18",
+    "fetched_at": "2025/05/18 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "《明末：淵虛之羽》成都搶先試玩報導深入古蜀之地體驗獨特東方風格魂系動作樂趣《WUCHANG: Fallen Feathers》 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EX2p1N3lxQ2FPX3R1UlZZeVpQWV92eWVOVlkyVXlTbXpjZDloU0lHWV8zYVNqdVhXeGQ2YVZXZjFKcExaa3NENjBlSDNpTlEwUHFyVmJnRTY?oc=5",
+    "date": "2025/05/18",
+    "fetched_at": "2025/05/18 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "中職》接終結者平常心 富藍戈終止連三場救援失敗 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZcEdyaVY1czZfSm4yQk16b05nalhRbTRwU1paQzg0UmNrb1FyVXZsb0ZPMUdwMVhueWd3NmlVTTMyRE9jQ0NCVU5uX0x0bk1abGp2VXRGNENNS2VVR3V5UtIBZkFVX3lxTE1wUVdRcXIxSGNJNEJBcmZpVjRNbEVQUTBYY3BzcGdnQ2FiQTFIdnZHV1ppd0hRaExPbHVJVkpFeGxJT1Mtb3VUWXFNZzJKTFNBSWk2MmVqLWViSGVXcTZPM0hHSzdCdw?oc=5",
+    "date": "2025/05/18",
+    "fetched_at": "2025/05/18 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "防癌有捷徑 研究揭每天吃1種菇：罹癌風險大降45％ - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSml2S3hGcjduUzVGMWY5UG5UWnZhb2ZMYTNhc3RaaDJwVmw2SUhXMHBINlhKN0hNbUo0dThSaEF5cjFPOFktNFg5Z0RGMkFnaGM0M0o4Q2hzTWlJdHlOcVM3TWp4TU5QUHJZcjQ2YzdJUjQyUXhYUDh3Z2FfT1hqak11QlVxeUE3MWthNFpfaw?oc=5",
+    "date": "2025/05/18",
+    "fetched_at": "2025/05/18 18:51:24"
+  }
+]
