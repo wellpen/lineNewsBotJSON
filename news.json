@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-20 06:11:39",
-  "news": [
-    {
-      "index": 1,
-      "title": "Week Ahead for FX, Bonds: PMI Data in Focus as Investors Gauge Impact of Tariffs on Economy",
-      "url": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-pmi-data-in-focus-as-investors-gauge-impact-of-tariffs-on-economy-5377e0ac"
-    },
-    {
-      "index": 2,
-      "title": "RBI seeks to revive funding market vital for monetary policy",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-15/rbi-seeks-to-revive-funding-market-vital-for-monetary-policy"
-    },
-    {
-      "index": 3,
-      "title": "A 90-day tariff window spurs US retailers to restart production",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-12/us-china-trade-deal-has-american-businesses-restarting-operations"
-    },
-    {
-      "index": 4,
-      "title": "Why the Fed Isn’t Ready to Join Other Central Banks in Cutting Rates",
-      "url": "https://www.wsj.com/economy/central-banking/jerome-powell-fed-economy-d6eda04b"
-    },
-    {
-      "index": 5,
-      "title": "Developing nations expect AI productivity boost soon, UN finds",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-06/developing-nations-expect-ai-productivity-boost-soon-un-finds"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "眼睛紅腫 有傳染性 大陸出現疑似新病毒 - 新唐人電視台",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtNUFjMVBDVnduZ3MtSFNKM1hlU1pEQjJRYV8wOTBDV1RxRUtWSDMtckZKZ0g5TGlRaHhjQnhDMUJyX1NEdVFuT2xZVnF5eW5BcjhzOWxjRFE0dDVtT2FRU9IBZkFVX3lxTE9NNXNfalBVbFU0bjYzWTRSMGZCeHhhbnpLOThReXhsSVQtVG1sV0RJVDZtM3JmWGVWYld3MVhQTWVxUUt6dFp5NjZjRE5RQzdTRFVReTFMSU1MTTFGbzVSUjh5OFFXQQ?oc=5",
+    "date": "2025/05/20",
+    "fetched_at": "2025/05/20 06:21:25"
+  },
+  {
+    "serial": 2,
+    "title": "桌球世錦賽／林昀儒、鄭怡靜前進混雙16強 台灣選手賽程賽況、轉播資訊一次看｜熱門話題 - 網路溫度計DailyView",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iYnJfdURGcTRrSzBkdWpocXhsUzRzZzV6Si1sZklTOVAzNGt4UG5QaDNOcUZuYzFWdFlIZDFEWm9uQ1gtZ2xPRmkwc1pmMjdQSGNn?oc=5",
+    "date": "2025/05/20",
+    "fetched_at": "2025/05/20 06:21:25"
+  },
+  {
+    "serial": 3,
+    "title": "國民黨組車隊「按喇叭」嗆賴 陳揮文傻眼：是哪個XX發明的 - 自由時報",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UMkprRWZKWEowRG9jcmpiSUhYY1B2Yi03anBuUzA0Y1dFTUpyVkxxblFXaERDYmpjbUpKRDVldHcwNVJ0NFdocG5DOGJobXcxckVBMms2S2VCZ0ZwSHJxYmh4R2xUZkNQSmfSAW9BVV95cUxQR0I3OUpvd211TnNUb2pqRWsxTG1QMmtGdXZhZldfX0QyRVFWZngtMDFsNF9XdVJUcUV3aUY5cGhZRlVUQV9FNXdzWGkxRDltM09zMy1VdUpVWkRMaWpTaGFFa0JjSVhWcHFYOHVlcDg?oc=5",
+    "date": "2025/05/20",
+    "fetched_at": "2025/05/20 06:21:25"
+  },
+  {
+    "serial": 4,
+    "title": "葛斯齊控大S珠寶遭侵占！　S媽被勸提告開嗆「不想抬舉一個魯蛇」 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QWUNSaUtwLXBJVHU2ZGNDZXZXdU93T2JsUl8xQnUxT1F0MnFjTkpETGY0QXoxS3RsVktkcmgxZmd2Nld4VGdHUFlHUVJMd9IBakFVX3lxTE5jTzVXVGtURTJ6Ni1CM2tvS0NiT0pQTWk1aGV1ajNFbTNzaW9WZFZQWWt0ZTZqWThrd29yOE04R2wzc204MWZ5NXNuamk4bTE4cXdqa3d3MnVQS1lvU09aVWV6bXozcEQ2X1E?oc=5",
+    "date": "2025/05/19",
+    "fetched_at": "2025/05/20 06:21:25"
+  },
+  {
+    "serial": 5,
+    "title": "川普與普丁展開通話 美方積極斡旋俄烏停火 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wSVVhSlZpaGdkclBmbFNNdXc2UnRMbTE5MnNmWTZJeTgzRlY4NUNvZ3ptenRfSVNzaEg5dnl5MEpneGJJcGlxZ2J4TVJvTUE?oc=5",
+    "date": "2025/05/19",
+    "fetched_at": "2025/05/20 06:21:25"
+  },
+  {
+    "serial": 6,
+    "title": "三峽車禍引發高齡駕駛疑慮 專家建議換照增模擬駕駛測驗 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VVGVsRkhGcVkwZHo4TW5EVWZJWlZzSWVxYnpGcXotdkVoZUxkZmx0Yjk4RVladlZwR3ZtTkVLRjN1RzhxbzBUU0ZIMV9aX3puSE5Z0gFYQVVfeXFMTzVxYXlkdUN4ZGV1Yzl0VXR1OVRvRHZseFRHN0p0c1pyLVJoTG04d0dzYUtaQ0lFZElmSS1qc1VBTV9uX3NCV1NGc2N5cDFPdXdlamJ1M25DYg?oc=5",
+    "date": "2025/05/19",
+    "fetched_at": "2025/05/20 06:21:25"
+  },
+  {
+    "serial": 7,
+    "title": "談海外總部落腳北士科 黃仁勳：地點具吸引力、大小很完美 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RSjhQdnBnTmhlRDdDZzlIcDJKS0tBTjBtSnBPNmZ2cVp0V3JtZ3BSSnpRT2JEb0xYeVJlcFc5TGNCWGxob254QTg2ZlVfd21aNEZn?oc=5",
+    "date": "2025/05/19",
+    "fetched_at": "2025/05/20 06:21:25"
+  },
+  {
+    "serial": 8,
+    "title": "PLG冠軍賽》史上首次第7戰！盧峻翔19分助領航猿擊退勇士扳平戰局 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1UTRsUG9uVFI3R29LRU9kZkgwVlJtYnExdG1IcEJSb2JPV19iNlN1UjZSNjBIUDhyZnp2UUpfVWZiWDJhMWdLVGZNSjlKc0hTZi1Kay1rWHNoZ2R1U0FIcdIBZkFVX3lxTFAxaXNfN0FJTDhabG9wQWJjaHpzNHpmeFRab005am13SzFMZGpTSXYzWDlrM1NlUnR0bnlNV1J1eWlQdmI5VDB0MXZhS2VMdElZbnFaZGtXVkpDTWhvN2o4TU5DZWZvQQ?oc=5",
+    "date": "2025/05/19",
+    "fetched_at": "2025/05/20 06:21:25"
+  },
+  {
+    "serial": 9,
+    "title": "輝達行情失靈？矽光子聯盟股聯發科名列黃仁勳背板 股價卻跌破4% - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQWXRBZEpGZTBvcVdEU21ZRndRTWxOaGI1S0xfc0x3QTJIUzVxX052eUY5d3VCM1EwVUtkNERmeklqVWxVNGJQbVNXWnh3MGQ4b0llbUZLZVpTOFdVYXhBLWlVelVzQ29yeUU0eGFVZnlqR2pKNDJPUWpUdTBUbFRZSjIwRlhtZFVNUHdDMk1qSUROdncwSEFVX2llNjlqNlYzdEpqNHVtdEt3M250X0pMWGg2X2g1RzYwdm5CS1R5RFY5blZvUXFHWmEtOTRYU1luVkN2Rm1HVGE5X2pqWE80bnpnd0huN21XS0JCR2R1UTJVT3JLbUh6MXg2UWNQa3YwQk5EbjltTlg2NEpSN1B4aFQ5OHdsX1ZhVUVjS18xMkxxOVZKRHNDR0dqaU1KLVFpSExDSXBfQ1NReldTZWRzQXprR1ZBdXFuTWtJMmF1LVNVREF1RE5GUUNIekw4MWVsN3BUYnVSVlV6N19tdEhVRkRmQnFFX1ZicmZvaE4ydlBJY2duWkxuOC1yRWdRLWJlMVRMbWZKV09ETHZVS25TdTZmdw?oc=5",
+    "date": "2025/05/19",
+    "fetched_at": "2025/05/20 06:21:25"
+  },
+  {
+    "serial": 10,
+    "title": "「嵐」櫻井翔專訪賴清德總統 就職周年前夕透露對中國的危機感 - 壹蘋新聞網",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa3l5Tk1YNVJKOHJiY0M2LXJRU05yOHE1ajJKcUdRZ0xxSWNSNmZjSUhsMm1IRWs1VHNmT0pfLWxmamVHSE1aZFR1TXlsSGNQN2ZINjBNVlNXOXpzbHd6YWE0bGlWLWtkeVpZQ0p4YVFjR1IwM0hRdUhJd2p3RV8tNnQ5Y2JyS2s?oc=5",
+    "date": "2025/05/19",
+    "fetched_at": "2025/05/20 06:21:25"
+  }
+]
