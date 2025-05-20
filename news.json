@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-20 18:28:53",
-  "news": [
-    {
-      "index": 1,
-      "title": "Week Ahead for FX, Bonds: PMI Data in Focus as Investors Gauge Impact of Tariffs on Economy",
-      "url": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-pmi-data-in-focus-as-investors-gauge-impact-of-tariffs-on-economy-5377e0ac"
-    },
-    {
-      "index": 2,
-      "title": "RBI seeks to revive funding market vital for monetary policy",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-15/rbi-seeks-to-revive-funding-market-vital-for-monetary-policy"
-    },
-    {
-      "index": 3,
-      "title": "A 90-day tariff window spurs US retailers to restart production",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-12/us-china-trade-deal-has-american-businesses-restarting-operations"
-    },
-    {
-      "index": 4,
-      "title": "Why the Fed Isn’t Ready to Join Other Central Banks in Cutting Rates",
-      "url": "https://www.wsj.com/economy/central-banking/jerome-powell-fed-economy-d6eda04b"
-    },
-    {
-      "index": 5,
-      "title": "Developing nations expect AI productivity boost soon, UN finds",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-06/developing-nations-expect-ai-productivity-boost-soon-un-finds"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "強降雨土石崩落…花蓮往北鐵公路又中斷！蘇花和仁至崇德「只出不進」 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01Sm5mWlhQTDBqMER5cmpUSUEtdTN6VUxWQzVqSGZ2MHZNSnpsN2RkRktxaXdYRUdtNFFPb056MW9nMkw5Q0dZNVZGVDJ4dDky0gFWQVVfeXFMT0EyY3dRV2xVQVc5UHNIc0xPVnhIb1pIeFV3NldJQ3E5WFVvZDVLU2U1YUVsN0F5UXhfOUlEbU5zUU5IU1RsU25iX1N4OU9NcVdrU1lybnc?oc=5",
+    "date": "2025/05/20",
+    "fetched_at": "2025/05/20 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "距地球16萬光年 哈伯太空望遠鏡拍到色彩鮮豔星系像「棉花糖」 - bastillepost.com",
+    "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOa1lNdU5ObWpMRjBGeWtmOWszMkhEYXMzeXdRaEFFWVdldV9UcnlPM0tyUTBTeURiUHlrYThFTWxHWTFGN1k2TW5OTmVVZ0hWTVlCSjM4bWdsUkRiSUNKTzM0TjhWREFSbmlBN0JVb0ZEZ0hsd2lKMTA5Z3otNUFvZzRYazlnYnE4M2FRa3R5a01zbWpCRl93Nk5VeEY3RTRkd2R3RFAwQ1JnaTAwOUl1MldNZmkxTi11OWVKNXJvTkp3dEdqVWRCOE43bUozZkZ2a0NBUE1xU0tqNUdqeE9ucHprcVBrMm5tVnVGbmFrSEJ1UDg2VzEyaEtnaTdCT3JWR2VqX0dVd01haXl1RmlSckI2MUI1V0FZSXgtbFd3Y1ZtTmZBbGYybjhNU0lqVGZEa2Z2NU9sSThLS25Qb0E0SlVaclNBYUhLUGJvaGFvZVppRHZPenNoOVlZQy1nU3FLU3V0ZUJn?oc=5",
+    "date": "2025/05/20",
+    "fetched_at": "2025/05/20 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "桌球世錦賽》有驚無險擊退南韓新秀組合 林昀儒/鄭怡靜睽違4年再度闖進8強 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hVjRsM3lhazhReWQ3aFdiZDB1eVp4Vi1uSDJfMDNKN1IwOUZ2Z3hfZ2FWVmFSUmFwSnltdlAtV2tPVHduZW9TLXF4RG8ySE5sbld5Z081X3QwYXVvRHg3NtIBZkFVX3lxTFBpTlI3WXZzUWYxRFFka2F0WC1fOHNWalRJZkhVX05HcXVOQ08ycW5fTkRmSVJneEtoMmlvMjhTS2R2dzRmSnVIQ1BuQ3AyRDgxZ0VQdms0QWxhOGRieWNFTVUxZWh4dw?oc=5",
+    "date": "2025/05/20",
+    "fetched_at": "2025/05/20 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "為轉移外界焦點？拜登宣布罹癌 前黨內初選對手「曝政治內幕」 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lU0syVDEzTFpWc3NRZG9WRERtUzNlYmVBNmNXTERDT2dlV01UNTc3ZHhvNi1rSW9PRksyYjJjakRHeWM3OEtqVzlrMC1SbTVW0gFWQVVfeXFMTUZ2RVE4ejFvaDZadzVUb0ctTlhjX0hNMFVwaDE4UUpicFdHSXIwcUhnVjNVQWlhOGpIeDB6d3BvZ0diRW5ycWM0T0d3NFllMmRnUUtrdnc?oc=5",
+    "date": "2025/05/20",
+    "fetched_at": "2025/05/20 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "林益全新書惹議　妻林家嘉首發聲反擊酸言！澄清從未參與撰寫內容 - ETtoday運動雲",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoQXd4cnpyWjhGQVlielI0eHhTSnBaUmFPdWppOE1wT0dOSEY3eHAyWHBXZno3d3gtVlI0SnhncmRDVlVrQWZSeF94NXo4M2c00gFsQVVfeXFMT0wzWW1kN0NySWc4N1d1ZjhNQnZzaWxFNW1pb2E3YmlLWjBGM19NMi1fdE1ZZHd2MjliY2ZWQmpYeFk5OEpiaFlnUlB4U2R0Q2FOSFhWVTNCbFVjTWg0U002dk9XQjFxVzRZM3U4?oc=5",
+    "date": "2025/05/20",
+    "fetched_at": "2025/05/20 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "四位星二代齊聚Yahoo《星二代很忙內》挑戰真實職場！鹿希派請教憲哥面試秘訣卻聽到放空？余祥銓自我介紹一開口就提「我爸余天」 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMihgZBVV95cUxPR1Zha3FmclBCcURaMUNUQTV3ckc3VDhteGt3b1NkZVUtVmNYbWU2aGdFaTExVmQtal8zUnhxSHNMSUc3ZkFiU2hiZkFFRlBtbUF5d2pJVktkdUZydEF0TllkZHhhcFlIUkRMazFIY3dWYVhHLU8yeXBfSGJ0TVg2S0tXYXR4RnBLQVZEYXExVmJFVC00c21uTXo4LXdBLWdUUWtDUy1kVjlyV3A4cUN0QXdkd0sydnVsbUg4SWF4SUs1RXVvYlV0NEk2TEFwWUNVUlE2LTMwNGlRbk5maUdpSjVnSnc3QWxJR2dVRXpxdzFjVkpIa3U3WHVtQW5hay1ISlFFd25zdllFZDVOMmtRT0d6VXlXVTA1cVhKTTVLM25GeV80a1BMMFRNeV95ZEllTzZUN1ExQUtaQUdHT0RpclBrOGRmNWpSTjJHZTlIOU85dVlfX1ptNmg4SHdCMzQ2U295MGg3X3cwSkEzRGI4LTVVWUh5QTRwdG04UEU3YTZqb2xuWnZVZ2ZYVkh1THloZnE3aWRkY21ReWpDTHdicjJleURuWjRfQzJqSEV2T3dCN0pTeURVd2FtX1c1SEhUTElLSV90TThHUjBoOFFPNWVQcG9ZdkRLQl9uV0ItR2loVmstUVFxUTlNV0wxNzFKU2ZPVE9FdVcyNFd6U29mWG1Na211OVBsY0lfWElhQXZmWjlOLW1aWDhXQ3V3Z3drSEo1eGFSS2k5am9ieFFwVnRHZnlwalR0NExYbG9UTHhMZ0ZCWTRsWGEzUHJ1d2ZnbF8wZlEwMGd4OEFRQ0xYZzZqR0o3V0VqSnMxUzhiRG1OaWMyZXN4NHdpVDF3emhya21laGJ3bWhQSWJvVWRuMU9xRnlTSlotaW81dGoyX0JnNG82ejdjLUR2bE5MQjQ5Z2VIdFBSZndaYzRHSXhtbHRLenFid2J3Q0xkQVY1cjc4cTR1SlVJNGt0SjdpNmR5QUZFWE55aHB4MENNU1NfYU9Oc2hvd2xCVDBEZjU4RFpfUDlYc1E?oc=5",
+    "date": "2025/05/20",
+    "fetched_at": "2025/05/20 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "三峽車禍釀3死....模範父親肇事 新北市社會局：立即取消資格 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlMzFpYXlDTGpYYTZBaUd6ZmlJV0xSSWdpMHRDNUdSWUdMRWVGMURBeWhEVDd5Mlk4eURZYWtxR2dkTmNMZThHcGtsbnRmcFFhVC1J0gFYQVVfeXFMTlRscnZWVTRaRHp0ZkdmMEtia21sWmtXVXg1OTFybGo1R2VraEhQVjk3MXhwR2oyZnVqcVRXTjJvb2VBQkZZRG53RWZZeEVhYUVXMVl1N1luRQ?oc=5",
+    "date": "2025/05/20",
+    "fetched_at": "2025/05/20 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "5月還沒更新的先等等！Pixel用戶哀號：手機狂噴電又過熱 - 自由電子報3C科技",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51c3lPSWNrVy1LZ3BwQWlOU0FTT3pNMWp6QXBscHN6Mi1ubV9tTkkyN3VVMDVZMW9iN1czSnhYWi02ZkFJdDBZ0gFMQVVfeXFMTVd4U05SV1BScHpZSFdsY1NhVTRMMUYzcGNBVEEwdFFfczY3VF94SkVpUGQ4Y1VBaEY3WDRqWUMxMGw0aTJpRHprbzlQeA?oc=5",
+    "date": "2025/05/20",
+    "fetched_at": "2025/05/20 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "光寶科股東會通過配發股息4.5元 董事長宋明峰：50周年新起點「持續推動變革」 - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNS0ZKMGxPNXlRc09ZNEJIMjIwQmp3U1Y2VjV0OVpQN3JmNEZKd3NvSDBZZ2JOVnNOcEkydWZ4MXRfM0FDWlZhUXRnM3BIdGQ5RC1BQXpKWXhvN0ZPRXd5LWxqQ1dlZzEtM0JTdy1sQ0o2WjR4U1g0X0VZRjBITURVbmFzU2E3anByM3FYZW9yZU5xSEhSR1h5Nm8xWXlidTdNMTdXVFdac3dnQlo3RGI1elNyaG90UHIzU2dBY0hOTzcybkI1Wi1ZUFNhN3BDOEx6bW43WTJfc1U0RldxM243VGp5U3ZUNGJVWWQycXh6UjNmOHRQUThFc2xWLVpRVFBFeW5SQ2ZGVm1mUUhma1FXMXltTlYtNnZ1NExsVkJkcEVDMlJneDhYeHJiajJYZGxNaERuSlM3ZEV1SHl5NDdsNl9HM2ZwUllIU0FJLVJUVXlUaThQdnpESzdYSGU1ZjF5bkt3NV9sRnU4ekhHM0d1ZWVNRFZDTzRhOHNiVldPVGdHSlU2YnlDbXR1eWpBUU5YQ01JQ3dmcHdVd0VyWXc0OGRHSUlhSEVRYmpjN21jRGFKNlpqWVZVczlWRFVfb01yU1JVMk45S0tlZmIyN1VhTzh1R3ZRcTFkNHhvYlBxMWVkcktWQ0dydVp4M2hGUQ?oc=5",
+    "date": "2025/05/20",
+    "fetched_at": "2025/05/20 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "KBO》前道奇球星Yasiel Puig遭韓國職棒球隊釋出 將返回美國 - Yahoo運動",
+    "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPWDJjN2xvQW5FZ0RreHRuSGJLckx4Ykc1b3RLbWlvbXpKT1RodjNMMWw2YzVzRUQ3aS1BQjZUWDc0VnQ2bjRFVzl3eDM2ZjhQTFY3bk5LTmRqM1cxY0M0d0pHLUt5dTV3bU12TjRBaTdRZl9sRUFZOVQ0YUp5OHlFMHNaRV9BYTVYWFNVU1laeHgzb0t1LU01ZFFqM1VxSTBMUVZKdVB1aEpoZm5mUGhwY2FpbWgxYWRfTmFoVEg4TDdHTURWc2E2ZjF2ZGxESHdRVS1ZR1lUVTB1ajUwM1lPVExUYjF3SDRpTHZjUjh1VXV1YkRua016OEVKWEJ3UElJX0M4Mi03R1A5ZGdDdGU4a3owMERRb3VpeVBPVktRS2dVSmU3aEhySllKMFJWamR4S19scjQwaVo4aGV2eG5pWkF6XzdHTXJ1Q19iN0ZEWmd2MmdoUFE?oc=5",
+    "date": "2025/05/20",
+    "fetched_at": "2025/05/20 18:51:24"
+  }
+]
