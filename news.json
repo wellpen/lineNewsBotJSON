@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-21 18:28:37",
-  "news": [
-    {
-      "index": 1,
-      "title": "Week Ahead for FX, Bonds: PMI Data in Focus as Investors Gauge Impact of Tariffs on Economy",
-      "url": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-pmi-data-in-focus-as-investors-gauge-impact-of-tariffs-on-economy-5377e0ac"
-    },
-    {
-      "index": 2,
-      "title": "RBI seeks to revive funding market vital for monetary policy",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-15/rbi-seeks-to-revive-funding-market-vital-for-monetary-policy"
-    },
-    {
-      "index": 3,
-      "title": "A 90-day tariff window spurs US retailers to restart production",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-12/us-china-trade-deal-has-american-businesses-restarting-operations"
-    },
-    {
-      "index": 4,
-      "title": "Why the Fed Isn’t Ready to Join Other Central Banks in Cutting Rates",
-      "url": "https://www.wsj.com/economy/central-banking/jerome-powell-fed-economy-d6eda04b"
-    },
-    {
-      "index": 5,
-      "title": "Developing nations expect AI productivity boost soon, UN finds",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-06/developing-nations-expect-ai-productivity-boost-soon-un-finds"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "小島製作公司：“PS4 和 PS5 之間的區別並沒有那麼大” - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGhfRWxsUWEzZ0ZpcTRaVFVmLW54dk1KLTBCamhHUkhIZWJDX1Z2Yy1INE10UlhuUG5aSll4dC11V2hJamNQeHZCSm9CYk9KWFV0Zkp0bHYwVWRJbzdUQm9jdi1PeVB2UDhtelZPOGU3WUpBVnRLOTNRMHM2N2tyeWpsRU80SnJwc2h4dm5SUGYtVFEwRmhJV1k5TUNWa255anFHalZRUmc?oc=5",
+    "date": "2025/05/21",
+    "fetched_at": "2025/05/21 18:51:25"
+  },
+  {
+    "serial": 2,
+    "title": "SHIFT UP 財報透露暢銷動作RPG《劍星》計畫於2027 年以前推出續作《Stellar Blade》 - 巴哈姆特",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CU3g3WWZaOXhhd09Hc3QzbW5sVzFLR3dxVXFhSVJNbS1nQ1lYTUlCQWpwSU4tRkxFQk5zSmZ5bjdKcnZfc1JkV1pZRi1qX3hsbHV0c3hGMm0?oc=5",
+    "date": "2025/05/21",
+    "fetched_at": "2025/05/21 18:51:25"
+  },
+  {
+    "serial": 3,
+    "title": "「SEGA Account」開放領取《雷道 Remastered》及《夢幻之星 Online 2》遊戲內特典 - 巴哈姆特",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpc1V3SzVVQkFWTllrZENqSlVLS0Fpb080bFJuMldYUkxybjctR21nV1A4RWVHQTVGSFNIdDdSdUJER241OXRQU01ycjRPZlRCMUl4Sk9Hd3M?oc=5",
+    "date": "2025/05/21",
+    "fetched_at": "2025/05/21 18:51:25"
+  },
+  {
+    "serial": 4,
+    "title": "我們將在今天的 GR Live 上查看 The Siege and the Sandfox - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUlQVFZWTFByUjZuZ2FzOTlWZHpMNE56SGsxSHVwdUlWNWtuWUZ5OHhaR0Q1ckFhNVVYcXJfSG5GdnUtY25wSS14dEI0VV9UcnNSWG10SGoxRTBZUUZncTV0S254cXJHSEN1VVdLdExsUnpyaTVtWThGbW95SWdHSi1fdWV5MDhCMkRJaThrd2dyVldsVXZuc1ItaDFMQQ?oc=5",
+    "date": "2025/05/21",
+    "fetched_at": "2025/05/21 18:51:25"
+  },
+  {
+    "serial": 5,
+    "title": "孟耿如被爆斷開黃子佼！離婚協議內容曝光　男方律師低調回應 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53SkhTVmgtWFgyMFI0bmpVLVM4c0JxUlk2UW9EanNjdWtVYXB1enlQMUJpUG1xUzJZSUh6U1RVRHJlMUE1WG1YbXF2eTBLZ9IBakFVX3lxTFA2b0k4M2dvMlpDUlIwQ0JBSS03UlNYU2x2NWFSYml3d0dJS3FrV1RKTnExZXdKT1lTN0dhSTZDQms2QUpkYUJTY05fY2dtWEVoZ01BM2ZzZ3VLT3FqVzJkdkNVT09wai1LblE?oc=5",
+    "date": "2025/05/21",
+    "fetched_at": "2025/05/21 18:51:25"
+  },
+  {
+    "serial": 6,
+    "title": "日職》古林睿煬確定明先發再戰軟銀！將和同齡左投同場較勁 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IMGQyeUZYVHFDV1M4WXZZMjZaYk5ZZ1ZoSzV6MS1pZ0VITmlvUFBpZDhncC1uTXlTOXNCcTA1TUJ0RjhhTTdOMVFuYVFqWDNMNHcweklfZ04wQkFkSkdiU9IBZkFVX3lxTE1HSGIzbE5odExqajEtcmdTVEhXV0hrU3V5SlBkV3JkQjdCWTQ3akNiMWNDcG03SUFocncxNGU3RWQ3MElEUkR6VzVPX28wdzJUS0xORzBQNXpLLU1qWVRTMGNWSGc4dw?oc=5",
+    "date": "2025/05/21",
+    "fetched_at": "2025/05/21 18:51:25"
+  },
+  {
+    "serial": 7,
+    "title": "蕭煌奇帶傷參戰世壯運！　「獎牌確定入袋」原因曝光 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9adHkyc2Y2TkhSZVR6VFZlai14TGQwQzhJRGcxRHZ6UmVRWFEyTWdkZUpob3pESDdFdldLVlBPUGQ5UWNTVDZCWG53UEs5QdIBakFVX3lxTFBXWW5neGZWUE9BbU9zeXViVG9zZVktOTlZOEtfZEd2b1dKVGhNakU0eEU3SU1TN3ROcHRZZk84d3JnaGM0TVhtbW9YX2NKZHpTNzB5ZXZRSnpZcXdyazZLR1Nvdk5rZUhYNWc?oc=5",
+    "date": "2025/05/21",
+    "fetched_at": "2025/05/21 18:51:25"
+  },
+  {
+    "serial": 8,
+    "title": "胖加速大腦退化港研究：減重助改善大腦健康| 肥胖 | 心血管疾病| 糖尿病 | 阿茲海默症| 帕金森氏症 - 希望之声",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GLXM3RnBrM28zaExzM0YyelRxNEtVV245UEpmS1NsdEFMV1JVQjFvQk5ETVdjNmk0RU1YaEpybW0yRzJzbm1xblhrZUo3aXhBZnI5bnY0bzBCQlk?oc=5",
+    "date": "2025/05/21",
+    "fetched_at": "2025/05/21 18:51:25"
+  },
+  {
+    "serial": 9,
+    "title": "余男駕駛座下方疑有打翻粉圓 三峽警深入追查肇事原因 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wdF84N1kxUVAwN1E5c3N2MDBoelZLMHdjRWJmSU9nYjlDT3RLRFNpajVVWGhpM2ktMXk4MFUtamFUZldXWjgtOGg5YVduYUx1Nmx30gFYQVVfeXFMUHVhMUpmbkFOVGRLWnRQMldKNDVPRGlCVUN0OG1XaDQtSDZtbEowcmFyRGk1cklfMUdFN3hFZndvajN0cjdEQURqbnV0WUF4a3Bmbm43cWw4SQ?oc=5",
+    "date": "2025/05/21",
+    "fetched_at": "2025/05/21 18:51:25"
+  },
+  {
+    "serial": 10,
+    "title": "阿信師妹連吃3天火鍋竟「無法行走」 搭機返台靠輪椅運送下機 - 壹蘋新聞網",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbFFiX0VvNE5HQUNKWUxwZHRIZ29lMXdLNDQycWttZ1RfYkpSdkdyV3RoT2ppVDEtQloyZmtDMlhCQTRfS3dGVldCMUpGbTVTRkU1c2hNMmxJbVQ5eFJSVnh2VlFOa2VRakFkWGwwNTZIeElJU2tOMF9IcGgxYkdPZUVwR043NFk?oc=5",
+    "date": "2025/05/21",
+    "fetched_at": "2025/05/21 18:51:25"
+  }
+]
