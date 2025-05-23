@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-23 18:28:05",
-  "news": [
-    {
-      "index": 1,
-      "title": "World crazy for chicken is losing its biggest supplier",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-21/world-crazy-for-chicken-is-suddenly-losing-its-biggest-supplier?embedded-checkout=true"
-    },
-    {
-      "index": 2,
-      "title": "G-7 Finance Ministers aim to avoid public spats with US despite trade turmoil",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-20/g-7-finance-ministers-aim-to-avoid-public-spats-with-us-despite-trade-turmoil"
-    },
-    {
-      "index": 3,
-      "title": "Week Ahead for FX, Bonds: PMI Data in Focus as Investors Gauge Impact of Tariffs on Economy",
-      "url": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-pmi-data-in-focus-as-investors-gauge-impact-of-tariffs-on-economy-5377e0ac"
-    },
-    {
-      "index": 4,
-      "title": "RBI seeks to revive funding market vital for monetary policy",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-15/rbi-seeks-to-revive-funding-market-vital-for-monetary-policy"
-    },
-    {
-      "index": 5,
-      "title": "A 90-day tariff window spurs US retailers to restart production",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-12/us-china-trade-deal-has-american-businesses-restarting-operations"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "心疼張小燕、孟耿如！資深男星陸一龍逆風「願給黃子佼機會」 - 噓！星聞",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95dUk4Yl9VUEtITWdEazl2SmVjbURGWWNFWlZLREJmM1FxV0VuMDl3XzVveFNpUW83clhFdWdXV0dwYlgzMXZ5a2taNHl3cWxBbUxFMmJ2LTBpUdIBX0FVX3lxTE9YRnBsMHpTVjl2dzRSZ3Q1UHE3dmdZTDJMejFRVXdmc3FHcU5TNmpXbV9xYXVRTTRfQkN0cVhWNTllMmRMMnlsUnhCaXU3aUlGN3dPZDRZd3dlTHdnem1B?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/23 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "索尼克 2025 年品牌活動主題確定！公開與 Red Bull 的聯名合作影片 - 巴哈姆特",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fUEFOWUJuT2FDYUZwWXV2bGFJMGpCbWhGcHo2TEwwUTFhRXdFc1Fuc25TRm9QZGloYUdsR2JlcUlBd3hUZlpiYU1BZzdkMkp6S3h3NlRkMFk?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/23 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "北市重慶南路車禍自小客衝撞行人多車釀8傷肇事78歲男無駕照| 社會 - 中央社 CNA",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rdWZvNVZXQkhhZmtlQ2JqdjFfaUl4aUJCT2d0QjFZV0U1azZKZVJXQWhzRzJ1U2UyNzRuV3BIMzRBanlvS0ZfemJ2My01RHB4elhINDI3Ni1USVdPbmhN?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/23 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "獨／味全龍傳「合約談妥」！權喜原、金娜妍一次補強 小珍奶無限期停工 - TVBS新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUZGw4Vk5vbkFzT3BXNFhraGRxQzFEOUEwYnpvSWR1R2FwaDdMYW9jZ0xVQ2VoUDU5ZThaUGMzUVJOeHlXcFgzLVNpLVJRMU15bXNMb0Qzc2dVUQ?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/23 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "《飄流幻境 Re：星之方舟》確定 6 月 3 日上線 釋出限定夥伴「電玩小魔女」角色資訊 - 巴哈姆特",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaT1FudDFWYWFMNnV1RUxFVDF5UC1JY1VBWE04dTdaNUtLRkdRQm1kMlJCdGlPamdlWTVESW1mcVZFdThGTlhFUFB4NjNxVTAya202WTQ3bHA?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/23 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "台電急開記者會談中火、興達電廠 董座曾文生：幾天震盪否定台電非常不公平 - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxQWjJPYmNYWHJaajhrWXBSOUdYWV9XdF9MR2ZiMDY4aE5EM0NCQnE1ZVZxNVFIM0h2VU1hcDlLZ0hyNkVkZVQ5UTkwS0MxQXN6bGwtc1ByV1ByTXVtaTRLQTN6REhnQjVDUEJEd291T0l6YV9aSG1GRThVajYtbDEzaEI5ZUpJTXNSZElQbWl4d1NiTTRWS1RSbzRBdktUcnM3QkkzTVo3N1ByVzdGaENSWEZoSWVQdHRxLWFPSklETW9YUkd0cjRwa0F3WkF3UTd6WlVZbkIzZTI5dkNOeHFra09WckFLWWk3czNyWW9QQkxvYThqRXdpZFIxNkJZQ09NV3B6OW9nVHZuUm16amFKY3RkNzZkLW5rR3BPaDdFOVdjNUxzVmFNOWE4cGstTmlYamNIMnlKVTVDLXhjekZSa3FuTExyTjBxcmQzV25QMnF0VWVOakxTZFRRQVplNDFyb3Z5TVFWMHN4cEItZm9rQU1pUXEwWVZibWpBd1R2Y0podlpJajFpOWE3WHFBR3VWRFk4NmFTbGpKWE94ZWppaEdZQnF2U0lxeU1Ua2g5X1NhV0ZFZk5ZZXc2dkxmaUNBNE9nV2tOQUNxZGJWOVM3RXc4WnUtU2JUbURNTzBFMU9WaTJZeEhaS0JUc2FUY3NmTmVFSA?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/23 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "日職》新庄剛志搞神祕！ 「台灣至寶」孫易磊上一軍沒有任何人知道 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42YnNaMFBRN0pod3hPSTdvbFphSTBnTWR1elAxRVluVncwSkZvNlVtU2tOY3NPY3JleVpscENXcnlGUXV2Ym50ZDVOZ19vWEY5UGtIeFpPNzFwam5TSjRvTtIBZkFVX3lxTE9DcFplWW9ZVFY3R3l0bWJSMWRTYmFyQWdDME5HVVZ4MTkzeF9ZZ1hMV1hQTmxORTB3dXFHSjN6djJzcVBWQVAtM3dIdUdfWm9ZREVBREI2VUpBaTRYanVkUHpNRlJQZw?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/23 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "美日第三輪關稅談判前 日相石破與川普通話45分鐘「交談內容曝光」 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jUTBrZ3NPcTRWWHQ2RnVaQmJydkVfdWFSN2E1QzM3QUVQMUw4cVYwTUUycnFzaG5PSzR3cE5IOHZYMjlzWEkycURULVNzanBGcEd30gFYQVVfeXFMTXk3aFlxZGZrNWdFR1Vabk9jbzlrWDREa0ZxQUZCWGR5STFpRkQwNTJNTVJ4VnExWE1mdmxKbnVOdk5Ed29kR180VWg5R0xvMk83R1BTR2xjMw?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/23 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "台股收盤》台積電拉尾盤翻紅 指數收跌18點 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHTlZ4cVhUa0dJUjhLOXNtdUxDWVcxRGVxaDJpTlZxSzVQLXlDOFhqWUJ5UW0zWUFZQ3BiWWpidXBNMEh0azEtOHVKR290Y21zbE5jR1BlekZ3U0xvcUNr0gFkQVVfeXFMUDNDcE1PdEF4b0N2YmpSQWg4UmdxTXFqYjV1bDExQ2x3bElDOUxNb1Babk1YSU1rbFlEaVdHS2xBaGR4NFRKUjJtRXZodTVQRGx2VHhwX2xjc3NjblVNZnZYWjVwSw?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/23 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "MLB／曾寫下單季40轟70盜 前國聯MVP亞古納消失在賽場近1年將歸隊 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNRjhXMFFySDhVdVRwR1J1VG5iV1Iwa2dlY3o2bFc5MVRXai1zaW1qWjJYUURlSm42U3hDM2EwM0NKcXE1SGdTdlc0eWxnMGNtczVnUDZ1U0JLNmlfbm82VTZuTEZyM2VvR180Skt0YTNoOFJmM3E4bmMtSElGQUdwWDNqb3ZRQ1ZRQXJRSlNFREZsWjctNEROZjdwaFQzZFVWQmFHNGQ5dXEwQTFEZ1pNZzhTZ0JiNDdkdk0tX3JadUViQXc4TmI2Vnpfb1NYNTNVTkRkN2tMd3pESW95dEpsTjJPTTBjWFp1SDdoTW4zaldZVUplc3NZenE2OFFsdU44RHdsQmNqRGYxeUprcnFfRFRkS0hGc09CWkNnbkxUT0ZRNDdMMDc0Q3djOXVIUlNpQnFrRC1XVnJQVzV3aVNaMWtYTk00ek1Sa0ZMWmRGMFdMdXBlenNYOHJUZy1CRG1IQThGdWk1d1RvNFFtM0NKUjNKaWdxUDdt?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/23 18:51:24"
+  }
+]
