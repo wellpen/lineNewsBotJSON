@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-24 06:11:27",
-  "news": [
-    {
-      "index": 1,
-      "title": "Grasim raises ₹1,000 cr via bonds at record-low rate",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-22/tycoon-birla-s-firm-gets-cheapest-rupee-bond-deal-in-five-years"
-    },
-    {
-      "index": 2,
-      "title": "World crazy for chicken is losing its biggest supplier",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-21/world-crazy-for-chicken-is-suddenly-losing-its-biggest-supplier?embedded-checkout=true"
-    },
-    {
-      "index": 3,
-      "title": "G-7 Finance Ministers aim to avoid public spats with US despite trade turmoil",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-20/g-7-finance-ministers-aim-to-avoid-public-spats-with-us-despite-trade-turmoil"
-    },
-    {
-      "index": 4,
-      "title": "Week Ahead for FX, Bonds: PMI Data in Focus as Investors Gauge Impact of Tariffs on Economy",
-      "url": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-pmi-data-in-focus-as-investors-gauge-impact-of-tariffs-on-economy-5377e0ac"
-    },
-    {
-      "index": 5,
-      "title": "RBI seeks to revive funding market vital for monetary policy",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-15/rbi-seeks-to-revive-funding-market-vital-for-monetary-policy"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "有片／北市車禍8傷！黑車闖紅燈暴衝「行人嚇到狂退」　駕駛也是78歲 - 鏡週刊Mirror Media",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xenNob0l2TFNTTHNQeHo2b003bTA3dTkwMEg0clhJdjZQZEloc255RWxHbGdXaFFVWjNtNkRNMlZxUjBpbDFfa0V2cHFuYnJBR3lWN0FpTkRuelHSAWBBVV95cUxQNjBaakZrOVRtVEpKLTJ5NE8wV3FlRklVZWo3Qm9BVU84NWludEZPZHlOajRJS21fXzdoWVVGNGRYbk0zNWpnR2JEam1nWkUzUFYzUnM0SWw3X0FsZTdqSDk?oc=5",
+    "date": "2025/05/24",
+    "fetched_at": "2025/05/24 06:21:24"
+  },
+  {
+    "serial": 2,
+    "title": "涉地下匯兌入監前落跑了 屏東縣議員郭再添遭通緝 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xUkUtUVI4UlFQbzV3LXZWbnloYXBHRzlVTjlEYmNacHBORG5mZjFwbjNtbjh1aXdfTmpaSWR3VFY2bGJLa0tucjJ3RjRFeFhh0gFWQVVfeXFMTjJrWjBfc2Rnc0g5RkI0WWFEalZVbmIzOEN5eUM2MDVhT01uNGY1ZkUxSXJET21IUnlFdVFZaEZ4ajljSEdiUXpzT3hsZDJhZjBXaHNYNEE?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/24 06:21:24"
+  },
+  {
+    "serial": 3,
+    "title": "國民黨內鬨？王鴻薇對傅崐萁發飆「沒人這樣搞啦」　回座後怒摔文件 - 富房網",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wRC1EM1VCdHZmdUY1ckRkYTZDaHhhdlF1V2k0LU00N1hMV0t2Yml5MC1Yenl1RUd0SmM0SW9YOEFzQ1lRZ3BqZjdQQVNVUdIBX0FVX3lxTE9HZ09jQ0VMM1VjMzNzcUVYeDAtaDlQM2ZLd1JZX3ZVMTQwQl9leGpkRW05UWtLc2ZXdi1KUV8wUFdEXzZjYUR2ejBUT2QzVmppbHYtX1NrWUJGMmE1czhV?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/24 06:21:24"
+  },
+  {
+    "serial": 4,
+    "title": "中職》宋晟睿攻守爆發之夜 平野惠一要求反省1事也看出成長 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54d3lSVU5MbWRybnhKTVpRem9wbzFPYmtocmZjN2FFWGs2QWthanlaQWZKWS1RZWY1c3VGUkVfb0twVmU3SW12cXc5RTF0a2p5OExGNWxMSlVmX2hWYWxuSdIBZkFVX3lxTE81UEl0MVc1S0RzMVFkVTM5TFEwazNzSmdpbkFTYTlIQ0RmemY1NlBQb0k3eTVjQjRickM0ejJlMFpDTUFRUmJkVlhkS3FmTHNBRTBIUkNHUW90b2d6MnJscXlubGxzQQ?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/24 06:21:24"
+  },
+  {
+    "serial": 5,
+    "title": "中職》慘！本季富邦對樂天6戰全敗 跨季對戰狂吞10連敗 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vVnltMDRmU1NzWTJYbHVBdWY1TnJPQ1BvLVEyTGgyZU96T1NEdUdzSmVTMWVaVl8yNXliRzQtVlJLeXk3N1hYakJ6UTMwS2txZlVOa0p4WW5NY3pOd3ZRdtIBZkFVX3lxTE14U2JicTJHdUEwZDRHS01UZFJSOHZLZVY4UTZ2cEpFNkFjOWllaWg2Rkl4MjdrRzBQNXlBZ2FzNlNTTy1zOHZzX21kZnZ4SU5PaFNPUTYyQWFPOHZvMng0NDBnSUpzZw?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/24 06:21:24"
+  },
+  {
+    "serial": 6,
+    "title": "中職》台鋼雄鷹先發陣容擺兩新秀 菜鳥宋柏翰妨礙跑壘送分 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DQW1OamJlb1FiYXZhUjJLNUZza2tBM3pjX2lnNDRtMmRqNzhHSENmNU9ZcTBmZ1ZMSFBmRFhnVTZxMnNzcWZ5RTI5Y3AwY1NDb1ZNNFh2VkFiSzJoS1NrNtIBZkFVX3lxTE00UlNXZGVEaWpGWWpvOWFoLUVVbEVZbWREWElrbmstendvUEdyTkJObXh0Z0NXRGR5R0pQcmVEQjRpR0VoeVhHWTVYY1VsRFcwS2RsUXZyTTQ2SU10OFU0TlpqXzBqZw?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/24 06:21:24"
+  },
+  {
+    "serial": 7,
+    "title": "快訊／哈佛大學提告川普政府！　校長發信給師生 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHMU56aElzLXNCN25EdjRRVFNPRVVFcW4zTXBnQ3NYR2RJcVB6QlhOckFYWmJtb3VjWE1kR012dHBYa3Z1c1F1WGRWTzBzTkx2MGdIaVAxLWZCd201U0HSAWhBVV95cUxQZllCQ2YwRGZuRWpZaVhOV21Da2E5aHlnaW01MTB6MEpDLVNJa0R5U2ZFVDZXLUQ0TlFMeTlrdGdia0FBeG5abEwyb2JQbnVyTnV4R1owX3ZxUktyUnc1bTNMMms0aHV3eA?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/24 06:21:24"
+  },
+  {
+    "serial": 8,
+    "title": "重啟核三公投成案 周春米不滿：全國憑什麼決定屏東人命運 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQaXQxdFY4UDRFTTdtN1IyeHV5NWFESm5wWFl2c0lHaW5rZGRQN2xtZDJxX09DMnVsUVRib2Zmd29PRU1nMnV6YjhyV09jSDV5VGdmVVlNeFR2SEZjRk5ubTNLOWtFMkVUbFFpdW9ocUw3RzFCc3lRQnhyejdaQzQxeTY1dnRaYnduanNZZjQ5VDBzZ2NQTGlTNC1mYVJMeWsyTmhvdEJObVljSnJuSWduZjJVTmMtcnVtQ0ZnaFdQbGRNRThZSEpRdDdWVy1hWG1fblNzRHA4N1NDWGsxb0dYVlpac295TVBwTkdkQU9DbGEwSmlpdHVKemdmUjJoZ3FEajViNFVPTnpRa1JBU1JEb3J6X1FBcURQeWVNZ0RhTl9IYnlGMFIybEhQb0wtSXhtcllORVdkYjNIVnQ3WFM1R09CS2xjRTFDRmRYbE5mQ1dXSjRtNER1d1pMVVd3TnZNSG9YXzlIbDIzSk51cFoxRXJSaTJ6MzRCQkVyQzZiTHhJZw?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/24 06:21:24"
+  },
+  {
+    "serial": 9,
+    "title": "道瓊期指跌500點 川普威脅6月對歐盟課50%關稅 批貿易談判沒進展 | 國際焦點 | 國際 - 經濟日報",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sdDBjaHJvbjBHblBKbTlIV2NLUUJmdlduTmhSRDNKd1dnWUJxSzcwMkhYdzk0R0JHVGpxb093SWV5V2xTYlhQRFBva214MG5vWXpXV1ZEcEc4Zw?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/24 06:21:24"
+  },
+  {
+    "serial": 10,
+    "title": "核三重啟公投8/23投票反廢死非重大政策創制複決遭否決| 政治 - 中央社 CNA",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RR05oYjlhRnNNRWp4LWdtTmdXTXV6YW9yZHdXdVVUMzdZLWQ2OFd2ZC1NNzFhbXRna3NmNUJlLVI1NXNRejlNUm5SNXVvVU5DZTVhSFY2VlBuQUJCM1g4?oc=5",
+    "date": "2025/05/23",
+    "fetched_at": "2025/05/24 06:21:24"
+  }
+]
