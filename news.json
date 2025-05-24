@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-25 06:10:29",
-  "news": [
-    {
-      "index": 1,
-      "title": "India-US yield gap at 20-year low spurs concern of fund outflows",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-23/india-us-yield-gap-at-20-year-low-spurs-concern-of-fund-outflows"
-    },
-    {
-      "index": 2,
-      "title": "Grasim raises ₹1,000 cr via bonds at record-low rate",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-22/tycoon-birla-s-firm-gets-cheapest-rupee-bond-deal-in-five-years"
-    },
-    {
-      "index": 3,
-      "title": "World crazy for chicken is losing its biggest supplier",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-21/world-crazy-for-chicken-is-suddenly-losing-its-biggest-supplier?embedded-checkout=true"
-    },
-    {
-      "index": 4,
-      "title": "G-7 Finance Ministers aim to avoid public spats with US despite trade turmoil",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-20/g-7-finance-ministers-aim-to-avoid-public-spats-with-us-despite-trade-turmoil"
-    },
-    {
-      "index": 5,
-      "title": "Week Ahead for FX, Bonds: PMI Data in Focus as Investors Gauge Impact of Tariffs on Economy",
-      "url": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-pmi-data-in-focus-as-investors-gauge-impact-of-tariffs-on-economy-5377e0ac"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "桌球》林昀儒、高承睿勇闖世錦賽金牌戰扳倒世界第1法國兄弟檔- 體育 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sXzdERXIxamRSSGdETlVyRlpRYlVUREJZSkNQMkJwdnBzZ2xqYlZxbFdMbFNzWWl0Z19pYzVVWTdLSGVPMUFuX1E0bU5LX3BHR3BjWnduUGlUREJicVFFVkxfSnBPOEFWY2EwNm53?oc=5",
+    "date": "2025/05/25",
+    "fetched_at": "2025/05/25 06:21:30"
+  },
+  {
+    "serial": 2,
+    "title": "Boltgun - Words of Vengeance 在 Steam 上免費發佈 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmRGRWpJRW9pWER4NjY2X1hJQWxoQl9ReFZuZk9sSW1HeFlfRmxpZk9XaUI1OVRYWDNJZGlrT0hyS3l2elQzN1g3ZmxLMXhkZ0FHMHRkYl9EUWVUSWV4WTBhUUJfcDVKTEpXUFdXeFNKWnYwYXNfZGgtM1dTa192blpNRU9jYXVYaktRdDluZFhadnM?oc=5",
+    "date": "2025/05/25",
+    "fetched_at": "2025/05/25 06:21:30"
+  },
+  {
+    "serial": 3,
+    "title": "范斯坦言：美國霸權時代結束中俄「從海洋到太空」全面挑戰- 國際 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uSy1RcjM5blhIanFXSXI5LVM4d3p1Z2pCNDJ5WXBoc0JHYTdqNmdIUWR1TVZVTi05SDhwWEZ6Ty1hZVN1aE42dzBPSEM5aHhoSDAwd0hCSGJkc2VjUjdrZVVrZFlYbU1JdHJuLTd3?oc=5",
+    "date": "2025/05/24",
+    "fetched_at": "2025/05/25 06:21:30"
+  },
+  {
+    "serial": 4,
+    "title": "比H20規格更低！傳輝達將為大陸推出全新AI晶片 預計6月開始量產 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0dDhaSnY4UC1yaXFPeWlYbHRMSWphcU1TUkgxYXUzMjhDWmhJOVcxOXdSN29GRDJRbl9VcnhKcjRuSldoMHNfaXBORmhWMV9V0gFWQVVfeXFMTUxOLVU3aThWcXU1TUJjSko0a1pNYk9UYW1KNmczd1dzQWFfZ0ptWVNyTllBdFlURzRfSlV0RVBMVW9GemFqUjRXTmtzNklFeVFkaEx6dlE?oc=5",
+    "date": "2025/05/24",
+    "fetched_at": "2025/05/25 06:21:30"
+  },
+  {
+    "serial": 5,
+    "title": "根本行走的發電機！蔡淑臻認了過去「男友一個接一個」 - 噓！星聞",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MdUJxbEJNZFNaTTBRZ3c3V09YYTlEZXJ5b0pNWllfbmtzVDVCY2xUU0p2VnNlakVrUWRfYUFueENKRzBQVmhSdmdyZGFoenBpS3BadjJ1X1Rmd9IBX0FVX3lxTE9ISF9XZ0xpTHg0ejRjVkRRVEZhQkhCVW50RVBkamxZMUJkUl9vcG4zdzQ4Mkc2ZFRvSmpKcVdaTzBwRnhMRGRGUEd4aUt5WVlIUGdkd1pOcVowZHFEWk5R?oc=5",
+    "date": "2025/05/24",
+    "fetched_at": "2025/05/25 06:21:30"
+  },
+  {
+    "serial": 6,
+    "title": "[機殼類 Cases] 空間救星！？Cougar Airface Pure Pro緊湊型ATX機殼 - XFastest",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EYS1XcnhqY2pRQ3ZTa3lxcTB4cGZKODRzejRrUGV6cmsxMHllTGY0VjNKSVZOQTZocG8wZFhGVmNiTzI5Q3RxZXZVR2NFR3NyV2FtUWtBME1TN0E?oc=5",
+    "date": "2025/05/24",
+    "fetched_at": "2025/05/25 06:21:30"
+  },
+  {
+    "serial": 7,
+    "title": "中職》遲來的裁定！悍將滿壘沒得分後1分敗 本季對猿隊仍0勝 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JZnN6SUc3S05FcHRWNDFxc3F2bWFSSlVfY09tb1R5QnVMTkkyNkNaSXAxRnBkYktJcl9jZXZNLXVDbVA1N1ZPOVVLNC01WS10WHZzdnFXM0sycXM2eU5QONIBZkFVX3lxTE56TlZJSHpEbHpzMmtmQlpmSW9INDM5X1MwNThFcXB2R2VZRDNvSzJIa2ZlQ1ZBS2RaZHA2Qk1XVExGQWsydDRpUzZhcWdrUlBwemJXcF9vZ1UwVlFrUUVMUVMxdzNYQQ?oc=5",
+    "date": "2025/05/24",
+    "fetched_at": "2025/05/25 06:21:30"
+  },
+  {
+    "serial": 8,
+    "title": "俄羅斯派250架無人機襲擊基輔！15人受傷、創戰爭最大規模空襲 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8takV0bTdZZFJ3VWw5MkFfSXFyb05lTTczT0ZYVXdQd3ZfblhmWmxxYmRfcmpoOWVqYnJabjFBR0ZYZVdEZVdjRWVTRXo4ZUk?oc=5",
+    "date": "2025/05/24",
+    "fetched_at": "2025/05/25 06:21:30"
+  },
+  {
+    "serial": 9,
+    "title": "加薩女醫師值班時住家遭以軍空襲 10個孩子死了9個 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQUG1OaE9jUFkxdWFKY3p4akF4Z0llSE81UXZaX1A3Wm9mdEpfRXhLZGVzTkZJaDA4M0lyZ1lpQmRhdXZpR3VialhhcUZmeUxva3BKNWJ3cS05UV9NT2RKa0dvejN1RUtiQl9TNDFCckxiQXVRVDcxWHZsMko5eHVPbzlXNnRTcWRxZjQ1NEZLUUEyaEk5RHJkMWcxdTRUWWsxcW9CaXdVMTJOY2RsR3dVNDBqNmFuUVZqYnhlX3d5S2xCYmI1Wlk2VGNhQlB4V0hod3dxTHZ2NWRNRjhDVVMtVXo1aU5ULUYtRVlpM041T0Z6U3hVYXBVUG5Zc3dFeTF2a2Y4X1JXRGpLdzRGb2lRVDVDVUlTTzI4UlNDdG1NM0t1dkFRNWgwQV9wSGpMYnAxNG11Z0tUNk01YUhCU1diZmc0ZWpoMV9hQ2tudVNzX2RxVXhz?oc=5",
+    "date": "2025/05/24",
+    "fetched_at": "2025/05/25 06:21:30"
+  },
+  {
+    "serial": 10,
+    "title": "中職／狂！沒限制的徐若熙飆8局好投 噴火龍大字爆炎燒盡雄鷹 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByNjNodEw1T1Q3LXRhVlcycXZjNzZ0d3d3TU5SOGl4N2RMTC1DdzRhUl8yNlM0QjQwM1YxaU5JdzRtYmlOMndkalBFY1hWWTBr0gFWQVVfeXFMUElxcHNaZFpnY28tWWM1VWd0YWJydVlJdnBlUS1YTEdzaEFBdGltWm1JNEJNLUl0S3BfdFFuSkxSaXBBZWZFaXlDWWRYX3A5WXZtMjNpc2c?oc=5",
+    "date": "2025/05/24",
+    "fetched_at": "2025/05/25 06:21:30"
+  }
+]
