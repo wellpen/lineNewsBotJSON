@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-05-27 06:10:41",
-  "news": [
-    {
-      "index": 1,
-      "title": "India-US yield gap at 20-year low spurs concern of fund outflows",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-23/india-us-yield-gap-at-20-year-low-spurs-concern-of-fund-outflows"
-    },
-    {
-      "index": 2,
-      "title": "Grasim raises ₹1,000 cr via bonds at record-low rate",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-22/tycoon-birla-s-firm-gets-cheapest-rupee-bond-deal-in-five-years"
-    },
-    {
-      "index": 3,
-      "title": "World crazy for chicken is losing its biggest supplier",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-21/world-crazy-for-chicken-is-suddenly-losing-its-biggest-supplier?embedded-checkout=true"
-    },
-    {
-      "index": 4,
-      "title": "G-7 Finance Ministers aim to avoid public spats with US despite trade turmoil",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-20/g-7-finance-ministers-aim-to-avoid-public-spats-with-us-despite-trade-turmoil"
-    },
-    {
-      "index": 5,
-      "title": "Week Ahead for FX, Bonds: PMI Data in Focus as Investors Gauge Impact of Tariffs on Economy",
-      "url": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-pmi-data-in-focus-as-investors-gauge-impact-of-tariffs-on-economy-5377e0ac"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "WRC 視頻遊戲許可證返回 Nacon，2027 年的新遊戲 - SINA HONG KONG LIMITED",
+    "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQc0lfOGEtYWFzSHRJN2VjTEtGX21WQ25MODRnb2VwS0daTzdkemh4VEFuRXMxTHZYU2UzZHdtUXFsUE05VV9NQTVfRUdxYUp5Uk9pQUgyUnlrZXNFV0ptd0pRVUNra2ZzOVNuTHpIaTdZUlFWVnFBVldNNFAtY09KNDlPZnFxY2RVYV9DaW9pMXBBd01fVUtKUGY5bGF2Rkc0bExZcjIyY3hDdnVDU3pPMmZwZTFJQ0VlNVo3Yi1aRzZBYVhiVXJ6NXZxVVJXbnIwazV4NTR6QkZ2Szh4TUVBT1kwY0NWZGx5ZEg1TURVNU1DTms2ZlhLNWtCdThaQWo4ZGowSk5PWDRXRVFZeWhoZE42aTNiUGVIMmVRSExYM0xaSFF3dVZxckZZeTVlTUhEelVXbTh5NGVMd25jZ1djU2Y5UzdWY3FQMWFSY3llUXQyUUp3UU9Z?oc=5",
+    "date": "2025/05/27",
+    "fetched_at": "2025/05/27 06:21:24"
+  },
+  {
+    "serial": 2,
+    "title": "馬克宏遭妻子「當眾巴臉」影片瘋傳　本人回應了 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMM1czM2dlOC00Vm1fSkRfTFl4VHRUZUZQb0U1TGVfMUJzV2lvU1JSWE96eFVKT0gzRHV0UTBQcUlfdFdKSGpkSGVra1p5bkhRcGtVclZ1V2VNNy1GSlHSAWhBVV95cUxNeUUyc01yMHpIWmFUc1FoUDFPbGF2S3U2YlJXS0NQUFlDb3pLV190T0xpbjItakVsbzdHWVhXWVVzSXlqbHZjYmFETU4zUlhpbDE4V3hXY05jNjBJZXAyYWMxSUQwWHhBRA?oc=5",
+    "date": "2025/05/27",
+    "fetched_at": "2025/05/27 06:21:24"
+  },
+  {
+    "serial": 3,
+    "title": "獨／輝達北士科用地如何處理？ 新壽回覆北市府內容揭曉 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80eXd6bFRPVE03dWtrMVJ3alRFWGFLU29HNmhKc0p3ejVhTXl4X0dXd2JPVUFfR0p2THNPclZvUVlVNE1UR0FmMi1YelBSSEtP0gFWQVVfeXFMTVRMQkxFQzlPNGtqbUc5NEdBdHc3bU9aUzRfNzdFR0FQdGpOTlJSb2dXb3d5SDlMZGd6VHZFalhid1I3ZDctSXdidjM1dlgwSzBYd3lrSUE?oc=5",
+    "date": "2025/05/26",
+    "fetched_at": "2025/05/27 06:21:24"
+  },
+  {
+    "serial": 4,
+    "title": "MLB》大谷翔平術後首度實戰投球震撼全場！ 還兼同日開轟寫紀錄 - 奇摩運動",
+    "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxONWt5RFhRNllvVVlQTnZwU1ZiSHFWTVdIWV9UdmgxN3NkRHIxOEZ3MjJOb0NlRHAxMkp1Mk15dndCTFJIckQzVURNNWJKckh1U2RxVVVmVk1pS1JZR01CTVlqckJpUEV5WHY5aEdBc0NucHNGdG1sTU1fNlNjY2k2eDVVQlF1dm9iRzFlb3V6Zmdoa2FVMnUydllsS3NzVUxOSkhqdWNEcWwtNEN2SExWb0drMjZzQ24xQlNvSUxJeUFLVjlBa2xCRkQ2NXNsYjRkU2h2dTRrelh0QW5nYThhZmxzY2VTRG5LV1ZWYlhnZWlwUExaLVJyVWc1TzN2S0ZaVnVsZHBqTDVBZ0tvMEpHZTJGRVhuUnlpeU1saDNzcTdOZl9ibEpXQlVTanJrMjU1Y0EwRFY3amU3NEdVb2duTWdLbTk4MzlOZEppMXFlMHV1Mmc0RkFqNXNiSUZkUEJLWGFqTEU4MXFabWdkWjBhenphT3oxUVZ4cERRTG9PYW5GQXJ3WTJ5Um51WWVjaVE?oc=5",
+    "date": "2025/05/26",
+    "fetched_at": "2025/05/27 06:21:24"
+  },
+  {
+    "serial": 5,
+    "title": "輔大醫院洩個資3／離譜條件威逼受害同事和解　駭客治療師黑底曝光 - 鏡週刊Mirror Media",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wS0pGSjJQMm9DVzdzaVh1SlpPRUoyUzFobTltYlpjaFJjd1kySV9MS05kRVdvOEk3Ti16Q1NubHBKV3hJZ0h5ekZPNlhVdVRvcmxoRmFtRENva1HSAWBBVV95cUxQY1ZwWXdHUmhCdjVTNzZoenNteW1ld1pBRkkydVVQVnVWbkJNV3FFeVJqUV9RNXVFSjhEckRwNHVacW0weGVQeW9MTDhFZmMxb0pLQW8zYnowbEg5a3VjUE0?oc=5",
+    "date": "2025/05/26",
+    "fetched_at": "2025/05/27 06:21:24"
+  },
+  {
+    "serial": 6,
+    "title": "家寧爆Andy交往時「多人肉體出軌」！ 受二度傷害反擊：我們下集見 - TVBS新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yeTZSRVhMRGJ1eGRER1RtOE1LQU5JTnd5TlBpNTZ0a3dxdmZSWndtbEF6N0lmQllEaVRIZUZxVmNIdEQzWFNFU1FVWWxtaHpuQUI4bjVXdVNNdw?oc=5",
+    "date": "2025/05/26",
+    "fetched_at": "2025/05/27 06:21:24"
+  },
+  {
+    "serial": 7,
+    "title": "再槓哈佛！川普嗆考慮「拿走30億美元撥款」 交給美國各地職業學校 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSZEplMmEtUzYwNURmYXFBSkoyQXJLNjQ5aWlTMjBvLS1mMFBuLWIwakJrNFN1eTIwYk9kcGRxSDFEclhMTG1QQ3ByOGlZZTlL0gFWQVVfeXFMUExXVWk4YkJOUGNSWEY2OEI2OGRKeG0wdUxPTURNNGJPaVdZTUtRQXhFZ1hPVzJEa2w0a3BwbEVuMGRkUG4xdGdOSnJpRXVsLVd0X3NheXc?oc=5",
+    "date": "2025/05/26",
+    "fetched_at": "2025/05/27 06:21:24"
+  },
+  {
+    "serial": 8,
+    "title": "梅雨季「最強鋒面」要來了！冷雨彈猛炸全台時間曝　連假熱飆33°C - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBV1RKbzFLR0k4V3VVbVVWeVF1eEJoYjNDdmplXzhFa0p2MHYtbndyRjlralBqT0VTOV9BTWF3Yno2d19qVVVjX3RTWXdoR0RzS2l2c1M4cDJyd1Q3YXfSAWhBVV95cUxNMTVNTW1kOUs1LW0zdlpJcEtuTEdPR1VPQW9yYmRHMVhNXzJ0TnFEaXFNbC1KVXp3NkdKRUxveGo1VEllTEZ0ZmVUNktSN2V1TFF4Y215SlhVX1MweHpNU1F0U0p2SkFKdQ?oc=5",
+    "date": "2025/05/26",
+    "fetched_at": "2025/05/27 06:21:24"
+  },
+  {
+    "serial": 9,
+    "title": "台股週一再走弱！貨櫃三雄受美關稅陰影衝擊 外資大舉調節航運股 - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQYVpDb29KRGhqUVdsYm9Zc29paFc2bXZ0T0VrMExvSHhNMV9XQV9IMVptLVRSZ1Q1RFdId1B0TlZBVTNUWnhCc2gtaVhOaXpwVFFnRk5wZjlWWUxIRWtPalhuS1NTMzJpVDA5S0k3X1hGOU0xTEc5a2poT3lkbU5meFNLVXZERG9UUllNX2VHbmJfeDRuWUVBc192VHJtUlJMNlh1cVRsVkxEQjhKVXduTTdIWmhDMmstLWt3OGNZdmh3QXFwOEpGQWp1dTE1TnJ0XzhIQXdQUm01bUxwRldLY3hjbk1rWnU1UzN3Z1RtZUhjQk11aVRHbEJKaDE4QzRwQnVld1JpUlhJal9KTF83UmYwSWUtLTFnMlJzTF90b0ZUT3J4MHpIN2tlOEdOekhUSm1fZnZ4bjVNNTFHVWJJVlpNeUhUMWVzeHZ3aGt5M1J6VzZydDRxSkptVzdMRWNmQlVod1JPR0xpMVBTRnNuaTd5WFMwVXF5UU5VVUI2RFhQTWkyeExWSkpSNkJEVVdzMHUxRXJmal9KQTFKT2UxS0N5VQ?oc=5",
+    "date": "2025/05/26",
+    "fetched_at": "2025/05/27 06:21:24"
+  },
+  {
+    "serial": 10,
+    "title": "葉丙成請假接受調查！受害女學生怒嗆3字：當一個人都不配- 生活 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fVjRtcWNjWDJrOHdnVERXOTNHMEswU2dHZTVOY2NDckg2Ukw4SHpTX2k0WUdmS0xxS2E0RG8zbHdlM01MUnkzYzU3XzdLVXdCVFBzZFRoeHFEUXVFUDJ5U1VsN0pvbE9xMXdzUGdR?oc=5",
+    "date": "2025/05/26",
+    "fetched_at": "2025/05/27 06:21:24"
+  }
+]
