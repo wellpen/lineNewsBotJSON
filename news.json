@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-06-01 18:26:32",
-  "news": [
-    {
-      "index": 1,
-      "title": "Israel confirms use of laser weapons to defend against drone attacks",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-28/israel-acknowledges-use-of-laser-weapons-to-intercept-drones"
-    },
-    {
-      "index": 2,
-      "title": "India-US yield gap at 20-year low spurs concern of fund outflows",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-23/india-us-yield-gap-at-20-year-low-spurs-concern-of-fund-outflows"
-    },
-    {
-      "index": 3,
-      "title": "Grasim raises ₹1,000 cr via bonds at record-low rate",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-22/tycoon-birla-s-firm-gets-cheapest-rupee-bond-deal-in-five-years"
-    },
-    {
-      "index": 4,
-      "title": "World crazy for chicken is losing its biggest supplier",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-21/world-crazy-for-chicken-is-suddenly-losing-its-biggest-supplier?embedded-checkout=true"
-    },
-    {
-      "index": 5,
-      "title": "G-7 Finance Ministers aim to avoid public spats with US despite trade turmoil",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-20/g-7-finance-ministers-aim-to-avoid-public-spats-with-us-despite-trade-turmoil"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "「筋膜槍」別亂用！醫提醒使用部位、時長要注意 身體有「這些傷」先不要碰！ - 獨家報導",
+    "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPSFNnTWV3VTBlSWNQZm1TMDlUSzNBS1RWMGZTVEJrRnp4aHhfVWJuWjlueE9wa3Zob2hEWk0wUXcwMU5FdmlaWlN0d29XZTR5cHkwTnZPZVZNcHpXbVJ4SlUtU1Z0YWZyZzNrTDRlWUNveDhuX3prZ2VPS3hNR2l3T2gxX2FReXZNbWhpakxHb2FBaVpGQ211ZXp4MXNnYXJjNjZHUmlJaWNOZTlfZVNMaFo2RUJnWFR4Vjh3ZUVURHJfMjRicEE1UmZjVjdseDdrVFdOVFRsU3JaRzFkM3pOZG9SaC1CQWpyUnZaZEhZbC02OHNwMmhJZjNpMkRMenloVDN4bThET3VjTndhYlYwTFhwWWJVMDhLbU10ZHJlbVpidnhqcHdITDJCSGNLMGxES3RNMmFsZkFTVGpSNmtKaWZIU0s0OVd0eWhibjQ3cW1UV0xYdXFfMndSeU5hUQ?oc=5",
+    "date": "2025/06/01",
+    "fetched_at": "2025/06/01 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "桌球》葉伊恬遭桌協取消大滿貫賽資格 體育署重懲「暫停協會所有補助款」 - 奇摩運動",
+    "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNZmZPUU1MMktZcndpYnpQdVVCcEtwZUFiWXFiRWlIVGV0Z2Nrb3FtS0ZmZ0VHd3o0V19heU9OTWRWWHVLcmdUNTQwX0VIWGNRdlFkSEo1NExObVI2NEFucWlKYXljOUZLdlNxZjlvMjl6VldMZW9tRWpRMHg0VmxMbjZFVE53V1dYNFVXYmt5V1FoeHY0ZHRjX3RmeGpOU24yTFV3YlNSLWJPcnZQTlRGUTVucFRiWkprbVZLRHdqaDlqNEw0d3pxVWsyNlNXY0VLNlhablgxWkRtYmhVSjRfV3pwUkFvb2FmYlAyWWNKekVieUdUV3RoM25jd0RBTWtFRlYtT2ZndmJRd0czRG05aElxNkRWSmtHa3ZDVnJVYjJIUnY0ODJENlZlTXV2dnFZM0VRNUpjbW1XWi02Vlh2YmtwbUtXaHRxZ1Vyb3ZaNGU3a0ZFV2lGeldTVGFqUTJHWHFTVHBMeERwVFJSbzRIMWRoQzhUOWpRU1JPNl9EWEk3WjFvdGFlbTA1WmIxakJOMlVpUlprRG1HcTJVTEVrN3d6OVlwQVZzNGxxRk9KTUhNeHZqNHFSOUNyWFJ6WmpqYXBHdEZLQzA?oc=5",
+    "date": "2025/06/01",
+    "fetched_at": "2025/06/01 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "林志玲被暗酸「嫁錯老公」眼裡無光 她「1舉動」反擊：太久沒當明星 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNMHRnbDVJZW1abVp1MnEyU293UjBpczI5R3ZTNDFzWGhLdW1XeWE2WV92emtSazJLREdibE9ydk9jbkRxbE9TdWVzcDdBUEVNZUZjRDR1STdPRHppV09ITUtiNjVpU3dyZWp6T2ZMdlQ2OHJ5NlJKVVdBdTU5NjFTNHFQQ01xaVdmSW9DUnZsNDNPdFlpS0ZSNm9HTVVLeHNnSWV2ZU1wcUhCQXZFVlNHTS1oaGhVQ1VLM005TWk4a1d3b05HLTFURDF4RUFfZFlLS0pBSE1UN2g2aHRZTkxOQ1J0a0pKTzJWMEFvanprUVc5bFhEcTlJNkV0cW5OUXkybjkzeWl4QThCaVEtbU9FMHpnUDZMSGNqR1FJcVBEczM3a1dEaVE?oc=5",
+    "date": "2025/06/01",
+    "fetched_at": "2025/06/01 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "身為瑪利歐之父還開發出《薩爾達傳說》、《大金剛》，但宮本茂說他最愛的遊戲卻是這一款 - T客邦",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LZEZVTVZMZ09WNUlRMkhvclBJU004bzBkOGZyeWtQc3E2Nmg5Yl9JRHJ6OHU1cFRkWDN4cEdjelVXUFlneG1PNFlQTDgxdXZ6aDlfRlFINlkxeTl1TklTaDI3TnFsR3FLM082NU1DcWE5bjlRUW5V0gF8QVVfeXFMTmpxWjVXTUpUTFZiM0ZibG1jSk1rRzItS05RTnNJejU4QlU2SnozLVV0ZTNtWjdKb2M2dUpRdEZ2dTRJNEp5QlpaNVR4OTdaSUw3c21JVDJJRUtRSkFNbnV4TldxdnZKQ3RvSF9xU1hkWlJfVk54NGFGWHRlWA?oc=5",
+    "date": "2025/06/01",
+    "fetched_at": "2025/06/01 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "50年前打「生長針」埋下死因！58歲女罹狂牛症類腦病猝死 醫揭潛伏期最驚人真相 - PChome Online 新聞",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObEQ4a3dSd3UyZmlXMjNJQ2FiU0lpdk5Pa2pvT0pqZk9MTjVLTGxKVmtJMWxnbEdtczEzMlRVUW04TklPTHlmdjBHd2tmcVJHZ2xhd2NVR2d6c1YwTWVERDNJYWhad3RIbHBweXZMWUdsSmVRalVwbHZFOVJSLUVwZmVPNnV2M1ZjSlk4UmFzbw?oc=5",
+    "date": "2025/06/01",
+    "fetched_at": "2025/06/01 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "水氣一波波靠近 南台灣首當其衝！三縣市留意雷陣雨至深夜 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBteHNkaFFUWktkTUxzcnBaQ2R1X3JFMGtXR0ppMjhSLTVnZzRrNHRBOUhkaXlUdzZmUHZyY0NZaWx6MmxtYWlHSEItMGRWcW9r0gFWQVVfeXFMT3QzdlFQR0dJT2FhWTFxbW5JZkRrM1lvUDJlVkFaQUJ4cThydnlJM2ppS1pQWHptdHJyTDhtR0YyUUN3bXVIQmxMcjRZSjVzSHNrd1BLNHc?oc=5",
+    "date": "2025/06/01",
+    "fetched_at": "2025/06/01 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "影／談初選陳其邁讚檯面人選「有風度」 議長補槍：現任也要 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTSmFmRlZZUmYxQ3J2ZFBFdjNlQ0F0dmZvVlpoZkRPOHlHTFotZGh5RWN1X3hwdjVUbDdXYlhQdWEtbmpWX1dTVFZVejlHX1d10gFWQVVfeXFMTmhaMWJLeVlTVndKUnh6UXJKZVctbmJ1eVV5XzJkcVlMUUpXR3NMV29vMlc2ZnpCWlBSR0RrRmZJZWFtb21lLTJsWHVGNk5mcFVxeXpDVmc?oc=5",
+    "date": "2025/06/01",
+    "fetched_at": "2025/06/01 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "以軍襲擊加薩人道物資中心！發動戰車、朝人群開火 釀30死115傷 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOX0ttR2FlOWh5TzAxYldMLXVNSWJxb3R5N1lwd3JIbmFLQjFtMkZSZ3hHTWVMU0g4UXdQV24wTmpXNWpabXlub2RONURENEFNM1ViNmlzU3ZrYzJJVU8wUS1LQ1I4UUZzWUM0alFhSzE2d1V0em16RnVaVEF1cXMwc1UtNTdoQ2dOTk9VaWNMWXgxZHFidTBzRjBpeFgwN3dwX3Y1QU1YamludkFtVVNXWUdvWlVOMS1pb3Y5X1VBdUdrUXB5djR1djZjU0NpUU52VlRFM1g0RlN1dDUxT0pwY205OXdiM1F6ZUNZUy1XMnJabXVZdjRGVXJIZE1POUZxREpYVUU1cUE4b2I0cUxyZmFueGk0NFpVRGZqd0lJNkg5VEQxQUdjT3h3REZQZHU4WEVfQTFZQzR5UXpZb1RveWxMNFpOUlBiTjNvTm9aSFBQOXV5SUhVMFdlcl9oQThCWDdwbGNOMDIzWFVUQ2NtYkpZTEdwa2g1dmc0SExR?oc=5",
+    "date": "2025/06/01",
+    "fetched_at": "2025/06/01 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "吃魚抗癌防血栓 專家激推3種魚：EPA特別多 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yR3lvb2dzRTgyQjhWZTRLdkt3Z0Y3NXNjXy1HeEZaTlBtR2RNUnQxQ0lFZjJUSjJSNGtaSjVsZkZsN2M4M2ZiOWdFUGJmTkVUY3RTOXVKSXBHY1Q2N3RnSl9tclVocGhqOUxZcHpn?oc=5",
+    "date": "2025/06/01",
+    "fetched_at": "2025/06/01 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "機率1/500 路過恆星 恐將地球撞飛太陽系 - 美洲台灣日報",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3T21ncEt0WTBNSzFkcXVwT0xWUDhLRy1JZmVsN2V5X2tyaDJ3WXN1dWpndW1FNjc4Uk9sTEd6em4yLURYWGM5akdobHBiLW1rRWN0UXJ3cV9fVTFpNnQtekVOLUhmZ0xSWnplS3J1a1pCeHplb2c?oc=5",
+    "date": "2025/06/01",
+    "fetched_at": "2025/06/01 18:51:24"
+  }
+]
