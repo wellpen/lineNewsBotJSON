@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-06-03 18:29:31",
-  "news": [
-    {
-      "index": 1,
-      "title": "A $73 billion short book is putting pressure on Rupee",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-02/an-84-billion-short-book-is-putting-pressure-on-india-s-rupee"
-    },
-    {
-      "index": 2,
-      "title": "Carry trades roar back as emerging market currencies gain",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-01/carry-trades-roar-back-into-favor-as-emerging-currencies-rally"
-    },
-    {
-      "index": 3,
-      "title": "Philippines eyes India, Thailand rice to cut Vietnam reliance",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-02/philippines-eyes-india-thailand-rice-to-cut-vietnam-reliance"
-    },
-    {
-      "index": 4,
-      "title": "Global economy: US GDP falls on larger trade hit; Canada, India sees growth spurt as tariff tensions linger",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-31/world-economy-latest-us-gdp-contracted-in-first-quarter-on-trade-hit"
-    },
-    {
-      "index": 5,
-      "title": "Israel confirms use of laser weapons to defend against drone attacks",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-28/israel-acknowledges-use-of-laser-weapons-to-intercept-drones"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "民進黨「街頭小霸王」林正杰傳病故 享壽73歲 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WcWN1TjdHUmQ5M19WZzRuVmdQSlhzRmxnTGlsWUhzZlBIdmhSN2R1MHA4TUVpSW5GQVVuYkJNeTByRXVid0h6dzJHa0RVbU9t0gFWQVVfeXFMUFplcUgtR252VXUyaEhRV2QtOVFhMzVIM3JtNlhVb0lhNFVVa3pyVTg2XzVNbWtRUENaajQ4Q0FobU9LeE1scFQyRnRtTTlHNk9TSXdGckE?oc=5",
+    "date": "2025/06/03",
+    "fetched_at": "2025/06/03 18:51:25"
+  },
+  {
+    "serial": 2,
+    "title": "IG 一直被登出是被盜嗎？一直改密碼有用？網友實測 5 個步驟解決 - 蘋果仁",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pdUJveHBiNFZ3RHNqNUlaU09ZNE54RWx3RVBHaEJobHM2Y2R2NmNPa1hFczNQb2JYblBQMzNJSVZjbU9GOFJWUTNVcTQ?oc=5",
+    "date": "2025/06/03",
+    "fetched_at": "2025/06/03 18:51:25"
+  },
+  {
+    "serial": 3,
+    "title": "桌球》道歉了！桌協、體育署共同3點聲明 並向葉伊恬、莊智淵道歉 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvSkFCWHhKSm1xMmlhVEttNGlIQjAxTVo3Y2hRVzIxeEs3MGVIUTd0YlBSV0tabmFpQ1ZaRld0T0hGeUl0azZRTkNJLUc3Rk5ja3dyMDQwZjNYZ2Y5TG9CYdIBZkFVX3lxTFBjZlhLMGlzU2tLeGhoYnROM3d6LUlwRFBGUjQ1NmhNN3pJODA3NnctY0ltRkFfa2ZMemNiN1RweVFhUExMam1TazZTd1ROalRua0xsU21iRnNXY1ZPVF9VdUZxVGF3QQ?oc=5",
+    "date": "2025/06/03",
+    "fetched_at": "2025/06/03 18:51:25"
+  },
+  {
+    "serial": 4,
+    "title": "林美貞斬斷24年婚後首露面「情緒哽咽」　一聽到孫興變臉秒遭擋！ - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZYWhpZ0FoX0tDQnRwcmpaVFFsSHJPZV94anZJS1hGdHlzZjBTX05pcjFOT1NiUkxDZkhpczRSWURld3dGVkFDYlRRN183Z9IBakFVX3lxTE5rbkxIZUxQV2o4bnFHWDZERDF5OXcxSnV6N3ZoakNHZHlMMTcwZW1NdUo1ZUQ3RkNKem9PMFJKNG9oV0w5N1B1aXNXbWt0U3NqYzVXTWl2R2pBZzgwSkhGa1d5ZWpaZ0JfSVE?oc=5",
+    "date": "2025/06/03",
+    "fetched_at": "2025/06/03 18:51:25"
+  },
+  {
+    "serial": 5,
+    "title": "還有氣！《暴雪英霸》迎10週年，限時兩週開放全英雄任玩 - 4Gamers",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OTjNvUDZXem1xT1ZPeERKQThHcU43X0F6YWwza3plUW1lWkZfWEZhZmRPOHkwbUdnWk9wVmNyVkN4YjM5TkpqWUJwbExfd1lSOTVNblY2S2RNNkd4d0I0MEVheVAtcFBzYjBnZ2Q1eHM1cUx3?oc=5",
+    "date": "2025/06/03",
+    "fetched_at": "2025/06/03 18:51:25"
+  },
+  {
+    "serial": 6,
+    "title": "南投霸馬補件3828份！　馬文君酸「福壽螺」催出2.5倍連署書 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qRENTVG50VFBuaUpKX2ViYkpRTFliM0NsTEF4R0VKMzlSQUpJN3l6MTB4RnRYTzZ3bWtyVGsxaG9jWHcxV1NNVS1fdVBHMmdUQ1lvcDJRcFBQb2lvOGfSAWhBVV95cUxOSGViNkZOMUtiZEFyNjhMVmpFRzJ2Szk3TWhtaFRkZ3FCNXdoU01sVF95c1lPOGRwTC1rZ3lMNDF5ekFZN1RZejBKaUNGNVVIeHlyUmtBV3AwdGNoT3cyY2lJeFBFM2NBNw?oc=5",
+    "date": "2025/06/03",
+    "fetched_at": "2025/06/03 18:51:25"
+  },
+  {
+    "serial": 7,
+    "title": "中職》降雨影響 樂天桃猿對中信兄弟延賽 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QWmRUeW5BMnFnaUdUbXN3WGE3SVRfa0lyYzV2YnY1V0FpRnN5RmlOVlQ0YnVESjQ0UmVPanB4RzlmWk5jRzRNcXZneTNka1dMZmZKUHpoVk1hSVpsaFhEUdIBZkFVX3lxTFBxblZ0amZiVlFITE5SWHRHaHNvVGZqU1dyRGc0LVRwUWdEN25YbExVOTUyekFxYmZNanBKdUhZQ3UxR0VmSDBuSHhHdG1ZeE1paDltTWlkZGM3d2tpVWZ1Q21HMFFwQQ?oc=5",
+    "date": "2025/06/03",
+    "fetched_at": "2025/06/03 18:51:25"
+  },
+  {
+    "serial": 8,
+    "title": "《忘了我記得》講戲逼哭謝盈萱 劉若英：我在講一個開心的事情耶 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPYko4S2IyZW04S2pvVHgxMUlNcVZHVzU4Y2h0b0w2TTk3TDd6WXFvNFlYU2VmcW5GUldqZ3lwNlpacmFzSGk1VGxEMjU4RzVsMXJwcmFZUUdReWI1ZklrUXlmOG14OGxfenRueVRfVW9veTNPYVUtMldNNXp6NkRYMjlNV2h6d05peWYxcEpranN0enV6Q0tkOWsxMUNlU0ZnODA3Und5a3ZjakVlMFRTdS1RNFhRODFnamdzMVpOMTVaZDFuVlpIM1kyWkoxRDFrc0E2TEFvV3VzS2RHY28yeXhtQUJqOHMxbmpkYU5mTl9HX1RnUUc3T2k3UEJkaHR0VXRFRHR5bVdCQzJ2VzBaOTRhcmhjQmtrOEdXazhERVNacldWbnQ1MDBHNEkxcDhSRk9uVUhIRDNrbEVDWm0xNjgyZGp2cXhkdGRObm1iMjlEbXBkaWZUd0pJUTNUeGdvV050Tm9Fd0c5bXdxVjhDZEhtR3ZSQWhfNk5VaDNFaDZ6emcw?oc=5",
+    "date": "2025/06/03",
+    "fetched_at": "2025/06/03 18:51:25"
+  },
+  {
+    "serial": 9,
+    "title": "快訊／東京路邊砍人！兇手逃亡中　80多歲阿嬤送醫 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMTTFxcmtkTFVNWlU3MUJUUnN6eHdXMnVLLXBaLXI5cEkwSnFEVFJWam9LU3J2d2tzbHhDbmw5MmNxVzNySG95bVNBY1d3eW9SYkRNek1GUlN0M3dLdEHSAWhBVV95cUxQamlmbTJ4MFhsLWdBbmxEcjBwTG13Qi1oYmxsWDNhZ0d6WHFJR1UtQ2lOVlVoVWJHbGhSX3N0NklRaDNZb2dWMll4UGE5MkM0MVBWTmpkOWJGVVJGeUFvTFpzMnRsZFZ6ag?oc=5",
+    "date": "2025/06/03",
+    "fetched_at": "2025/06/03 18:51:25"
+  },
+  {
+    "serial": 10,
+    "title": "遊日小心！奈良公園驚傳偷拍案 59歲男專拍「外國女性走光照」傳YT賺錢 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44MFhhbXhOanBMaVpGcEUzT2VsRDBFYU5sRXlIMmI4dVBmUUJtSWdXS3NPdW54dElWa3BMQTF2SXFLN3U1LUltNkJ0amZNRXph?oc=5",
+    "date": "2025/06/03",
+    "fetched_at": "2025/06/03 18:51:25"
+  }
+]
