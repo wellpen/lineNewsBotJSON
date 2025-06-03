@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-06-04 06:11:50",
-  "news": [
-    {
-      "index": 1,
-      "title": "A $73 billion short book is putting pressure on Rupee",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-02/an-84-billion-short-book-is-putting-pressure-on-india-s-rupee"
-    },
-    {
-      "index": 2,
-      "title": "Carry trades roar back as emerging market currencies gain",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-01/carry-trades-roar-back-into-favor-as-emerging-currencies-rally"
-    },
-    {
-      "index": 3,
-      "title": "Philippines eyes India, Thailand rice to cut Vietnam reliance",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-02/philippines-eyes-india-thailand-rice-to-cut-vietnam-reliance"
-    },
-    {
-      "index": 4,
-      "title": "Global economy: US GDP falls on larger trade hit; Canada, India sees growth spurt as tariff tensions linger",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-31/world-economy-latest-us-gdp-contracted-in-first-quarter-on-trade-hit"
-    },
-    {
-      "index": 5,
-      "title": "Israel confirms use of laser weapons to defend against drone attacks",
-      "url": "https://www.bloomberg.com/news/articles/2025-05-28/israel-acknowledges-use-of-laser-weapons-to-intercept-drones"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "國際研究團隊發現「超級地球」質量大約是地球10倍 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfZUx1N1g4Y2RQOFRISFdOdlJHX1ZKakFLYmZrZTFaUTZlRGxsTDFHOVFYWko4Q0lhbThBVVlkd0lITURONFNLdERlZ1ZQaE0?oc=5",
+    "date": "2025/06/04",
+    "fetched_at": "2025/06/04 06:21:24"
+  },
+  {
+    "serial": 2,
+    "title": "不忍了！馬斯克砲轟川普減稅法案：令人作嘔的醜陋之作- 國際 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01dnpvS0RfbU5JRjBFeEZNXzdhajhleXMtZk5zcjlEamxreGtKOE1ha1JJd2tNSjVLWk9jbjBjMG5BUlFibHpSa0hiZTYwUEdfTkJGcEl0NkZmNUZ2eklEZHZfVzFfNVRnVjdmQjRn?oc=5",
+    "date": "2025/06/04",
+    "fetched_at": "2025/06/04 06:21:24"
+  },
+  {
+    "serial": 3,
+    "title": "醫授6關鍵 防CKM症候群上門 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWmY4ODlYRXI3TDNGdzdWaGVVcFhndWVfTzRxT3dUcUt5R0ZWS2VZRUc1QmpURExMT05zbEpvNEFiZjRXUDVPZEs1RkZGRVA3N2V5RGZtQWowQkhwdTk0bXNQak9Oc0dtMGU5ZzlqZjJBN2tKWEJtOHJENXZhSDFkZmQtbE9FZWZhZFJFOXhrZ3V1MEhoTzJ5N29NSm45RExXbzZvcmJDYXJCRWM1RFlBMUxaZk14eHcyZlU3TjVBeWU5SWpOT0pUMGpLWGJpR3lFZlE?oc=5",
+    "date": "2025/06/04",
+    "fetched_at": "2025/06/04 06:21:24"
+  },
+  {
+    "serial": 4,
+    "title": "陳歐珀涉收賄遭約談 妻子深夜移送北檢 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91b3hfZ1ZXUnNnVnVIZ0Q5ZlprSEhHSzRjczN3NFAwRW53TnRnN2ttd3VSMkFCY1E3RUNYVGZ6d3laTUVTSERlUkdTRzlJNWpW0gFWQVVfeXFMUElycTcxLXkzYTNHZHJBeEc5S3RhMVU4V1dtQXJTUEViNklvdE9RUVQ1QW9XdHdpSXVVVWNaZXBKdm9icTdfT2JmS2FvRzBQU1NsTXdrV0E?oc=5",
+    "date": "2025/06/04",
+    "fetched_at": "2025/06/04 06:21:24"
+  },
+  {
+    "serial": 5,
+    "title": "美中貿易大戰續攤？美財長喊話：中國必須做選擇 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tTkFrYXI2MzQ5WDhOaU53M1JQWGMzZWlBU3h2S3ZkX1ZSNVkwclNIdU9ZM3VyVS02ZkZUTjc4Nk5oWF9zYUdxZDdYSjB2c2s?oc=5",
+    "date": "2025/06/04",
+    "fetched_at": "2025/06/04 06:21:24"
+  },
+  {
+    "serial": 6,
+    "title": "富含鎂的食物可緩解慢性疼痛 - 大紀元",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10czd1aXVCdzljMkJxYTdPSlVONi1xWVY4enVkUnhxQ3pKZ2EzeTJpb09SOVU5T1VSVGFMSXlSNUtTYU1UTGt6Q2hSUWYwWDVTcG9uNEhGOW9WRnFpQldJZdIBZkFVX3lxTE9vM3FvYTdTeFZUMjBjc3hDVW0ydDY0X3dYVlhZZmp1eHNRSEVOOF9nZGdjNkd5LTRaYlJTdmM4VUJtWndkSjVEYnI5WEFqNU0tY0dvQTJ3bUtGNnJER1I2V0dSallkdw?oc=5",
+    "date": "2025/06/04",
+    "fetched_at": "2025/06/04 06:21:24"
+  },
+  {
+    "serial": 7,
+    "title": "林正杰病逝 家屬訃告曝罹癌8年：願他風骨轉化為力量 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UNjM3RlI5Q3hDYVZaVFFwSl9hTWctYUpNNHpTUDlEaHVycFgxbmNLVWVUanFmdFpuNEloY05vWDFiZFAyVTJrWHZJX0pLNlhJ?oc=5",
+    "date": "2025/06/04",
+    "fetched_at": "2025/06/04 06:21:24"
+  },
+  {
+    "serial": 8,
+    "title": "瘦瘦針越打越沒用？醫師揭4大原因：只有你能救自己 - 壹蘋新聞網",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wUmI3RjdrSVBPMTRQQVBETHBQQ0ZJbTdXcTFaTS13OURFM2U5OW5vYUQ0R1dDdTNjRkpsdldiaGZpUlYyeDR3OUdocDhxTFg4cHdWNnZMUENpNjNiUEJwQ194MmdIODdOZU9vRWVlaExsY05jVVpzSzJ4VQ?oc=5",
+    "date": "2025/06/04",
+    "fetched_at": "2025/06/04 06:21:24"
+  },
+  {
+    "serial": 9,
+    "title": "《巫師 4》首度揭露實機運作技術展示展現最新Unreal Engine 5.6 強大功能《The Witcher IV》 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sUFdsR3JNM3dVM2ZmeXN0Q2NWbWlRTDRrbDdrcDUtUmJPMDh1VnFwbUdQT21qbkFsbi1FV2VvaVZITjNpMnZ0d1pDYUhsaHJJRnVDel9WT2g?oc=5",
+    "date": "2025/06/03",
+    "fetched_at": "2025/06/04 06:21:24"
+  },
+  {
+    "serial": 10,
+    "title": "日職／看古林睿煬141公里直球就知道不妙 火腿投教：短期內回不來 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRZFJHZHhIUzU4STVDOUhiUGdOdm01TnZsZFNPUGFRV3dsOXo4dmR5bDZvbUZyNXNZaHRISXJmUzNhT1Zoa2FaQTI1X0NOa2RV0gFWQVVfeXFMT0tmakZOMmdsVk92dnhxOHV4LVJrWDBzUXB2WHZlTjMzNUpkNHpLb0VzWGFTQ0VVdTNxektONHJ4Ykg5eERwRVpzUzdWYTBEZGlSMnBocFE?oc=5",
+    "date": "2025/06/03",
+    "fetched_at": "2025/06/04 06:21:24"
+  }
+]
