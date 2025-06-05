@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-06-05 18:29:42",
-  "news": [
-    {
-      "index": 1,
-      "title": "South Korea elects Lee President, capping six months of chaos",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-03/south-korea-s-lee-holds-clear-lead-in-election-exit-poll-shows"
-    },
-    {
-      "index": 2,
-      "title": "Trump signs order doubling US steel, aluminum tariffs to 50%",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-03/trump-to-sign-order-hiking-steel-aluminum-tariffs-to-50-percent"
-    },
-    {
-      "index": 3,
-      "title": "A $73 billion short book is putting pressure on Rupee",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-02/an-84-billion-short-book-is-putting-pressure-on-india-s-rupee"
-    },
-    {
-      "index": 4,
-      "title": "Carry trades roar back as emerging market currencies gain",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-01/carry-trades-roar-back-into-favor-as-emerging-currencies-rally"
-    },
-    {
-      "index": 5,
-      "title": "Philippines eyes India, Thailand rice to cut Vietnam reliance",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-02/philippines-eyes-india-thailand-rice-to-cut-vietnam-reliance"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "清查民眾持有大陸證件 陸委會：領大陸定居證首例被註銷台灣身分 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNRUlhR2s0eGMwRzdwcVpvMkR5M3dxTTBYWFhMeWlLTThKOWZDdWgxUWd3ZGU0cHFOVVFlbzVuVFNlWkNHcWtnbjZ4ZHJEc1kyOXBMWXRHOE5oMXJhbmdOSjhGMWNLbjZJZ3RZRUhjbG9fazBBRXVlLWIzWVJXLVBTdEUxS2RxVDFNLTdQVlpyQkpncFduV20yMzNNMkV1RzVyZ3FMNmdCdXlGX2VjQmdvNHI1TjRIQ0JmeGFUWnJfUE9lU3c4NWI5TE1TVXhveUhrVUNxekY5SFlPOU9XdHJ1Mm1vM2ZaM1M5UV9hMVUtdE15ek9wQ1cwRC1Ubkx1bzhqV2F5aWVtcWdVZ0xXM2VCbzVnUVNkdjIyRF9rNW5aQ2ZhdWN1SUFCZVpxYk1IeGQxZDk3X1hJcGRpd1JUbHVGWHVtdHpYQzhoMXlkc1RDekR1RkFyb0JYRmN0NTdfYXFHeVZfVy1QZ2FIelNGeEZoUFNoRVNEWWtKMTRCQWtKVlFGZnpTUWt6YWFHcTRMblR4ZWNOakt2YmNZajV4VldIMU1BSGVHR2I1Sm05RTZXNTM?oc=5",
+    "date": "2025/06/05",
+    "fetched_at": "2025/06/05 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "與劉詩詩頻傳離婚！　吳奇隆公開現身「細節被抓包」洩婚姻現況 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zdXBFR05UaF90T0xXbUNSUV9UVktoUFhScEd6LW80ejZ0SXp5dThxaDFIMkN5MGMwU2NOYXQwTnpHWGlYTm9PTDkzY0twUdIBakFVX3lxTE9SdnBtbXdxd1JRRXUyc0RxVlppeGVPeFdXejlDZmlTb3Y3S1BPMDRLc2ZiNi1Ndl9mUWV4NHRYR2hxZE9GQnpTOVViTnZuUGs5bGY1TVBZZ2NBWS1CTUZCU0NIUzV3X3hrM3c?oc=5",
+    "date": "2025/06/05",
+    "fetched_at": "2025/06/05 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "14縣市發布豪雨特報 大雨持續下到入夜 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KZ3VpMjhLek82QzRSdTgybzk2NEZMOUVpRDM4N3B5WDZISm9tRHJxMDMwLUU0NkpxMGpCb0FidmVxUHJOdXZXR0hIWWFfNjRl?oc=5",
+    "date": "2025/06/05",
+    "fetched_at": "2025/06/05 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "北市議員爆：青年二期社宅拍A片 竟出自幼兒唱遊青創戶 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wWVlLM1NJV3lja05SNWNmTTdQRUFUa2M4b0RjMUFWZXc2aFhITElKS1FTRmxSazk2RmtTeDhTOFFWYi02UktZWDFjSDlqNXpp0gFWQVVfeXFMT3gzTnBnWUpmQms3LXBhNVI1cDd3VHh4eUw2SWg2cnpqdnY3akVjblk4LVJpM2hnTEFmQWtDcWdUb2ctbXNZVEw0WTY5U3VET2xUdzlZcFE?oc=5",
+    "date": "2025/06/05",
+    "fetched_at": "2025/06/05 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "The Game Bakers 通過新預告片展示了 Cairn 的更多內容 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ2Zfc3pEOFk1bHVybS0xYnNvMGJ0bjhGMlpCdzV0NlJxT2xvV3liZ3BXWGxiRU5XOUYwVU5SWjR3cVNQcUQ3YkxBaWpITUNZR0pXbEF1ZE5obWRUNFE5ZWxEcWJfUFlKVXpsQloyQ0lFalF0U0ZfazdiY0NicFp0ckk2Yk03UnluaGpGbFRRcXU0ZXgweGdkbQ?oc=5",
+    "date": "2025/06/05",
+    "fetched_at": "2025/06/05 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "「罷瑤」搞錯受理機關 賴苡任聲請定暫時狀態假處分遭駁 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwdkVyWDBIbTF2QzZyc1lDdFhvSm8yNUFzbEtHQWtJcGtFalRrMV94RGluejV6NDltMUJzYjNydzZIZkxNVFA1N0NIbE5pT2swZzE00gFYQVVfeXFMTk8xemNjaEczYW5hLTY1aklRdEJuM3NPSkdwd0JaUEZmREVqRHV6Vi1lZURkSVh5M3lFV3B1WDZMd1VvcVJrakc1cHhpY3F2b3puY1NEZnBtZA?oc=5",
+    "date": "2025/06/05",
+    "fetched_at": "2025/06/05 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "《仁王3》無預警公開！武士忍者雙戰鬥隨時切換，現在就有限時體驗版可玩 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQbkNXc095ckFCX0hoYmwxQTVlSXdJWGY3eHBYRGVjZ3VYQzVmeXNUUHg1MVR1RWxLRHljVUhBQ25RTjBXZDBaM3lqVFNaUzJDbC1rNS05U1dhMVhzNU9xb2llMVZxNjVkbHF0WHhmQm5WTnJ4aGhoWVRyS3htbkI5RUtCLTZ1b0l0c1JhMkZhUW5IR2ctQ3hWb1kwVVctQm1rNDFaSVQ1LVFac2RqY3dmYU5VVklLQk1PUTc2NTdiSnRIU2xzQWZBYkFRR3pUN3l4dmpFczZNMHh3ZWYzVnlKb3NaYjVPTjg2RGF4T1gyTGJUVkJHV0tLWUw3UHM5Y2pQVTYwRHZVbFRteFQtMk9CcDI2cnVMLVZsXzI5NXJiWWt6Ry1QMWtVdmR1VXlwTkxIUHN2cVUtbV9zYzFfRVNPVGFsOVJyMEtHd2otNTZYNHdhMS1oUEM3Skc2OG5jSEFiZE53X0JMMHVUVV96QjlwQmg5ZzB2ZDc5NHFTd0xPQThTOWJnQ2U3NFVSWFgtNTh2YjYwZWZ6VjBuRkdQUnpEaFQwSDIzRTduWExKalpTWnk2LTlfSVhsMWZIQ05RQ29HV2Y5NTZjZmpFLUg1d0w5eEtOVXpaMXl2R3BiNS11ZEs?oc=5",
+    "date": "2025/06/05",
+    "fetched_at": "2025/06/05 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "印度班加羅爾板球隊奪冠 大批球迷聚集慶祝 釀11死47傷踩踏事故 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQc1VRRkdRaXZ1M0twYkhhT1lKT0stVkNhR2VuZmFSS0pxdVpTNk1EQjhIZVFSV3dVUm95RHpjMFRxZVkzRXVGQV9RVUtVLVNQX1dQY1h5RTB5OTdSWmdRRXFCYUExMGhLamxJLU1xY2NaZXJxMnUzVjBWUHFUcUIzOGloQm5FdGxSUWdIbmR1eDRFVzhfYkxucFBJZ0dVQndyWk5CcHVPVG5FZmxFbU9hcVhCVkpxMnM4d3drenRPLWxxNVZWaTVhQWM4VTBiUE1La2ktdWNULWhJRVkxNHQ0TXZPX3AzRTJQM05ITkpONEV6ZDhITkpXaWt1UVBRX3FFQmp6RDFGaXItNGxySm81RGVoY2tfS2trWDRJVTlCRFUxZi00UEhVNjVxQjZfdGV6WlBOWVF1cmN3cEcxeHVKN01BUVFKV3lGT0d3cXZBX3dRQ2RzSThnT2UxMnV4Y1NWSHpqNk1kUE9rWXBNMjZBeUliTjdqZDM5OTdUbXpkNXB6Q2lVQlBzaXZRWFNkYUg3NFJB?oc=5",
+    "date": "2025/06/05",
+    "fetched_at": "2025/06/05 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "恐怖火燒船！貨輪載「800輛電動車」濃煙猛竄天　22人棄船逃生 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93UjBEYVNuWmdmaXc0LWhDTERzWnpLOFhabFhFVW0wY3pkVnpGRHprdDh3c1UyckVGVmlfX19nQ2JRQlJXcXZqUUFubEJuUS1fYzRkRWxLb2dFVTE2VnfSAWhBVV95cUxNVVQ3ZmFRdmZqVUtCRTJGX1pRZFB2STNNODhlbURCMlpobVdBVmdnSzgzUWU3SnZ6YVZzdmRvbUxuYzFTUnptQjdLRFFyYl8yOFVmY0FXZVRwZ2hXNmU4bXVMX0hpdkxaTA?oc=5",
+    "date": "2025/06/05",
+    "fetched_at": "2025/06/05 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "玉山盃》東體怪投特別多 「剛猛側投」黃宇昇選秀有期待 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkaDk4RGwteE1mQUFlRGhIM0tveXV2UnlrSTdhSG9zMXV4SGlMREtYZG9wNC1oa253d2lkLUhJeDNIZ21TQXVURllQQVBmRUd3SlVVTU84TU1DTWJZTHZMMdIBZkFVX3lxTFBGdGFmVC04SzlESjN0TTBGR1I0ZFFxd1NVbFd1eWhXa2FPWFJKN0UxeHE3WVVuZVdaVlhhVW9FcktLRkxqLTJlaFV0M0lIdjU4b0ZlTTFZVHg2Rnk5UGQxYnItRkdIQQ?oc=5",
+    "date": "2025/06/05",
+    "fetched_at": "2025/06/05 18:51:24"
+  }
+]
