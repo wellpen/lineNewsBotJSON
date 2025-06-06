@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-06-07 06:11:27",
-  "news": [
-    {
-      "index": 1,
-      "title": "Ola Electric founder topped up collateral as shares tumbled",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-05/ola-electric-founder-topped-up-collateral-as-shares-tumbled"
-    },
-    {
-      "index": 2,
-      "title": "South Korea elects Lee President, capping six months of chaos",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-03/south-korea-s-lee-holds-clear-lead-in-election-exit-poll-shows"
-    },
-    {
-      "index": 3,
-      "title": "Trump signs order doubling US steel, aluminum tariffs to 50%",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-03/trump-to-sign-order-hiking-steel-aluminum-tariffs-to-50-percent"
-    },
-    {
-      "index": 4,
-      "title": "A $73 billion short book is putting pressure on Rupee",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-02/an-84-billion-short-book-is-putting-pressure-on-india-s-rupee"
-    },
-    {
-      "index": 5,
-      "title": "Carry trades roar back as emerging market currencies gain",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-01/carry-trades-roar-back-into-favor-as-emerging-currencies-rally"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "Epic Games Publishing 推出定格動畫合作冒險遊戲 Out of Worlds - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0t0OVBOUm5iNnItSEVzaXJQSG55ZFhtM3Jra0paVzBoU241VjdKSjVzNW91Z2NtODdLbnY0dDdWd3IyYWpXaGxnaHNURWszVV93NFhHUXZ1TEN5ak00bGxpVFlub0VwR01WbmNkTnJlNXZFUW0yNXlvMDhKTmdqbzNoTUUyUFZJLVIzWTgxV1d5TXVocFdtbGlHNkdPRElwVWlhMDhGUUJtY2c?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 06:21:24"
+  },
+  {
+    "serial": 2,
+    "title": "Sonic Racing: Crossworlds 將於 9 月上市並支持客串角色 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdU4zLU8xa3FxdHZkQ2R2UVFuTEFPa1lnOGhVSjJkYUJuc1UzZlBTdm1henM4cEp0c1lOTnhFTmRkRzN4REVaMy1tdVFRM05fRzY3aHpoM0Rqb2hqMUhhdmtYRmVGbVpzVTdScjdHOXloTlM3T2pNTXJQOEQ0aXMtSHRLYkhWSkV2OFZRRGRIaGVCQUNYbXJtZlFuR3hLekdaNW42ZG1MdzFMUGUxMnR6YWxQWDBpRnc?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 06:21:24"
+  },
+  {
+    "serial": 3,
+    "title": "ARC Raiders 宣布其發佈日期，距離最初宣佈已有四年 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcWUzNWQyNFBlSUhIWlBIVllhLWZQRXFTMk1FLU1YeElDQ1FTY3NWVlZDX2hDV2NCM1ZNendXSmdtWFVuNmM4Ty1xNFJUaXltajE0eGliLWFwNXNDZ04zWHJLeXJUcENqYm1oVk5oZ3VVVHR3RkhHZXVTbGlNZzFxRjVMeHZZdFFlVXgteFp6SGl4ZlFhVVh0UEd6cjRzaWk5b2FqQnZwN3p3QzhWa1dTN1V1V2VhblU?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 06:21:24"
+  },
+  {
+    "serial": 4,
+    "title": "金馬名導鹹豬手／獨家！蕭雅全遭控訴權勢性騷擾　誇張掀衣舔乳過程全曝光 - 鏡週刊Mirror Media",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91WUNPaWMzSkNZR1FBaXotVWJsbENYR19PZFctdU1PSG94ZXlJZDY1bkVlMEZIcmoyS3hIZ01TbkxuaHoyTXpkR2dFTlYzY3lURUJDU25CUzhlREnSAWBBVV95cUxNem9yd296b2E5cUI3RG5sbWc1RG5qQjkydi10d3lmM1FrckE5TWJnd0xrMGNfQl9yUGlnUHlLSi1TaktOSHcyb3hzcktuQ0dLY1E0UU9NVGVYUmJyVmQ5a1M?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 06:21:24"
+  },
+  {
+    "serial": 5,
+    "title": "紐時：川普上任後首遇強敵馬斯克 學者形容「如哥吉拉大戰金剛」 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45WmEwNlVfTl9RLUd3X1BjMk9XVFNlZjAxbXhaMkJZdlZRQmRtUXBDMThDYW85V0hjNHo0OWdVZWIzMDNpVmxWd1RSX0VvTWc?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 06:21:24"
+  },
+  {
+    "serial": 6,
+    "title": "快訊／美中通話完槓馬斯克！美股盤中全紅 道瓊漲388點 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOMDBqaDkzQUxhdmFVYmhCLWtReWRjZWFzODNJQktjYURZLWEzSGNIcV8xR3FheW56czhJcHRqdnROVkZ5eEU4bTJUa0hfbTlTenJPQjRJd0JoVENDdTRTY0RWS1JhTnRZNkN5VEYxOUU1dDF3Q2xldFVJUzA1bVR4RGRPcEtqOURaTHpHSnpmV1dtb2hIY2FNWG9yQWFWejk1bGpSak1rejRhOGdHSnkyak00ODdMaTN3dDRwNXRqSmwzZ0MwaWE2MHhQUmtZbXptQnZSNmZieEh2cmVacm1jRm12Z2VzTHJ1RmVMY3JUWWNHWl9FRFhOX1hEV0NkejZNbmRrM1RnQ1BQZm1qZ0JJUUEyVEhNd19NclNCLWd1UHZoYlhNclFDR3dIbFRUdmhWRGpuWWh4ZUF4aVdOdktyT1p2Q29sQUM0bFZySEE2ZURpY2Jxck9z?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 06:21:24"
+  },
+  {
+    "serial": 7,
+    "title": "膝蓋痛、關節炎？來騎自行車！研究：越是老鳥預防效果越好 - 健康2.0",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Ub2JRWmM5OG5POThZRjc2SUVKZ3NRQUNIaWx3WHpzWDktanF0Qy13TlBRZmtHQVhHZ3pHQUpSaENkY19HdGNDM0luYnkteGJObGtwbNIBWkFVX3lxTE04MENVV1NwTHB2VE9NcXoyUlZSMFVXYmtUdEZ2TmZBMEdEUUhyYnZOdkJGaWhOMGROdExvZjM5cFRzSVFBTFg2VkZmNU9kM2FRNWZGSW9lc2cxUQ?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 06:21:24"
+  },
+  {
+    "serial": 8,
+    "title": "法網》衛冕者艾卡拉茲率先晉級冠軍戰 穆塞蒂撐不完4盤傷退 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vM3RvUUxwTm9oRjByNTJpSF9UZjlMTm9wWUMtNmJzLTA2VktiZmlJN3pNbi1HQ2dfMlFhbzNDQlRuLTFRM1pKZFk4WVk3ZlRsQVVNNlBwOXMxQW15Uk9KMNIBZkFVX3lxTE91V3lVTVVrdGFPSzEyZzhEVEFOVmZTeVh1aHJ5ajFtMGxKdVZUdlpBWURQQ1JPOHdHTlU5Zmt5WHg2MG41UUE5aHd0VmhRWS1jSlZxVzZtY3NaMU50aGNsWUpQZFFiZw?oc=5",
+    "date": "2025/06/06",
+    "fetched_at": "2025/06/07 06:21:24"
+  },
+  {
+    "serial": 9,
+    "title": "非農就業優於預期！美股道瓊早盤漲逾500點 標普觸6千點大關 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMczVkWHV0VThxelNHZ3o0aEdXeXNmeFBESk1NYnhsU2dod0Z5Vlp0b1FGMk5QUGwwUFhYcHVrLXlxRlE4aS1KMTJvWWVSTFZB0gFWQVVfeXFMUFBtMlE5SVZMdzlPN2J5WEFxZGRaVV9CQ3V1ck1lMnlOVUYzSHRvX19iV0VZWDZnNGR6Q1R0UW82SWxUVF84bHFKeDE4UnhtZjhkOHdIU1E?oc=5",
+    "date": "2025/06/06",
+    "fetched_at": "2025/06/07 06:21:24"
+  },
+  {
+    "serial": 10,
+    "title": "中職》慘！緊急替補遭瘋狂盜壘 菜鳥捕手破36年聯盟紀錄 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55eDllZnVsV3UxNnQyd0UwS0Y4eVlFMG9Pb2VMbWx0RFhDakxmRnZwRXVjdDhDSVl0eUROSC1RSkFrS0JvNEI1aW9ERGZHUDZNVU0tNGlJQ3RqdzVTQVNHN9IBZkFVX3lxTFBlZEZ2MDRjaC1ndkJ4OVZ0cmNWUmhsUldXZEZJeUtLWk1IUUd5b1RjeHdRWU04UEdBUG9DYzI5ZUpqemN2OVd6WjBzNlFPU1ptX2NzY01QcG04X2tieTVYNW45Z3VsZw?oc=5",
+    "date": "2025/06/06",
+    "fetched_at": "2025/06/07 06:21:24"
+  }
+]
