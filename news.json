@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-06-07 18:26:32",
-  "news": [
-    {
-      "index": 1,
-      "title": "US markets are no longer safe for investments, Carmignac says",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-06/us-markets-are-no-longer-safe-for-investments-carmignac-says"
-    },
-    {
-      "index": 2,
-      "title": "Ola Electric founder topped up collateral as shares tumbled",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-05/ola-electric-founder-topped-up-collateral-as-shares-tumbled"
-    },
-    {
-      "index": 3,
-      "title": "South Korea elects Lee President, capping six months of chaos",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-03/south-korea-s-lee-holds-clear-lead-in-election-exit-poll-shows"
-    },
-    {
-      "index": 4,
-      "title": "Trump signs order doubling US steel, aluminum tariffs to 50%",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-03/trump-to-sign-order-hiking-steel-aluminum-tariffs-to-50-percent"
-    },
-    {
-      "index": 5,
-      "title": "A $73 billion short book is putting pressure on Rupee",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-02/an-84-billion-short-book-is-putting-pressure-on-india-s-rupee"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "中職／陳傑憲澄清開轟繞壘手勢比「1」非「噤聲」坦言近期心情受影響 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOMTlsZnJjNTlWZ2pfYTlkMk9QX1pIVkNJZkJzdGJJWUQtbmpPU1BKY21vM0VjNFllWmhPY0pYMTE2Qnh2SC05aUhoRHBPV3FGUzN6a2dfd2hhd0RJdFk0aDF5T1ZtaTZUaDZiNG1wSTlpaG80SVlKbGxjRFpMTHZzNHhFNkhBeUx1Qk9kZGdKMmlEcmF0OWhZc2haWk16dFVXSk42MHVvNzJBZGx6enJqVmhiQ0hYVWNJejVBWTN1dlRKbHNlbVNzdnZkS2djU2w0dTlBMlVWOFlVdEZuQWFiMTI1SnhXUTRsa2lYbVdEWk5XN2tEMDdIcjFYWEJqWmFRNHF1RnVBSmtqZDRUZFpyLTgxNHl2VmdneE9IUGtESlgzVDJTV3B6X0xJQWJDUndMTFNvcGZaU1JrSHNKZTFfcXYzYnBTeFBzcl9VZkV3MWRUd2h5aGxGQmlnMjIxV1N3cmdXWG4yTkVTWXl0Wm1CUWFKMDJHWU1wTDltZy00cE9mbF9wS2xKamE3dGsyS1Y0RFJTbGI4Ni1IbUN6TUpibVhtVHQ?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 18:51:26"
+  },
+  {
+    "serial": 2,
+    "title": "吳沛憶罷免案連署數未達標吳思瑤案等領銜人張克晉現身| 政治 - 中央社 CNA",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KQ1RobGJ1WGpJc1ZMZjJCb0s0SEVBM2QwaEhZcGdXZG5OMGtxYml6ZGhNdFRFOFVTZTF6Vk1ZRFp4TlBzbFRJaU8wTjRkSEI3YS1ibVRWbFA2cjhwQzNR?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 18:51:26"
+  },
+  {
+    "serial": 3,
+    "title": "衝徐巧芯說明會！雙方舌戰1小時　吳靜怡喊：從沒覺得徐不適任啦 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xdFUyTUstek15QXZERVhMNm5STkd0LWlyVi1ud3JCenBZNzdMUGZWS2w1R2JjbHZJOWhLc0RiTDVCdTc5WDdQdmVza1V5XzhzaTZJRlAtYzc2NEV1SWfSAWhBVV95cUxNaG5rMnIxSFk5SXNXNnUyQ1hROEp5b21MUkVzVUZ0Nk12ZFRvd012TU5CRXIzdkdNMzIxVWlwVDYxQ25fQVFlenpXUzNYc2tVUFNzT3Jxdk1reUhsYjRlanRIbDNYa0FqSg?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 18:51:26"
+  },
+  {
+    "serial": 4,
+    "title": "中職》江坤宇「手還滿腫的」 有可能下週才能出賽 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHd2owM2pzLVltd0ZsSjZOYU13cGlpY1pPZ3JPMjdiNmFaa2hkV0RNTjB1WTdfRVBYVDZLOGg2UDhMRGt2bTBiQUo1R1JjRThDZnktXzloZDN1RDZadTRSZNIBZkFVX3lxTE05a3BSbjdINmUxa2tiYW5acVFHdm1qSzlfMG9xYUhJdFFxZk94VHhkUjlWczY4YVRIM3BVUUxwd09TMllyZXNQTzB1Z2pWcFo0U3JmZndHYjNCZjROeVJJYVN6RnE5dw?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 18:51:26"
+  },
+  {
+    "serial": 5,
+    "title": "中職》比賽用球又變了？ 龍強投險寫高懸29年慘紀錄 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WdFNYYjRkUXVmeGxTVFZmLWdldkFodlNqbkRzZHlLeFRPS3pqbE1iSHpKR0RVTE1iMDRVR0wzOE5JVHlDUU0yVWpwdFhFZjVjMWtyMFRMR0NLaF9GUnVPN9IBZkFVX3lxTE10VXQtM0ctdElyYUI0SFI4VHdNSXFpTWJkNXdPdXpkR2QzRE1jQUZQU3c5VlJuVjNsM2szdHozMTNBNFgzNGx4SmJPeGhtRlRFYkNlU3BIQnV6dWtZQTRNb3ZRMHlHdw?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 18:51:26"
+  },
+  {
+    "serial": 6,
+    "title": "麻衣25年前女團畫面流出！「10歲兒一看反應曝光」她嘆：真會說 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUV9sOUtsUTEtdllyV3dIQ3N6T2Y2aWdTVHNoSVk2Si1RcUR2TTRWRzh5OVZEU2I5eFpZSm8taWxhZjZHTHJwejFZTXd6MFd6ZWVqYXlkcmc5RUoyZ1ZKZ0twbDZkSm1PZ1EtSk5lLUp3YXBfeVN3QkVua0VzTGNtM2g3MC1KQlJDM2xkRUI5YjZGemxzXy1zQ2loWllaU0V1RFhzeFFsOEw5a3hZV2cySWhvckREYzMtWm02VzdKaTRHbFpWM0FHZkdiSDBXclFiTVFpMElnT0pCRGRnYU9aS0ZvTk5oYlJmTEhadzBpT0gzZ1N6YlRUaDFwenNNZnJSRzFiN0VQSVhhRUdnbl9DTGIxWVB2Yl9pZG95SjJ1TE5GNVUxT3REWnFQd2VZYV9UVlFhc1JCRDB4c1pScGV5bE16NTNNWlBJODJxWHR4VnVIUW5fY2dxNGY1WExlbzNKN1VZME1R?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 18:51:26"
+  },
+  {
+    "serial": 7,
+    "title": "撞擊畫面曝光！北市小客車高速變換車道　猛撞遊覽車「母子雙亡」 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jaF90QzF1bTM5V2VzYUxCRWw3Wmh3M0hFSzY4ZnlxcElYQVRvUjg3c3F5dEF2X2RHMVZXWVJPOVpFeC1Tbi1jb3FMMzdPQlFOMzJycElyTzV1eGx0NnfSAWhBVV95cUxNSkhzWmhMUER6VDI5TXJfVVMweW5WdVZGcnpNVUdYeW1CYnVsdHJvVUM3bU1qZWdSRmF4cGk3ZVYwLVRDQ1d1bDM3UmdCRmVvYWs0SVZ4M014QW1tRmlUT3JHbXhETDlFYw?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 18:51:26"
+  },
+  {
+    "serial": 8,
+    "title": "快訊／家長鬧場！逢甲機電系畢典取消　校方致歉：6月下旬補辦 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mSk10aEhFM29sbktLNDQzYWJ1dm5oLUNTdXY3dXRsUm04YzNJYUZ0RWpYMVRNVE5BMUVuM2JyVElnMU14X1lTTC0zQnVoM0dpekRPNXJWUlZrc3dKNUHSAWhBVV95cUxNWW5YdnQ2aElKbWhoUTlJRHNrWGpfOU1sNmZqWXNwM3ByckphYUhHNDF5c1AybDV1QjJqNGE5Rk92QURPaXU0S1ZQdkhWX0hueDFheFJSTUJJNFFtMW1XYnZiSXZQVEYzQg?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 18:51:26"
+  },
+  {
+    "serial": 9,
+    "title": "林心如當製作人一現身劇組氣氛全變 尺度太大喊話電視台 - 壹蘋新聞網",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXBjRERIejM2M2F4ZjhlVVk1UG12TXZtc1R3c3RLTlM5RjBtbDZ0MWk5THJNVmgtcV95U1JUYjA5dUN5YTVrY0dUQzY4cmZYcTZ2aFhsVnlZWjc2eUNlbHBKYVlOSWloakhuMTl6ZG5uOXNMUVhuVWc4eXJ2aU8wNG93SDg1YWs?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 18:51:26"
+  },
+  {
+    "serial": 10,
+    "title": "俄羅斯大規模空襲基輔釀6死80傷 川普：烏克蘭自己給了普亭理由 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14U1I1TWstYlRQV20tUFZqbTUyeFZWUjY1dlV6VHNxbmI2c0lXb1o2SnRoVkpuU1hoTmNoeHlqYXE5YWt1MUxtRXQ0MnlPTnJhWWM00gFYQVVfeXFMTUxJV2dFNmdOUnBTS0Y2YjhBSElFLUptZW5mbnhRVmpRbWJmcXlFdDNCQzlXT3NsYkdycHJ3ZEp4TXdDYWNFOGptR2ZzTnN5QjFibkJPMDB5Vg?oc=5",
+    "date": "2025/06/07",
+    "fetched_at": "2025/06/07 18:51:26"
+  }
+]
