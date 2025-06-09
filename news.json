@@ -1,72 +1,30 @@
-[
-  {
-    "serial": 1,
-    "title": "被喊「不挺盧秀燕、韓國瑜」狂拱選黨主席！侯友宜15字表態了 - 奇摩新聞",
-    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNemxVVHJBTFRKOVExd3NrYUduelBPbnZEMDQ3Vk1JeXFVS2lZUndLdGNFNTc2VFR6UW1CU0NSX0duZGx6TkEwb3VVenlJMV94X3FsX3BqX3BONmJxZWdMYjBiamN5VnpJcVVEU3czWnlUZjhfbGN1RkZ4dmdBNGdCT3BVMmtiWlRJY0drUTJfN0hVNEt3cGs0UHFCeDBucVFiMVI5ZFZ5bXVNcGkxWEhITTVoeGtXdGJVek5NLXJmc1NHUi1JNlFITU4xalRZWXpDYVNZa3UwclZWVVdEV1dXanYxdzFBbndzZXhmaTNlTGtla0Q0MzdjN2o0RFVpVWJwWDAwUEtLWEhiYjBWSVRDTThvTUxINWVWWUJQZkN0dGdzbnJtSTB2Wnk5U1ZqOVlIUFhRNERJUnNyUjlLM0RVekpYNnpUY1RxWXpuX1R6cno4eWVsVWwwaTJyTGRScHpNc2VRWnJJLUk5QVpLcEVr?oc=5",
-    "date": "2025/06/09",
-    "fetched_at": "2025/06/09 18:21:24"
-  },
-  {
-    "serial": 2,
-    "title": "快訊／震撼！京城銀處分京城證券 由街口支付砸4.08億吃下 - 奇摩新聞",
-    "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPYjM3TXNBcFRtMUUwaElnaktHNkJoWTFPd1hwcVJKZUNKYjVOdEsxNFNJbnJaQllnRmxtX21yaUtMSWtOTnEyTE9RVmlFUjJpY19vbzhBdE1EX0lnTmRCcTFwRkZQazZxZUtEUUxKMkhEcUREZDRkQnR3S3Y2blQ2eUhtYTBEek1ZX1JfWjFzZHIwQVE3VFh3d1BFT1BjWnBYNG9KSm14QlRHM3lvWUkwc0haTXNBSkdMbVhpWXlyRnpMNmtuRDZlNWNndUFYM2ExdWxObGhZRmxWdXZiaUhIX21PTU9fNFpYc3R6VlJaSi1HNGwtaGprejdUZ3JvbjBFR1pBNGN1MXRzWnJUUVBMNHd5UlhtcFVHbmd4alBUbnhFcTZSY09zM01KX1ZRYWdEMHhkYWFHNm9seE1YbjRpbkZTYTBadjNUeXBySmprYV91RG5NbmpuSGFzRHJGRktHMk9LUw?oc=5",
-    "date": "2025/06/09",
-    "fetched_at": "2025/06/09 18:21:24"
-  },
-  {
-    "serial": 3,
-    "title": "P4R《女神異聞錄4 Revival》重製版確認開發中！遊戲畫面、預告搶先看 - 奇摩新聞",
-    "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOeUdjOHBvd0t3bldHWnJwNnRCS19qTmdjRHBZcUZyZC1vQk5yNXdnazZRcHNzMExpb2E2VGsyWThzWGh4b1RSdk1JLVRGOXhoY1BpaEFQVHhGSW1NNHpVdnNwMXFBRXFMd2h5NGVVX3dVbXJzY2hDcXBQQ1czS2VTTnJwZFBHN0FEbVA0c1o1aU1aOXRleERQM1JqZDhTdG1pa05zcENiWHA0eGJIbUpRcUVmTDd2clN5YTZyWUlTSzhQM1BrOXlSTHBIVTV5VGNNWFE0ZFM4UUxycUUzSkJxNzhhRTJHWHZnQXhkYmJGU1VWVlZva1VsanZUVmxHalRodTJrMFpuUFhLNkJ5TGllaDNSbUY3N2dlMkg2b2dTSjI0NHJfTlFNbnZISE5PcExVNkpzY2hjaFlkU0VtSE9wNzFvclVqLTlJWnhJcVZ2VGdSTUM3akxZTGF5MGs1SjJycUkxSW93QnNKX3V6Z3AzMVRUV2NpUHVLWGtEeFJyVTlmb2xLSkdFbmFSRW52bWM3MmhJM2xhRHZuTFU?oc=5",
-    "date": "2025/06/09",
-    "fetched_at": "2025/06/09 18:21:24"
-  },
-  {
-    "serial": 4,
-    "title": "印尼賽》敬佩35歲周天成的超強韌性！ 中國奧運金牌讚嘆：他值得尊敬 - 自由體育",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01SjhiWXZCVGRhRGhRMU9NSVlKV1NBTnY2b3M5UDAySHVNdmxfcDBpSHlRZ19wVzlILU1kWXhueGQ2ank3XzdhMW9MQUJ0SktqUDgtYXdpUVlkS1UxbkFZeNIBZkFVX3lxTE92ZEcxd0tLakRyYWZ0c2xGQ1ZZSUo4cTNmRVdoNkFCcWFTTUFHWW5HTDJzaDA4cWdpS1dnSExFNzRlRGpvc29IRDRFMUVsSWltNUw1T0NycWtFd0ZVNHN2WV9wb2NiZw?oc=5",
-    "date": "2025/06/09",
-    "fetched_at": "2025/06/09 18:21:24"
-  },
-  {
-    "serial": 5,
-    "title": "罷免林俊憲、王定宇連署份數曝光 謝龍介宣布失敗不送件 - 自由時報",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCU3NyM3FXTjBIbGVPS1JtWHVGNklVamQ4a2NkS0RPUG9DX0pZa2hCTGpweDhoeHFwbmNRLTFZSmpUdFlySkE1dnZmd2NEU2VsRVdSX000RS12TkNLcGtYNVhYVnhBY1U5VGfSAW9BVV95cUxOWmxqZ1E5Tk1aMnNCazZQSVFJNzhEcEFTZWhuZmJQckloSVZPYVJ6ZkJsYUpiWEUwejk3cS11RE5SVXBxUE41eWVpc2FMQzhaNWwxX2taQkNPSUU5ZkZMeF9TQl9zOThRczFyZGJPOUE?oc=5",
-    "date": "2025/06/09",
-    "fetched_at": "2025/06/09 18:21:24"
-  },
-  {
-    "serial": 6,
-    "title": "中職》上半季補賽賽程公告 樂天、富邦面臨「地獄6連戰」 - 自由體育",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Bc0NfNXZCQmxKRG9MX2tWbkFnYkpxQlVQWWNKeGRrdW9Pb0I5SXIwRVYxeW85RjZQeE0wbkZtUzB0cm00cDN6SmFyZEZCa0VmaDFneFEtc1lOZTdKbk9lUtIBZkFVX3lxTE0tRUkwbHhCb3c3dVFNdDZBM2JpTHpVX0dKRGFsZDNZZUFGbHBKYjJiRVdZX2M0YXd6UTVmWDRJTjh3LTFNQ0JOdHIwMFlFWmpIdW15c2tDdEJPdTA5ZkZ5bWhJakpJUQ?oc=5",
-    "date": "2025/06/09",
-    "fetched_at": "2025/06/09 18:21:24"
-  },
-  {
-    "serial": 7,
-    "title": "《台北股市》台積電穩站千元領軍！康霈*蓄勢 18千金箭在弦上 - 奇摩股市",
-    "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPRnBKaEx0SFd0dVlUSzJzWF9MZTZWQnVWdUFKazNzeXpvYVVSWWN3MmhBbWtYWVFGSXdjUXdGc0NtSHVTTDlKVDhCejdnX0V1ZGo5TGtnM0lhSGdfbmc3V1YtU2M1TU5jRTh5anBPZENMdTQtNTJlVUF6Znl1blQyeEd0V0dIaUtkS1A3OERwZWZ5N0lwUVNZOHRvX2swMl96WjNrMGZsakJjckNDN3UybWdTeWV2TEJYdnZWeV94MEdKYmw4b1JwWVZKMGJwU1lyVFBuOFJQRnY4X0VjSUJGVUxEZWRUNXR1T2MtUDA2dG1nSHpsLTFLS3VYQUdKcVFKTzdPUnRIWHBrYWtCUHJqdlhlUEROVnhkQ3ZEYi1zZVNzZU9rZWJEMkZXajJDQUZJV1FYU3ozLUZMeHBSbXJseFBSQl9RUnZuQmg3VXZ1S3hmejB0RGFVT0lFbDQtd2FJbDJOWlVEUXpqejFsRmhnRzFfd05YeHM?oc=5",
-    "date": "2025/06/09",
-    "fetched_at": "2025/06/09 18:21:24"
-  },
-  {
-    "serial": 8,
-    "title": "午後雷雨來了！17縣市大雨特報 恐下到晚上 - 聯合新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VXzNjSDNlaFpQYnJ1UFE2TUZlUFFGRVVVYUVmS2pyWFVwcFdReEhzbGRBMzY1NEVXS3V3ZXo5Z2tiY1pnQkxJbVNzQk5mTjdX0gFWQVVfeXFMUEw1SDZROXZfMjVrRWZMeU4xbzY4YWZrcEZmOHhQN0tZU0ViTjBFbGlGY0ZFX3hwTmQxNkk4d3QxX1RWVmFTNnpMNW9SQW1GdmdMOExxanc?oc=5",
-    "date": "2025/06/09",
-    "fetched_at": "2025/06/09 18:21:24"
-  },
-  {
-    "serial": 9,
-    "title": "《與惡2》首播收視開紅盤！最高點在「白潤音被楊貴媚嫌」惹淚崩 - star.ettoday.net",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ydGRJQmMzN0JyVzJ3WVNpaDhhVXJiWktYZF9oQUJLMlc5NVBpV2x3Y2Rsb1RmSEpQSDZRa3ItUVljczhCYkg5ZlY5WjVoZ9IBakFVX3lxTE1xbmF5bTFtdjN0SlNicUJsX21oZ0xJT2Npd0E2MVdJUmxIa0MtNkhTblNldHJkNTlHcXJJSm5MNFBGZzh2RnFuMlBia1Boel9UU1BubUhnZXNtbHoxRENIOWsxU1BvZzdTQkE?oc=5",
-    "date": "2025/06/09",
-    "fetched_at": "2025/06/09 18:21:24"
-  },
-  {
-    "serial": 10,
-    "title": "廖婉如陪瓜地馬拉第一夫人逛大稻埕、故宮 盼讓友邦看見台灣軟實力 - 自由時報",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12VmJjeS1PS0VMamZyMnFyM3hYUnJJcGRTOVRVR1c3a0RwUDU3NDJIZ3Z5dFhmcU4yNXZHU0F3T2lMMmdxQ3d3NDlUampFYlFlNHFieHgtMWM3RW1BMXA5NklvczN3RkJJR2fSAW9BVV95cUxONzVRMS1EQjNSZVlZOGM0UzF1SVJILWEwY2RkUGhIc0ZrSmpyYVl2V2NmTy1oU0k3bFFtT3gwNmJMOGNHTFQ1aUNURXdsWk1Oa2MxNUdhd2VycW00QUJwZHk0RE1lZW5ZQWo3andLU1U?oc=5",
-    "date": "2025/06/09",
-    "fetched_at": "2025/06/09 18:21:24"
-  }
-]
+{
+  "generatedAt": "2025-06-09 18:29:51",
+  "news": [
+    {
+      "index": 1,
+      "title": "US markets are no longer safe for investments, Carmignac says",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-06/us-markets-are-no-longer-safe-for-investments-carmignac-says"
+    },
+    {
+      "index": 2,
+      "title": "Ola Electric founder topped up collateral as shares tumbled",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-05/ola-electric-founder-topped-up-collateral-as-shares-tumbled"
+    },
+    {
+      "index": 3,
+      "title": "South Korea elects Lee President, capping six months of chaos",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-03/south-korea-s-lee-holds-clear-lead-in-election-exit-poll-shows"
+    },
+    {
+      "index": 4,
+      "title": "Trump signs order doubling US steel, aluminum tariffs to 50%",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-03/trump-to-sign-order-hiking-steel-aluminum-tariffs-to-50-percent"
+    },
+    {
+      "index": 5,
+      "title": "A $73 billion short book is putting pressure on Rupee",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-02/an-84-billion-short-book-is-putting-pressure-on-india-s-rupee"
+    }
+  ]
+}
