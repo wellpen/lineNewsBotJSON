@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-06-10 06:11:55",
-  "news": [
-    {
-      "index": 1,
-      "title": "US markets are no longer safe for investments, Carmignac says",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-06/us-markets-are-no-longer-safe-for-investments-carmignac-says"
-    },
-    {
-      "index": 2,
-      "title": "Ola Electric founder topped up collateral as shares tumbled",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-05/ola-electric-founder-topped-up-collateral-as-shares-tumbled"
-    },
-    {
-      "index": 3,
-      "title": "South Korea elects Lee President, capping six months of chaos",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-03/south-korea-s-lee-holds-clear-lead-in-election-exit-poll-shows"
-    },
-    {
-      "index": 4,
-      "title": "Trump signs order doubling US steel, aluminum tariffs to 50%",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-03/trump-to-sign-order-hiking-steel-aluminum-tariffs-to-50-percent"
-    },
-    {
-      "index": 5,
-      "title": "A $73 billion short book is putting pressure on Rupee",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-02/an-84-billion-short-book-is-putting-pressure-on-india-s-rupee"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "肋骨斷裂達文西手術 醫師分享新術式 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMUl5TXBfNXF4aEFxelJOdGhOSWhYNjVvNzFaSDVXZkVhczhfQUVEU3NIck8wNXVzM0laeHRnUEJYdlhXT0FKRFd3YzdzX2d6eVQtSlBBZ05Nbk1ZS1BiLVVkVktHc0JrdGlJMGVXZFZkY0xBWTYxUkpweHZ2SElqNGlLZXV6ZjhBYTFTVXl5WWhZVURRYmtQV2U1WmRZNDZsRE5hdzlab29NZTQyU1pST0VER0FKa3lqTjA2SG1kLXVOY0w4aERyTnpENWN6eWNKdUVTTHZ3TEhYWUNvUDdla0Z0LWxkYWVmaHRaWmxfcFZZY1N6bTUyRDlsQmUxTWtWTVVZeVVHQ1FvOW5Md2pXOWxzZWo?oc=5",
+    "date": "2025/06/10",
+    "fetched_at": "2025/06/10 06:21:24"
+  },
+  {
+    "serial": 2,
+    "title": "【原神】5.7💥前瞻懶人包🎯▸永凍大C「絲柯克」登場！人權大C「瑪薇卡」復刻！申鶴、艾梅莉埃怎麼抽？技能機制搶先看、提前準備配裝&素材！版本活動與優化！ ▹璐洛洛 - 電腦王阿達",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xa3BXeWVubXVrSl9QaTRWMzBzV09yeUZ5eVAxTXhjdWhyY2ZNZDQwZFdoU1NMaW1COHBzMzAyX1J1MHBQTTBtOVJsZTRXWE0?oc=5",
+    "date": "2025/06/10",
+    "fetched_at": "2025/06/10 06:21:24"
+  },
+  {
+    "serial": 3,
+    "title": "微軟攜手華碩推出首款遊戲掌機Xbox Ally 最晚年底上市| 科技 - 中央社 CNA",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yZk13LUpLSG40QUo4WXBMX0QwX0h3alA5amJ4aW1JV0hSc1pZVW1uaEI5RDB0TUtHc19Sd0s5U2k5RFZqd253TngzbVpFNWlXUGU5Q2RIcE52YnI3Z3c?oc=5",
+    "date": "2025/06/09",
+    "fetched_at": "2025/06/10 06:21:24"
+  },
+  {
+    "serial": 4,
+    "title": "別怕荷爾蒙，妳抗衰防病的關鍵》同樣叫「黃體素」，有的助孕、有的致癌？吳佳鴻醫師揭開乳癌風險背後的分子陷阱 - PChome Online 新聞",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcTJXbzN1Z1VIN0tCMXNjaTNkOG1VaWduSEJjZHk4aXkwczY0X3YxcFEwNHFQZ1EtUlQ5QkJINFBXVFliRjNBb0U4MDBJdmN6Nlh1cWhtejQ4U0VnYUhHYzFHU3hHd0taTkViN1dNamh0U0tWWjNtU3Z3T0pLTEN1Q2dzdG5KVWtZeVYxRzQxLWI?oc=5",
+    "date": "2025/06/09",
+    "fetched_at": "2025/06/10 06:21:24"
+  },
+  {
+    "serial": 5,
+    "title": "〈美股早盤〉主要指數漲跌互現 投資人聚焦美中談判與經濟數據 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zbUE3VnRrUVR3NG1BM1lLMHY0MXN2TFByTENqRlNOc1ZGcXo5RWhSd0JIUjlMak0xR2NFRXFySG0waHRnSzNFMDZ2TnZ6bzA?oc=5",
+    "date": "2025/06/09",
+    "fetched_at": "2025/06/10 06:21:24"
+  },
+  {
+    "serial": 6,
+    "title": "法網》前球王馬克安諾驚人評斷 艾卡拉茲、辛納能擊敗「巔峰納達爾」 - Yahoo奇摩運動",
+    "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNeGxkQ0JTNnpobkdjSEdabzFZcE1VTGVIMlNtaWVDUVdoa05sUEZ5a29ldkF3ME5HMUtaalBtNHpZYWhxd0dheDZ3NkhXLTVRQ3lFRDB2UExvQ2NVQXpIZHlKaG9PbXd4U0lqYkthbkhKYWdXQWFmNDdHVmxxMm1rZEI3akF1dzl1eWVDYXBNXzJweFREQ204dTl5TXN0NkhDWUFSeTRyRWxCYVFvcEJFU09yLTNTck16ZGZkYlZLY05pbnhCMUxZQXVtMGtfV2c0SEFmUjd0VUxueGYxanFCeW1PMjZEVkpHTjMxN1laVXpKMzdpVms2RjE2V1NFZHJSaVkxSEczczFiQ3RqZzJ1ZkxHaXhuNnNHaktLRzFCaVEtRjhHTlJGcllHWnE2SEhtb1k0c3QyNVI0eVkwMWtpV3FXWGJJMHRjbjIyVjdQa2ZKclR5NFJab1NLQmE1UEQ1T0VWVVZTVng4bzdUMUctaWpFSV9oMUxDTEtSRjdiR3htcm9CUUVZeXBuMXRtQ1ZRcWIxRXdmUHlKYU9iSnhnT1QtSWJfQQ?oc=5",
+    "date": "2025/06/09",
+    "fetched_at": "2025/06/10 06:21:24"
+  },
+  {
+    "serial": 7,
+    "title": "萬海旺春輪貨櫃爆炸2人重傷傳失蹤4船員含2名台灣人| 產經 - 中央社 CNA",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11YmxEa3AtNlc0d2VMQjA0Njc4TTV5Ynl1b0M5Q19TTUZ4bDJ5SktIellWaFdoOUY3cjdTSk52YUZ3TDdIdnJ1aUc4bmtFaG43MElDOE1kR3otYXcycUE?oc=5",
+    "date": "2025/06/09",
+    "fetched_at": "2025/06/10 06:21:24"
+  },
+  {
+    "serial": 8,
+    "title": "蔣雨融專訪：首位踏上哈佛畢業講台的中國女生，為何登上中美輿論的風口浪尖 - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40Mm5xbjUxSlBrTXlzS3o1RHdYaml0N0NVdEhPa3FQbm5VM045Q09icVlxX0lfbzk2N1hxX1FBTXRkVDNhbjJzdlB5RVNZRkU2YXNSNmNubFVEa2RUNDFJUWlWUmVSUdIBa0FVX3lxTE9DenJzaHdpMWN3LWZmMDd3a3dyWDZ1dkVhWmlpRHctMGxicjRDODlRbHlPUjRWcmZxZkNnV2p6aUNydG1KYzkyYkVPUHFLYWdFdFl6SmJLZjUyTFZwaDgxRVVmMlRTUGQtSU9B?oc=5",
+    "date": "2025/06/09",
+    "fetched_at": "2025/06/10 06:21:24"
+  },
+  {
+    "serial": 9,
+    "title": "新華社快訊：美中開始在倫敦經貿磋商 「出口管制」成為頭號議題 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43eU1DTkhyQ01EQUZ3cS1WYlcweElIdWJzbDJZb0k5eTN2SzRNbWhSUVMwd0ttRzJ0RlhRaGQ3cXNTZW1RbzM2V0JycjUtX0RYQldz0gFYQVVfeXFMTXJKd0hMWHlmdWtRVmVlWkNxdi1TdnJNcngzVlZxa0J0UmFKRkQ3YlRoRzlDSHdIa3V6NC1SU2JLMlhWYUFFbGVTQ1l2amFYZnNuMDJCSnMxSA?oc=5",
+    "date": "2025/06/09",
+    "fetched_at": "2025/06/10 06:21:24"
+  },
+  {
+    "serial": 10,
+    "title": "獨家》史哲將出任高鐵董事長 鄭光遠轉任台鐵董座 - 自由時報",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UcG5ubzdfZkJMN3VfMmVEQ3lNdlpyaTBIMk41Tk9EdmNRR0RrTHJ5TmRaWXpheWc3LW1LZGpZWWljRUNSS2wtalNTV1RlbXJONGFERlhiMEc4T19nTzBtTld0Mno3NzZOY0HSAW9BVV95cUxQeVNaMnMyZGthUkhkZ0d1cWwwY3FLcEpwVnpRa2dhVFZoVmhybjZqenMwUTZJQlNhOVVCa2syX1YzSmYzaGQ0ZUFMTndzWEtJUVlkUkdBMWpReDFRV2hpUFZOZEJDNkhxOTNSZ05GcGc?oc=5",
+    "date": "2025/06/09",
+    "fetched_at": "2025/06/10 06:21:24"
+  }
+]
