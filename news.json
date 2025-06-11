@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-06-12 06:11:41",
-  "news": [
-    {
-      "index": 1,
-      "title": "Pay rises for top India bankers seen widening gap with Hong Kong",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-10/pay-rises-for-top-india-bankers-seen-widening-gap-with-hong-kong"
-    },
-    {
-      "index": 2,
-      "title": "RBI’s jumbo rate cut may turbocharge IPO pipeline amid cheaper capital",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-09/india-market-buzz-rbi-s-big-growth-push-to-charge-ipo-pipeline"
-    },
-    {
-      "index": 3,
-      "title": "US markets are no longer safe for investments, Carmignac says",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-06/us-markets-are-no-longer-safe-for-investments-carmignac-says"
-    },
-    {
-      "index": 4,
-      "title": "Ola Electric founder topped up collateral as shares tumbled",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-05/ola-electric-founder-topped-up-collateral-as-shares-tumbled"
-    },
-    {
-      "index": 5,
-      "title": "South Korea elects Lee President, capping six months of chaos",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-03/south-korea-s-lee-holds-clear-lead-in-election-exit-poll-shows"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "iOS 26 留言信箱新增垃圾訊息舉報功能 - 流動日報",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoQ0lSNGlCMzlxN2dKZDFXZWJOcEdXcDlLSmVMQ2UxNUtGRFpjUXlLSDBINjhlRW9mNTdhYS1LbG4tTFowNFB2Uk85cnZVTVJkcEJmemllNXpsMDlKQXMyTUNFM1JVMERtYXRCdzNBSDVLN0FDZXlzX3pR?oc=5",
+    "date": "2025/06/12",
+    "fetched_at": "2025/06/12 06:21:25"
+  },
+  {
+    "serial": 2,
+    "title": "台海兵推我不敢開第一槍？退將揭戰力差距嘆：怎麼還擊- 政治 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrbjA3R3ltYVlaRnZCU2sxYkQtcEg2REF5c1lqckNlazZDbFFCVzJ2emU0Q2tnZkJIc21jWnJYZnF4OHJ2VjFiOWctcjJ4WlBvV2tuYzNYcEs0eVJnMDdCYUpST2FMQ2RoTThUNy13?oc=5",
+    "date": "2025/06/12",
+    "fetched_at": "2025/06/12 06:21:25"
+  },
+  {
+    "serial": 3,
+    "title": "星野源首曝交往新垣結衣時間點　《月薪嬌妻》拍攝0火花：沒那種感覺 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LZkVxVTVkRWE4LXpMSnRDN2gxRWQxTW1VN21uTEt3MGVvSmYtZ3JINkZsTEdlOU9Zb1JnV0c1SWRvbkZNU0ZxelozX3NHQdIBakFVX3lxTE9INU9oRV9TakV4b0N5aXI3eHd1NXI0YlNrcmljT3V4Y2tMdkd4NmlZa01SQmZIMHQ1UkJMNjVsbV9XYzQ2NC1Sc3FzeWJDM1JaeUg4Tk4wczE5Ul93M2RTZmJOUUZmZnZaWUE?oc=5",
+    "date": "2025/06/11",
+    "fetched_at": "2025/06/12 06:21:25"
+  },
+  {
+    "serial": 4,
+    "title": "醫師不吃「這款保健品」！他曝2件事才真有效 - TVBS新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vRnhONnppUk9yWmJrTDBrZjFQRUtPRkF0dUF5enBQdDdFa0pVYkNFNjRkUER4OHlOVWtXU3RKcVRrUzVoSXEyYkt2dDRjcU5G?oc=5",
+    "date": "2025/06/11",
+    "fetched_at": "2025/06/12 06:21:25"
+  },
+  {
+    "serial": 5,
+    "title": "除息前夕大掃貨！三大法人砸126億狂搶台積電 這檔股價「創近25年新高」被搜刮進袋 - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPMnJkSHhlRjVpdDhBaDZGeDlncUh6LW91aXh0U3lOZV8tOHRFZmM0a0ZDWGJEUkl0SHJha2wzd3hKRGltTGdsYXRxT3FPS21vTDhTYjQ5U1JJSFRKNmJlS25ua25aTGl1dThKUFdjRnlWNmZiaHhzVEhjRGQtbWxwaFd5M2VuRk9acV9nNHB0Mll2M3U1a0l5eFpXQ1JfSTVDS2NJN2VmS3lWUGJWNml0aHVKSDI4emVWYjd6T29DM081UEVRWjVLQTFNZFJmbzljWHpDSUdGSHZDVnNnbDlkMEplXzNSSlNiRXVkdWhFOUNKWUV2aGxjWTZXOWpWSHBOUDVJQmFvNDlwOWhoblQ2eGhYRjRxaG54QjNTV3VuTXhyLUEycFNGMG1YTTNsSVdaWkRmQWJJalUxRlhoZWFsMjl4WDg3ZlN0STVRWlJpMU16WlFKblZWMy1BLTNZZDB3LVE2Z3BTYWdjaUtTaVFNUjlhbTVJUjFuSTZsalg4NklJdnlGYk1rRWNVYjJsekdfVHBlMmkxeE5QekRpTWJyc0dsY09OclJKOG1qTHZPNS1sdVZWNU5aRWltaWp3LTdlczAxTkV2SEJGenZDazZuZVBhaDh0dVBCNERleUVlVmFHRnhveEU4?oc=5",
+    "date": "2025/06/11",
+    "fetched_at": "2025/06/12 06:21:25"
+  },
+  {
+    "serial": 6,
+    "title": "川普稱美中稀土供應達共識 雙方互釋善意 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85Zl9aeEo1STBaZGVaNkNEMFdobVVvM25mSXo3YVZxZERRR3dGSTV5emFKamJGZ2tWOTU2eDJlUVNZRkdDejVPUWhzcUNjY1k?oc=5",
+    "date": "2025/06/11",
+    "fetched_at": "2025/06/12 06:21:25"
+  },
+  {
+    "serial": 7,
+    "title": "最頂啦啦隊「捲富商獵豔名單」　瑟七求放過：相信惡有惡報 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jczZIcW9YVW1vNDJfWXQ0VmtJUzlMV1psQU1RQnNUZ2VLMElXNlktMGZoQjlUZDZ3VVRoZkhUaU9FUm5LdjluZHRpRkZOZ9IBakFVX3lxTFBSaExvTDNwU2hEMUNxTkFoWTZPZUMyd0ZKS0VYTGsxVDJ2SkpLNGVaYkZxMUNlZkJhTTllQ01yWGRjRENpYThLNWs0STlydVNPVEhsS3FVUS1hMkVDeXQ4VHZXVl9uMkRMN0E?oc=5",
+    "date": "2025/06/11",
+    "fetched_at": "2025/06/12 06:21:25"
+  },
+  {
+    "serial": 8,
+    "title": "台積電除息前夕爆14張鉅額交易 成交在1,145元 - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GVVFfUHd2RGEyUTZwWDZvbnVnWUoyR2pUSE05YlMtWlVONVBodHF3dUo5blVuWVl1bFY3WXpWbFpBVFR0SVRyOENSTmdTQzEzTHZBVDNqeHJEYkJSdXdN?oc=5",
+    "date": "2025/06/11",
+    "fetched_at": "2025/06/12 06:21:25"
+  },
+  {
+    "serial": 9,
+    "title": "快訊／19:00台灣東部海域規模6.4地震　最大震度5弱 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OallVcWZFQ24tUmJGQVpVYklFdFRNYk1wcEJRTDFZWXVJMkk4bzF1ZGFSZHRFbXN6ZkdNTjZoSVd2b2JNYlFCTk5yeV93dGg1WGtGaWlYbXdMVDR5a1HSAWhBVV95cUxQMFIzLVlNZ1F5TW9jVkVNYTVMZ1Vpdy1mbEZhX3lCaWlXRjZDZkdST08wdHZTMkc0WWR4a2xXNEZnTElPd3ZfYUFhOFIzZWRRdllWYTgzWVlYbTNOZlVXVkNRZ240aUdBMw?oc=5",
+    "date": "2025/06/11",
+    "fetched_at": "2025/06/12 06:21:25"
+  },
+  {
+    "serial": 10,
+    "title": "北榮玉里分院推AI骨鬆篩檢 - 更生新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9yT1g3aW9SeXBCX0k5elV4SWpocjE3YXdpcFJfdVJMTmNZeU1UdUNwRmtwS3FPTFNldEpfWHdxR19QZEpLOWFr?oc=5",
+    "date": "2025/06/11",
+    "fetched_at": "2025/06/12 06:21:25"
+  }
+]
