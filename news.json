@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-06-12 18:29:09",
-  "news": [
-    {
-      "index": 1,
-      "title": "Pay rises for top India bankers seen widening gap with Hong Kong",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-10/pay-rises-for-top-india-bankers-seen-widening-gap-with-hong-kong"
-    },
-    {
-      "index": 2,
-      "title": "RBI’s jumbo rate cut may turbocharge IPO pipeline amid cheaper capital",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-09/india-market-buzz-rbi-s-big-growth-push-to-charge-ipo-pipeline"
-    },
-    {
-      "index": 3,
-      "title": "US markets are no longer safe for investments, Carmignac says",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-06/us-markets-are-no-longer-safe-for-investments-carmignac-says"
-    },
-    {
-      "index": 4,
-      "title": "Ola Electric founder topped up collateral as shares tumbled",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-05/ola-electric-founder-topped-up-collateral-as-shares-tumbled"
-    },
-    {
-      "index": 5,
-      "title": "South Korea elects Lee President, capping six months of chaos",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-03/south-korea-s-lee-holds-clear-lead-in-election-exit-poll-shows"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "印度航空客機傳墜毀 機上載有200多人 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQWtxMzd6M2pROVRySU5sd2RxeGlxcDJxR2Fta0w0UmxEeVpZNzJOMTl1NC1GUU1La3lUMFBuSGM4WmM2b2Z6VmMteGR0dURpMmctU2FMVEpqSzJIUllpbVdYU2dSZnBqTzFhd3dhdEZXZ2VsMF9jNG1PR3FvV0ZleW9UNjRuZG9GQ3RxZmpsTGZvTDFUVEtsNE9Obi1pQXl5eTVzMWNPY2VURElhV2ZkQmw4MHJtYmJGXzhENjhwcGpVWFlXRU53YzU0ZGtQYjV6bjVvTkFsYzhTM1pMbzBGNEZCTTFJSDBiZU1zS0ZRaVZwd0oxU0tHRGlwTEJtSVZhLVdFQkIxemNFZjF6?oc=5",
+    "date": "2025/06/12",
+    "fetched_at": "2025/06/12 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "不是脾氣差！醫揭「女性憂鬱黑洞」：出現3症狀=身體在求救 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNLVk4Q1NnZTRUUnd1RmFSMElJb040bU90NjNTR1MtOEJCaEc1YzhiWUI3eC1YV3g3SDE3VE1kUWI4ZlB1bmd6OTRCU2N0VS1GUGtQZ0ZKSlh6cDBJclVzUno2RUJOUC1NRldvd1VpdUdUQ0NaZkNPVkpyVXdLbjFGN240UGt2MzVpbGJJSXA3YlhQS3ZOR0J5Q2hmU0tOb0ltN1o3T21kTTA4c3o4UkxpTS1SNjNFRmkxRkcwbXN3RnlweTBVNzFPRVZPQzhtcWg0OU5mM0E0VF9uZWI4QjNVMzNZMVZqUnd4VUlnRUU3Vzc5VkUwdUJ2akFXNHBVQkIxX3B4VEZIcmpDYWRTVGNvZWZpdEVpSlNaVDByRHRvMDQ0TXZvWXRWZUphUXZFNXpDZ181cTdpZXdGTm9hQk1qek1qUEZUMXJqd1A3ckRqX2wwbEF3Y2RWZFBJWFFINlRvSlE?oc=5",
+    "date": "2025/06/12",
+    "fetched_at": "2025/06/12 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "《弓箭傳說》《卡皮巴拉 GO！》開發商新作《胡鬧地牢》於雙平台推出 運用戰術擊潰怪物狂潮 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12eTJKdHVOZWNoUFZ6dFRNQWxUVWc4UE54d0hDOXZXNnhsWXZQZnRheDVUbGlBYVdEZWNOVTR1T0Q0QVVZNndxQkNJUEZsVGZuQTdlcXZMaHg?oc=5",
+    "date": "2025/06/12",
+    "fetched_at": "2025/06/12 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "中職》接投手教練壓力馬上來 許銘傑點出戰力最大問題 - 奇摩運動",
+    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPLWR6QUJ1VENldm5EYnZ4b2h0Z0FrLWdPYnBzWlctRXBMeTdETzhtT2Yzdl9GVFdsaThmZDBQX0NTRkM2MXpwYmxKMk9WMWQ5bXVsU2tHMEg3aGQwTllSOUc3UGd1bzNmaEFXcjlNek5iRFlGYm1Od3dGTjU0bkdzZk5aUXZheVZ1VzdxTXh3VmdHeGwtRXo5SlVFWjRDclJ2VTVPUGROVktVTWM4Ukg4eHh1YlBrQWpSbV9OUElETktRcmUtNGUtZnRTUlBNdnNPVDRrNlFXRDNDc3oyM1B2UWFpT2s5Z2J6ckt3QWZBc0M2eXRlakZWemJhdWYxN0NKNGtPa2pTa0ozQng5Ymw0ZHpKMFV4eDhXcTRUdllvY1VrOUlpeUY2dW83bi1CSXJyNXRhMjMxcmFwclpqMEhGdVpCV3FuelF4WUVpMzNRdDNkQlo2aDQzWm1heTdYVmkzcEUtSFFnVm9GeGhvQS1DRG5oaw?oc=5",
+    "date": "2025/06/12",
+    "fetched_at": "2025/06/12 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "《惡靈古堡9：安魂曲》公開故事與主角介紹確定可即時切換第一人稱與第三人稱視角《Resident Evil Requiem》 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ycW83WUdFX1JjUnBBcGZMN2lqTWNoRlFPMkM4eGEwSU1qaVNOZDdzMzBxQVFYZTRHWGJjVUY2SGtIMTFrb0JHek1odmJwNWE3eDlHMGpkUzk?oc=5",
+    "date": "2025/06/12",
+    "fetched_at": "2025/06/12 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "富邦悍將》陳金鋒說明張進德容易受傷的原因 一直在努力改善 - 奇摩運動",
+    "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPQUVYWTlFY0xDOEtjX0xVeTlvOWNPY1JramU3VmR0MnlvQ2ZKQnVmY3NNYkt3OHppcEs0R0dWeS1lNEwxQnNVbnAycUt1bHVaRFpkaHZJX0dXUnhGMVFZVWFfZmVYMm5ydUZfbDM3TndFN2djaU9CRGIzOG1vQXdGNU9mUnRUSEhOMWgxS0NOSUNnX01wcVRhVmFGTUNEVjYzZV9EZTNRdmZQa0tIb2NldHYyYWZMZk1acXVySFB4ZE1Zck8yRHhSRktES2QtekF6WTc3YUVZRU5KQnU1VjhzdVBnQU1xRGdNVWFGTFhKeElTR0ZSM2NBNkF3SWllem1EdGoyTkZ2d1R5ZVNzTU1NVTNsaHZWUFpET0dkTjluS2xKczlJQnpuQ1I5MEdtSUl1U3E4SlBvdC1Sdks0OVE5YTJZN0FNcDJiWFh6bnZFTThCV3FSUC00VTdna3hoUXNjTlBjSTM3ejhLdVVaejNBOW45dDRDZ3BST2R1RnJ0czhpZXBvYndZUDJZOA?oc=5",
+    "date": "2025/06/12",
+    "fetched_at": "2025/06/12 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "傳與馬斯克動粗！美財政部長聽證會「未否認」1句話開酸 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sajVzOHZqQXV0T3NnallZRTMwS0JUQmNtcnlIc21sTndIRlRzaFZ5Z0MtRWRhbFlhSm1YNGl3aGRhV2VEakJ4Z05qaVFHT3pX0gFWQVVfeXFMUEstQWQwSGVMT2ExY3NlcXVhM2JjNEh3NlpGdTAxUmZsSmNlQVpoSnBMcDRsRFJnVnU0TVpVWXRXWk9mVE45d2pXamVtSzJSeTNuRTgybmc?oc=5",
+    "date": "2025/06/12",
+    "fetched_at": "2025/06/12 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "賴清德總統邀在野黨領袖18日共商國是 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIejhsQ2lNNGhkcWZ4bE1iMEFYN1hXeE5ZYzZ2WW1tQmdjVHpjc0lxd19UWktzbWM5M2F2WkxPTXdmajFfTmhqa3k4MTQ1eHpr0gFWQVVfeXFMUHFTVVhlekQ3NWM1ZkEzS3pDUjdaSmRVbldiRjZseXM2OWxFNmVSaGdLN2tiVURzdlpNUUtFS3I4bWVtamJpeS1wT0stdlc1WHdVY0FKNUE?oc=5",
+    "date": "2025/06/12",
+    "fetched_at": "2025/06/12 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "直擊／金泰希現夜市沒人發現！　揪老公Rain來台旅遊：要跟我打招呼喔～ - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwU21oTEliSFhxNExOdHI5WTc5M3ZkOU1uMzJQZURzMWVMdTk0MUdUUWJ2WE8xcm9kMzBieElEa2ZCQjNlWkNsOHp5UjdPd9IBakFVX3lxTE12eFUxTDdKdkhpWUgweGVuSlVYeHNTR01qUDN1aGlic2s2OHhrdUtjN2I2OUlFc2J0YlNkTE9IQWZFcjdyTGNXOEdsV2U2ODhubThDN1NCNG1odm9RWW9vOWliMnpSYnhTd2c?oc=5",
+    "date": "2025/06/12",
+    "fetched_at": "2025/06/12 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "川普稱中國將開放稀土供應 中國外交部這樣回應 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MVk1NckRPZnB6bG1ObWZjM2p0dERWbDVWa2h6Mm5XU3Vvd25kUm9BSHVtcnA3UDRpT01vYXMtTEJOTkc1WFh4aGYxY3hxLU0?oc=5",
+    "date": "2025/06/12",
+    "fetched_at": "2025/06/12 18:51:24"
+  }
+]
