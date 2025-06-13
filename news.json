@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-06-13 18:28:49",
-  "news": [
-    {
-      "index": 1,
-      "title": "Trump says again he’ll set unilateral tariffs in two weeks",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-11/trump-says-he-will-set-unilateral-tariff-rates-within-two-weeks"
-    },
-    {
-      "index": 2,
-      "title": "Pay rises for top India bankers seen widening gap with Hong Kong",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-10/pay-rises-for-top-india-bankers-seen-widening-gap-with-hong-kong"
-    },
-    {
-      "index": 3,
-      "title": "RBI’s jumbo rate cut may turbocharge IPO pipeline amid cheaper capital",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-09/india-market-buzz-rbi-s-big-growth-push-to-charge-ipo-pipeline"
-    },
-    {
-      "index": 4,
-      "title": "US markets are no longer safe for investments, Carmignac says",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-06/us-markets-are-no-longer-safe-for-investments-carmignac-says"
-    },
-    {
-      "index": 5,
-      "title": "Ola Electric founder topped up collateral as shares tumbled",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-05/ola-electric-founder-topped-up-collateral-as-shares-tumbled"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "114年下半年行事曆增3天假政院核定 教師節、光復節有3天連假 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPRkdLZnp3bk5aamVfOHE0VGhBNWhVZ0ZuVXIzd2MxSjliUlhHZXZnRUtGSkVyXzRYQThKVE5mVklTUXJxSWZPQS1fUlRTclhlOTdfaDBCVTJoenhDVUREdHFEWllEZkhQZnNPRXk2dDF2TDltZWxsRnQzLVllZEpJTXZ5SGEtRzVCZlV4WmxLb3lMeEQ4SFVuTzJqNHpGQWg3RDFVTFFFRTN6UURqbWJMN2Jzd183S2daNHpDdE5pQXZBZDg3VXdYLWc4VTAtVEx2RXV6TENBeWJaM0lHbDN6SlJJOXBtdDJqUkJ0cW5YT3pBVl9seHF3dU91SHBYS3JXTHBFM1RUT1R4M0hObGM0bEp2UnB2ODlSWm93eFp6N2NWQmY2bk15TU03RzRka0JIZGVmWmQ1dE9sWFZiRDF1Sm1JcGp3aG0wc3hNMG5fcmcxS3FUelZMM1NPeGhyMEN0NFlMWWZocHNZSXhWNFFGWnpQM18tb3dHZlo1MWNYMUQyd3luZTI0?oc=5",
+    "date": "2025/06/13",
+    "fetched_at": "2025/06/13 19:21:24"
+  },
+  {
+    "serial": 2,
+    "title": "《惡靈古堡9：安魂曲》是回歸原點的究極形態嗎？一嘗從廢棄醫院逃出的恐怖體驗《Resident Evil Requiem》 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EemVvVmRZWXNTSkVEbTlHTVA1QzdGWVB6WkxJelRnNy1rYU9nbHJTbDd3a3oxUi1GZEJuMS1sRU1jUFZid1hqTHFxSUk2Q3d0ci04UXM1OVQ?oc=5",
+    "date": "2025/06/13",
+    "fetched_at": "2025/06/13 19:21:24"
+  },
+  {
+    "serial": 3,
+    "title": "《雷道 Remastered: 超力兵團奇譚》公開「超・故事影片」 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4OWNPSlRMTjNSNGFXWDNvVHpqa2ZHakRHY1pUdGlhUjhLaWloeXhNdHlsd1FSV1ZMYWRPWDUyUWJmalV3cTRQRFJhdUZwT0sxQy1vWkNSUTU?oc=5",
+    "date": "2025/06/13",
+    "fetched_at": "2025/06/13 19:21:24"
+  },
+  {
+    "serial": 4,
+    "title": "逢甲大學碩一生遭「校內路樹奪命」！家屬一聽：走了…崩潰掩面痛哭 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kSkd0S0ExTnltSFlTWGZlY29QaU95QkxtdmhIR05oX2EyZnRFWm53bG1temxEWXNELXpJaHZrTl9iWW9wZExkNFBmd0Y5ZUoycnVsSXhZMHM1Vl9LSnc?oc=5",
+    "date": "2025/06/13",
+    "fetched_at": "2025/06/13 19:21:24"
+  },
+  {
+    "serial": 5,
+    "title": "台大5姬近況曝光！資工彌年收破億　剩1人在圈內 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYb184Mkt6cFZTejVmWWNrMmJXR3NWVU1VOERzWF9aaVNzcE5UeG5DYm1STGRUSnZJMEkxZ0lYUDZiSTJTejB2dXZGcWhaQdIBakFVX3lxTFBiRERvTWRnM3JYZWM2T2w4cDdJWDZXRkxyTXNLcGFWdS1DeWcxZnNWZjdRS183c3ZTemJHVE9pbFExTnpBNEpaY2Z5Vm1LcnVBRHo4TGR1TkctNlcxTmloQldPaFpaVHVxX0E?oc=5",
+    "date": "2025/06/13",
+    "fetched_at": "2025/06/13 19:21:24"
+  },
+  {
+    "serial": 6,
+    "title": "美大都會名作故宮登場 賴清德與馬唯中罕見同框 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWUktuZEd3Slo3MlhUR2hQSkgzXzdDLVFEbDVGY0lfV19Tdlg1dEpQRUpPd0MtRXV6TjdjVnFpUU5Ed3JEc215a1JHR0RPTGIz0gFWQVVfeXFMTW1FWTV4OEloY0VuTllZa21od05icGtqWnhwVzhMTFVlU1R6Qm80SkZJa05uR2VJRXQzREY5RWpWSmNSOXpZMDF6TEx3U21pTUhid3ZiWUE?oc=5",
+    "date": "2025/06/13",
+    "fetched_at": "2025/06/13 19:21:24"
+  },
+  {
+    "serial": 7,
+    "title": "以色列襲擊伊朗：核設施遭襲，伊斯蘭革命衛隊總司令等高層喪生，德黑蘭向以發射百餘無人機 - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54X01Ud2J4Q2VTUHUwRWRpaGNIVlN1V3IxNVJWc1BrcVE4TzZpbFJCeUF4UjltRHZ6WDVLMHBqNjlDMk5EWHY0bjBGSGJveXNHMWUyelk2UUFXRTUwcnN2MWpSQUpKd9IBa0FVX3lxTE50TW9uTkk5bEJRWlJ5ZzNxR1F0NV9EZHFkOHp0d3hTTDh1ZThJVXQwZlBEb3ZCbTA3anBZalJ3V2ktcVN6azBUUHJTVnRrS0d0NHJZN0hKQ3ViY0RHRmpoSndlVThhQmx6RS1r?oc=5",
+    "date": "2025/06/13",
+    "fetched_at": "2025/06/13 19:21:24"
+  },
+  {
+    "serial": 8,
+    "title": "中職／布坎南升、力亞士降 陳金鋒認為牛棚仍需富藍戈 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10TTY1YVgyRTJFeWhQMVBGY19nNks3MUpWUi1PTE9fNWZKeER3cVVMMGJGdXZXQjctRXYtaFc1VTRpeEdNZ2FVNjF3dHBYbGtt0gFWQVVfeXFMTkxrWVN3N0ZYOU1RTk9sWU8zU0gySi1xSk9nZEhsSlhzRU1LWnVTSVl6ejZJV0xQWGdNb0lUVGFQcWhEaUM5cEdqSW96V1dwQUFwNVZXMVE?oc=5",
+    "date": "2025/06/13",
+    "fetched_at": "2025/06/13 19:21:24"
+  },
+  {
+    "serial": 9,
+    "title": "「綜藝大熱門」開播12年喊停！吳宗憲宣布捐出上億身家 - 噓！星聞",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Fdi13Zkg1X29iZ3M3VHh1LVFKNlRkV3NGazZ0MThkLWlxUVNzeFFJb1JiZkx2U09oVVQwbmw5X0VtYTRDNUU1clFsREczenB2d0dWb19hWDJJZ9IBX0FVX3lxTFBCczZ6VE1IRkxUZzVWeGN0dUJEUU42NmppSUdTcTVOM3NmUXVFZ0xSM0ttQTZ0ZjhsMlZELXZ0N0ZYR3dmRDZUSXVaTUw2N0puLWZITlFoMk9LN29hV3lB?oc=5",
+    "date": "2025/06/13",
+    "fetched_at": "2025/06/13 19:21:24"
+  },
+  {
+    "serial": 10,
+    "title": "台積電除息後連2跌！台股終場下挫214.87點 「這2個」類股跌破2%最慘 - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNajJVSkFTNm1TNDA5TDJnb29CbjQxS1hWWktyOFpzZk5kUzhmSTBKcWZZZDY4cE0wY1NKTFRnajdYdHRvdmZLdG16eUFVazJIaDVKXzIzNUNuaEJoajJ0YVltVzhnSEg0WU9haF9lcjh2dTVkOTI5WUczXzdrUWFheVlkdlVwVERWd2hIWTdoeWVUQUJrSmhjNUYtR1d5clNjS2lXbXBOTkljUkVUUi1UREhfdS1OTEJJTExpUlc3TnlqQlRTSEZER05mUHJXOXBDdnZNOHdjaWQ3cmltNmV2dDRnZVVWUTQxS2JCM25FbGw2UTNBSTFkaEZSejRmTUZ0RER4STN2eWpjN29nWWQ1eTZLcDdseFBVSGhNUkNwb29EXzdHZng4U1NqZkZuemlUVU9SVFR3aXpUMWt5OG5nVnBWNEFzbEZmYjJsVkVrYU90c1d3N2Y1b2ladVIya0dWOFJ5cVFFOA?oc=5",
+    "date": "2025/06/13",
+    "fetched_at": "2025/06/13 19:21:24"
+  }
+]
