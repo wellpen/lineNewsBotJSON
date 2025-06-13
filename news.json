@@ -1,72 +1,30 @@
-[
-  {
-    "serial": 1,
-    "title": "《巫師傳奇2》結束搶先體驗1.0 正式版正式推出《Wizard of Legend 2》 - GNN 新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tRGhJbTc4X3BpTW1OVWJfZUx6VktwendIUklEalVFWkxXLWkxTF92blNuTlhuS1FrWmxEOFc0aEVTaG0zOVJHRk1OX1l6MFVYNkp3Q0pDdjA?oc=5",
-    "date": "2025/06/13",
-    "fetched_at": "2025/06/13 18:21:24"
-  },
-  {
-    "serial": 2,
-    "title": "Everspace 2 ： 上古之怒評論 - gamereactor.cn",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqN0h3QXo4R0lHNnJiZWlobzB2NFUzNGpseXhtQzVsVFVGTkxaQ015cmx3blJkWjRyVEZLcDQ1ZGM1NWU4RkRFZk91UlBWdkdMZWJHVkRrTkkyYUx1T3Z6cExiS1MxaVVIZnVIeG1SQUFTemZZSVZPVQ?oc=5",
-    "date": "2025/06/13",
-    "fetched_at": "2025/06/13 18:21:24"
-  },
-  {
-    "serial": 3,
-    "title": "突拋震撼彈！吳宗憲宣布請辭「退出演藝圈」 上億身家繼承人曝光 - 奇摩新聞",
-    "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPUUdGMVNBTXlMRFRaV0FhbHhUa04xWmxpdzgyaHpJel9tZ3pURU9uOUVIXzkxRTBZUVZaZzhfWVdaanBldURRdHc3STJ0Rnlzc3RfY0NlUi1VVEh1QThINzNDVGRLNklfTDI1MU1HZGhPc0dEYks2aEVCNkpHbFRMcnpxenlyeS1DdjZYNzdFcDNQRzVibVdXdXhXei1XVzVERVlBY2t2T3Q5Q29qMjRwTjVfRk51QTNrUjZVbXdTYkpGWWRpaFYwTjlZZUZrSE01SUdzZ280V0ZPV0I1aW5ObkZMSURSemkzTDBydlBZc05pTVlsZzZxcThaWWhrNEJNWHhsaURrSnFSODNvRTFEN3NaY2NLdFR1X1VWN2Q3d2dQQlNKbFNfMGhaa2M4TWZUb0l1cU8ybDB5dmhIc2tzR3hJVGRfTGgyY3FPZHJZY29SenB5dldzbWRlX25DdFIyOHU2ZFAwLTVNMDhlOXdGZ0M0dXNwSkoxUjRSWjVTaGp2bzFhZ1pvM0Roa2Y3SHM?oc=5",
-    "date": "2025/06/13",
-    "fetched_at": "2025/06/13 18:21:24"
-  },
-  {
-    "serial": 4,
-    "title": "中職》瑞恩完封！兄弟下週「地獄賽程」 亞洲紀錄再等等 - 自由體育",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYYU13dkhrRkxGODg1OE14aFhUT0I1emxFOVdhNHc1R0N6TkhfM0hKTHB6MlBVYjYwNU5xelRiNllubGwtd1BTMHJ1OG0tS3FaSXpCNW5kR1pFczlLZURudg?oc=5",
-    "date": "2025/06/13",
-    "fetched_at": "2025/06/13 18:21:24"
-  },
-  {
-    "serial": 5,
-    "title": "以色列襲擊伊朗：核設施遭襲，伊斯蘭革命衛隊總司令等高層喪生，德黑蘭向以發射百余無人機 - BBC",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54X01Ud2J4Q2VTUHUwRWRpaGNIVlN1V3IxNVJWc1BrcVE4TzZpbFJCeUF4UjltRHZ6WDVLMHBqNjlDMk5EWHY0bjBGSGJveXNHMWUyelk2UUFXRTUwcnN2MWpSQUpKd9IBa0FVX3lxTE50TW9uTkk5bEJRWlJ5ZzNxR1F0NV9EZHFkOHp0d3hTTDh1ZThJVXQwZlBEb3ZCbTA3anBZalJ3V2ktcVN6azBUUHJTVnRrS0d0NHJZN0hKQ3ViY0RHRmpoSndlVThhQmx6RS1r?oc=5",
-    "date": "2025/06/13",
-    "fetched_at": "2025/06/13 18:21:24"
-  },
-  {
-    "serial": 6,
-    "title": "影／公布了！高雄立委黃捷、許智傑罷免連署宣告失敗 - 聯合新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94MUJrWXdwc0w5R19ibHJ5cUlPR1FJbDM3VEtGOFp1RktzVDhpSkxlbW1jaXRCaUoxblItd0JJTXFRUUFlSjdWeXkzZEtZQ3YxaUl30gFYQVVfeXFMTmR1MENCWEtESlBjVkJYeU05bDNWMGg3cS1IS0dvQ2hBYmJtQ0tZaUJzQlFZUmpIbWlIa1FnbzZ3QkJ3d3kxdUNDSnRzRGd5UWFQMHdLZV91Qw?oc=5",
-    "date": "2025/06/13",
-    "fetched_at": "2025/06/13 18:21:24"
-  },
-  {
-    "serial": 7,
-    "title": "台積電除息後連2跌！台股終場下挫214.87點 「這2個」類股跌破2%最慘 - 奇摩股市",
-    "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNajJVSkFTNm1TNDA5TDJnb29CbjQxS1hWWktyOFpzZk5kUzhmSTBKcWZZZDY4cE0wY1NKTFRnajdYdHRvdmZLdG16eUFVazJIaDVKXzIzNUNuaEJoajJ0YVltVzhnSEg0WU9haF9lcjh2dTVkOTI5WUczXzdrUWFheVlkdlVwVERWd2hIWTdoeWVUQUJrSmhjNUYtR1d5clNjS2lXbXBOTkljUkVUUi1UREhfdS1OTEJJTExpUlc3TnlqQlRTSEZER05mUHJXOXBDdnZNOHdjaWQ3cmltNmV2dDRnZVVWUTQxS2JCM25FbGw2UTNBSTFkaEZSejRmTUZ0RER4STN2eWpjN29nWWQ1eTZLcDdseFBVSGhNUkNwb29EXzdHZng4U1NqZkZuemlUVU9SVFR3aXpUMWt5OG5nVnBWNEFzbEZmYjJsVkVrYU90c1d3N2Y1b2ladVIya0dWOFJ5cVFFOA?oc=5",
-    "date": "2025/06/13",
-    "fetched_at": "2025/06/13 18:21:24"
-  },
-  {
-    "serial": 8,
-    "title": "《空之軌跡 the 1st》公開新角色、場景預告，中文版售價宣布調降 - 4Gamers",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWWt5X3BKaUc4LXhvZ3h4bHFMOWEtYTk0bUM4SlQxOU9EQThFMzdOMGxlTngweXVHMURFRTlfb2dnaEZTYlV4T0xpWnpQSTk2YllUT1FOWi1pZFJXWVRQNjAyVHV2cVVOSlRLQ1lHMUFyWHVyTEFhQ1NTTUtxak1lcmo5bXBQM0lFZEZyRExfcExrZ01ybDlBcUJqVEh0bWczdUZvUWc0Y09CdVlscThMa0plYzl6T1RiQXRoOGxpNk5tY3FSdVE?oc=5",
-    "date": "2025/06/13",
-    "fetched_at": "2025/06/13 18:21:24"
-  },
-  {
-    "serial": 9,
-    "title": "台幣升值竟然還有例可循？長榮航、佳世達、台達電 - news.cnyes.com",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00MHM1TjdzUmhzUTJQSEZ6blhTTFpLdGZSdldLZXFqaGtBOWlYRU9FZ2tzUnpLUERFZ2VDb0UyVEFrWGJqMEpkTWtaU1JJQnc?oc=5",
-    "date": "2025/06/13",
-    "fetched_at": "2025/06/13 18:21:24"
-  },
-  {
-    "serial": 10,
-    "title": "孟耿如爆離婚黃子佼 乾媽周丹薇露面曝她心境 - 壹蘋新聞網",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbks1TTU0NVBFbWdBWGVJc0diY05GSTNsYWYxemR5OWJHeGI2U0JyZHd4TkFVN3ZCR0MyVjRwcktiZkVRaUh5NEg1QmZaR25CUjRKZ3hHOVIwNHVmc0tMVGdhMURVSjMzakxBN215QnJSMmhQRl95eXl5OGREdEpSb1Q2T3NOYUU?oc=5",
-    "date": "2025/06/13",
-    "fetched_at": "2025/06/13 18:21:24"
-  }
-]
+{
+  "generatedAt": "2025-06-13 18:28:49",
+  "news": [
+    {
+      "index": 1,
+      "title": "Trump says again he’ll set unilateral tariffs in two weeks",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-11/trump-says-he-will-set-unilateral-tariff-rates-within-two-weeks"
+    },
+    {
+      "index": 2,
+      "title": "Pay rises for top India bankers seen widening gap with Hong Kong",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-10/pay-rises-for-top-india-bankers-seen-widening-gap-with-hong-kong"
+    },
+    {
+      "index": 3,
+      "title": "RBI’s jumbo rate cut may turbocharge IPO pipeline amid cheaper capital",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-09/india-market-buzz-rbi-s-big-growth-push-to-charge-ipo-pipeline"
+    },
+    {
+      "index": 4,
+      "title": "US markets are no longer safe for investments, Carmignac says",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-06/us-markets-are-no-longer-safe-for-investments-carmignac-says"
+    },
+    {
+      "index": 5,
+      "title": "Ola Electric founder topped up collateral as shares tumbled",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-05/ola-electric-founder-topped-up-collateral-as-shares-tumbled"
+    }
+  ]
+}
