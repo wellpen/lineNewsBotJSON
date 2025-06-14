@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-06-14 18:25:40",
-  "news": [
-    {
-      "index": 1,
-      "title": "Trump says again he’ll set unilateral tariffs in two weeks",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-11/trump-says-he-will-set-unilateral-tariff-rates-within-two-weeks"
-    },
-    {
-      "index": 2,
-      "title": "Pay rises for top India bankers seen widening gap with Hong Kong",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-10/pay-rises-for-top-india-bankers-seen-widening-gap-with-hong-kong"
-    },
-    {
-      "index": 3,
-      "title": "RBI’s jumbo rate cut may turbocharge IPO pipeline amid cheaper capital",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-09/india-market-buzz-rbi-s-big-growth-push-to-charge-ipo-pipeline"
-    },
-    {
-      "index": 4,
-      "title": "US markets are no longer safe for investments, Carmignac says",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-06/us-markets-are-no-longer-safe-for-investments-carmignac-says"
-    },
-    {
-      "index": 5,
-      "title": "Ola Electric founder topped up collateral as shares tumbled",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-05/ola-electric-founder-topped-up-collateral-as-shares-tumbled"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "以色列空襲伊朗黃金飆漲！差一步破歷史新高 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MMXFhUm1admJNTVVZZkNFREJ1Ry1hYllUTk5tRUdjdmo4ZUlBWHpkZ2VSQy1vV05wUU1VZkQyWjU3RFlSVDB4elJNV1BIanFTVlk3RjdFVW45LXQ2bzN30gFkQVVfeXFMUGVjcWRsaHZ1RGFpdm12bTAxdXR5R2JwWmRWZ1hIR3FLOVEydzVJSEdBSmQ5RTlrUWZmNzJ2c2RWMjZ1LUU3TnVQTUNWYlhNR1hwYkpYTU85bWx1ZmdHMTlYWWltWg?oc=5",
+    "date": "2025/06/14",
+    "fetched_at": "2025/06/14 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "部份 M2 Mac mini 潛藏「無法開機」問題 蘋果推出維修計畫 | 流動日報 - LINE TODAY",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtR3dGem5WeURLWlVsdGtUZHV4eERFRmZ4VUxPOUNfb0xVMG5BMGlhU1VjME05QV9NdVpKcFJPTUJURTQ4VzNmQUg4QmZHcEFoRW80Vml3?oc=5",
+    "date": "2025/06/14",
+    "fetched_at": "2025/06/14 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "紙墨手繪風神作《洇客Inked》限免領取！獨特視覺遊戲體驗 - mrmad.com.tw",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45a3ZmV3BUTmM5MnI5TVNjSXpjMnFkQWpZUjdiNjhhdzBqQ0ZDdkJtSHJXZlNiYWt6UkFkNzJfd1JIN20tZ1Z3Zk5oTkJlNThYb3RESUVEUkdqVERnemRjNmhHZ1BfUQ?oc=5",
+    "date": "2025/06/14",
+    "fetched_at": "2025/06/14 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "輸陸晶片遭喊卡！黃仁勳：大陸市場將不再納入輝達財測 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPMlFUZlRDYi1NSFJrckY3LXhaX3pIRW9FMXZGdUsyMGI1ckNOS1JBR3dyQ1BjNklPMU56T05hbEtjSThDcHhvY1dRdnRJeGE0U0tsTk9tV2tyN0tLZ2hVUmdIbVIzMHh1ZGN3SnkxZUVNNUVPT1N6Qnl3UGlYS2M4T1JEV1BRMHpYYjVmNzRJMWtLQTNRYkRHZUpEcHdkZVpNU1JOZkhTVlZveHRxeE5qb0RSVWJBSDdDaGZHTzdVc1lETGJzSkVnaHpzNVhIUzAtSVJsS0tFY2oxMGNfNC1GZ19sYks0b0V2eC1NZmJOQXdIS2Y0dEdTNUIzMlQycmhRV2dFMmQ5ZmM0ME5hODBqTHhDYXIxdEFsX3JDMU0za1lXR1BNc3ZyN296dy1GMGRJMW9KX3kwajh5NFZLeUpuVHhWOFVqZ1F2X3lmY0lReDNDbmxUamM4eVduQjdFb21HOE1NaTVtbTNRQQ?oc=5",
+    "date": "2025/06/14",
+    "fetched_at": "2025/06/14 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "參觀上海中心大廈　館長讚「阻尼器太震撼」全場傻：101也有啊 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5taHpFM0NrT0ZOVk5aZGpLR1NnTWlldDhKWmJrTGh0bW9zZnh4dTh5eWJZaHl2dWJCMjYtY2I4ZnI2d3JVS2dXWUxKRnJFMktRTHk1T2Vic091dWFLSnfSAWhBVV95cUxPNVFUYWVsWE01NW1UelhTaW0tVjF1dVRjRjY2SnUwSkZFbTliT21wZHdFSzlWZTRhQzJBRVVUNlFHWmQ2M3dyZ092YjBzcmRwRU51bFhkQnVwQVBhNEhXbWxDS3Jndk5mSA?oc=5",
+    "date": "2025/06/14",
+    "fetched_at": "2025/06/14 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "玉山盃》戲劇性奪冠！台中市驚奇寫高懸15年紀錄 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FTmJXdVVUNTRmNnJSenp6Rm9XV2pUalF2REVneGVfTmV3UmFsZmxuOHQyRjNFcEpwektuQUltUll2Q0FlaHhPb0E1SVF0bXZRdkVNZndGLXBsZkQ2TnZRetIBZkFVX3lxTFBfOVktU1RrdkVWNlhmczJ1MURUY2hRTkpBNEZxMzlxbDhZVWFOTXVYRjl4NlBvTDRhdUFtWXdsenBsOFM4Rm1wbTdJNU5ESmdYM1hlMVo1QXpIMFVMMzhjWm9ZZTltUQ?oc=5",
+    "date": "2025/06/14",
+    "fetched_at": "2025/06/14 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "中職》起亞啦啦隊又來台！朴星垠再見李珠珢吐心聲：原本有點擔心 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FdFkzVnJfRm0yaHM0N3I5RndEUEcyTWxWQUYxd2h1Skc3TlBSNVNnSXhCWnZzeGZRMzJ3eV8wNUE4TUlpNVM1MDhhVkhDRWg0aGRpQVV4eWRzTXk3UjZIU9IBZkFVX3lxTE5FWXdNQWNSVU03a0JySHBsTXFDNnY4N0ZzZVZNdGE1VURXTnNwZTBZejNvanlINkE2VFAwZWtlV2Z5ZHV6MzFQTGRiMHoydjBOOXB2WWp1bGx1Rm9lMFAxUEFaX1ZGQQ?oc=5",
+    "date": "2025/06/14",
+    "fetched_at": "2025/06/14 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "伍佰開唱首日「擊飛麥克風」 驚訝發現歌迷學壞了 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOTkszMUNvZkdiN0NfVlB3WlNQZXRvS2N5UzZYdjVGa2ljREE0NVZYVFd2M2NkVmVDNzNwQl85TzBRcmhIcGh2aU5iY1UycWtXRWIxQW41NDhIYkI5SjJCcTJ1OVh2TE9rVGVSNU44Q3ljTWhZWU5adTRpZkJFVldOZjdZWTBNamwyZWZfVlFfWGhlVmhsZ1Z1bFJDbnRoVlBoVjVIRjgtcVMwcmxfWHk4NVhldUZ4VThENk5xOTZwNjR6MUJYWW9VaEdmelk4Q0xNVzZhZ0RrclpfV0ppVXk2QmZyUlZkc1ZCS3lTeGdUMVdnXzVOMTNmTFY2OXdtVm9aQXdKaExFLVVtYkFBY0g2UzNEQklNbGVfWDV0WUMyWFAtODVaS0dKS3E4S2ZpN000T01YRzJhUFRHNElfLW5MSHdNUVVlZw?oc=5",
+    "date": "2025/06/14",
+    "fetched_at": "2025/06/14 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "黃呂錦茹遭押近2月 藍營曝：被故意修理安排在馬桶邊 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KVURFekNCdXVPUzk5VVpyV2ZZaHB0Y2xuRkNnd2E1R0JxaURwSS13dlpSNjlxWktJVWNHc1ZHUjc5bWstaEtNdDgyWjRzSzV1NXln0gFYQVVfeXFMUHlzemdpRnF0M0tFVTJJSExXTEk5LTdORFF4ak1tc1kxYkQ5NUlpSDFyc1N4MUVLYi0yUExYeWJybDhNakpwZDlwXzNHWmNRQlo1VEZfUUJNYw?oc=5",
+    "date": "2025/06/14",
+    "fetched_at": "2025/06/14 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "總統府邀在野國安簡報 黃國昌靜待安排 朱立倫籲幕僚先「會前會」 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPcjVIcmw1M1lzLWIyZjM4alNFQk52dndKQlBsWUtCVHRQMXJTSnVKcXBQNVJKQW12c1hRaTloVlJrWlZWUlRyUFJwU0xsTHhGcnc3ZHd0Mm1SaTFiUmttZVpfb3hjeVNBLThDMW40TUZYLXFEUXYtT29ObHRfbWVycUIxRGEzb0YtaFpMeVhBYnJCLWp5WFdEMWVIZXJiZnViSGNmTDBFcTlSU0lPQ3hWb09XZ21nUGs0Mkh4LTkybFV2dU1FeTZxUzI2eXFRMDV6S3BPSXJ1aW4wYTVHTmtjZ0JDX0hmSzBDQnNZeHQ2LWVIZGthZjdDWV85NkJiTnZzZlpJa0sySzJ4MF9PNG5uTzM2VE83NEtPMVFfUGNLUVN2M3pIbF9aazRTVnJ3TG4tbWhXb2JCcUN5cG9QV3VycXYzVzI0VjRuLUJPdlBlclE3NEZMb0lXcVVHd1hJVGx6bkNGU1gwQlp6dEd6TlYtdjg4SmtDbGVrQnQyY0F2S3Q4SXI4aXA0UG1LM3M2RXRFaVlFWjdWRnpkVDg4TFRWSTUzRTRDNlhTLUtmUWlZTkJrZw?oc=5",
+    "date": "2025/06/14",
+    "fetched_at": "2025/06/14 18:51:24"
+  }
+]
