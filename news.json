@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-06-15 18:27:53",
-  "news": [
-    {
-      "index": 1,
-      "title": "Trump says again he’ll set unilateral tariffs in two weeks",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-11/trump-says-he-will-set-unilateral-tariff-rates-within-two-weeks"
-    },
-    {
-      "index": 2,
-      "title": "Pay rises for top India bankers seen widening gap with Hong Kong",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-10/pay-rises-for-top-india-bankers-seen-widening-gap-with-hong-kong"
-    },
-    {
-      "index": 3,
-      "title": "RBI’s jumbo rate cut may turbocharge IPO pipeline amid cheaper capital",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-09/india-market-buzz-rbi-s-big-growth-push-to-charge-ipo-pipeline"
-    },
-    {
-      "index": 4,
-      "title": "US markets are no longer safe for investments, Carmignac says",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-06/us-markets-are-no-longer-safe-for-investments-carmignac-says"
-    },
-    {
-      "index": 5,
-      "title": "Ola Electric founder topped up collateral as shares tumbled",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-05/ola-electric-founder-topped-up-collateral-as-shares-tumbled"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "飯後嚼口香糖有助防胃食道逆流 專家曝1口味應避免：會更嚴重 - PChome Online 新聞",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUlGMkVXYzdnQmtWeTgwa21uMTBKbU95bVd1amZmRWJlc0x3c1MyU1lxamJ2c2lBbVhGVGJENlNiTkRpd0tFMG9sdnpEN1hpUXVKOE80bHVkTFBneVU0WGFzT3FvMmVOTFVHdWtURnU5UFBHUk5hMkJDdXU2c09ibmJVTHdIUGpqZm4tNlhR?oc=5",
+    "date": "2025/06/15",
+    "fetched_at": "2025/06/15 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "徐巧芯看板直接覆蓋「同意罷免」 建管處打臉：雙方都查無申請紀錄 - 自由時報",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lUTBqNU91NGRaT3E1djZ2OWtlV2FRWmo4Q01PQ0x2a1NIUThhbncyaHNSRFFPUFdNOVJHc0NXNEFkekxpd0tRQ0hJdUtOSVBtVmxVTl9VdThwSlhqeTJBZEpaLW1heGdZT2fSAW9BVV95cUxQS1U3NUktcVNDMUhsSmc5clpTZkFqM2tUZzBFbmR4MF8yMnVfMjg4amdfSFJ0RDNxSkowRjRMWDVxYl9kbmRKQlI5YnFSZEZuN0M1b3c2LTVvbzdXTGlsQ2o4eHQwNnkyZXBiMGktclU?oc=5",
+    "date": "2025/06/15",
+    "fetched_at": "2025/06/15 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "拍下印航墜毀24秒片　少年悚憶「客機眼前爆炸」驚恐亂語睡不著 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JUDZPck1QRzFUbnJkdUFvZEcxQ3hTbzFQdjA5WGM5d0hyR25lWWEyOGZIU2owazRSdXFqTlh2SjBtWGR6VkZzaTgtWkpteFFmODJnWDk0czc3eDdUcFHSAWhBVV95cUxOTVp5aXNPSWZVV3MwM0JkZGp0dkxIUDdySXBUT0VRVGtvQ0h2RmdPR016ZFNBdzRlZ2JkSFNuRk5mLXItalZNMnFEX3pJQ3J6UHQwbm55ZXRRYlJ0eExSOEtyQVh6Tk9mTA?oc=5",
+    "date": "2025/06/15",
+    "fetched_at": "2025/06/15 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "原生版 3DMark 效能測試工具登陸 macOS - 流動日報",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43NUt3RHJ2LXhVdHFSRTZ0X0xUdUVEekRDRzk5eDRVeVdRelBUbjRtcjBVM0ZrTVRxejkxV09oNW4yajJGZkRoR0NJaEt1eEJZUmFxTWc5TlpybXFWV1hrblI2cUhSUzFaYktfamc0Tml3Zw?oc=5",
+    "date": "2025/06/15",
+    "fetched_at": "2025/06/15 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "中職》出賽數超越生涯前5季總和 李吳永勤笑談「全勤」綽號 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MVzh3RzVNNExKalVqZEVtWm5HRjRFWklJWVFfODZZb3FwNC12dEJ3R3NkQ3I5SVd5dmV0RjBLVXNVV1JKbFVkc1htSzFEeWxOVUZ6NkFTZV95STV6ZVctWtIBZkFVX3lxTFBHaEZPYlFURi1seU03ZzRuQ3AzRUJGVEJjRHZ5cjNLUXdxekZHZTlFVjdiSzRxY2FsRmFEZS1JNkN4c3dmZmtmYnVlWTNOMWpiUmRTOXl4N0lycUtlY2IyT0NDTVdWQQ?oc=5",
+    "date": "2025/06/15",
+    "fetched_at": "2025/06/15 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "《劍星》賣太好？索尼解鎖多款第一方遊戲PC版區域購買限制 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQU0J6ZDM5OVNQdTRjM2o1OFNsWWRVYldnR2Fnd3dpcDlDbmZBNnRnYU8wbnp2OGhidUJmcVlSQkZUeVc1LUVSX0JXVlNRMjlFc1ZYUEFBN3M2Y29IcTBOU3ZYMEZZNTlSWU9aNmg4NTJHbXBRMmtkRHhoajQ4VUNwMHVWYnIzOFhiM2ItUVdnU1ZlMW1sV2VvMFdNQWdXU0l1U0VGbGFPZDZxM2FwUWllYXMwZ3pNb24wV2ZWQkhWUFFLSWxEX3NlUFYxcUpXenMwLTI5QlFaaDV6YmxCVlBTZDdEWHZNc1puWDRsR2JOSkhKRGM5NmM5Q2owRlgyNkpfTDNBdWpmTEdUXzdMbHBIQy14ZFN0MDFaNmVRTERoay1nZEVocmNGa1V2M0ozMFk3VVRKY3hFeUMzQWFIQm0zNEllRW1ySThpNC0xQjdPNTZJdzVNdHNqczNKMGpQVTlnZm5xWW1jWlQ5SlBhMDNDaVJNd0JmYzhTeldZZDg3b0RDaVVNWlhzblJYX0stdw?oc=5",
+    "date": "2025/06/15",
+    "fetched_at": "2025/06/15 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "許瑋甯被跟拍「好心送麵包吃」！女狗仔慘遭開除…10年後真相傻眼 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WOVJUbExhOWlKYWx6YmlWQVlmTThvY09MLVBLUDkxTDFKZlJCLTBUdmdzbjhZQVdjQjJEc2VPTjJnRDI3RkUtWHcwdFJ6d9IBakFVX3lxTE05VWJwQTRaMFZFNmZoeWxwRU0yT0dZXzhaeDQyZXFieldLcXAzX0FjM0xOWEt4aF9fZWFleGJFUGlSaTBEdmlWOFF0ZG1UR3BUWlU2OHhRRDlSNG9tX1huTDlnajNUaUsta3c?oc=5",
+    "date": "2025/06/15",
+    "fetched_at": "2025/06/15 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "杜拜摩天大樓深夜火警！烈焰黑煙狂竄「沿牆延燒67層」逾3千住戶急逃 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOM2I2QVIxZXZUSWpUWnhEX2ZKVTJzSmdDLV9xZWhTZnNCbjJGN3BGV1RsaTZhSlZPTUtnWFo5X2xyMFA2QnAwRHdodnBxNXkzNThQWEl2UXYweGpPOVlDN0xwZXc4Tjd1OHN0a21YdEowRldFMmVLZVk2dGV6b216emFRRzAzd3BqdE9SWlNGaUdYM3JQVE5IbEVUeFNpMTFFWWFTVHpSdFR5OV9VM2JSalFLTWR0eGFocFU2enhqdDVaX2NLOFhReFF5eGZEMEQzaUFHMXJpTGlaYkRfREN1YThxTGgtZGxzUE04cGtzRmlSWVFmYWs0aWw5N2hYRXVxb0wySlZrNUlUV1hLLVlBSEdRTkhoZlpFR0otTkQ0Q3B0RVNYMUY0T0hzeWFfc1Z3RXBqZk9nTTdRVUdpblBpRWFqaDZkYWJzZ2NuQmRZNXhESDdCbzFpZFc3cWNaYmFBcHNHTnoybFlyVWVEaXFCclNFUURUR0hqZU9xTjQ2Z1NTQmpBcDExNlB3eUZEZzJSRzZTOEdmMDhCb3ZGMVNj?oc=5",
+    "date": "2025/06/15",
+    "fetched_at": "2025/06/15 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "Netflix電視新介面被罵爆！用戶崩潰：浪費螢幕、找片更麻煩 - 自由電子報3C科技",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBxblY4T3VuVXUzMGJlYjJ5aDhXNWFrdnB4US04TjJ3LUhBZ19tZUFhRW1aM2RXRXRfMlZnQUoxaTByTEF3QWNF0gFMQVVfeXFMTk44VXVZREhxaGJkOXFhbU05TW1sSE1fNXc0WlpDbmM1dUZhV0xPUFUxM3RiQVVoNzdEdUR2MjVQTzlkUkszdDZkaFRLVA?oc=5",
+    "date": "2025/06/15",
+    "fetched_at": "2025/06/15 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "疑遭軟禁沒戶口　21歲男沒上過餐館心智如孩童…緊抱里長好揪心 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByeHBXaG16WHBRY1V2ajlCd2FFUXhJamRUMUVHZ1IzaS16dk1oZkRJWmhCRWhGNVVjVXFDQnpRazEyOHdNc0I4Y1lxbGVnY0NlTnJicVZuaFEtWDFTeFHSAWhBVV95cUxOOWg0LWFKMS1VeDRSeEU1emc1S0l2bVlzZk5udGV1UE9pMjhDelRIZVJBMGp3ZmwzZ2ZxcnVQeW9XX2hDRnUyVXY1OG43SlVUV1RzcDdxU1B6a2J2V0tUTWhVaFBncnQyVw?oc=5",
+    "date": "2025/06/15",
+    "fetched_at": "2025/06/15 18:51:24"
+  }
+]
