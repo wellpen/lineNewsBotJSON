@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-06-17 18:29:10",
-  "news": [
-    {
-      "index": 1,
-      "title": "Trump says again he’ll set unilateral tariffs in two weeks",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-11/trump-says-he-will-set-unilateral-tariff-rates-within-two-weeks"
-    },
-    {
-      "index": 2,
-      "title": "Pay rises for top India bankers seen widening gap with Hong Kong",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-10/pay-rises-for-top-india-bankers-seen-widening-gap-with-hong-kong"
-    },
-    {
-      "index": 3,
-      "title": "RBI’s jumbo rate cut may turbocharge IPO pipeline amid cheaper capital",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-09/india-market-buzz-rbi-s-big-growth-push-to-charge-ipo-pipeline"
-    },
-    {
-      "index": 4,
-      "title": "US markets are no longer safe for investments, Carmignac says",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-06/us-markets-are-no-longer-safe-for-investments-carmignac-says"
-    },
-    {
-      "index": 5,
-      "title": "Ola Electric founder topped up collateral as shares tumbled",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-05/ola-electric-founder-topped-up-collateral-as-shares-tumbled"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "癌是怎麽來的？醫師解密：原凶是它 - 新唐人電視台",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GZFBVbm1yOEZSN0owZU9zUWZTT1ZsUzdldlkteHZydE9vUnF3UEJZX1RPNzFMTTlDTks0eGh3OEF4MkhJWVZnSElKeGhoaEtPQlNjbk1LbTdsWTJHTlhGN9IBZkFVX3lxTFBHeFhWNTdMeVlLTGlXSjloRW9FU2NoY21YcENDNS1QeHlJZ3RFVTR6R3NkaG5keFBYOHNyc1ZIR3dyTldqcW1tXzJFcmwySWpjWHBlYlZYWmhrWWhER1l4c3RxdERTUQ?oc=5",
+    "date": "2025/06/17",
+    "fetched_at": "2025/06/17 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "國安簡報破局朱立倫跟進黃國昌不出席| 政治 - 中央社 CNA",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15RFk5SDhtSFVmMmZmQlN1UHpOUERXbVUtQnJWWmd1RVNmMFFITW5WUkVtMHBHWUIwR0hpVHBrdFQtS2ZpYkNWZkVtR1pmUGlrNm1XU0l5NWpBTFB4NXlZ?oc=5",
+    "date": "2025/06/17",
+    "fetched_at": "2025/06/17 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "光榮特庫摩正版授權《新三國志曹操傳》預告 6 月 27 日於中國推出 以曹操傳為藍本革新回歸 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uWGhna3oxbmVtZTVRMUFvSXdhaTVlOTZYR3JQN28zejY3TEhtLVpQdGptd09xQnpUUFFjR1JtZ0p1WVhlV2Mxb1dERUI1eVJkY3FxdTZSSkU?oc=5",
+    "date": "2025/06/17",
+    "fetched_at": "2025/06/17 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "21萬人嗨翻！00939配0.068元史上新高 - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbTN2aEw4U3I0TU5GRWhLQ2MzR0NMQzM4aF9Dd3ZhSUllSTBUQ3VodjVobTJ0c0s4YTBUeDZjMl9WclZqNzdRNDZDT1NWRzA2N19RejN3MDVIcVRmaEdUNmlPbWVXdGxyUEJjRk5OLS1KYTUxaTluUER2aWVHNUphLWVUb1J4cmhneGs2QWdkVTFPTTFzOVZKbTlOQVVxU1ViWlVkaFRaNV9Zb3o3ek43RGM3R3FBYnlVRTFCaWpuTTdoUXJSNXA1Q0ZQVjFCd0JCWXhiUWh2eWxVZ3hBdUNEcGU0SThycGR3a2NBVU9B?oc=5",
+    "date": "2025/06/17",
+    "fetched_at": "2025/06/17 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "艾瑞克丹恩患漸凍人「右半邊癱瘓」崩潰痛哭！早冒症狀：以為簡訊發太多 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yZ3RrUXpDaUZHQ3hfWV9RTVhMV1dSNG5LdmVUVG9BUVdzX0V0c01yWEt3MlBVVkp3NVZjTExWdW5iVmk2UE1GaUczTjFEd9IBakFVX3lxTE5SZ1o5TTVRNHZ1RlBkdTVDRVEya3g2cC1JT2dYSjFNMmJud01XYTl5dXJfU21idjNPRWlzbFZDT1NDWWFQTFRJQldtTEwxN0FWYU9pNW1nLUxkYUlCYnZmVm5selp2ckFpX1E?oc=5",
+    "date": "2025/06/17",
+    "fetched_at": "2025/06/17 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "當蜜蜂碰上肉桂 強強聯手治百病？專家：不能取代治療 注意用量 - 健康2.0",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16T1dITW1wUGVEZy1TT0tjZW0xUGc0blZTa2R1bXgzTGptMlhlcmJfRUxZSUZVRG5ZUTRUUGtIcmo3aFVESk52XzR4N3Z0ZmNuVHFB0gFYQVVfeXFMUDl3elNsM3B3SC0xbzRhY3lvZHY1V0RheFhIal9kWERqMFIwN01CNzJWTzhULUVsZnlrendhQUx1alhZZEphVGJuTWh6RHhaNF90QV8wRjZYVw?oc=5",
+    "date": "2025/06/17",
+    "fetched_at": "2025/06/17 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "4食物改善頻尿醫：用吃的保養膀胱- 健康 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rcFZoT1RqTXpwcXlIWTZkc1hMU3B0THZGWlNMcnI0SUJ2QWt1UzY0WmNuc2ppeTJCcWRWNmpXTm9ibnpnTlpLUDdmSEJsQjVmWmhIZmJsNmNlUDNkRzRsSS16aVZpaG81RDhJb05R?oc=5",
+    "date": "2025/06/17",
+    "fetched_at": "2025/06/17 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "自曝只帶便當不帶書包 吳婉君加拿大遊學首日帶三張紙 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQUGJkbXdEUC1HS2lDWFQ2YkhqUGNsUEZCdzNGU1hzbS01TEx5ZkRLLTRLUUtvRlRmX0hDdWJFNU9qMUJ0UFZMcGlSa2kyeDRidUtXa05QUUsyczJkNlhRRFF6VVZJaWN6dGRSa0k2TWtJeXZnYUlKZ0M2M1J1czhFcGhIOVoyWlRZRFRVZ1gwUnJGdEFMdVZfcW96cnpRZUVvRklaRi1jYVctTVlycXRvcldzNkZNX2R2d2lRU1VaTjVORlFWLUNEUnQxcUs1RG5yQ2VEVlROTzZVelBNUER3dEpubno2V0R6c3QtUW5Qb3BoMzNjby1WYXJELXU0bmdxWjVSa2pKUlkwV1otVlVvUUJKNEtGN3hueUVlVmZvNnEySlRPZGtYSjQwZFFSX1dwd1V3bjhwR3pHTkdibVFTZUtBX1FQQzdLbU5zdmppOUM1ZEZ3X0pYaG51OHZkbnBIRGI1aWt2WVQxbnVKRDNvVXdQRkQ?oc=5",
+    "date": "2025/06/17",
+    "fetched_at": "2025/06/17 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "彰化男失足「跌進粉碎機」！ 秒遭捲入濺血他右腳變形傷重不治 - 風傳媒",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9COGVwcnBUdHUzRlBjbmJHNTZpejE0cVcyeGVzZHppOU96dzFtT0dDajlDV3hFTENkSXVvWXVyQS1BQU9iZ24zcEwwcGFOUQ?oc=5",
+    "date": "2025/06/17",
+    "fetched_at": "2025/06/17 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "新台幣觸29.46元急煞！　彭博曝央行十點前1動作阻升 - ETtoday財經雲",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xYUVhM0diMmxUUWx0UmJrTkhWRXB3MXp3N1c4RHlDWkdMWC1xQXluMUlsbV96TVlSRDJGZVhCcGg4NUlJTUxXNFZOQnpCeWticEHSAW5BVV95cUxQM1pjcUNiUnhoYlVvWlJsRXRUX29mdzVObk9MM2JobmtIQ1pnWkJzNGZiZFhXQVpYUGR2ckRuNXFmQTFzdS11MHR6ZENlR1BZUnpVbkNkb1FQbW1iLVlsdnJMSUxRbDVYSHRlXzJnZw?oc=5",
+    "date": "2025/06/17",
+    "fetched_at": "2025/06/17 18:51:24"
+  }
+]
