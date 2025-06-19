@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-06-19 18:28:30",
-  "news": [
-    {
-      "index": 1,
-      "title": "Health Care Roundup: Market Talk",
-      "url": "https://www.wsj.com/health/health-care-roundup-market-talk-d091aebc"
-    },
-    {
-      "index": 2,
-      "title": "RBI seeks market view on borrowing costs post debt selloff",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-16/india-rbi-seeks-market-view-on-borrowing-costs-post-debt-selloff"
-    },
-    {
-      "index": 3,
-      "title": "Trump says again he’ll set unilateral tariffs in two weeks",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-11/trump-says-he-will-set-unilateral-tariff-rates-within-two-weeks"
-    },
-    {
-      "index": 4,
-      "title": "Pay rises for top India bankers seen widening gap with Hong Kong",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-10/pay-rises-for-top-india-bankers-seen-widening-gap-with-hong-kong"
-    },
-    {
-      "index": 5,
-      "title": "RBI’s jumbo rate cut may turbocharge IPO pipeline amid cheaper capital",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-09/india-market-buzz-rbi-s-big-growth-push-to-charge-ipo-pipeline"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "《戰地風雲2042》更新 8.9.0 推出 《質量效應》同捆包將戰場轉移到銀河系《Battlefield 2042》 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxSFA1TmZrWWJWcVZQQmZ3V1laY1NTNFlsYXpXNldKWWdESVU4RllxNWIxUkZiOFozZEJxWTdDbzhtdThYNHRoMWZmQkRfRnlOeVdKdDVNTEw?oc=5",
+    "date": "2025/06/19",
+    "fetched_at": "2025/06/19 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "《雷道 Remastered：超力兵團奇譚》本日發售 公開 ATLUS 設計團隊與漫畫家古屋兔丸特別插畫 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xNkwwY3BRbDhFaVVkbGkzaXMzR0FCTDZuZTZpcDd5a3hfWHc1dXlVWGFfeUtzazhHMnZlYkNsV0xteHowNGNLVWxpZzNVZ1pQSGg1ME5EYk4?oc=5",
+    "date": "2025/06/19",
+    "fetched_at": "2025/06/19 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "《神力科莎出賽準備：進化》釋出0.3 版本新內容斯帕24 小時耐力賽現場首發《Assetto Corsa EVO》 - GNN 新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GdFBNQUxoUmhuSEdmVThJTUFTcHpSVjdlcXpqLXlJSE5qVWh3eUFVVnVSelY3Z0ZhcUljYmtFcFdrM200Sy1NVUZ0S2RQckdpMXZfSGliUEs?oc=5",
+    "date": "2025/06/19",
+    "fetched_at": "2025/06/19 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "胡瓜終於鬆口：財產全給她！　遭爆感情生變不藏了「牽手放閃丁柔安」 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZZUhBMkQ3UTluVHJDbHp3OE1PZklndWhQaGhVaC1vT2pDT2UwWDk0UnFDcHdfNG5FNVJCcmFRbkVPdnk3QWtJS1lZcnNHd9IBakFVX3lxTE1uTUVicFNhUmV1QWVBVWtmNjA2OWxqYlR1Q0dnYU1NMm8wMlhUU3BLcDFJa3Jybk9pUkg0SUJOMjh6QjZKOWFFeXBielpUT2pnVW1aOEM4Vk53dURnNG41c3c3WjRqT21EcHc?oc=5",
+    "date": "2025/06/19",
+    "fetched_at": "2025/06/19 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "央行理監事會／央行宣布貼放利率「連五凍」、今年經濟成長保3 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mZFVXMkZHZC1pNW1vejRScDV1ZjBKWkFIVXdXT1RNZ05BZHU3bDNNRHdfUTF5aVZPckZpQnphWDBxUTBHY0tncHdkT3BpdThn?oc=5",
+    "date": "2025/06/19",
+    "fetched_at": "2025/06/19 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "腸癌末期婦天天吃薑黃腫瘤竟縮小醫曝關鍵點- 健康 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jbG85LTlnM09Xa2hSeXk2bkFoZXE5cGdXUVUtQVN2andBY2FKQVpzanM4bFhqbUYtUC1LWGVxLXhRaEpFSjlKRWVIVVV0bjFyN1FSM1k0Uzc3THVpOVVIdlZYSEFETE9TMm1TcHhB?oc=5",
+    "date": "2025/06/19",
+    "fetched_at": "2025/06/19 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "14縣市發布大雨特報「持續到入夜」4地防雷擊、強陣風 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KOWlKU3NtSDVyR2Q0TUJHc1lreVNfd040Q00tNWU3Q0lSWldlM0kyT2NYYWZ1cnBvRjI5Y2JlS0hhTGlHbzZDOGZoSE1pZFpI0gFWQVVfeXFMTS1xaFRHTXVfWHc1SkhMOFREZDV0b3kyam1Dd2JKUndKTkNOOElKYlNYangwYXpTZzJnOEdTNFF5V0w3S0ZLSWZ1TFFLRVdYSm55QjAtWUE?oc=5",
+    "date": "2025/06/19",
+    "fetched_at": "2025/06/19 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "尷尬！英首相施凱爾 誤將「翻譯」當成南韓總統李在明 - 自由時報",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FREFOUDEyay03d2tMeHJvSVpwUTB1el9na1FLRUotSWlzc1dHLWZJSU9tNnBPNGUyRmk1NmZKQVhQYVlULU9oWVhDbXlnZFFUOFhPWTg5OHdEVzlNLU0yTzR1aUJRZ9IBa0FVX3lxTE91SGRUUEhKSmFuZktzQ0VxZkZxWUxIWXFFdHJFSTdySnFqNTEybGxmOWp3UHFoYXdhZ1Vnd1hHbVowdFRpSmRkNEN5UC1fSV9VOE92MmFNUklzT1ZvVlRZSlpvcmxzZGRQZUc0?oc=5",
+    "date": "2025/06/19",
+    "fetched_at": "2025/06/19 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "慟！男星「腦幹梗塞」突猝逝享年38歲　公司發訃聞悲痛證實噩耗了 - star.setn.com",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZTzZmS2hPUHMzZER2Qy1aSHkzWWJlWXpRQS1kWDBhYkdlb0JzeFFBSU9LbVBlMDVCZlVHZThnYjBhWTVOQU5UUFdR0gFfQVVfeXFMTkdxdmt0TThCYndVTEtCZGRYa2tLT29BTlZEeExFVm5IRGRJNmhWTjE0Uk8wT3R5S0VXUjB3cE55M2NVeEpOWTg3Q0ZqQmh4Z3lIOUszZ0tDYmktdlFGZTA?oc=5",
+    "date": "2025/06/19",
+    "fetched_at": "2025/06/19 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "未來可能與中國對話？ 蕭美琴曝關鍵：跟民選政府對話才能改善兩岸關係 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOdkhkeXl2WHZvVG5fR3YzdVdQMzM3QUpfbmp2WnA2YjZTX1lFQno4US0zdG1jejJCc01aRTF6RjVSSDRzOEZMQUVIcE52Si1hdUVxVVNGYlRBTHhnVkFIdFktMUx6Y1RnMnctS3VlM0RnUWtValdNTDdnS2x4UThvcTFCdUFRR01Rb1RsSGNKMFNzQ2d1YUV4b3M3M2pFMmtSbVRZYVNwYlZuaTNmTDF0S3UwMUJxLWRmTFFvRzFHQ08xS1oyam4tWF9zaFpVa0hSelVwZl96MEdCQ0lnV3UwMGZZVnZfNEI4cXhGVVFBWDNhbXVsa0NNdG5GZE9UY1RIRDNhSW5FSktoNmozR3NVNlFkalJ2NVpuTnlfWk05MjJqbzJhYkg1WmJvY25FU0pwTmxhNGZJdEZVYjRXcGZyYVBmUnVxMTI0TzFQUF9aWWFZVmRyRUFZdG02eTd3WFlfWmd6SWNaTkMwdFJQWWpIcFZ3VnFFdHpleHBxaF9HVUFDMW0wZnJiQzBhclUxanZuc1dIU21PMDhfVE4waFdqa1J1aUFoTVdQV3I1Z0pUSGphdlprQ25GdHMtSGd4QQ?oc=5",
+    "date": "2025/06/19",
+    "fetched_at": "2025/06/19 18:51:24"
+  }
+]
