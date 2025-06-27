@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-06-28 06:12:16",
-  "news": [
-    {
-      "index": 1,
-      "title": "Renewables get reality check as gas demand returns to growth",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-25/renewables-get-reality-check-as-gas-demand-returns-to-growth"
-    },
-    {
-      "index": 2,
-      "title": "Gold steadies as traders mull West Asia truce, Fed’s rate-cut path",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-26/gold-xauusd-steadies-as-traders-mull-mideast-truce-fed-s-rate-cut-path"
-    },
-    {
-      "index": 3,
-      "title": "India to see limited inflation fallout from oil, government adviser says",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-21/india-government-adviser-sees-limited-inflation-fallout-from-oil"
-    },
-    {
-      "index": 4,
-      "title": "The dollar is hanging on to its haven role by a thread, survey shows",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-20/dollar-is-barely-a-haven-s-p-500-will-trade-lower-in-a-month-bloomberg-survey"
-    },
-    {
-      "index": 5,
-      "title": "Immigration curb slashes Canada population growth rate to zero",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-18/immigration-curb-slashes-canada-population-growth-rate-to-zero"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "美加貿易戰再起？ 川普：立即終結所有美加貿易討論 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50aGFHeFBNZ1N2MkI1aFBSQzJUakxOc1htdkd5YWtvUTJlQWhlS2JwRzI1OUdib0xyTlEtdWp5RVZ2MVoxQWdYRW5wcVJ6V3JqQ1ZV0gFYQVVfeXFMUEJhZEIzNDVyNUUyeldfZkJzSFhDNzRHeXh3OXF3WWlWemQ1djJJUTNQSmxLRkNvWXFfd3UxM040T3l1S01RNkhwd2ZhS0NjZUVZUF83WXoxcQ?oc=5",
+    "date": "2025/06/28",
+    "fetched_at": "2025/06/28 06:21:25"
+  },
+  {
+    "serial": 2,
+    "title": "體型如拉布拉多犬！新種超小恐龍「謎樣奔跑者」曝光 - news.ltn.com.tw",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hcC1iUWthaHlSYzVPRmxCOE10cWtUeGFxcll5UnpVZnRxcGdTVEh6OXlsTFRwX3dhWWlldllSZUNjS003T3dHRkdLXzNyQm9jc01yLXNwYzB2NkQtS3I5RnItRXkwd9IBa0FVX3lxTE0tcmlFSzNMdkE5aWRFazltZDNXcmhQSHY3VTlMaUxmWkVGWmE2OE81ZlFMZ3NSQWhvTVNFemplZGtDSURKelVSRk00b19EZS11RHhySUtLRHJOaTVLR1UxQmUtZTJFeHFHbjlV?oc=5",
+    "date": "2025/06/28",
+    "fetched_at": "2025/06/28 06:21:25"
+  },
+  {
+    "serial": 3,
+    "title": "天文學家首次證實恆星系統存在結晶水冰| NASA | 恆星 | 結晶 - 台灣大紀元",
+    "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPcTRvS3dTU2NTazNQcWR1SkttX0JRbGhYY1JwSTF0WFFWNDlLQ0dudFpTUnN5X0NqMWdOT0lEemt3Q2RTaXU3LWhhTjVHcXhmc21rMmZocEpVWHZKcU9RWElXdnJGQ0I0dVNXZm5ETVZhWTg3MGJ5TzZ5YzF0U3RoX3NRbjU2Y3hpbFdXTTFRRWFTOWdZQzhWVWh2bnY0UDZJMzE0cDZxelAxSzN2SVI1MXJfc2g3ZGV4dDYyVEItR0RNRlFQVkZmY2t0QkJKTWdRTjNrNlBfVEltNHhGWTVkMldNckR4WmFKUVBYeFJtVGFSZVRkOWd1UUpSU1hnNVA2ejdaQ3lYRHJWS0RvY1BNWHFGM3Y0TThXWlFZODdYWHYxNHdZVUVJY2FhV1Vucms?oc=5",
+    "date": "2025/06/27",
+    "fetched_at": "2025/06/28 06:21:25"
+  },
+  {
+    "serial": 4,
+    "title": "關稅豁免期可能延展 白宮：7月9日不重要 - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQbTVlNlppakNrN2tHVzlZZW5OeVNWSm1RNDdQUldFTmNNVTVwWUxvWWU0SnJ3bXZKb3ZRc0tLYXR1TllHMEV5YjZ4UHFKZmJhUTQxMHFSQ05McXV2eVZkNE51bmVjMkU2YnNVT3NXWDhhVlFBQWFUeTRWc0tnSEpCZzh4UW5sZ0hoWE9iYjFyUWk5bS0yeTUxM3dNMUlFVk1lTEZDT3drVUxJekhBb2lna0ZSalBHWFRwTF9xQ0l6OXl0d0haNWVON19MMEI0S1p6N21CcDBscng1ZTVZcnBGTXVVMnN1M3FramJXX0ZjVVh6cVRYVmd6UmRUY2otcnhqLXJZZUc3Ml9lbkVRUFRadkhxT1FGYlB5S3ZZNDhZZXk?oc=5",
+    "date": "2025/06/27",
+    "fetched_at": "2025/06/28 06:21:25"
+  },
+  {
+    "serial": 5,
+    "title": "中職／我本來要去開球啦…陳傑憲助獅止連敗 破低潮也懂自嘲 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IR3cwWEV6bVhLeU80eV9IRGZhM19zWm55X2JnN0JZMnRybzhkZmxrdHhYWHo5MW1RY2UyOGc4UnRyM3BmMDdEZzBMYVF4SllH0gFWQVVfeXFMTmhVeFlLUVVjT0FyQXEzQmlQYjZCdTJGdmZXVGVBcHZXYzd5TlZ6MDFiUXcxYmd5OHVzeUpLN05qdzdLWGpOeC1tMXE1dy1ieWNGQW4wRnc?oc=5",
+    "date": "2025/06/27",
+    "fetched_at": "2025/06/28 06:21:25"
+  },
+  {
+    "serial": 6,
+    "title": "TPBL冠軍賽》克雷格26分+胡瓏貿16分 海神擊敗國王逼出第7戰 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53RFpEcm8ycWRjNnU1dEJianpCUlZHV3p6dG1EeXJHbEpBQmNwSDVkbVZfVDhyeFBTSWtOV21kZkJjUm5WeEJnSW5xTjJVU290SUlXWXVzTklKOEI3RjFxMdIBZkFVX3lxTE9TQkVUY1B6dTI3MEhwM2dvUHg2ODFESk9vSk4td0V3U1V4QzFPOGhIZy11SzlNZ3B3dTgya0VOYkI4VXJiZXRBTzZHS2xpMnhlRU9ReGZlMzhpZ3YyN0JndWZwY1RWdw?oc=5",
+    "date": "2025/06/27",
+    "fetched_at": "2025/06/28 06:21:25"
+  },
+  {
+    "serial": 7,
+    "title": "〈美股早盤〉膨數據溫和推升Fed降息預期 主要指數開高 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wTlJCOU1vNG9mLVdhTVBGSjlMTG9tVkhRS3JEbVZwcE1UR003dUhiZzdELTBrdnVFcURHemphTTlodXJleDRVUTF2QXBkdUU?oc=5",
+    "date": "2025/06/27",
+    "fetched_at": "2025/06/28 06:21:25"
+  },
+  {
+    "serial": 8,
+    "title": "中職》黃保羅8局無失分 富邦完封味全喜收4連勝 - 奇摩運動",
+    "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNRHhGcjZ3M0ZlaGVwZ0dKTWdQeFY2VF9GX2pJbXFRRl9Jb1NwXzhEbTJSSWF4ZXZ6WWwzQkktSklhTkNDQ0FFN09DSW9lS3FZYXVWS3pUZ2R3bGpnbGwxdGFSR3BlMjRYdjBPeVJCWjEtM2NNaU9ROW5YRmE2QWJudTdEdkpMaGtCT0JvcXhWOW5fSTVEYU1VQWI5Y2J3N1dCVFBsaVB1Vk04SWJYRHJtOGtvN2d2S0xfams4dzhZenpfandTaVV2TFpFbXp6czNqRUozaklJWHF2TWZKNVBZenJ1REdVTl93em1sdFhLQjdYUGlYOEZLaEZOTzhWS21WNXBockwyMHF4aUhxV3pON21qM1Bvcy1vTkFxNHFNdDE2ODZzSGFpMmtxNGRpaVNaaThsSmZ2QXJrT0lWQzRGRnpRRWhxbXdEb3dfcU9HMDc?oc=5",
+    "date": "2025/06/27",
+    "fetched_at": "2025/06/28 06:21:25"
+  },
+  {
+    "serial": 9,
+    "title": "五月天開唱「台下觀眾點歌林俊傑」　阿信不忍...當眾揭穿對方身份 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Rb0JQYi1CNlRsTzNYWHRVdmJmSGtJNkdmRFlqX3RYZTR4TmN0cWU1bmZVWGxPSTVVNFNhOGlmMjQyb2pJWFRYWW8yRWxfUdIBakFVX3lxTE5ZdTd3MkVmQ1EzejRKWHFES2FYVzIyeXVoQm1QVFgtN0Q4c2pOb2NOdXhQX01aWEw5djQ0ZGVoYTAwTkZQVi1TZFRuekxBNWZOanZrQm92bWQwYUNRTVV6UHliN0psUENRMFE?oc=5",
+    "date": "2025/06/27",
+    "fetched_at": "2025/06/28 06:21:25"
+  },
+  {
+    "serial": 10,
+    "title": "中職》宋晟睿首局首打席開轟發威 中信兄弟淘汰樂天桃猿最快明封王 - 奇摩運動",
+    "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOeDNSMFJ0VXlkb3pLUTZTUXRUa0UyU1BwWWtrN1hydkNiOUJfWjlXREdqbnZQUzJicUxqcFVYczlBa0lyUlEtRHZyYVMweEh0OXNKZmdhdlJkZklhZkFQWlhBaW9jSFBiUl9taW9NanhKeWd3ckNueC1MQUNtdmhZN2YzQWxsb0YtQThIeEFyM3NFbktSZ3hsbU04Vk1hc2locDBEeWFESnZ3MVhJRVRMYkh4b05MTE5fNTRJaUdoN1B3V2h4ejExU0RfQWU4THBUS1B6VGJYYXVzcTk1ZWcyVldjMWdBNTFZV01wLWlqaTU1NzBwQW5EaV9WUDljSWtqNTktRUhiOTFFZkpUM19TQm01S0Z4UEFKRmVud2F1WkpGY0NJOWhXT3hBYkktenZldk41LWhfNmhmbXF0d3BhbEM5RVNTcVhPeC1uaXM4QVdOTTg0WDNMZFRHQjRqUXhnVElLcHVLZS0xdmFVWHNxOHQzazF2dURuUWRIV2F1QlEtWHhIT3lDQk41RF9yVG1GeERzVjh3SG1iT1NXQW0tX0JlRHlocWhQZkpFR0FGenp1cWhVVnJkdndqVQ?oc=5",
+    "date": "2025/06/27",
+    "fetched_at": "2025/06/28 06:21:25"
+  }
+]
