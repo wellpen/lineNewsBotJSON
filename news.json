@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-06-29 18:28:33",
-  "news": [
-    {
-      "index": 1,
-      "title": "RBI drains $10 billion to lift short-term rates",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-27/india-rbi-drains-10-billion-from-banks-slightly-below-target"
-    },
-    {
-      "index": 2,
-      "title": "Indian REITs may stretch gains on RBI’s rate cuts, strong leasing",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-27/indian-reits-may-stretch-gains-on-rate-cuts-strong-leasing"
-    },
-    {
-      "index": 3,
-      "title": "Renewables get reality check as gas demand returns to growth",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-25/renewables-get-reality-check-as-gas-demand-returns-to-growth"
-    },
-    {
-      "index": 4,
-      "title": "Gold steadies as traders mull West Asia truce, Fed’s rate-cut path",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-26/gold-xauusd-steadies-as-traders-mull-mideast-truce-fed-s-rate-cut-path"
-    },
-    {
-      "index": 5,
-      "title": "India to see limited inflation fallout from oil, government adviser says",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-21/india-government-adviser-sees-limited-inflation-fallout-from-oil"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "16年前的今天iPhone開賣！初代機成收藏聖杯身價暴漲300倍 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mUEpQaERDRFVkWVFvdlBNckpVN3JvUzk2NF9wUF9YdWlPVVJXU2xjc09HYUliUDZBVWpsZlItQ3AtS3BCcnZfUWQzTGF0LWdIaTFiM0NjMHgtd0tUOHfSAWhBVV95cUxPdmZxRndDajR5UktlS00tQVVZR245TEtxWC1DVjduVDZZZkxmcmFPYy1ZNjZKeS1ZemhlcWJmSy00bnhpU3FZSUxJYUphejItM2xlVUllcXE1YUs3Z2hTMTUyMGtrV3NhZA?oc=5",
+    "date": "2025/06/29",
+    "fetched_at": "2025/06/29 18:51:25"
+  },
+  {
+    "serial": 2,
+    "title": "宇宙最強爆炸！NASA揭「恆星撕裂事件」 亮度超越百顆超新星 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPOHlDRzU2LVg5SHhJN1ZwRmNwMTdOWW1FaXB6bnNjN3MyS1RIT1k0Mmd4cU5LOXg3QkZCMmRJd1FWTDEyU0tEV2R6TkJjM2JvazN6alBHWmg1a0drMzhwX3lrcEZ5LU1SSkZpaktMZjlSamt5MjF0djVwa2NqUlZWeDBLdHdqZ09mWDBCU2g1TkdIeF9WTkhmZGVfNk9uSUFmdlc5Q0dxRHlaczVORm1aSzZRdXc1QXUzUUpUYXg4TUJlcTM0X1VGckxmLUlxeXhINTUyNEpHUXNWZDhYSHpkX2F4ZlJGT0dkYWRjdVNpQkhuTmhqZVExeXdIeERQTVNjYkg1aGVRXzRDSkNqWE9lOExSTVU3cUxid1RXMVFOTl9vYWUtRFRRdFpwUWJnajNtM1VieGtMVHZfbDA5TjVyc2ZsZ2VQTEN5THhYcU9VZ3psOW5YaEZhdkI5b1FYY2l1T1JLMg?oc=5",
+    "date": "2025/06/29",
+    "fetched_at": "2025/06/29 18:51:25"
+  },
+  {
+    "serial": 3,
+    "title": "中職》誰是台鋼選秀狀元？洪一中：明天就知道了 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xdWx0b2p3NjhhLWdrMmNKWk5HRVhnQlNSRWtQaEpXeFhpSk5JbWk5eW5fLXdNbms1R2NBaTc2bFE5eGZpM0paNF8zYm5GcHVMUEhpTGltMDU5eFUteW9Vb9IBZkFVX3lxTE51NS1NMjFrZ3IxM3VOVXhkQ2huNHV0MldBVEZFYnJOU01reUpwSzBkNUdFQ3gyMElPTFg0SWlxbGF1aTB1ZlJHMktKMjQ2Q045VTFPSm1OdHRybmp1TmtZN1NzR0JKdw?oc=5",
+    "date": "2025/06/29",
+    "fetched_at": "2025/06/29 18:51:25"
+  },
+  {
+    "serial": 4,
+    "title": "開戰以來最大規模！俄477架無人機、60枚飛彈襲烏 波蘭戰機升空戒備 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lNjdnN0FYTS0xSlpwenFWbTl0ODlnV2tzQ2l5MFpPdVJxSVc4WHpRcDZTaVF0VHlsM1I2TXNhQWQ3NDk2LTdtS1RnS0k1YzhZa1V30gFYQVVfeXFMT1gxdzA1VWdEX3FjT20tREhxNjFPX3cxZzRHZVpydlV0a0hfdG1SZC04SGhjSm8zaS02M3NxeEk1VDFudk5MenlhNjFxTERaSjVyX2ZMS3pmeA?oc=5",
+    "date": "2025/06/29",
+    "fetched_at": "2025/06/29 18:51:25"
+  },
+  {
+    "serial": 5,
+    "title": "習近平即將下台？ 美前外交官細數可疑跡象 傳聞由汪洋接任 - 自由時報",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GLWQzdl9FM0FiN1NEMjlEemNKUmRrQzBUVXVUQ1RIQmlpYnN2d0s5ZUk0YmU2Ykw4T3RmdmpTTk9XeDhsSFpSR1FGcngtUmlOS0dWWVhscFNrdGRVQ29PblRCN3NNZ9IBa0FVX3lxTFBLNUNReDkwWFF3V1VLT2lNMVBTM2FfYUFiOVhLVW1xVWdWNVV0LXBSZWRNTnVlT0dfUS16blJ1ZTd0aUd3dmxFNUhRM01iU0YyWlB4VmRHbG41NmRaa3RJRkM5RTJkdENLVnM4?oc=5",
+    "date": "2025/06/29",
+    "fetched_at": "2025/06/29 18:51:25"
+  },
+  {
+    "serial": 6,
+    "title": "微軟工程師私下開發 SteamVR 驅動，試圖讓 Windows MR 頭戴裝置「復活」 - T客邦",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR3ZsUmlqU0dlVTVnTkVZR2JNNGpxUHF2WHJyVFQ4OG9reFZJcUJPXy1FVnZrY1VnMzVRdEh5bnVjVkVUNkNNanM0akpZVDY3dExXdS1pZm8yWUlzRG5acS1QNTV4YTY1cXZON1ZYYVVJTThZTURwdmdtTkNtNnVWeFNmczg3bG8yZjc5cXdJTnN5UdIBlwFBVV95cUxQSE04bFdrdElLT1AyOGNaNklTenhCemVRWTNJeXVzYklBWUg3ZzFwT2FibVlmZFgwMmw5RDdPOC1vbUYtM2dxUU40akxIcGs0NXg0QWg5Yks4U3hkSk9wT1ZxLUxhS3B1UXczNTcwWmF4MTFpVFVKc1hMaGhjQ3F4cno1d2t2bURxMlhLemlPMFZxNU44SE9N?oc=5",
+    "date": "2025/06/29",
+    "fetched_at": "2025/06/29 18:51:25"
+  },
+  {
+    "serial": 7,
+    "title": "許老三暴風抽高力挺仙氣姊姊Lily 曝媽媽小S真實現況 - 噓！星聞",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QRDk4dHoyem1iSzkxY2ZkMkU4bW5fbFNQRTlZTWVWMmhsS3djdU9uMVQ0MVk2UTBFdmo0dWNGcnhIbFlCLVUtaEx6SXNOQmp3bUhlRjhYLVNWQdIBX0FVX3lxTE1HbGY3alFZYWpfOWg5Y2FHQ2dkMmNlMHpqODRMLUhHRXZpMmNxUFBoSzNPUl84Y1VZNGJYOEpRVk5ldndCRjZMNDV6WE8xcmZWd1c0M1h4MUZJbUxlbXBF?oc=5",
+    "date": "2025/06/29",
+    "fetched_at": "2025/06/29 18:51:25"
+  },
+  {
+    "serial": 8,
+    "title": "Steam夏季特賣2025最值得入手特價遊戲推薦整理 - mrmad.com.tw",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85c1Ztc1BYUGlra3dpR191YWFqb3dENXY2OVMycXVRT21XMFRXazN0ZVBiMmU2VUpnZ0RnOXFCZ2cxY0pycmcxMm9sY2V0cDVleFk2amJR?oc=5",
+    "date": "2025/06/29",
+    "fetched_at": "2025/06/29 18:51:25"
+  },
+  {
+    "serial": 9,
+    "title": "中職／拚桃園拋下橘色彩帶 獅隊洋投待命但盼不需用到 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43TXloV0FZZkU3RUxsVEJ5cUU1c19sR3FZMmVjQlIzQ29IMUdQUElLTlVVN3dMXzI1NEY1bUFobzBHa3VLd1p4Wk1JSlBUbE560gFWQVVfeXFMUFZNQ3prNDBqUGx3OEpRVVE3RlROclZ4bzExcGRXMW1JT3YwZVBlb0U2eHowbGZfb2JhYXBoMzdJOGtXS2VRZFhSb2lTWk1HUk5tS1F4dXc?oc=5",
+    "date": "2025/06/29",
+    "fetched_at": "2025/06/29 18:51:25"
+  },
+  {
+    "serial": 10,
+    "title": "貝佐斯世紀婚禮！新娘桑切斯清空IG閃發婚紗照 「第一女兒」伊凡卡場外吸睛 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FTXBNRGlFbXEzdkVhNjNmSWJiTlVXZDQ5am1sVkN4UFlGQVVSWFpEajdQb29mZzhKbFB4TldYTEpCTldkTXY1U1ZoTm1xMHU0?oc=5",
+    "date": "2025/06/29",
+    "fetched_at": "2025/06/29 18:51:25"
+  }
+]
