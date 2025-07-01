@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-07-02 06:11:39",
-  "news": [
-    {
-      "index": 1,
-      "title": "Emerging-markets mavericks target regional funds for payoffs",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-29/emerging-markets-mavericks-target-regional-funds-for-big-payoffs"
-    },
-    {
-      "index": 2,
-      "title": "Trump deals poised to fall short of sweeping trade reforms",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-29/trump-deals-poised-to-fall-short-of-sweeping-global-trade-reform"
-    },
-    {
-      "index": 3,
-      "title": "RBI drains $10 billion to lift short-term rates",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-27/india-rbi-drains-10-billion-from-banks-slightly-below-target"
-    },
-    {
-      "index": 4,
-      "title": "Indian REITs may stretch gains on RBI’s rate cuts, strong leasing",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-27/indian-reits-may-stretch-gains-on-rate-cuts-strong-leasing"
-    },
-    {
-      "index": 5,
-      "title": "Renewables get reality check as gas demand returns to growth",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-25/renewables-get-reality-check-as-gas-demand-returns-to-growth"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "中英對照讀新聞》UN warns vaccine-preventable diseases on the rise globally 聯合國警告，疫苗可預防疾病正在全球升溫 - 自由時報",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jR0o4Q0wxX3c1cXZJZG85VXRtSV9wemFfOEhtMVNiQnlmM2xuck9ob2hqcV9LbWlaVHRkbmhaNHhHeUhRN3ZQWnRYaUdUdDlCTkV6eWZSUXVVZXc00gFiQVVfeXFMT1NkeElUVnhCMnNzTU9WTmhYNExhbDhoWHhrWnFOOWJmLTFqU2ZCVmJqRjZxSlBOQ1FpMm9XQTJTbWNVQnZUZVhxaFNxelFXRFZsWmRSZHMyenlpdC1WbUZVaFE?oc=5",
+    "date": "2025/07/02",
+    "fetched_at": "2025/07/02 06:21:24"
+  },
+  {
+    "serial": 2,
+    "title": "賴清德「第四講」重批在野凍刪國防預算史上最高！駁「普發1萬」不如「用在2用途」 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPM3UyVmVzVFowYXJxNDdhdHJLRVNpbjQ2cWllaUl5T0dWbE1RR0g2dUYwUFVzdDA5bFFJYlQ3a3I5WVYzVy1oYTFVdFJZdHJIUU9vSFZGbjFtbGhCUXZWbTNXX0UwSzhMc0c2U2lDbXBPb29SRmM4Yk1yejBwN2VMUU9OSi1OQTdHejdNY3c3NWNrMHJtb1c5clNMSGRjVG5zdHRfeGY0U3N5amR3ckxfekZIbVlTRXZaQk1iX0lBOGlLY2hlN0thT2RxLWtsd0ZZTWFiM0dFeDRraHlHVmpuSE5CaFZRdEN2REhFcDFWLU4yaElqQU5vNF9NQW4wd2Q2Vkd0MlRiY2FkWUNNOHJDSkJ2ZkFWT1kyeGJQNlVYcjJPR2ZJazNOTVZvZzNRYWhnc0VuM1JkY2tlVUFzYnN6SUt4NHhFdmcwWEN1X3M0SVBQcWNxellBVU9Ba0hGUDRSekF1OGlDWnliRGZOTDFTLVdVSG4zelhpT2c?oc=5",
+    "date": "2025/07/01",
+    "fetched_at": "2025/07/02 06:21:24"
+  },
+  {
+    "serial": 3,
+    "title": "NBA》震撼！公鹿4年31億網羅溜馬2屆火鍋王 9屆明星里拉德無情遭裁 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Z1dfc2JCclgyZXRQQWpNOWk4UHhib1VOdTViLVJYajdMUkxNQWM4UTNjemp4WXFaMWlYNml2SW5UZDVqcW1VY2VTMmllQ2I3bFJLaWhsS3Riblp6cHZ1d9IBZkFVX3lxTE1lOW14QTUtOG1aaHJpajh0QnZ4bVliWF9ubnRLX3F3TkRFX3pFU1hnZGV4amliZ1Q1bkxpVzBLSWMza1BWMWQ5YVNCUzBnRVZmWkUxZk43Y2FUTlpHYURsdy14TjdGUQ?oc=5",
+    "date": "2025/07/01",
+    "fetched_at": "2025/07/02 06:21:24"
+  },
+  {
+    "serial": 4,
+    "title": "影／涉京華城案彭振聲北院出庭 突聞妻噩耗崩潰痛哭 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrTU5IUkg0a0Fjb0gwZWNzTXFMNXVwSEJJTU5Pak5ZUXBRMG85TEdVM1AzRDdNd3RqSTJySzZuME9fZjlvWWQxUkVxSUZYZlNIY0ZV0gFYQVVfeXFMUERRSnI2TVY3eHQ1WUMzaUkzZTZsMDdGOW44OXUzaTRWcVFqYTQ4WDU3dVBuTm42aUU1Qk1VU3BMbVlpZ3djSFRNazBLODhFVWFFVWplYi1nOA?oc=5",
+    "date": "2025/07/01",
+    "fetched_at": "2025/07/02 06:21:24"
+  },
+  {
+    "serial": 5,
+    "title": "涼蓆3個月沒用 女睡醒「全身紅斑」癢爆！醫示警：每張藏千萬隻蟎蟲 - PChome Online 新聞",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2U3TG5CVUIyb2RZa1JOeXhsTHI3ZnBYREN3ZG8zT0l5cEh5LUhiRUZSZ3pCUjBGNHVSTFdvemJiWW9Pazg0aVNXWkRYYXhWRktraENYa3dRNXNyVFJCaTZqb3lhdUFRNWdySlZMbXpUai15dENhYUhieUo0UDFYVTgzVC1hbnVQZW9KY1Bn?oc=5",
+    "date": "2025/07/01",
+    "fetched_at": "2025/07/02 06:21:24"
+  },
+  {
+    "serial": 6,
+    "title": "旅客注意！日本修改飛航規定 8日起「1物品」禁放頭頂置物箱 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYeU1RMk50ekQ2Z2QzLURCd0p5UEN5RkZnWGxmTTFESHg5WUhza2c5cTJIUkhEaHVBckcybFM1czRtWXZ4dHViSFltVUNqNFJM?oc=5",
+    "date": "2025/07/01",
+    "fetched_at": "2025/07/02 06:21:24"
+  },
+  {
+    "serial": 7,
+    "title": "Fed主席鮑爾示警關稅通膨將現蹤 預期夏季數據升溫 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwMmc0cEhsbkNJaU5iejVSMlc1MUdNUUNGVW1wNVZBMF9OT0pubUNEbVFmdEFQUTVKYnphZldfWGN4ak9tZDhKUHZuZXRVZTg?oc=5",
+    "date": "2025/07/01",
+    "fetched_at": "2025/07/02 06:21:24"
+  },
+  {
+    "serial": 8,
+    "title": "孫安佐突發「5點重大公告」宣布停工！經紀人證實：身心出狀況 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiVDd4dy1zUkdtQ2FxUEdfdFVfd1A0VWI5V1NxMW5RakVtbDBJSTV2cm1QYk8yT0gtdkhQNEJ6SVpUaHJSRnphOWYyTjRtZ9IBakFVX3lxTE5MdmxZanZ3ckppYVNnV2dXa3FTU2pZbTZIS05jYk1GUEpyVjNtcEtMTlZRYVdXMHBzNG94eUhUNnF2TmFtRlZWUHVvbGJHTTZaT0dWbUo3NjNndWxuZjdDZXFEc3A2RTF5cFE?oc=5",
+    "date": "2025/07/01",
+    "fetched_at": "2025/07/02 06:21:24"
+  },
+  {
+    "serial": 9,
+    "title": "外資上修目標價！CPO領頭台積電勁揚25元 矽光子股「這檔」漲近5%最強 - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPLUxFNWVZSDR0dFFCbmNxdVhCMldjTFBuV2VlM1VOalRKYkZIRFItZHU2Q1o4V2RpdEFkMmdhVXBHRjdLUmx1SHE4NmtsNmpWS2d4YUtoUTNSV1VOeUl3aFZnaDdjckp3Mk9xeTdReXAteUlQb3RjR25jNkRCa1lTZWdONmx4Q0ZDb3Z6SWRLY3lSZjNOcHdiNmZ6Qlo2a2lQNHJtSndGeE5iazNKZ3dMWkNhZy1zdGVHenZMbXZEbEtNVnA2RG1HMTF6WnI1Smt3cVB2VmdlQ29GcXF1enJLZ3dsajhLU0lnaXYyNFlRV09vVnUxMm95dVE2VmRwYTJsVXRQRzhISTczXzE3SGtNNVlMcU9kbG1sbEx5UUpsbkdlaUNWaVMzdjNhT2FsSWZaTWY3NTNtMGdybmtuXy1YMDNmd3ozMUFydUxJS3VlbmpVaktDQ3EyalVzOWVMZlFyTHlpakhqdFF3cmZrbEFnUWg3TGh3MkNfZDd1WQ?oc=5",
+    "date": "2025/07/01",
+    "fetched_at": "2025/07/02 06:21:24"
+  },
+  {
+    "serial": 10,
+    "title": "〈美股早盤〉主要指數漲跌互現 投資人聚焦川普稅改案與經濟數據 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YbjVEa1lvMWR0VWx6WDNvWGZhYXkxb3R6RGp6b19hSkFGRUFXeXpzLS1DWnJoUkhPVHREYmpPYUdFTi0xbzUySXpDdjA2clk?oc=5",
+    "date": "2025/07/01",
+    "fetched_at": "2025/07/02 06:21:24"
+  }
+]
