@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-07-06 06:10:29",
-  "news": [
-    {
-      "index": 1,
-      "title": "Alibaba raises $1.5 billion from sale of exchangeable bonds",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-03/alibaba-offers-1-5-billion-of-bonds-exchangeable-into-ali-health"
-    },
-    {
-      "index": 2,
-      "title": "RBI panel likely to recommend govt retains 4% inflation target",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-02/rbi-panel-likely-to-recommend-india-retains-4-inflation-target"
-    },
-    {
-      "index": 3,
-      "title": "Emerging-markets mavericks target regional funds for payoffs",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-29/emerging-markets-mavericks-target-regional-funds-for-big-payoffs"
-    },
-    {
-      "index": 4,
-      "title": "Trump deals poised to fall short of sweeping trade reforms",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-29/trump-deals-poised-to-fall-short-of-sweeping-global-trade-reform"
-    },
-    {
-      "index": 5,
-      "title": "RBI drains $10 billion to lift short-term rates",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-27/india-rbi-drains-10-billion-from-banks-slightly-below-target"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "北影獻唱遭諷「大型翻車現場」 于子育道歉了：我沒做到 - 壹蘋新聞網",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT2IzZEllM1hYQUFZR0ZMRzh3VDFpYUpGWk1FbjVxX1R6TVV5c1pxdTNDSGVZa25fLUF6SzJ1T2tkLU5xTkhweGx5emFCWDFwbjZxd3RNejM0RjZobW5xOVFOZ1IzVnRfdmhxOU1CUFZhem12QmRGUXJ1U3ItZ0pHazlXVjBiTnc?oc=5",
+    "date": "2025/07/06",
+    "fetched_at": "2025/07/06 06:21:24"
+  },
+  {
+    "serial": 2,
+    "title": "地球安全了 小行星7年後撞月球？ - 台灣大紀元",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWlVLYy1NZ0hITFVMaHhxQ3lfSVdTRmZJYkp3THVvTHFjT2llOEtGcU1pNzg5dm52UHRCOGk1X1BIR3NVeE10VWx2Tlpka25zNkdCdHlaM2pOVnpWNVFtRlc2ZTFaak90NFhWbU44RHNZZFVuT3kzck5jZlN6STYzZXA4b1hxZURQMmU2NnpXbG5sU0pBMW0yYnk4YWtzVUk1S3lEYjVHaHU2THpZQ01FZkJ0am51QjBndEFEMlNqRURaU2stSTJtWmFFTExFMjBoT1QzNUc2VHJRUUlLMG5hdWtFMTVSRnVfZTJMR245eHhxWG0wYlE?oc=5",
+    "date": "2025/07/06",
+    "fetched_at": "2025/07/06 06:21:24"
+  },
+  {
+    "serial": 3,
+    "title": "颱風丹娜絲發陸警 澎湖、嘉義以南留意強風降雨[影] - 中央社 CNA",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80Q0FLc0pSVTZ1bVVFR3pnSzF2YTZkcF9HQlRGeGYxUW15Xzctd1U0eTBWTC1nTE9jMVZJc1RhT0lodk9oRjVwcTB4ek9fcWc4SWVHaUVGTnJUT1IwWFFr?oc=5",
+    "date": "2025/07/05",
+    "fetched_at": "2025/07/06 06:21:24"
+  },
+  {
+    "serial": 4,
+    "title": "快訊／「丹娜絲」颱風攪局　明公務員高考延期舉行 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BUWo4bllNbUoyV2RsOGhzQWFHZkxKeUVWa1BpR0dnMFpOS0JfSTRXZVgwamhabFFUOHlCdHplYlNZckFmWUdCSi11dUFjUTVPRl9wQ0YxX2p3TWhremfSAWhBVV95cUxOLXI1THZsTFFUTnRYYklCRXlSS3lZYmdJOEtMY213bldBU2J4ZzdSVFNPaFcxSXNoMlJjUi05OTVOXzRGdDRyamItV1Vzczhsc0tYMFE2ZUhnN3BfUk1CdktteUdSRTJZbA?oc=5",
+    "date": "2025/07/05",
+    "fetched_at": "2025/07/06 06:21:24"
+  },
+  {
+    "serial": 5,
+    "title": "李李仁、鍾欣凌頒獎「喊出不同人」全場傻眼　楊貴媚、姚以緹尷尬表情全被拍 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9STHVJQ1JaQnBQN0Y3RTRyNzlMY0dtUkpyQ2duNkRsQTZDMmZXMWRfcjV0eHZ4RV9hQVZDbVQxUHVEZlREdnJ3NlFSVmVmd9IBakFVX3lxTFBlcjdKQmI3QjNsSkJpRDlQRlJnMHhETkpRay1xbXJhd01qSFpxcG5WRXNrWGVNbnc4TjNEaUgxM2FWMlI5YlFZd3FfdlFNTi1kQmxxSHl3OTkyaWlWRHk4Nkk1WHdrS0xkWmc?oc=5",
+    "date": "2025/07/05",
+    "fetched_at": "2025/07/06 06:21:24"
+  },
+  {
+    "serial": 6,
+    "title": "怒批瘋狂法案！馬斯克嗆聲籌組「美國黨」與川普決裂 專家：即使首富也難搞定 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNSXpUMFltaEZlcWJ0MXg2dENlVUxuVnNRZFl0ejNGM05Jcm1IdmFfNzFydmZpU1I1dXFwNFZuaTBpNFBFT3dFeE5xRmFCNEI4czZOTFdnZHhudkZVcGw3Q1FnM3NfX0hUcm1sa3VhR3djVkNqZVUwUGk3cTFRQTFKaHAwTTFpa2lDSGU1NXJpN3VRcS0xVVdwbmp0UEVYSXFneFN3b3lGaEdGRElScFE3ZzM1cDVTVm9RVzVtZlQ0dExHdjdoTGJQaHcxY2o4aXo5X3ByZWYtejE2ZTNSZlNwUG1qb3dDSERPQlNmUEhSUDZCTWQ2Y2NmSm1MdGNtYU1MT19xNVBIUnJkcG04ZmdWOWpyRHRkaWZYZk9MOUNwRXNEVkY3c1lXbEttN084Q0tvZEhrVmtPQmc5Z0t6WHFKd2YzVGR0SXFwNmp5enNBcE1fOHJPRjBLMVE2aFdQOUVraVhIeFVBc2ZyeVpy?oc=5",
+    "date": "2025/07/05",
+    "fetched_at": "2025/07/06 06:21:24"
+  },
+  {
+    "serial": 7,
+    "title": "台中暴雨積水又被罵！盧秀燕取消反惡罷助講 急探災情 - 自由時報",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWTJMSWlhbXlsNWdaWnM4TzVMVkdkT1JjOWtGMmVWQko5SWRiMUxjTmR2ODJ4REtKT3dScGpPcHpVb2ptblpOazZDUE9OUTdIbW9QRDFUYVVoRWVWLTNISDFUNkJKdjNEYmfSAW9BVV95cUxNektwRHRjMFhXeWg1d2JXcmE2SUw5c3NwXzVLLXlBUXFxLTJxaFhNazR0cG9FUFZmWExuTkdqM2taVF8wX1VqVTZnZ04tbThWc2Fqc2liTTNDY1RONjVQeWhyMzNoM3dmd2EyZ3hLUWc?oc=5",
+    "date": "2025/07/05",
+    "fetched_at": "2025/07/06 06:21:24"
+  },
+  {
+    "serial": 8,
+    "title": "中職》林佳緯、陳傑憲延長賽建功！統一獅擊敗味全龍 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81Y3BVZ0tkdHlCcjR1dVVGNlRHT2hIOUxHYWpuTUZxM1d3ZWVvYzNNejVmQUZfYnhNM0s3T3JJa3JpQTVtRGxMdnd6dF9FREJVM3kteWl5WGpiSkhNcTBRONIBZkFVX3lxTE14aGlMMkQzVlNXZVV1NFNXTk9VN08weEczbF9kN0xxbjhJZXNjV25IRlk4dnVmMmJ3dWFGRTVpdG5iQ056NENZR1NSWlhmbW9Ddjlud1k2a3JpQlpneGFIQWtrVWpNdw?oc=5",
+    "date": "2025/07/05",
+    "fetched_at": "2025/07/06 06:21:24"
+  },
+  {
+    "serial": 9,
+    "title": "黃金漲勢已到頭？分析師齊發警訊：明年恐跌至2500美元 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNcEphZVBIRk5JWmNOdlI3VVlWdTl5djlXQkhDaHpKN1p0OWphUnlwemd4T29tSW9aemxOeVRPREJPYUVWYVRiOF9JRXhFQ05UdWpCc0lkdG92THhTa2VmM0RQZ0ZUQnVrcTZGU2dwbGNPc2EzZ0xMRHVQaVIyNEt2TkIwT3ZWZ0dEU1NSeVlfWkF4ZzFQS201LVZZM1FpM2hDVmJHSURhUnJndEQ4VEEwY2daRDg1THNQeXFlNFg5OG1sejZWb3NKa1RhUnVRRVdkSTlSU1RrLTBCNW9SYVBkNU9MTklEbWh0R2hWYTJHUjBHTmlHejY1RzAzYWVxYk83UTE4NmdxQjlmWExFVVNpZmdDQVB4RFFaSXkzWjRlM0w3S3pTRHpZOXlzUUFKNktjdTdvcXJIWmVGSTlNbVduZG5LVjlLZnMtS2lLaWVUNF9XVFVSaGJz?oc=5",
+    "date": "2025/07/05",
+    "fetched_at": "2025/07/06 06:21:24"
+  },
+  {
+    "serial": 10,
+    "title": "中信兄弟》9局下滿壘不是終結者登板 平野惠一證實黃恩賜有狀況 - 奇摩運動",
+    "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQcHFmVHQzQnAzelg4b2xFZ0EzYXhyb01LUXVIeXdka3NZb0Q0ZVBXaUIyOGNWTk1LRU9ySkhtdkdzQ0FSMzJ6MlRvVlhzTlZTelhHM2p6UlY5U1JiQnZIZTc1eXl5N0UxbERHVmFic2tBeUdyZE9jcHhrYkg3NXJRTm1vS3R4cmoyd0k2X21wRlFScjIxVXNFYjFNbEVULXhXZWdoTjM3Z05iMm9CNHZaRjhtQVM4V2RxRS1BLWVRVWQtZlpiVUhBd3hyRjVnbE1MU080eEVKcl8zbmo0akJ6bVhVRkFSVnlrNnNOcFVlQU9KaVkwZ2o1SnAzVG16ZXdOMDZRSkctLU9aRHpDQmlwVmtpLWdEV3R1cHlRUERvNE5mQnRld0o1Z0dQUHdWdWRzSFJCRW9odGhseFp3LWlQUnN1NTU1NjdYSjQ1QVZBWVJGNW1fV0JjWG1ESEI5dG9YSUNYWWFYaHBvaklhT0czS1JDM1cteVNUazRKb3k4NXE4amNXUDM0ZTJvVTJDVVNPcnhoa19remdEdw?oc=5",
+    "date": "2025/07/05",
+    "fetched_at": "2025/07/06 06:21:24"
+  }
+]
