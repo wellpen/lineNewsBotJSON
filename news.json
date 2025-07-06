@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-07-06 18:26:52",
-  "news": [
-    {
-      "index": 1,
-      "title": "Alibaba raises $1.5 billion from sale of exchangeable bonds",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-03/alibaba-offers-1-5-billion-of-bonds-exchangeable-into-ali-health"
-    },
-    {
-      "index": 2,
-      "title": "RBI panel likely to recommend govt retains 4% inflation target",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-02/rbi-panel-likely-to-recommend-india-retains-4-inflation-target"
-    },
-    {
-      "index": 3,
-      "title": "Emerging-markets mavericks target regional funds for payoffs",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-29/emerging-markets-mavericks-target-regional-funds-for-big-payoffs"
-    },
-    {
-      "index": 4,
-      "title": "Trump deals poised to fall short of sweeping trade reforms",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-29/trump-deals-poised-to-fall-short-of-sweeping-global-trade-reform"
-    },
-    {
-      "index": 5,
-      "title": "RBI drains $10 billion to lift short-term rates",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-27/india-rbi-drains-10-billion-from-banks-slightly-below-target"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "中職／林子偉曾主動拜託登板「讓我丟一下」 古久保健二：先不要 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPQjZKZldON1ozb212aVYwTTdHMWRMNF82b2hwdkFuRUdMNjBoZTdBQ254UHJXdGxsU0pZNHpFd1EydFhWWHE3b3ZwU3FHb2d3LTFvLWZQRXRMOGZabEJtYkxXbDBTUkxSU0VMZVVGTS03WDgtV19Da2FOUDJHallDQXYzV2Z5N3Mwa1lEMklJOFlHbHBKTUhDbFFxX3VRN2VhbnVtdVZIQW5NQjZMU3dBeDdETnF1WVdVZ3lld0dmQk8zRnp4ckc5Y2pLanZzeVRqTzdnQXN4QlFzN1V3aXl2UGZSRkxNZTAwSXJQaUtDaFhadUZIQzVWelc4UEl2dFJrQlk3cnRnSEhhUUR2ZGxmd1VhZ1l1bFljblhLVDJxcjRkam1WOFNvaXpOS1Npb0pCX0MwR3JCZVAtb0dhWnd4U0hEWjhxOVUyWlV5QUdEV0dfcC1u?oc=5",
+    "date": "2025/07/06",
+    "fetched_at": "2025/07/06 18:51:23"
+  },
+  {
+    "serial": 2,
+    "title": "徐巧芯揪白營深入鄰里迎戰大罷免 嗆聲者被眾人反嗆 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wUnlMcXVjOHRkSUdkMnBXVUJZNFcwaURsSXdKdy1kMWRiVmZhLWhQWUlvNU5HbUhoejhKVFh1a3dYOVZ2bmJGX0lqaUVHQ1VSUklZ0gFYQVVfeXFMT0ZpRHZnZEluQVhWVGowNk9Raml1X1l6WU9nbzJCN1NVOURLLUhjY09PcXpsNldlZUtORzRYM0ZVM2Q3b1dvRG56NkxxTmwzNFNNbXNMbkRLTw?oc=5",
+    "date": "2025/07/06",
+    "fetched_at": "2025/07/06 18:51:23"
+  },
+  {
+    "serial": 3,
+    "title": "中颱丹娜絲暴風圈觸陸 南投、台中等縣市宣布7日停班課【不斷更新】 ｜ 公視新聞網 PNN - 公視新聞網PNN",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiV3c4R2FFNE1lZVdqU2dwU3ZJNUdnSURHN1B1Qi1MaDFWVXFQeDlPZGJjU0hjWTg4bzlVX2J2bVRiU3VjcFdNZEg1VmxRYlHSAVRBVV95cUxQeldVVXNDRnpqWFpYUlRsUE4xbjByel9IVFN6bWNGejUtdUx0V2ZRR2paYmh1YVZ6eHJ4aVJUZFVEOWhPTjFEWGRUd0JfVTVnR2hiU20?oc=5",
+    "date": "2025/07/06",
+    "fetched_at": "2025/07/06 18:51:23"
+  },
+  {
+    "serial": 4,
+    "title": "慘遭撕咬拖屍！　他生前最後照片「棕熊逼近鏡頭」 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lRHRrTzZtZ3lUamxrNFlNTl9tRFZrUHRudlpmV1FoRVIyMzhpS3VBekY3bXlBWDg0dzhOZGo5NGswb0o1M2RUei1sMk9nVjVFWXRFR19yUWJBcTFydEHSAWhBVV95cUxOV2VfdndFR0kxTVRTMm1aeUw5QXZHYVNBQmpuazBjTkc3N1hUZUNtbWZDWUpPQ2owdFFlMTVyVlZZVHJBQVJNNnNXanM4MVRYTWVzYWsxMkk5U0ZocnFUMzhQc2w2dU1mbQ?oc=5",
+    "date": "2025/07/06",
+    "fetched_at": "2025/07/06 18:51:23"
+  },
+  {
+    "serial": 5,
+    "title": "為何女生特別容易小腹凸？醫揭真相 教你3個瘦小腹有效做法 - 台視新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYNkhMeHBDQW53MlZHakhTdHg2cnRNQjhwckxYM0NYM2xQVlFJN085c09mRDZscm9jMC00eXZkQmh6ZUFZS1Jwb0lMbVJZM01CRmd3RnhLbw?oc=5",
+    "date": "2025/07/06",
+    "fetched_at": "2025/07/06 18:51:23"
+  },
+  {
+    "serial": 6,
+    "title": "關稅炸彈又來？ 存股不如存款台新薪轉戶權益升級 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPVlZJNzJrQm5GTE1OSzM4U0RZWTRNMVIwVmVGX0FMdENwS1JTS2ZXSTJNUnptY3RFUmMtbklOZDBsanVJYnhuRzBwOTN0bEh6N095TXFXMEtqOHZJLTBHcFEwRVFoZXgtNm1iSVE4MHVjTFp1Q0VZbmQxNkh0X3RlR2JOZDVodjBhS2tUdXBjYlFTYjlWdXlVQnhVWUw2aEhfNEZtTThKamVmcUxleEZZMEhxOVZjRDliY01fNTE0SFpGV0JxYjhEZHJUZjc0Rl8ta0ZwM2xMSFRwSXF1WHdUN3E5NXZjLTFfbzNkNjV5SHlINzdHNGJxT2tNdUVyUVZzekdOWXEzZ0VTUVV6ekJGY28zZ0xEdXpfRXc4UEdNaFNyY2JMbTkyUlhwUDJxT3dTbHh1enR0Nm5JSDRhZkhfR3dLWEpIZERVcWxDT21zM0I?oc=5",
+    "date": "2025/07/06",
+    "fetched_at": "2025/07/06 18:51:23"
+  },
+  {
+    "serial": 7,
+    "title": "丹娜絲攪局！五月天台北大巨蛋演場會 今晚照常舉辦 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CNG4yN0JPZHpIb0p4VlVESzJxYXh2VEZTc3RlLVVnRklfTzEyNzJBc2IwMHhGNHQtblRlU3NRU1hNZU5ERU16Z2xQZ3hfbGZYaUN30gFYQVVfeXFMTWV3VDAxMFlwV2xoOV9mV1J2WkViY2VIYkt3UTB3YzNSNklVd2JFQzRoRndIZU5ORjJGZVJGYjFJQk4xUGp3R3pMcDBSUGt6NURSM1lKNDhnbQ?oc=5",
+    "date": "2025/07/06",
+    "fetched_at": "2025/07/06 18:51:23"
+  },
+  {
+    "serial": 8,
+    "title": "賴總統臉書發文防颱 反被網友敲碗酸要聽第五講 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sYzNISldhYnkwd3JZSGhydHNWRVdib0FDSnhrSUNoZE9adl9BSkFDSFZjM3dzbkxRbWJpdVRwc194NHZmQVBnYjJ3d3lQQmZxY3pJ0gFYQVVfeXFMTW82ekhMdFgwOFBrbGJpaUpuYTZmUFphNTQ0Q1Q1YnNQSktQYmhFUGtHLW5lNWNFQkFYTGMyVi1heUNyVUowNk41T1JHMjhRY2lXcnlEUzVKNg?oc=5",
+    "date": "2025/07/06",
+    "fetched_at": "2025/07/06 18:51:23"
+  },
+  {
+    "serial": 9,
+    "title": "MLB》遭大谷翔平2種滑球玩弄吞K！太空人「道奇殺手」直呼產生錯覺 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OakFpRUlVVHVETXNtX1czVl85NmY3OTdiQXVMakZxbXpianh5Z1Q4bkRXUFFtbmpLTF9fXzlKSmN1NzgtTlNLOUF6LUZZQkVkZWlfWmU1RmthQkwwb3d0StIBZkFVX3lxTFBIUHN3bjBManFoZGJuQ0gxcHpMNE50SDdydkpqYjdBdVMyN3c5Tnk4RGw4dndhb3p5aDFtWU5za2dzVmRGVFFaQ2xMaUJ3Ni1zblRCTERVZXZGYXpPWG51Z3A3UkFiQQ?oc=5",
+    "date": "2025/07/06",
+    "fetched_at": "2025/07/06 18:51:23"
+  },
+  {
+    "serial": 10,
+    "title": "37歲女星新婚2個月罹癌！躺病床「動彈不得」人生觀全改 撐4年仍離婚 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOVmU4WTc5Unp1dWlUOUZyQTV0ams4M2t0TUo2bF8wbEVYMERTOEM5Q1U2bTU1c3V4VUlaRllJRFNORlhSVFF6d1lLTEc1SWNWQ0tPNXczbEdDdGx2dTJTcFRrdkJyczRJcGpzc0cxOXB4TjNweGI2SklILV9rd3hqdmtpUEFXSnFjMFlJNlJKQ3RFNTNWZFBtcjhsbDBteWhtRDB2a0RRZk83VGJKTGYwU3gxZFdfVE5PdF9FaXNnNjlYaGJTcGRMQnhwQjFlYVU4Q2tkN0lnVkQ4QVFFcVNUTVp1eG91MmVYeHhMeVBHR2JZdVF6UWxrN2h3cWVnZnVZRWI3WGtZdVBHRGFIVExubmFORHVTRmNyQTFkUTRxbDFYQ1ZseEVxM0E4aFAyZS1GcU1PMDA2UzZVZGVqekktcFVuQTl6dlRlc2IxWjZTZ0dKbnpXZWpIWlNIVFdVUXVJUlJvbXEzQzVzWGVlaXRtcEV3b0NZaWN4V0VLNmxiLWVSSWtDSUhoY0FDM2RueXJVWEtiM2h3?oc=5",
+    "date": "2025/07/06",
+    "fetched_at": "2025/07/06 18:51:23"
+  }
+]
