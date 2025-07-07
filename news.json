@@ -1,72 +1,30 @@
-[
-  {
-    "serial": 1,
-    "title": "蘋果推出 macOS Tahoe Developer Beta 3 修正 Apple silicon 下載問題 - 流動日報",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mWjhtSXRWV1VWZVFjcU1kTTBQYnNFdlNJWVBtVEo4SmhGd09vRS1xLUh3TlBERkp6Qlg4dV9TZ0tUTXd3ai02MTZPRWc1Z0ppZVpzNG1GODl4Zi01dksydUZYVlNKS0wzWEdXbFg5VWlxMWtHekpPWThB?oc=5",
-    "date": "2025/07/08",
-    "fetched_at": "2025/07/08 05:51:24"
-  },
-  {
-    "serial": 2,
-    "title": "〈美股早盤〉主要指數開低 關稅緊張升溫市場觀望、特斯拉重挫逾7% - news.cnyes.com",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvdW5vYWQtcTdXcFJVZEdBX2E4SDhKSEFFYzhJYkNQVVNnU0V1RzdQTEdKYTRnaHpmcVNuV3FEVUVNNXNQY1dEUmg0ZE1tdWM?oc=5",
-    "date": "2025/07/07",
-    "fetched_at": "2025/07/08 05:51:24"
-  },
-  {
-    "serial": 3,
-    "title": "土城家暴男「當街砍死妻」　律師嘆：保護令對瘋子一點用都沒有 - ETtoday新聞雲",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rUTdhb1dCR0duUnAwejZDMXYyNzRpTTRDQ0lUQzhEcU9fSGZxa2RRTHBCTzFYMW1hbGt6b1RlM2x0T2VyT3FQSUNqMDV0OGJ0eXhmM0dDUVNWVXhJUUHSAWhBVV95cUxNcmFZb0lOTlAtWlhra1VId0xtd2xTN0RlRncxYWx5TUszYWpVbk9LVE9ERmU3WEJNRkxYNlVoWk96MDFMdjVqU3ZLaExseGdZbFF1SDJSRHBUWXhUTUZuZkJJVW53WTlBVA?oc=5",
-    "date": "2025/07/07",
-    "fetched_at": "2025/07/08 05:51:24"
-  },
-  {
-    "serial": 4,
-    "title": "名醫李進良診所捲入！非法輸入鳳凰電波等醫美器材 警搜索移送12人 - 聯合新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93aXRqWGFvZ0VydGpFMUVlNUhtQkJuSkI0RjFUZFNWRUE2Uk95WDcxNVdPUXBiakh4R2tiYUJMWEZqNEF2dWlyalhSbTFuZW9m0gFWQVVfeXFMUFVVLUtmcHhDaWE2cHIxcFR0TFhJVFB3VEJqV3pQX3BaTjRRYUxralV1ckJvcjNYc1RoN0duX1k3MllvbllNYWR6R1hmVWw3OGNld19NMmc?oc=5",
-    "date": "2025/07/07",
-    "fetched_at": "2025/07/08 05:51:24"
-  },
-  {
-    "serial": 5,
-    "title": "關稅談判結果美國將公布 民眾黨：懇請賴清德不要取消十講 - 奇摩新聞",
-    "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNamdYVmlHWlFUVF9oR0EzTy1lSGkwZHBNRXFIMXpCckZqRTlZUUZUejM2R0JpUkpkb0ZoU3lTS2hDRjVYT25Xcnl5aEdQR29qbUh3bGFlaVAzUnVlYWR4RlNOWW1iVnBPYlMyRm1nUlQyVWtPNzhZMlRUM0ZGc0ZWVWdyX1g4dFJEQlJOUFFLN2xXRkFWcXBYa2Z1ZXJLWDVaYXpKS0dRZnhtWDRRUE5ocDZGbUI2TE01Ul9Ta3VSYlZoM2QtMVd6UHZ6bEozYTQ2b1pSY0lLTmcwT2UtUmNTV1NqbXZ5cHFGOEZ4UFdQZXJ1RXFWd3hMa2Y2Ujk1YTIxcmQtVFdhaHhPZEhELVRDU05BbUhHQ09QREhZVGdidGpaRGZLSWRPc2ZiV0g5TEgzWHgzYktKZUJnS0VSd05xR05heHE5dEtVNFF6LWR0WE85UTNsZUpJaWZoTUZTNU9xUGpOTG9GS1huUjdFMVhlWVYza29kdElhNFBkSmVvSy0yQQ?oc=5",
-    "date": "2025/07/07",
-    "fetched_at": "2025/07/08 05:51:24"
-  },
-  {
-    "serial": 6,
-    "title": "台南9區明放假引反彈 市府再增7區共16區放假 - 聯合新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sNEdpTXRPMFJkV1E2V2VnUEVuYzhHTWJFVEtYNzU5U2h6MVhHcTdhMDFIWjdWck42ZGxJVzFLTXo2S0ZqU0R3cFRrRF9kakF1bDZF0gFYQVVfeXFMT0hhdFVreUtEbzlCUm1NV3FnaklNZWJ1SkhsQlNEb1pEcnNDSnZ0dlNzU3ZGZFB0Xy1fRnAxV0lwNi1sQkcxaG1BOThsX0gwZ1NsV2hEOUZvTA?oc=5",
-    "date": "2025/07/07",
-    "fetched_at": "2025/07/08 05:51:24"
-  },
-  {
-    "serial": 7,
-    "title": "達賴喇嘛戴Team Taiwan帽 網嗨：讓世界看見台灣 - 民視新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBla2FQZnFtMmw3WXBsam5wdkc0eUQwbjVnT05YTnptVjF6M2prOW96QlpxNWQ5ekR4OEU3dWVXeHdZc2p2VzByNHBFblZINzE5QXg5RkhERWZJUmo5YUJNZg?oc=5",
-    "date": "2025/07/07",
-    "fetched_at": "2025/07/08 05:51:24"
-  },
-  {
-    "serial": 8,
-    "title": "慎入！新生代偶像空翻失誤「右腳韌帶嚴重撕裂」 傷勢照曝光了 - 壹蘋新聞網",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUd0alpRODhWbFBSRWMza0FWaHY0RXI5Wm5ROVE1bWdVcl9USE1fb25KOHRkVnV6UGVTNkN2Y0g4ZXQwTGhYZkg4Z0hvUE13NkFsTFJrMldBSnZjZTZXUHBmcEpyaGM4R2piMFhSWnFfblQwR2VQeUdpUS10QXA2eXh4S0hRUkU?oc=5",
-    "date": "2025/07/07",
-    "fetched_at": "2025/07/08 05:51:24"
-  },
-  {
-    "serial": 9,
-    "title": "打造冠軍戰備｜MSI 助攻 [ Mercedes-AMG Esports Team MSI ] 挺進電競世界盃 - 7Car 小七車觀點",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YdlprMWpuRlBZbkdpdEFGYXp2MDl0S2g5OXJiUjdWU0hFcGMwNXUwb1hBV0FuVmNuM2FGQmRFcldnT3RId2c2Y3ZzV3dHNDdkM3c?oc=5",
-    "date": "2025/07/07",
-    "fetched_at": "2025/07/08 05:51:24"
-  },
-  {
-    "serial": 10,
-    "title": "颱風影響6場賽事！台南球場安全待檢　統一獅改澄清湖、新莊主場 - ETtoday運動雲",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BM2hpSUhtb2dSVFFDNEFQVUFBTTVMYkV3M3h4bWZlb2FON1kxcmVtVVBRZEl1SHUtM0E3T3BwSHMwSzZMSVplR0VfT0ZjRlhD0gFsQVVfeXFMT2ZfLWJsMjdqSnFIUmE5Z0RVRXl0Ty1lemVyV1c3RzVrc1hScWphVjU5cWJwWUxyUmV2dTVjaDd5a1ZFaVFvMEtRRmxWV3RUTk5EN1YyMmpJZHlNQzFoTVVxMFA4bE5TZzQzSFJP?oc=5",
-    "date": "2025/07/07",
-    "fetched_at": "2025/07/08 05:51:24"
-  }
-]
+{
+  "generatedAt": "2025-07-08 06:12:15",
+  "news": [
+    {
+      "index": 1,
+      "title": "OPEC+ will boost supply even faster with larger August hike",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-05/opec-agrees-in-principle-to-speed-up-supply-increases-further"
+    },
+    {
+      "index": 2,
+      "title": "Alibaba raises $1.5 billion from sale of exchangeable bonds",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-03/alibaba-offers-1-5-billion-of-bonds-exchangeable-into-ali-health"
+    },
+    {
+      "index": 3,
+      "title": "RBI panel likely to recommend govt retains 4% inflation target",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-02/rbi-panel-likely-to-recommend-india-retains-4-inflation-target"
+    },
+    {
+      "index": 4,
+      "title": "Emerging-markets mavericks target regional funds for payoffs",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-29/emerging-markets-mavericks-target-regional-funds-for-big-payoffs"
+    },
+    {
+      "index": 5,
+      "title": "Trump deals poised to fall short of sweeping trade reforms",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-29/trump-deals-poised-to-fall-short-of-sweeping-global-trade-reform"
+    }
+  ]
+}
