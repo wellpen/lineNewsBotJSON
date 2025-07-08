@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-07-09 06:12:18",
-  "news": [
-    {
-      "index": 1,
-      "title": "OPEC+ will boost supply even faster with larger August hike",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-05/opec-agrees-in-principle-to-speed-up-supply-increases-further"
-    },
-    {
-      "index": 2,
-      "title": "Alibaba raises $1.5 billion from sale of exchangeable bonds",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-03/alibaba-offers-1-5-billion-of-bonds-exchangeable-into-ali-health"
-    },
-    {
-      "index": 3,
-      "title": "RBI panel likely to recommend govt retains 4% inflation target",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-02/rbi-panel-likely-to-recommend-india-retains-4-inflation-target"
-    },
-    {
-      "index": 4,
-      "title": "Emerging-markets mavericks target regional funds for payoffs",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-29/emerging-markets-mavericks-target-regional-funds-for-big-payoffs"
-    },
-    {
-      "index": 5,
-      "title": "Trump deals poised to fall short of sweeping trade reforms",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-29/trump-deals-poised-to-fall-short-of-sweeping-global-trade-reform"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "染人類間質肺炎病毒 女童高燒氣喘 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORE83bTlJZ0prNTk0YS1vT2NndXhaMXgxSGQ2aDYyU3J6QkZKdTg5OGRMX1NXdkhrc0lEamhlYUQ2TTk4ZlFLYVhBazdzMlZ2bGt3NjF2NjR4cHlmbXNiOElDUlN4VGFPeXlSNno4cU5yTnl1NHY1aEs2elZ2WUgybjJJMGxNVGFFWVRtNTE3UmowX1JXTEh0Y3RzZF9rN3VwdTlEeGJZc2tqY2lUZU1uSGJYNWg5NTRYWUxKVUhQTzl1bld1S190UVJicTNTZWRTMm9RbmMzVlVlX0VUOWpEZkhlN2NuSGc5SHN0bWtQNVI1WDVteDBvS2IxOHZFdkwyS195SlRQa2U?oc=5",
+    "date": "2025/07/09",
+    "fetched_at": "2025/07/09 06:21:25"
+  },
+  {
+    "serial": 2,
+    "title": "彰化雷雨交加！北斗電箱爆炸瞬間嚇死人 縣長王惠美家鄉慘變水世界 - 鏡週刊Mirror Media",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ielcxZnF2bEZWRW8xSzloRFMtclljblNlcnBqSmFtN3g3VTJxUm9UWWw4Tkc3WnQ1MFowb1NHMnh5VXVGRlZGbGVNdFFHTHRaVXY5XzVQVE5vT28?oc=5",
+    "date": "2025/07/09",
+    "fetched_at": "2025/07/09 06:21:25"
+  },
+  {
+    "serial": 3,
+    "title": "Islanders: New Shores 評論 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92aTk3Ymxma0xueW9DbWt5TmRaUkVieUJsNzFPVWE0bF9sSS1ZVG1rRDlBYWFMYVg2NDRIVFFaUGp3RVNoLVFwN25BSGJqdFlzT19GSEt1YUk3Zmx5dzlFNDJTeXJzXzRreERrSlNBU2lUUQ?oc=5",
+    "date": "2025/07/09",
+    "fetched_at": "2025/07/09 06:21:25"
+  },
+  {
+    "serial": 4,
+    "title": "天文學家發現「奇特雙星」伴舞吞了對方又吐出來- 國際 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuSUhPNFpxSXJPMldOVDhiUEdLTHRsaGNaNjdOZFZ2YmxPcUY5VVdGREdXeTBMSURJd1hLZkM4OVVQaFBycmNQVXU5YUVyQ1ZiRF9URGJoaVhsQ2ZQZ3lNdlg4M1NyQXo3RW94eGlB?oc=5",
+    "date": "2025/07/08",
+    "fetched_at": "2025/07/09 06:21:25"
+  },
+  {
+    "serial": 5,
+    "title": "搶救溺水民眾翻船！勇消打35劑強心針仍不幸殉職 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbGEtdE1tT2hidUtzRTRPZnRCUnVBeVNWVEZOSDFYRV9QSm9RLUdORVdxSHVNMFZwcnVzUEVLOG9PZG5WLWFJd0dNX1ZNZlJ0bEc0TVBIOXI0bGdGT2s4YnExMEliM0JaNE8tTEQ5SjJjbEFMSF9FTDFIbUlLdEhqQmpab195Z3ZYSEdXMWZlM0xRMVEzcV9VdnhvdzZheFFJTGJMWlNpaEh3MVZsclZRY0pfSnpoR1c3VlRubWpQaDJWS3M3TDZKY215Z3RLWTdLelg1UHpjd2pqR1BCWnRseEtmNGlTcTI1MGlfeDZ4dDhvRzJQU2xyX083X2hhUEJDOXhzQmozbkptWk12?oc=5",
+    "date": "2025/07/08",
+    "fetched_at": "2025/07/09 06:21:25"
+  },
+  {
+    "serial": 6,
+    "title": "TACO交易再現！ 美股早盤小幅震盪 道指跌逾100點 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mOU83bmxoTUIyblEyWm5BdVdPd08zNlA5UURNZlRnX0h3aVVJOVZvbVZXeTE3aDktTlRqS2RCTUpoS3UzQWNYQnF6OTR4LU1abnJUV09Kd0RkXzY1b1d5cUFZSlpfeW41VlNjbUp3?oc=5",
+    "date": "2025/07/08",
+    "fetched_at": "2025/07/09 06:21:25"
+  },
+  {
+    "serial": 7,
+    "title": "《羊蹄山戰鬼》State of Play 線上節目本週五清晨登場 帶來實機遊玩深度解析 - PChome Online 新聞",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSDVyT3lyWjh2eFdERkxuOFIwY2FsQVJlZW5yVFpIR2NIN0txVy1idTcwazRWSWxEWE1JVzkxcHZJclhMcmp6M1oxaEVTZG05dHJqSERuNmt1SDNKODVaT2twbFBuTHFBb05VRzVjdC1pSFN0WXVpU3JwUkxhcGpiX0lqMFY?oc=5",
+    "date": "2025/07/08",
+    "fetched_at": "2025/07/09 06:21:25"
+  },
+  {
+    "serial": 8,
+    "title": "馬斯克搞政黨弄崩特斯拉股價！「女股神」照挺：他沒分心 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qYlRQYW5odVRHMXRUUEtIbzRrTlFBYjFpRU56OTZJWGh4ZWR3SG1tQTVLMFZVUFpqdHVub0ZGXzZjUERYQjhYTElRQW1YY1U?oc=5",
+    "date": "2025/07/08",
+    "fetched_at": "2025/07/09 06:21:25"
+  },
+  {
+    "serial": 9,
+    "title": "颱風丹娜絲轉撲中國 浙江溫州沿海登陸 - 自由時報",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DUlZub2g1XzFhRVkyQkhvNHJjZHVMZXFDbG92QU5VazQ0amZBV082SUk0OXVDM3NoQ2RfeV9LRFBSbTh3bGswYm1qNUhUY2lCaFUtV3JWWEtUcTVZcV80M1g5MFA3UdIBa0FVX3lxTE1wQzY2XzdFUURCYTBfZmtyNm9sM0xPdXNIRXZyVWpXbEhXZnJjYUNmWUg3eXlBVWhjN3p6cWxDN1JPeTgtTnpXR0dNVnhwenhuS0wtM084VmZyLVZUSGl4Z2NPQWFQbGVuRmg0?oc=5",
+    "date": "2025/07/08",
+    "fetched_at": "2025/07/09 06:21:25"
+  },
+  {
+    "serial": 10,
+    "title": "川普鬆口關稅還可談！美股早盤平盤波動 台積電ADR跌0.2% - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaTUdLS0Zib3pEQmpEQlVGTkNVbHdXUk1OczI0RkMtMFhJb1NmdkplVW15cGJVOFJ1N2hqcHFoWXhqbG5JclFVaU1DaEx6VnNF0gFWQVVfeXFMTUMwM1gyanRzZEVhSi1idXZtZjhaNnlCSjRsOUMxeUtJUkEzSWtBcHNja2VoX2JOQ3NBNnlOYjlmUXgyWUdrc0xvYmhvYmFKTEFnZjFJRmc?oc=5",
+    "date": "2025/07/08",
+    "fetched_at": "2025/07/09 06:21:25"
+  }
+]
