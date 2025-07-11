@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-07-12 06:11:42",
-  "news": [
-    {
-      "index": 1,
-      "title": "Blackstone, L&G sign $20 billion private credit tie-up deal",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-10/blackstone-l-g-strike-up-to-20-billion-private-credit-tie-up"
-    },
-    {
-      "index": 2,
-      "title": "Sluggish loan growth drags Indian banks’ bond sales to 11-year low",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-10/sluggish-loan-growth-drags-india-bank-bond-sales-to-11-year-low"
-    },
-    {
-      "index": 3,
-      "title": "IndianOil-Adani gas plans $161 million exchangeable-bond sale",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-09/indianoil-adani-gas-plans-161-million-exchangeable-bond-sale"
-    },
-    {
-      "index": 4,
-      "title": "Oil declines as traders take stock of US tariffs and OPEC+ shift",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-07/latest-oil-market-news-and-analysis-for-july-8"
-    },
-    {
-      "index": 5,
-      "title": "OPEC+ will boost supply even faster with larger August hike",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-05/opec-agrees-in-principle-to-speed-up-supply-increases-further"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "Apple 將「垃圾桶」Mac Pro 列入過時產品名單 - 流動日報",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWWk4Z2IyRTNmMTdBeFFfV1NPVThLcHhQN1VPMzEzTVVXRmpqajMwb0hQR3QtUGFBcEpRdGZNSmw1MUdkM2N6ZVItZjlZRUs4c2NxODNhTDIya3J0TE9Jc3dTLWVHb2xQS0NpLWZ6SGNtal9TZDNtRW15cm04TjFXcQ?oc=5",
+    "date": "2025/07/12",
+    "fetched_at": "2025/07/12 06:21:25"
+  },
+  {
+    "serial": 2,
+    "title": "溫網》謝淑薇攜手O妹扳倒美捷衛冕軍 直闖女雙冠軍戰 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4Z2tjOFhwd0Z6QkVZNUlwWGp0QnA1Y1dIRHJaMnY1YkpCcTV1NzB1VDRtTDNXejM3dXBtVVpjZ3huRHktQWRXR3U2clBMeG9LeHJmTlRiMDFqRVRuRElRY9IBZkFVX3lxTE9JWU9ZM3ZtN3ZDTDdJc3o1YUxHSmYzSUpjT3NjZVlpSEQ4N2Q1ODBlREVseUpKWjVIa0gzaUZiUTRIVnJNMFhHY25ZaFVVYVFHM3g1aUFiMGdlNEpZLTlMSHZNeGZfZw?oc=5",
+    "date": "2025/07/12",
+    "fetched_at": "2025/07/12 06:21:25"
+  },
+  {
+    "serial": 3,
+    "title": "漢光「愛國者飛彈車」卡新店路口　受困2.5小時驚動美方到場 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LY3FaakE0OUktdXA1dkFoMDctdy1OcWU3R25mb2syUlJIYWtwX3N6dXJLNC1vYWI2NjJjYmlZZGRPeGhKUUZfYVphcDVKeVBvWHIySm9tdVloblhyaEHSAWhBVV95cUxNMFRGSWl4QXp5M1RtZ2MtY2lXc3YzS2VPbzVqQmNZcXN2Skdtbm9qRWd1b1VKVW5IVm43NUV2djl3dl92Zk9ORkwxd1ZOTDA3VUUwSHdPQTdhb3p2MUpvR2M2aHpsT2lZdg?oc=5",
+    "date": "2025/07/12",
+    "fetched_at": "2025/07/12 06:21:25"
+  },
+  {
+    "serial": 4,
+    "title": "債蛙終於鬆口氣！美債波動率跌到3年半新低 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTamJDZUlxSlBlWVN4bGczWjJfbEY2YTR0YThmRGx1dDNhVXBlVWdxMlNIYUhrNWlvWDNNcjJ4STlsZkdYcWVzbjZudWI2Z2s?oc=5",
+    "date": "2025/07/11",
+    "fetched_at": "2025/07/12 06:21:25"
+  },
+  {
+    "serial": 5,
+    "title": "美媒：美越其實沒談成關稅 川普突襲從11%變20% - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BQmM2UXAteEl5QjNlUHRudnVLQVRibTJ5RFhyV2lPTHhKSVljOWgtVm0zNDBhVXprMER5WmpHR3ZPVlFWOTZyOGtsb0c0VHE1VWN3?oc=5",
+    "date": "2025/07/11",
+    "fetched_at": "2025/07/12 06:21:25"
+  },
+  {
+    "serial": 6,
+    "title": "體重莫名下降？醫揭罹這疾病7大警訊 若忽視恐致命！ - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNOTlnN21lbm5NSUk5TG1zYzk5WGhad2pxem1XNzktRHRrcGFoV0xXUDBaVXdUdTg4NUVzMVVaU0JGMV9aQ0lJcWhVZUtnZi0xNzM0aHUwMlRWTXJsbHc3U09mcVhWUWpYSnhPcEZzOGY3TVlyNWUtaFppR2xrMUJ2M1JxQXNYZ3dXQldtOWRXQWVBNUtLVkk2b2ZUU1pXSGNrRzMtMEthZnRrVjVGdEZqZ3ZINFY4YnRzcGVaa3ZibkJESFgxUjc4ZDJvQWpCSFNXQl80dlo5MkM5NVJDNHpVV3NnVWI2ZFo2dkJ3SVlYdkwzUXBvSnZHLUxlQUJYMjVHck5mQzNsNE9sa2hJU3A5UVg1a191UlFkSllXRU9VTFAweFpadEVUb3V1WFB4S0ZtaXkxWTljN0Y5a2ZDNERYemNNYkN5d0xoNHZmVVdOczZwcFE?oc=5",
+    "date": "2025/07/11",
+    "fetched_at": "2025/07/12 06:21:25"
+  },
+  {
+    "serial": 7,
+    "title": "謠言：即將推出的Halo重製版將不包括多人遊戲 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ0kyV0p6VTFQWHliU3RUdmRveHNkVVZYV1BDcWYxSmoxZjBXSnRQYll4SGcydEZWY28zdUZYQ0ViYm5jQ3FDQUpubW9KVUNSQkRfZjN4RTlSaEVfUkl1WWxIT2p3dVRrQlJzdUc4b2p0QjJuWFdKZ2lmSG0xLWduekxweVUzXzUydkNtZk0xSDE0bVlOVGxr?oc=5",
+    "date": "2025/07/11",
+    "fetched_at": "2025/07/12 06:21:25"
+  },
+  {
+    "serial": 8,
+    "title": "中職》太神！范國宸生涯首發再見轟 助富邦悍將氣走台鋼雄鷹 - 奇摩運動",
+    "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOeVQ0dV9HTHZ4aVpzbWtBdnBab1NYSEM3NmlTblNHeFJoOEhJeFNFZEVoeVltRUR2bVM3ZXJMQXQ3bktvR29CVnFja3Jqb1ZIZTNVY2RUNlZ2YW81bFFaSk1GQXVPNmxEV0JxWlhiMkh0UmFaSHVVREN6eGJ2NVlzaHBnM2xqeGVNeG50eGpUZ2NuTVVQQTNlLWFTWXBPSk5QbUEwWXBaOVpYcUtPN3p6MkhqWVlLM1ZfTUZuVm1HbEM4Szh2TzN5NzFaVGdSQkZaZm1jbE5WM1ZrLUppMWRNSm12ekJ2bVI3YWVpYXhfOThfTHlqaWUwT1l1VFdpQmV5VEVIMXJIVlpOUTE3Unl5T0lYSi1OSy0xUnFsbUZtdGZVbldER09xeTczUjc4TTg0QUc2RDFvX0RDQkJTZ1dyZE9fNk83aVVxWFVxNVJhNmpLdnRfZUpadUpQN2t1RVUwOUh0Rk14S1V6dVF1bGItcmZjVG5XQWRDTVRNVmVUSG11Zi05UEs0dFZvZm4?oc=5",
+    "date": "2025/07/11",
+    "fetched_at": "2025/07/12 06:21:25"
+  },
+  {
+    "serial": 9,
+    "title": "基隆死亡連署案起訴 吳國勝、張淵翔等在押4人今晚交保 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zWGpsZFVNeGV4c0ExcE9KaXQxLWpiN3NkZFJDZWR5anRwZnZBWktrS3p5eXVUODBOUEtwT3dIUFhaTDhIcWhBa2VzVmhQQ3RsUWhN0gFYQVVfeXFMT3A5N0Q0ajdaSUV0RGJlbjZDdklYYmtRdTBDbXpJRkR4cXdKelYyc0ZnaC1uUmw2UmVnQmhZT0RER2poTkszQVRjX3UxbHdUQ2luZi16b3Nuag?oc=5",
+    "date": "2025/07/11",
+    "fetched_at": "2025/07/12 06:21:25"
+  },
+  {
+    "serial": 10,
+    "title": "川普再掀關稅戰火 空頭狙擊台指期夜盤 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ESXBIa3FDbUJCTy1La3pBRF9kam5DYk5nTmI3WERaaloxQWRPLWtDem5XNVlKd1QtTWFNRXdPS2pPZHJIQlA0SF85dlBJWVVy0gFWQVVfeXFMT3BFdk0xcjk1NmIxSWg4eXB3c2ZoS1JnYXlseUVnVTFScWJ0NHBINjhwU0pFZWRGMjc0YmFUVGlKd3c1dmlESm9BOGpaVnluejNPSTJoelE?oc=5",
+    "date": "2025/07/11",
+    "fetched_at": "2025/07/12 06:21:25"
+  }
+]
