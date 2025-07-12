@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-07-12 18:26:44",
-  "news": [
-    {
-      "index": 1,
-      "title": "Markets embolden Trump on tariffs, stoking fear he’ll go too far",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-11/markets-embolden-trump-on-tariffs-stoking-fear-he-ll-go-too-far"
-    },
-    {
-      "index": 2,
-      "title": "Blackstone, L&G sign $20 billion private credit tie-up deal",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-10/blackstone-l-g-strike-up-to-20-billion-private-credit-tie-up"
-    },
-    {
-      "index": 3,
-      "title": "Sluggish loan growth drags Indian banks’ bond sales to 11-year low",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-10/sluggish-loan-growth-drags-india-bank-bond-sales-to-11-year-low"
-    },
-    {
-      "index": 4,
-      "title": "IndianOil-Adani gas plans $161 million exchangeable-bond sale",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-09/indianoil-adani-gas-plans-161-million-exchangeable-bond-sale"
-    },
-    {
-      "index": 5,
-      "title": "Oil declines as traders take stock of US tariffs and OPEC+ shift",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-07/latest-oil-market-news-and-analysis-for-july-8"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "徐榛蔚遭爆客庄慶典違法「反罷免」！客委會：若屬實撤銷補助 - news.ltn.com.tw",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IRlFRNU1DVTdza2FHRVdJc0lJQzNUeUtHdjgtTlhablRQd2FTdmFGQ184N1RJSXE5UmRPRHItMXZJcXFFTWhXUDVFWFNvMzhPU3NhQi13c2lnalN5MDBDLVZGdU5Rd2dfWlHSAW9BVV95cUxOUUU3Ym9aSXpxTEZveWExS2tMbWFxM1ozUFNsZW5UVHl3X2xjNG1adzF6N3BpRi1oc29vb00tVG1tYmxzZnJYUU0tNWx3X2wzTTlHZW9FQUFmYmhaQTlFS3g4b0NCX01DeWdoOHBuVTQ?oc=5",
+    "date": "2025/07/12",
+    "fetched_at": "2025/07/12 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "iPhone電視遙控器App限免領取！萬能手機控制電視神器 - mrmad.com.tw",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85QnNDcUxZdWpQeGx5Vmd2dUdBUzVEMmtvenhSRm1wbUlVb1M0c01lbmRVc0diRVJobDhiRGVJZWd4SkRxN0RpSUd2Q0ZJZWlDSHlCR3hTdjI4bDNWU3hXMklyWEg?oc=5",
+    "date": "2025/07/12",
+    "fetched_at": "2025/07/12 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "Peak 銷量達到 500 萬冊 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM1VWdFlPQUtuM1daSmFMTTRDZFRkWEVGd2tOTFdncXhBQ0hKbi1CUlBTNHZ5NGptMEQ4UmNZZy1aR21FN0h4UWVVMjRIWVoxQW9pVllIQ1ZxWWdVVk82VktvOHhPRXh2ZnlzM241cHF5OG5BOEswSlIydERvZjB3OEtDQmlKSGFJTkZiVWhjbjl5UjNP?oc=5",
+    "date": "2025/07/12",
+    "fetched_at": "2025/07/12 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "明全台3地高溫36度以上 下週雙系統夾擊天氣劇變 - 壹蘋新聞網",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GQ1I5elIxUFZmNTh1T0htTHB0Q25BU1ZmM2xSb0lHbjlGd09XSmdCck9CTFpMaWExVVNvUnU0MjhldGRTMHVjV3hibU1sSEYyQnViLWFHVTV0YTkyZjY2cHZxUjRUcHRBQWtmYThCV09rdHRDcGtUbUhoVQ?oc=5",
+    "date": "2025/07/12",
+    "fetched_at": "2025/07/12 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "蕾菈潑水節辣秀雙峰「沒做防護」：反正都假的　自爆剛動完大手術 - ETtoday星光雲",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41bDBpSDlsTjVBRTZqWUE2R0U4NVBSN1RXMkx4N0ZNUF9yRnlyQjF0Sldtb09zaUJZbzZqTFRGZ3k1Q1ZZZ2N1LW1SellyQdIBakFVX3lxTE5STlBoVTdhSklzelp5N3VnNkFPRkxIQlkxQ0JOUTRFSHVrUUF2bU9OUjNoSmtXWFFDd2x4VExkc3l0V2JCRkJjbHFCVEtKb21tV3h3RkFhQUF5STE1LTliQ3BPZ2k0SEhUbUE?oc=5",
+    "date": "2025/07/12",
+    "fetched_at": "2025/07/12 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "漢光41》陸戰99旅已北上增援！ 機動打擊能力成驗證重點 - 自由軍武頻道",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14bVVXVk41ZE5hNXBzeGVBTjl6a3NFQW1ydV9aVDRTdVVCNUpadUFfWFNBSWpNSmc5RmRQYUZkY3J0b2Rkb2xQZm5aNjc2eGVtMHJXV3BVSGFFc0ltTjVRdNIBZkFVX3lxTE1ndG9sYTc2eFpfVGozbmdsTGdfX0pUZ1AteWF5djl4dXdqcmZUeERfNURTNFp6S3FJQzZuUjBHa29BTmpiYm8xbVZPMEw1MVFRdUNvX0EtUWtCck53QnlJODZ0c1d0dw?oc=5",
+    "date": "2025/07/12",
+    "fetched_at": "2025/07/12 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "中職》二軍還有「預備洋投」 獅隊仍有物色新戰力 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wOVoyblVXcERfZkRaeERIc2dHTXJDeFEyVkcyYnNRWXd3ZjhwN2RTWEpqdHFNYVY4T0kwbWlTUmFWWk01U3BicTlZVWdwTExXMUg2X2ZrV0dGU2JnVnlKStIBZkFVX3lxTE5BSmRYOTEyUGt4aWVqLWl6X2huMGk0NWpya3FBWlhSU3lSS0VqQWZLSkhqQmt6NFJZcE1uWWR2T2REb2RxcVp2TE1sd1M1VGllV1ZIc3pXcUZHUFBmNjEwRjJJYUc4UQ?oc=5",
+    "date": "2025/07/12",
+    "fetched_at": "2025/07/12 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "中職》放棄全壘打大賽衛冕機會 魔鷹解釋原因 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaV0lhQTczX3I1YTBkWmVSR180SDFCdnNkZ0k1UTdkZGQwWXBNdWpGZDd5T2tkNmhaM3UwZFhGcjdEcXduaDVTclpkY3dENXZlaGN0bkpnalY2ZTd1MnRVdtIBZkFVX3lxTE0wY0dJWks3VGY4MWF3LWlxWVJxSVdfVThlQjVRRk1ld0xGSDA3YkZXMzNQRWQwSjRwLVMzc0hMenhyUW95andZbFhCWlNoNkdyR3RBTzFCT19Sa0h1MTRORXFPa29EQQ?oc=5",
+    "date": "2025/07/12",
+    "fetched_at": "2025/07/12 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "街口金科脫產成功？ 泰山追36億 律師：恐淪呆帳 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPLVQ1RkVDUmlscWtJSWxURDJqbThYSEt0eXE0ZEtmU2w1SzE2Um1kTWFkWE5pSVQ5cmVYSVlUWXhWcWNtUEVJYlExM3pwR2oxX2hJQ3FlMG9OSFlSRlVmb2FZVUY3Ym5RdGFhY21icXZBVm5INTJrZEVOeDlCamo3MlBrYjBUc3lSQVRmWVd2WVF3VkFEX1Q4VTRWbVA3T1RoXy0teWNnemxpNUVSZENuWVZZbkJRQU5aSnhxdnB6VjFZMDRMQy1aZlRpZ21CeDhwOGhyTFI3VjBRNEZEc3lGN2plLXFpby1UYzNjRHpVRy1XWEN5T3MtaFo5THVwMzhmOUNmV2dBYVBlcUR3cTNzcWRiOUY4SWppSzZHZGlSRFJxT1BKbjVKMHpqMzRrcjVPdFE?oc=5",
+    "date": "2025/07/12",
+    "fetched_at": "2025/07/12 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "台灣關稅談判籌碼？路透：台灣中油有意收購美國頁岩氣資產 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZaXA3ZW13eEN1LUdDUy03TFpvTXRfTGRoRHF6Q0tjUnk0VTVIZGhPRGtuVklGbk12Nlkybmh2WW5EdzJHY1duakQ0eWtqb21NLURzV0hScmJ1dkM5UDFZ0gFkQVVfeXFMT29VOEpFc0QtRkVoY3JSQTVnRWprTjRHSUNhSmtmcTJEVmZzQk5HZk1LMEFtVGgzYVFPdE45RktkMGtsTnltMTIwd2VacDFxd3IzRGp3Rmc5QWVTX1FBM3JPS0FIdw?oc=5",
+    "date": "2025/07/12",
+    "fetched_at": "2025/07/12 18:51:24"
+  }
+]
