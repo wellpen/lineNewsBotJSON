@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-07-14 18:30:36",
-  "news": [
-    {
-      "index": 1,
-      "title": "Markets embolden Trump on tariffs, stoking fear he’ll go too far",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-11/markets-embolden-trump-on-tariffs-stoking-fear-he-ll-go-too-far"
-    },
-    {
-      "index": 2,
-      "title": "Blackstone, L&G sign $20 billion private credit tie-up deal",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-10/blackstone-l-g-strike-up-to-20-billion-private-credit-tie-up"
-    },
-    {
-      "index": 3,
-      "title": "Sluggish loan growth drags Indian banks’ bond sales to 11-year low",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-10/sluggish-loan-growth-drags-india-bank-bond-sales-to-11-year-low"
-    },
-    {
-      "index": 4,
-      "title": "IndianOil-Adani gas plans $161 million exchangeable-bond sale",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-09/indianoil-adani-gas-plans-161-million-exchangeable-bond-sale"
-    },
-    {
-      "index": 5,
-      "title": "Oil declines as traders take stock of US tariffs and OPEC+ shift",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-07/latest-oil-market-news-and-analysis-for-july-8"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "《初音未來 Logic Paint S+》7 月 24 日發售 挑戰 100x100 謎題！ - 巴哈姆特",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0ybjdFMTY3NW5ZRjlRZElrU3lVaFJxUDBTejVBaUNLck56UjQzcG5HcnN3WGhqTHlEd09nbm1QWUNoY0RnVTFBR0tmS0xpM2tVLWN6WkVjTkc?oc=5",
+    "date": "2025/07/14",
+    "fetched_at": "2025/07/14 18:51:25"
+  },
+  {
+    "serial": 2,
+    "title": "可能撼動該行業的最大遊戲發佈 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTI1YzVCYnVlRUthdFNCNG13VkRiR3VxNTA1U2hSNTljckMzV01CRVVrOHJYQ0U3alVldS05dmRoeFR1Smx2dXJWejR1UTNCdkIzVm9MRXU2T2Vqa0c3c2FVRDV1YVFJbkwtUkhuakJqR3lSNjM3S0dvUl9NVW5mY3ZrZFJPVXc3cXhRSHNFQkE3cmFqcHlyVUt3?oc=5",
+    "date": "2025/07/14",
+    "fetched_at": "2025/07/14 18:51:25"
+  },
+  {
+    "serial": 3,
+    "title": "別只靠藥物！營養師：每天三餐補對營養 ADHD症狀大幅改善 - 草根影響力新視野",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03VnVxRVJoQ2hqUDBVaF9acWtVcnNkQ0NBOWVzU1QtR3VMOHVKRkVZMFhaZFpEVUx4NlA4RGFySVZiYko5ZHpDbU93?oc=5",
+    "date": "2025/07/14",
+    "fetched_at": "2025/07/14 18:51:25"
+  },
+  {
+    "serial": 4,
+    "title": "確定了！國安基金將繼續護盤 進場至今台股漲逾4千點、漲幅22.51% - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQNWVuUkF5WWduNHFlYVppUmd4M2hYYzc1RkxwZnluUDNtTjY0clVyOTJCbTVQSkpfampfMkpCVDN5eTMxT3h4dGpoM0t2OThrSmFaMFpUU0ZOcHhEcjROcXlEVEZ5Wk9mVWZwUnJiaklqYmRRbEl0aXdTOHh2VHFFNDVSczBYMXdyQktfT0dLLS1JLURrMWVwLV93VkxTOWhBXy1oNV9QaE56aUVSY1BjR09Kb2FKdkdSaVYtSUphMlNfUElwQ01vOFdSdlFyY3BROFdtSFFHNU9ZblJVQk9pVkRNNkk3RUxkSFUyU0pwRWp6bGliVGFkZW1xUFF4LTJiM3JHOWdDLU5Tc1FybTRaWTV0NHM3T0hNeVlSTnRGMUtSemZiNkpCa1Z6OWJCbTB6a1Y2Sm1GeHlwYkhwSy1YelYzSXIyX1IyZU9kQ3RodVFERHVnTjJpcXdXeVZ1bTdKdzRFb3NUbi1lWEtNS3ZQb0xaTE5KRU9razU0NTV2LVE1dERaN1Z5Y2tSdlp5Snp3WmlKWHJxdEYwWlk?oc=5",
+    "date": "2025/07/14",
+    "fetched_at": "2025/07/14 18:51:25"
+  },
+  {
+    "serial": 5,
+    "title": "史上首見！俄軍士兵向機器人部隊投降 AI押送戰俘引爆國際法爭議 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxObENabnpHcDN2OEptY3FMSVZKc0JlUGdhekVNcUxmT3pQZ29fT1p2UlpOWEUyUDRDT2Z1cG5MN1lENkpVN3NuY2RpajZiX1lFNHpGRUVSMlNIeTlIamJ2bzJuY3R5bjNmNnkwam9kWWVYNWp2MlNzVmpjbnVhZWhQRFh6V3o1Y1RETmhpSWE4eU9aSXB4d3RiOWtyNFZTVi1mV0l4VVFvdENyWklRWkRXTE9oTWlwTmR4NzhBcnJoOHdOVU9LY1JKbXJXVWQzUEVCRE5HRHBoajZGNG8yMTJZQkdHV3c3emVQWGdaQjktOVJUZnZWbmFJYmw5OWRfVXQtY3lwWlNQWFN0d0tvRTRHcHl5aFJfdVNWSEluTDVrYmJJOG5FQW84aTlFWmY5dlZZR1pmUFJyY3ZYUlNWVjUycFgzNGZOS1pwOXdWNXltNV9DbHdPZmxIVm5TSVdyQTdaejctekppRTVBVF9yUkNscjRDZTBZVHRlWjRidl9KaS1MS2FKTDI5ZDYwVFlXSmY4ZU1kRjR1b3BHY2pr?oc=5",
+    "date": "2025/07/14",
+    "fetched_at": "2025/07/14 18:51:25"
+  },
+  {
+    "serial": 6,
+    "title": "擋土牆掏空見「天坑」！ 南投信義鄉草坪頭民宅陷墜谷危機- 生活 - 自由時報",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LNFkwT0xCUVA2VTZXQW95TFdENWp2azRocHRUbnh3LUw3UThKaXBQaERfakFSMk9ZdS0yNmdzc2had3BDaGFTRUNycmVzUG5PeThrUzc2ZEVEbmpsd3NLdTFraE4?oc=5",
+    "date": "2025/07/14",
+    "fetched_at": "2025/07/14 18:51:25"
+  },
+  {
+    "serial": 7,
+    "title": "周深被拖行11秒滿身傷 粉絲怒轟《奔跑吧》節目組冷血P圖卸責 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPeVA1VEM2dXNjT2paV01nUmIwSEtoVEdtWlRnSS1SNGI0LU1DdjJQLUVWNXBVR0Z3cGZxQldKRE4xY0VWWHZJNWFkV0gwSHNsVl8yanJtUlV5b1ZmNG1mUUp6NzlpbzNnU3UwTUV4Qml2azh6U0dieW82azFwRUFwNVpXOG5fZ1duRWUzY05qakRic01iQzhTSFRKN244T1lLMDBQX28tb2s4bkVzRGhiYlBrSnVYelMwdEpNVXVQck4tV0JFWUYwZmpUeWs3Z2pMOWJZVjZsV2tWdkxVVFktQnotcTFsd3JrOTlqTy16VDZwRklvV2dkSWs5M0xFQlFiQ1oyV0FLZWtuanlHSjBKUWhkV2oxeEFTclRGbkFyTjBwWE9KQ0w5anEyLTZGRm1MTTIzVUVmVGVqSkxqZE9uODA1UkNoZTgtalIwUjR4aDBjQ0trc3gwOUlaTGt6bk1aWERyX1RWMEhHSjhfdmNFZDN4dWtjUHdRT3pj?oc=5",
+    "date": "2025/07/14",
+    "fetched_at": "2025/07/14 18:51:25"
+  },
+  {
+    "serial": 8,
+    "title": "台灣老婆尖叫！B2豪砸八位數「包下SJ銀赫」來台主持 - 噓！星聞",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IcC12NjRMYklxc3RBdHZkR3g2Q09KMEZmOW9tR2JlT1VaYW5hRUlqZThaNWxYaDRTMmgzcXNIdjVtTk91aUp5bnViUFA1c1N5NDJqcDFZanpnd9IBX0FVX3lxTFBtXzFHSHJvWGVBWjV5SmtXeUt3Z09vMVBvQTR4NVctMkk2Yml1NnJkR0ZtVUQtaTctajdJQ0dTbFJuUFk4Q1BBNG1LOUhQRjZWWDBYY0xLU0g1YWFqZldB?oc=5",
+    "date": "2025/07/14",
+    "fetched_at": "2025/07/14 18:51:25"
+  },
+  {
+    "serial": 9,
+    "title": "肺炎鏈球菌疫苗PCV13、15怎麼選？醫揭「正確順序」保護力最佳 - 優活健康網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsNWNRajg3RXBCMzI0U3FnV0JwdTVEYVp0YlVZc2ZCamdLVTFQX3Z4X3dXVXhpQUtBREJHZHZmcVpyOE5Qbl9BRlNEUERZaWhQQjFF?oc=5",
+    "date": "2025/07/14",
+    "fetched_at": "2025/07/14 18:51:25"
+  },
+  {
+    "serial": 10,
+    "title": "銀河系周圍可能隱藏著 100 個未被發現的星系 - TechNews 科技新報",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQemJlOXNTTU8tS0liWVp2TVprM1d3UUhySGlVQjc5aFR3TW1wSGFUbWVxanA0NUJQMVdOVXBWeU5JQzdWUnhCd1VyVlRuNWx5Vm1mc2ExdWJ4UG1TcHUtMHFRTXlhRzZrMmVha0plSWVLMS1EdFVDUTdON1diUTE4RmVyQ0U4a3RIZEE4WTFWOA?oc=5",
+    "date": "2025/07/14",
+    "fetched_at": "2025/07/14 18:51:25"
+  }
+]
