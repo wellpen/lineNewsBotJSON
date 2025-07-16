@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-07-16 18:31:13",
-  "news": [
-    {
-      "index": 1,
-      "title": "Markets embolden Trump on tariffs, stoking fear he’ll go too far",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-11/markets-embolden-trump-on-tariffs-stoking-fear-he-ll-go-too-far"
-    },
-    {
-      "index": 2,
-      "title": "Blackstone, L&G sign $20 billion private credit tie-up deal",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-10/blackstone-l-g-strike-up-to-20-billion-private-credit-tie-up"
-    },
-    {
-      "index": 3,
-      "title": "Sluggish loan growth drags Indian banks’ bond sales to 11-year low",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-10/sluggish-loan-growth-drags-india-bank-bond-sales-to-11-year-low"
-    },
-    {
-      "index": 4,
-      "title": "IndianOil-Adani gas plans $161 million exchangeable-bond sale",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-09/indianoil-adani-gas-plans-161-million-exchangeable-bond-sale"
-    },
-    {
-      "index": 5,
-      "title": "Oil declines as traders take stock of US tariffs and OPEC+ shift",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-07/latest-oil-market-news-and-analysis-for-july-8"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "女足抽血案教育部開罰校方110萬、喊停台師大人體研究新案| 生活 - 中央社 CNA",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyNWQwZ3FuWUllcHJHZUl6LWk1OWVzWkhsdEl1WUVDSmZrY3FjWFJlc2J2QTJTN1BwUWxTOGE2R08zVHh1V0Z1dHVmS3JHUW5sNFJhd1VqVXl5UXBaWG9z?oc=5",
+    "date": "2025/07/16",
+    "fetched_at": "2025/07/16 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "跨域研究攜手開創視覺神經系統損傷修復新局- 焦點新聞 - ntu.edu.tw",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BbWRCYUZKWkZaaWRvUy1jTjVBM0NEazhsWHVBVm12MnR0a0Fwd1dkUWJmaTdWc2lHZElkYk10RWgyUW5FRjBydjhHNUNYS1RydG1aY0w3MTVfLWMwRFNZRDFselJxNVk?oc=5",
+    "date": "2025/07/16",
+    "fetched_at": "2025/07/16 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "類輪椅籃球遊戲《拖曳 & 突破》上市前將舉行線上比賽「Global Jam」《Drag x Drive》 - 巴哈姆特",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5MGtNNFViSzNwcHZaWUl0UFlERVlxZjY5MUY3V19FRFRVUWdaTGlrZlBEMS0xWEdqLVdjY3RVd0Z3R1QyT3F0TXoxSkVmUUlpZ1FSUGVacmc?oc=5",
+    "date": "2025/07/16",
+    "fetched_at": "2025/07/16 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "「SEGA 夏季特賣」現正舉辦中 最高享有 80%OFF 優惠 - 巴哈姆特",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxZ1JVLVQzNXZTVkN5X0gyUWkyUDYyODdLaUowYnVyMzJCelkwUTRMQUhKM255dUpjVkdCNHpyZmFhdjhjX1ozS0o1dzRfUlh3MHZHendISHc?oc=5",
+    "date": "2025/07/16",
+    "fetched_at": "2025/07/16 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "[電競週邊] 享4000元折扣 COUGAR美洲獅 ARMOR AIR電競椅 皮革、網布兩用椅背設計 - XFastest",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GZUpvSGtESTV1cVRYNTQ4UDVPSHJvaUdVVHB1ZUhiUnBST3ZYZ0lUNmliY0VYUmc5VWs4RFlBbWNmcGxEVEtVbTRzdDBwOHNLNVBKLTVsUWlmaXM?oc=5",
+    "date": "2025/07/16",
+    "fetched_at": "2025/07/16 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "MLB明星賽》想對決大谷卻被敲安 老虎塞揚王牌盛讚：地表最棒球員 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXanBLNGVFTjFxU3BHT0tFQXNXWTljY2tTTXk3dEdhNjY1eTVMUVlMUUhXSEJhcDYyN3hpWEdKc082SE1kOGVrRFRpWEZWeTJRc3p4dEZmVmJpT2dTaFVKeNIBZkFVX3lxTE1YLWtyUEVUZnZVSjVJejIydmk1a0gtMnN6Qy1yM2lhMXBJZEx4SjdZbFlYRVdCM2lUbFN5N05WXzZJSkZTNUxJT01na0RTa2tlSzM3ejN0VEdpdVhocWFScTEwdnFsZw?oc=5",
+    "date": "2025/07/16",
+    "fetched_at": "2025/07/16 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "《暗喻幻想：ReFantazio》全世界累計銷售套數突破 200 萬套！公開全新繪製插圖＆舉辦紀念優惠促銷活動 | 遊戲基地 | LINE TODAY - LINE TODAY",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LVnYwUTA4Qi00TUZ0ZzVfQ0FuUGdpd1BZWlZRbkJsNjk1a1F2c3RxbS14TzVsUUVqakM5WGdGTFlubElneS1uMGs4U2U1ZWZYMi1wNjRB0gFbQVVfeXFMT1VDOWIyODJEY0ZUYXEzb1lNQU9CLVZpMkxVMmdIWTgtWnJsNmtfM2pNcTRRVkFvd1NYYTlIUnNXdUx0SFFvSTJCNlp3LVZyVG9ObW1vanJHbXJPaw?oc=5",
+    "date": "2025/07/16",
+    "fetched_at": "2025/07/16 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "黃仁勳：AI下一波浪潮是機器人系統 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oeTJxZHVvclljZWo2cE0zUlViVDJSM3hsdVJHZi1kRlRjNkRUV3hFb0tTN2VUcDJGTTRrNW9qU21zWjhzQVRvX2RyTUlwYWc?oc=5",
+    "date": "2025/07/16",
+    "fetched_at": "2025/07/16 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "高雄、屏東防空演習13:30舉行 不聽管制最高可罰15萬元 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNUXJoSUFHSVdNVzhYVVlxSW14T1VyS2JwYlNRSDEzQV84YmZRNHphaWJoU1huWWFMOXZ0WmtIRjFEVkhFaHZSNnlBT0E0ZFhSQ0c2NXNCVzVNTnBVWmVZU0xyeEZfTE5qS2xVMjRhUlZqZ2ZNenM0dUpBX0RVTGQ0R2RYTDA2a2hYSnBZVTFFd2Vxb1lOa25MYkEtQ19GYkhETS1sSU1EU2dIcVVvZ0l6dXcxUDk2bUg1cGRHbjktem90dXB6T0pUQzlXNDBReUFLV1ZqVXZENmtnSGJCS0FiUHZlTEdXOGstckRlR19wSmpwTnZEWHRGR2JqdmtzNjZVRDlSaXgxSjVMZHhad0RNcHYtTTllVEZkemtwQURvTjFqTU9YbXF2RVFvS0hFNXJaZ0lLRHZ5Xzk2aEtBRkdfZ3N1d1VuZEpPNXlMWmc2TkRBU2tSdF81Sw?oc=5",
+    "date": "2025/07/16",
+    "fetched_at": "2025/07/16 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "特朗普向普京發出最後通牒，烏克蘭人卻感到難抱期望 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPckk4Zk9mUlg5VzVSQTlnb2x4UmpYNHRJTDhyV0FCdW5zSlBzM1ExWVFvc09TOENRSmNpM253aERzNTBUTEMwa0xsbDN6d2Y0Y1pTUzZlaElOekRZRlhrT1dUUktqbUNPOEFnNTBWMDQtOU1FdVdZUnRmb3VPUlNNSzY2X21BLVlDVndyUGIySDgzRW43aFJRaThPMzNlT0ZwZGF6NFhpSXJDN2s3QzBkOVJmX1lMNFl4bXB5SGlkbUVNUzJ4WWlNNDU3bW9MREFwMFN1QmlubWkyblI3ajFIdE5KWGc1NUwzSkZPdWJ2cTBfeDdqXzZsUUlIdUs0UEpPZlJkMVp5UTU5dGZ3RUVSWkRScVVMWHFmOW1jVVhXd1o1cHc5SVhoSWhnNk9aUG04SHBqZ1ZKYkFWbnV6cWZPUVdYYjVoYWw4WWJlbEhjdllXVFNoc0NTcXdwYWNyeUg4R1ptYlhSd18?oc=5",
+    "date": "2025/07/16",
+    "fetched_at": "2025/07/16 18:51:24"
+  }
+]
