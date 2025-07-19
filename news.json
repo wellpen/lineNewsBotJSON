@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-07-19 18:28:17",
-  "news": [
-    {
-      "index": 1,
-      "title": "Weak credit growth and rate cuts to squeeze profit at HDFC, ICICI Banks",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-18/weak-credit-growth-and-rate-cuts-to-squeeze-profit-at-india-s-hdfc-icici-banks"
-    },
-    {
-      "index": 2,
-      "title": "Trump says he’ll send tariff letters to more than 150 countries",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-16/trump-says-he-ll-send-tariff-letters-to-more-than-150-countries"
-    },
-    {
-      "index": 3,
-      "title": "India seeks lower tariff than Indonesia in race for deal with US",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-16/india-seeks-lower-tariff-than-indonesia-in-race-to-clinch-deal"
-    },
-    {
-      "index": 4,
-      "title": "Trump seals Indonesia trade deal with 19% tariff",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-15/trump-says-deal-struck-with-indonesia-without-providing-details"
-    },
-    {
-      "index": 5,
-      "title": "Markets embolden Trump on tariffs, stoking fear he’ll go too far",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-11/markets-embolden-trump-on-tariffs-stoking-fear-he-ll-go-too-far"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "周佳正醫師過斑馬線遭公車撞死 衛福部桃園醫院震驚不捨：無可取代的損失 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxNXzFCaHQ0cGl0OHpXMEp6U281OHhLNjI5OUJPVVhjWTlTNzZEdlRkNnN4Uzd5cWJBYUFaOTNtSzI0bHNvbU9JQlVIbl9IR09ZZG5qLUNVVXgzZnh4Z3Z1bWQ2U2ltS2xQMDhPcWpUNEpkYW16aTczNExlNG5URExrSl9oSW9MdGhIWktDdGlORkFkQlpkY3RkdnZ0VTNVVUtGWDNWMDdLRWRlWGFYZGNTRmVwMlJjZ2g5b3Z5RmVFVnVKc2FoenN4OXgzRDkxcHUzRElBZUJ3Y0hHRzA0c01Nd0YzS0dDM2ItZ2ZoV1RmT0JYWWp0WWItYlYzM29fT0pVQzZXQldNSFYtVm0yQVNFWXNSc2NQVld6bFdLTW9IRjZnUXBmaURlZGVJZWxMWHpyQnNFNk01eVVWRjhicGlXOThLMGFZUDRiOHdOTzNLWW9vMmJMclFXN1ZMNF8wRE5MZ2NxZFZjUUpNdzlaOVZrdGN4bjBJczhHX2xmTFBJZFNoS3ptM3NKTDZCYWRLby00c2dIUl9ZRGlTSVBMajNnaW5aVjM3eWhhT05wSVZ1ZGZyenZkV2VxUXZ6OVVfR0tVb0wwVmh6WW04d05MVDI4UlRNQ2ZHT2VtMmZOSi1DQVU?oc=5",
+    "date": "2025/07/19",
+    "fetched_at": "2025/07/19 18:51:25"
+  },
+  {
+    "serial": 2,
+    "title": "Assassin's Creed Odyssey 的世界導演揭示了古希臘設定的最大問題 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQkNZdV9xRGRoNWZNaGRuXzBPaVBCZnpmbUlmN0hhUUJhTEROVWF2YU5RTkRON2ZOaXUweXpSa2dOUFJaQ3FFTlNlS3BrRV9QY2ZMY21GOHlkLTNyZDhKUVBvWTNFbWtnX0RRaFR4NUI4OU90dXJ2VjlhWDBfMVlXaF9BRWtzZmhRYnJ4TXpEMm4tVjhjY3Y4b2pZRV9FWlhlRUNuUjFSY2luRjZhUHFaTDN3SFgzdjdNRkhHaWo2bGFRdUVp?oc=5",
+    "date": "2025/07/19",
+    "fetched_at": "2025/07/19 18:51:25"
+  },
+  {
+    "serial": 3,
+    "title": "「胰島素阻抗本身就會致癌」 醫：泡芙人也會中招 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43bk5VLWFySnZZRkFSZ21LRGo0d2xPQWVZMDJHdW9qZU15Z2FoR182dU9DUHZuNlFnUlMycG5lSkJNM1VwUVFMbWNSczYtdGJJUms0SVlzcXg0azlLSEJ4ZkVwNE9lckMxbVVoTkx3?oc=5",
+    "date": "2025/07/19",
+    "fetched_at": "2025/07/19 18:51:25"
+  },
+  {
+    "serial": 4,
+    "title": "中職全壘打大賽》平野「端菜」助威？兄弟3參賽者全數晉級複賽 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSU9DMm9LcVI0ampyYzFDSEhjWkRYV2M5cEJmcnhuSEhMSUhQTlhHRjFoT2dUR3lkWjRNSGFoYkJPbEdaTk82VU8xU3JfZGFvNVdzOC1CdkdISGZwaVFUatIBZkFVX3lxTE1sUm96MlFnTFN5Um1aNk1kZkRGX2RxVTM1SnI0Q1J6bXpuRGo4YTkwUHJBLV9aRVdmejVBODFfSmhRRlI2YTNPVFJrR0w2SEMwN2xTS2pIUHZaVVVYNlhwaEZpTmU5Zw?oc=5",
+    "date": "2025/07/19",
+    "fetched_at": "2025/07/19 18:51:25"
+  },
+  {
+    "serial": 5,
+    "title": "台師大女足抽血案周台英道歉簡奇陞：將卸下受害者角色不再受訪| 生活 - 中央社 CNA",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PVFFWNDVHU3YxVk12RDRLRU1sN3gyYlZ5U3dHMk9ZcTVQOXEtZE01aHF4VXIxVlZlbGJ0QVNfeHpkdjNYNEItNkliNHhkSDVobTJCTUh3THg3WE1tRktR?oc=5",
+    "date": "2025/07/19",
+    "fetched_at": "2025/07/19 18:51:25"
+  },
+  {
+    "serial": 6,
+    "title": "陸戰隊退伍YTR參與漢光教召 曝救人比殺人難、體能比戰技更重要 - 自由軍武頻道",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxbWVlcDZDelpERDBDQnd0SzZQYU54ZVZ3aElwd0xzYXkxUDB2T3U2LXBVb1prTWphek5VbGdiUG5sNjM4bEtKYW5kNm8wMG9tVkJxeGRtYlBHZDVjbV9TWNIBZkFVX3lxTFBIZTV1WUxZckpoQWV0QllIOVBLREh3LXhqeWN2UUExU1N4elQ3VHNERWVsaEhwYU15amNTWlBPR3NnSjlQejh0ZVJzLUgwSkRxLVc1a2dESzdqOVZNcVNKSHpFSmlGUQ?oc=5",
+    "date": "2025/07/19",
+    "fetched_at": "2025/07/19 18:51:25"
+  },
+  {
+    "serial": 7,
+    "title": "快訊/傅崐萁「超狂出手」重大宣布了！ - 中天新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xbjJxWUVkeFlXOGZ1YWEzeGRnRW55Sy16MWJfY3VtNE5JU0tLNmtac1NWckczRTVHbUFZX2hRb3JEQnV6TE92by1GUGNGTWJnWGM0?oc=5",
+    "date": "2025/07/19",
+    "fetched_at": "2025/07/19 18:51:25"
+  },
+  {
+    "serial": 8,
+    "title": "台積電一觸1160元天花板價！ 逾3萬股東獲利了結 - 奇摩股市",
+    "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOektYZHpvWDg4SzhKMHVTbkxnZ3ZoZVAzTzVhbVZsb09vNnhPTUpWUElzcVppVFl6b0w3YUVqRnJVejZoLV9iaDh4RzJaMTQ3bU9uSmFFWk5CUklLek42RDZoZXlsSEtKME9veExwTjRkdmswOXRTZmFjdFFrMS14d3pOb1RxZHBjQ1JwRXJSSXJPQjczTEx2TVJhV1FLVnJfalJPdlQ3LWpUSUNKS0U4N1A3bU5za01NSEs0WElkbldLUlc1UzNOckVHTnZYZUJZOFF6SGZGYXZmNFltODJvVmpZU3otRDE3TnF5U2o2Zl9sN2FBejJ3VW1aTjVsckJQdkVtcnBhVWxyajRwc3RPSlZzbU9vdnFaNnJMVjl6SG05MU0wNy1BS0VOR1huLVBqVXNPWkJRLU5WQjl3b01pYUV1aXB4UW8?oc=5",
+    "date": "2025/07/19",
+    "fetched_at": "2025/07/19 18:51:25"
+  },
+  {
+    "serial": 9,
+    "title": "對脂肪燃燒的新發現，可以永遠改變體重減輕 - citytimes.tw",
+    "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNZmtyMXpmRW1sRmJSNWcxZUtMX18yelRyOVZ0ZVBoaHJpX0JhLVc3OXQ0eVJFdi1ZS1hhLWs1U1J6QjMxMW4tRTU3anRxYjNiZ1kyR2JqaTB1dmRhR2h5eGJCc0FKdjNMeUZqdUoyczlFUk5fUFVlbURyRmhoWWJVclpzQWVZT2t1TzFtdVRGTlBiZFAzaUMzSTZfWWg0dU1FQWhfeUgwbllBOS0tbEtSeVBHX3RNMWNlTTFUNXFNOXZpdG5FaWtfdVFmSm90b3k4VlNjd1FYUjQ5a0ZjVkdNc3FHQVdUbXVlVV9wLUZSNFo1dF8xaUZOSGp0NU0zSFdvLXN4LVRBcWlLRTdqOGV3RXI3RzBZNGJSQWV1NndRSTBzYV9aQTh3bWlEbmJka2cwN3NialY4WE9Lb3RQT2c3VThtbUdCY3ZCb2c?oc=5",
+    "date": "2025/07/19",
+    "fetched_at": "2025/07/19 18:51:25"
+  },
+  {
+    "serial": 10,
+    "title": "被說騙來的婚姻！陸元琪揭當年離婚袁惟仁內幕 「巨大委屈獨自面對處理」 - 噓！星聞",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93cng2c0xGUUlhcm1CNHZYNXlMLUxPWldMMnVxcU13TzlEYzRWUk9JUzhpbUxjOHd0eEdaQ1pLYmxfeGtYd0NkbXg3UGFZSUlONkNEYzBUM1BNQdIBX0FVX3lxTE5wbUVLOXZCLWtEQ1MwNnJuOVpGLXN2QVB4VEdYdTVmcFhPQ01QUWo2a3VqaC1FU2hLQnRWa3FTYXFZdW01aUZnS3UyQXZUczB2WG83R0U2SXRMUnhZOV93?oc=5",
+    "date": "2025/07/19",
+    "fetched_at": "2025/07/19 18:51:25"
+  }
+]
