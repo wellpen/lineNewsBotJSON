@@ -1,30 +1,72 @@
-{
-  "generatedAt": "2025-07-20 18:29:30",
-  "news": [
-    {
-      "index": 1,
-      "title": "Tariffs trickling to US consumers",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-19/world-economy-latest-tariffs-are-trickling-more-to-us-consumers"
-    },
-    {
-      "index": 2,
-      "title": "Weak credit growth and rate cuts to squeeze profit at HDFC, ICICI Banks",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-18/weak-credit-growth-and-rate-cuts-to-squeeze-profit-at-india-s-hdfc-icici-banks"
-    },
-    {
-      "index": 3,
-      "title": "Trump says he’ll send tariff letters to more than 150 countries",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-16/trump-says-he-ll-send-tariff-letters-to-more-than-150-countries"
-    },
-    {
-      "index": 4,
-      "title": "India seeks lower tariff than Indonesia in race for deal with US",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-16/india-seeks-lower-tariff-than-indonesia-in-race-to-clinch-deal"
-    },
-    {
-      "index": 5,
-      "title": "Trump seals Indonesia trade deal with 19% tariff",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-15/trump-says-deal-struck-with-indonesia-without-providing-details"
-    }
-  ]
-}
+[
+  {
+    "serial": 1,
+    "title": "中職》明星球員就該認真打！洪總直言「明星賽需回歸棒球本質」 - 自由體育",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qelZTUWhYdE5rU3ZtTmk4STk0eXZiVVJOeWhuUEkya0p5WlpPanFCUndKcm9uX3JyZzBiV1FkNWEtYmdHS1c1c3pXQjZSMl8wMGZBRExaMUNwZGtPYW15Tw?oc=5",
+    "date": "2025/07/20",
+    "fetched_at": "2025/07/20 18:51:24"
+  },
+  {
+    "serial": 2,
+    "title": "「排毒神汁」真有那麼神？營養師警告：8類人喝西芹汁恐傷身！ - Mombaby 媽媽寶寶懷孕生活網",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52SjN3X1ZhRlV3emlIXy1Yb1FLRVI4NFh1d092OTVseElTWWFDVnE5VWpOWXdybDJBV1VIMGJrUnQwOW1UTnpFVXlxczJDRUhiaUd6RlFB?oc=5",
+    "date": "2025/07/20",
+    "fetched_at": "2025/07/20 18:51:24"
+  },
+  {
+    "serial": 3,
+    "title": "陳佩琪表態反惡罷︰大罷免若成功 柯文哲會被關到死 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPTmh3OXl5VWFpQV9fUU96STluR0R5d2UzUkc5NlRsVHdnbDJlcFRvMFNwRFJwc3I3QmsxSXRGQU84RXpiQVRZaWhtZ3llQlpXdjN3WUhrbWF5OTd5aEpNYkFuVTN5UFJSUlVyVHJHNzlxQ294cjh2YUJrYVo2Qlk2M1Q5RGlOd0VjV3kwVzRNZXItV1lMTnIzU19FTkU1VWZOM2ZwYTIzVUp0NGJ4QWh1ZVB5SGlGVEY5VUMwN2REZDNxMTR5bWxzVzd0a0dSQTFLTEZCNFFiQzJtbVZ2dXFRRGpQQTUwNTlwRXVJWUhxZzJoZTRZRkJYemxPWGNoWEdtNHQxdlRrZlVyci02Si0wQzJ3Q2F3QURxVklkenJGR2tCZ3dHTERHU014ODREMVBhVUlqSVkwazJ4N1BNUHVCSlpoM2h2ZEljcTh4cEgwN0VmSkI1ampkNk11MUYyRnh0WHVVOGstNE4?oc=5",
+    "date": "2025/07/20",
+    "fetched_at": "2025/07/20 18:51:24"
+  },
+  {
+    "serial": 4,
+    "title": "Star Fox 變得搖搖欲墜 - Rumble 來到 SNES 經典 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcG9YcTVIZ3V5QkFQc2hUOUVvR1hMSlRpaUVnaHpkS2kzZnBDQ3BnNHZLZjRDYmRDYWJGQW8xWmUxZ2dhUVhpUk9iQjV5WEE1VHY2Q19LSjA2VFlwbGpsWFlHU0xPNEtMUjRVdTM4RGk5dE9ndUZLZElqUWN6SVo1YUpTSUdRTlBra2dzM3NUSWdwUQ?oc=5",
+    "date": "2025/07/20",
+    "fetched_at": "2025/07/20 18:51:24"
+  },
+  {
+    "serial": 5,
+    "title": "Crossfire: Legion 將從 Steam 下架 - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTExVUF9lZ2NZVWlyUnZzd3QweTlfSUMwbzNmUVdqckx0VHJMVkc1aU1ITXZfdk9wV1FnS2ZxMzk3UkZDQ1phR0E3ZHUwb3V5d2ZScmRENlc3RkotWjN6NXExT1VnS0x5WDN2SUFZcjhXaE1zRnRpdW8tbWNZTjA5eFdKUWk?oc=5",
+    "date": "2025/07/20",
+    "fetched_at": "2025/07/20 18:51:24"
+  },
+  {
+    "serial": 6,
+    "title": "彩虹六號中的無主之地：莫齊飾演精神病人，智商飾演莉莉絲- Rainbow Six: Siege X - gamereactor.cn",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQejBfd2hzR094S0ZWY1ZMcF9LWE1rTlFibk5XMkZRdjEyaGVqQVlHY0V5akFzLU1PalZXeDNMZV9Ma0VQWDdZQnFVdTh2Zzh5Yng1d0xsSnRhdnFDWmNSaUx6U0pQU3ktajdMaGppU1k1RkYwSm9YMjk0RnA5Yzh0YTBrdEtwTU1BZHJMQk9FM29GMkZ5SlNzVzR6XzN1d2M?oc=5",
+    "date": "2025/07/20",
+    "fetched_at": "2025/07/20 18:51:24"
+  },
+  {
+    "serial": 7,
+    "title": "林襄明星賽怎麼了？後方球迷提醒 她急向李珠珢道歉 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNT3k5Qkl4b1JsRXdvbXpyVTU3VEhpV1I5MEZmQ1F4UlI3d0VrVTQxa2xDclVfRXdyaW5oZmxtcF9ZNWIySDYtdU44ejd1YUk0MVZvdXdYTFh2WTZhZFZfWnpEbnRlRm5hcWhNeXZPLVpGN2hDVGxraEY4NTJycWxZTVhmZ28wQ0lfclJmbTliVWhtNzVUSTh0TjNHWFQ3X0FBMl9uZW9DM0JyTjd2OFZZSWUzTVBNU3FrNzJfZGhVa2F5Tk5Hekp6SkVZS0xzYXFrZFk5ajBOV29DY0xMQ205WEw1c0Nva21uRUktbE03MmRjMTVLTTE1N05xeEVoSTd3RGFkSml2bVFOZm9nbk53anF6a2pLWXlmQ2tVeF9hbDI5Y19zNXJxaGx4ZUpNb3N5VHFoWV8zOUNueUtucVktU0t1WDV1eFEwN2N3Z2FuWHNzcnNROFZzd2tHdDZqZw?oc=5",
+    "date": "2025/07/20",
+    "fetched_at": "2025/07/20 18:51:24"
+  },
+  {
+    "serial": 8,
+    "title": "中職明星賽》經典！ 郭泓志拿「龍仔的球棒」砲轟王建民 - 奇摩運動",
+    "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQMWhtQm5BZWtRYmIzQXJDSy14ZTRyempqWkdJZ1l1RGI5bHY3VjBWamh0WF9ReVR2OUFZQ0F4dDBDTE5TREl4WFN4UlNSQTI4RnZXUEljbU5WLXRpY2Nud24xRWdGa096bWtHaElBSzc4SjF0ZFNETEZiV3RQbnBVQ3lfaGw0UnNycUZLSlV1Tk5VN3lBamdOR3hNd1kxX3dQbHNEbmhtaVJTazZqR1Z1OEt2THFRU2dNdFZ3d255cHkyVEFTclhzUzBXcWJFQVpZdjdGS0ZwdTlkc21FR1BzRkY3V0lwUDlXQmJBdWo3VUJKZWx0TE52Y3UzNTBBMFY4V1VlVUFCMV9iOTF1em5xNWs4dGFvTVpERTBNaE14VXZYYnRmeElBWm42SEtjdk5aN3hJN0kxS041ZTFOeGNxc2s2SXlPU2laT2FfR2R1amxLZw?oc=5",
+    "date": "2025/07/20",
+    "fetched_at": "2025/07/20 18:51:24"
+  },
+  {
+    "serial": 9,
+    "title": "注意雷擊、土石流！8縣市發布豪大雨特報 恐一路下到晚上 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wM0pabF96dEdPVkdwZGh3Z0lOd1E3bm95d19QNUlCTmpoOURuMS1QUEY5N3NBNXFfcDhLcEVEdVZ1bnZEQ2xVS2x5LUNEWm5Y0gFWQVVfeXFMT255aDFiNHRUdUFnQ21Vc2ROeHNXcHhkZFhyczE4M3BuSlhoTDlwUFE5S0E1akQ0cVgzeTF1WnNCa3VDOTFoZk9HNFNVbXU5YVA4a0RHSmc?oc=5",
+    "date": "2025/07/20",
+    "fetched_at": "2025/07/20 18:51:24"
+  },
+  {
+    "serial": 10,
+    "title": "中職／明星賽曾頌恩全壘打大賽14轟奪冠 兄弟隊史第4人 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Pc0NNOTZmWlkxUU9VZGZnT3pURHpmR2hvWlBHQVgwUXFCTnJzcVFZb2Zjc2hLUnpUN19mN3p1bWNjYTNrcnFHWUF1YmNmTWR00gFWQVVfeXFMTTFTc2t2S3FyS0RWdUxpdFZKTl9KSElQTkdHSTEyUENDaGk0UWFhT2JCczQydGIxTE9iT1pIZ2pwbVFGVVU1TjNhbU5XMUUybUw3VzE1aXc?oc=5",
+    "date": "2025/07/20",
+    "fetched_at": "2025/07/20 18:51:24"
+  }
+]
