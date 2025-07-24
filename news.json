@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-07-24 06:12:49",
+  "generatedAt": "2025-07-24 18:31:02",
   "news": [
     {
       "index": 1,
+      "title": "India overnight borrowing cost tops key rate as liquidity thins",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-23/india-overnight-borrowing-cost-tops-key-rate-as-liquidity-thins"
+    },
+    {
+      "index": 2,
       "title": "G-20 communique delivers rare show of unity amid Trump trade war",
       "url": "https://www.bloomberg.com/news/articles/2025-07-18/g-20-pledges-to-strengthen-cooperation-as-it-seals-communique"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "Tariffs trickling to US consumers",
       "url": "https://www.bloomberg.com/news/articles/2025-07-19/world-economy-latest-tariffs-are-trickling-more-to-us-consumers"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "Weak credit growth and rate cuts to squeeze profit at HDFC, ICICI Banks",
       "url": "https://www.bloomberg.com/news/articles/2025-07-18/weak-credit-growth-and-rate-cuts-to-squeeze-profit-at-india-s-hdfc-icici-banks"
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Trump says he’ll send tariff letters to more than 150 countries",
       "url": "https://www.bloomberg.com/news/articles/2025-07-16/trump-says-he-ll-send-tariff-letters-to-more-than-150-countries"
-    },
-    {
-      "index": 5,
-      "title": "India seeks lower tariff than Indonesia in race for deal with US",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-16/india-seeks-lower-tariff-than-indonesia-in-race-to-clinch-deal"
     }
   ]
 }
