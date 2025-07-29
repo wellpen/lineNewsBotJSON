@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-07-29 06:12:49",
+  "generatedAt": "2025-07-29 18:31:04",
   "news": [
     {
       "index": 1,
+      "title": "LIC turns to Wall Street banks to hedge risk",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-28/india-s-insurance-giant-turns-to-wall-street-banks-to-hedge-risk"
+    },
+    {
+      "index": 2,
       "title": "India overnight borrowing cost tops key rate as liquidity thins",
       "url": "https://www.bloomberg.com/news/articles/2025-07-23/india-overnight-borrowing-cost-tops-key-rate-as-liquidity-thins"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "G-20 communique delivers rare show of unity amid Trump trade war",
       "url": "https://www.bloomberg.com/news/articles/2025-07-18/g-20-pledges-to-strengthen-cooperation-as-it-seals-communique"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "Tariffs trickling to US consumers",
       "url": "https://www.bloomberg.com/news/articles/2025-07-19/world-economy-latest-tariffs-are-trickling-more-to-us-consumers"
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Weak credit growth and rate cuts to squeeze profit at HDFC, ICICI Banks",
       "url": "https://www.bloomberg.com/news/articles/2025-07-18/weak-credit-growth-and-rate-cuts-to-squeeze-profit-at-india-s-hdfc-icici-banks"
-    },
-    {
-      "index": 5,
-      "title": "Trump says he’ll send tariff letters to more than 150 countries",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-16/trump-says-he-ll-send-tariff-letters-to-more-than-150-countries"
     }
   ]
 }
