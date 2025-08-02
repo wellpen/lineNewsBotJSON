@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-08-02 06:12:24",
+  "generatedAt": "2025-08-02 18:28:18",
   "news": [
     {
       "index": 1,
+      "title": "Philippines’ Marcos eyes India trade, defence in talks with Modi",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-01/philippines-marcos-eyes-india-trade-defense-in-talks-with-modi"
+    },
+    {
+      "index": 2,
       "title": "Who’s most at risk from Trump’s 25% India tariffs and penalty",
       "url": "https://www.bloomberg.com/news/articles/2025-07-31/who-s-most-at-risk-from-trump-s-25-india-tariffs-and-penalty"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "Global Markets Mixed as Investors Digest Tariff Impact on Earnings",
       "url": "https://www.wsj.com/finance/global-markets-mixed-as-investors-digest-tariff-impact-on-earnings-f24c009b"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "LIC turns to Wall Street banks to hedge risk",
       "url": "https://www.bloomberg.com/news/articles/2025-07-28/india-s-insurance-giant-turns-to-wall-street-banks-to-hedge-risk"
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "India overnight borrowing cost tops key rate as liquidity thins",
       "url": "https://www.bloomberg.com/news/articles/2025-07-23/india-overnight-borrowing-cost-tops-key-rate-as-liquidity-thins"
-    },
-    {
-      "index": 5,
-      "title": "G-20 communique delivers rare show of unity amid Trump trade war",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-18/g-20-pledges-to-strengthen-cooperation-as-it-seals-communique"
     }
   ]
 }
