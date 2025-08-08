@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-08-08 18:30:53",
+  "generatedAt": "2025-08-09 06:12:15",
   "news": [
     {
       "index": 1,
+      "title": "Crocs Shares Pummeled After Guiding For Sales Decline",
+      "url": "https://www.wsj.com/business/earnings/crocs-revenue-increases-as-namesake-brand-demand-remains-strong-26b0da11"
+    },
+    {
+      "index": 2,
       "title": "India contributes more to global growth than US, RBI Chief says",
       "url": "https://www.bloomberg.com/news/articles/2025-08-06/india-contributes-more-to-global-growth-than-us-rbi-chief-says"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "Trump’s tariff to test RBI: Decision Guide",
       "url": "https://www.bloomberg.com/news/articles/2025-08-05/trump-s-tariff-to-test-india-s-central-bank-decision-guide"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "Trump Tariff shock poised to deepen Rupee’s underperformance",
       "url": "https://www.bloomberg.com/news/articles/2025-08-04/trump-tariff-shock-poised-to-deepen-rupee-s-underperformance"
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Philippines’ Marcos eyes India trade, defence in talks with Modi",
       "url": "https://www.bloomberg.com/news/articles/2025-08-01/philippines-marcos-eyes-india-trade-defense-in-talks-with-modi"
-    },
-    {
-      "index": 5,
-      "title": "Who’s most at risk from Trump’s 25% India tariffs and penalty",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-31/who-s-most-at-risk-from-trump-s-25-india-tariffs-and-penalty"
     }
   ]
 }
