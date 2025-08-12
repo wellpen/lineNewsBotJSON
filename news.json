@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-08-12 06:12:00",
+  "generatedAt": "2025-08-12 18:29:57",
   "news": [
     {
       "index": 1,
+      "title": "US consumers to bear brunt of tariff hit, Goldman economists Say",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-11/us-consumers-to-bear-brunt-of-tariff-hit-goldman-economists-say"
+    },
+    {
+      "index": 2,
+      "title": "India’s long bonds are a buy on wider spreads, Bajaj’s Iyer says",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-11/india-s-long-bonds-are-a-buy-on-wider-spreads-bajaj-s-iyer-says"
+    },
+    {
+      "index": 3,
       "title": "Irish whiskey makers crumble under Trump’s trade tariffs",
       "url": "https://www.bloomberg.com/news/articles/2025-08-08/ireland-s-whiskey-boom-hit-by-trump-s-tariffs-deal"
     },
     {
-      "index": 2,
+      "index": 4,
       "title": "Crocs Shares Pummeled After Guiding For Sales Decline",
       "url": "https://www.wsj.com/business/earnings/crocs-revenue-increases-as-namesake-brand-demand-remains-strong-26b0da11"
     },
     {
-      "index": 3,
+      "index": 5,
       "title": "India contributes more to global growth than US, RBI Chief says",
       "url": "https://www.bloomberg.com/news/articles/2025-08-06/india-contributes-more-to-global-growth-than-us-rbi-chief-says"
-    },
-    {
-      "index": 4,
-      "title": "Trump’s tariff to test RBI: Decision Guide",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-05/trump-s-tariff-to-test-india-s-central-bank-decision-guide"
-    },
-    {
-      "index": 5,
-      "title": "Trump Tariff shock poised to deepen Rupee’s underperformance",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-04/trump-tariff-shock-poised-to-deepen-rupee-s-underperformance"
     }
   ]
 }
