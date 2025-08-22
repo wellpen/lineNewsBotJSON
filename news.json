@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-08-22 06:11:45",
+  "generatedAt": "2025-08-22 18:27:02",
   "news": [
     {
       "index": 1,
+      "title": "Rising borrowing costs raise new risks for small and mid-sized Indian firms",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-21/india-market-buzz-rising-yields-may-put-pressure-on-stock-bulls"
+    },
+    {
+      "index": 2,
+      "title": "India becomes rare hub for green IPOs with $4 Billion of deals",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-21/india-becomes-rare-hub-for-green-ipos-with-4-billion-of-deals"
+    },
+    {
+      "index": 3,
       "title": "Base metals drift as traders await Trump-Zelenskiy meeting",
       "url": "https://www.bloomberg.com/news/articles/2025-08-18/base-metals-drift-as-traders-await-trump-zelenskiy-meeting"
     },
     {
-      "index": 2,
+      "index": 4,
       "title": "Charting the global economy: US retail sales point to resilience",
       "url": "https://www.bloomberg.com/news/articles/2025-08-16/world-economy-latest-healthy-us-retail-sales-signals-consumer-resilience"
     },
     {
-      "index": 3,
+      "index": 5,
       "title": "Nayara resorts to transferring fuel exports at sea",
       "url": "https://www.bloomberg.com/news/articles/2025-08-14/india-refiner-nayara-resorts-to-transferring-fuel-exports-at-sea"
-    },
-    {
-      "index": 4,
-      "title": "US consumers to bear brunt of tariff hit, Goldman economists Say",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-11/us-consumers-to-bear-brunt-of-tariff-hit-goldman-economists-say"
-    },
-    {
-      "index": 5,
-      "title": "India’s long bonds are a buy on wider spreads, Bajaj’s Iyer says",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-11/india-s-long-bonds-are-a-buy-on-wider-spreads-bajaj-s-iyer-says"
     }
   ]
 }
