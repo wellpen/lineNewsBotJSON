@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-09-06 18:22:19",
+  "generatedAt": "2025-09-07 06:09:46",
   "news": [
     {
       "index": 1,
+      "title": "Pot Stocks’ Risky Bet: The IRS Will Chill Out",
+      "url": "https://www.wsj.com/finance/investing/pot-stocks-risky-bet-the-irs-will-chill-out-f447fb85"
+    },
+    {
+      "index": 2,
       "title": "GST and income tax cuts may lure global funds back to India",
       "url": "https://www.bloomberg.com/news/articles/2025-09-05/india-market-buzz-policy-tailwinds-may-lure-global-funds-back"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "Exporters lobby RBI for weaker rupee to offset US tariffs",
       "url": "https://www.bloomberg.com/news/articles/2025-09-04/indian-exporters-lobby-rbi-for-weaker-rupee-to-offset-us-tariffs"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "Turkey Inflation Inches Down as Central Bank Primes Fresh Easing",
       "url": "https://www.wsj.com/economy/turkey-inflation-inches-down-as-central-bank-mulls-next-steps-256357b6"
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Boeing on track to hike 737 output by October, Ryanair CEO says",
       "url": "https://www.bloomberg.com/news/articles/2025-08-27/ryanair-says-boeing-speeds-737-deliveries-nears-output-increase"
-    },
-    {
-      "index": 5,
-      "title": "Rising borrowing costs raise new risks for small and mid-sized Indian firms",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-21/india-market-buzz-rising-yields-may-put-pressure-on-stock-bulls"
     }
   ]
 }
