@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-09-11 06:10:18",
+  "generatedAt": "2025-09-11 18:25:29",
   "news": [
     {
       "index": 1,
+      "title": "India plans relief package for exporters hit by Trump’s Tariffs",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-10/india-plans-relief-package-for-exporters-hit-by-trump-s-tariffs"
+    },
+    {
+      "index": 2,
+      "title": "From exporters to bond traders, RBI is facing calls to step in",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-10/from-exporters-to-bond-traders-rbi-is-facing-calls-to-step-in"
+    },
+    {
+      "index": 3,
+      "title": "National Australia Bank to cut 410 support roles, to shift some bank work to India",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-09/nab-to-cut-410-support-roles-shift-some-banking-work-to-india"
+    },
+    {
+      "index": 4,
       "title": "Pot Stocks’ Risky Bet: The IRS Will Chill Out",
       "url": "https://www.wsj.com/finance/investing/pot-stocks-risky-bet-the-irs-will-chill-out-f447fb85"
     },
     {
-      "index": 2,
+      "index": 5,
       "title": "GST and income tax cuts may lure global funds back to India",
       "url": "https://www.bloomberg.com/news/articles/2025-09-05/india-market-buzz-policy-tailwinds-may-lure-global-funds-back"
-    },
-    {
-      "index": 3,
-      "title": "Exporters lobby RBI for weaker rupee to offset US tariffs",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-04/indian-exporters-lobby-rbi-for-weaker-rupee-to-offset-us-tariffs"
-    },
-    {
-      "index": 4,
-      "title": "Turkey Inflation Inches Down as Central Bank Primes Fresh Easing",
-      "url": "https://www.wsj.com/economy/turkey-inflation-inches-down-as-central-bank-mulls-next-steps-256357b6"
-    },
-    {
-      "index": 5,
-      "title": "Boeing on track to hike 737 output by October, Ryanair CEO says",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-27/ryanair-says-boeing-speeds-737-deliveries-nears-output-increase"
     }
   ]
 }
