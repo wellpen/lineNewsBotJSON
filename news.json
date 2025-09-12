@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-09-12 18:26:17",
+  "generatedAt": "2025-09-13 06:10:01",
   "news": [
     {
       "index": 1,
+      "title": "ECB Holds Rates Steady, Just as Fed Is Poised to Cut",
+      "url": "https://www.wsj.com/economy/central-banking/ecb-holds-rates-steady-just-as-fed-is-poised-to-cut-2e71a66e"
+    },
+    {
+      "index": 2,
+      "title": "Global Stock Markets Mostly Rise After S&P 500, Nasdaq Hit Record Highs",
+      "url": "https://www.wsj.com/finance/global-stock-markets-mostly-rise-after-s-p-500-nasdaq-hit-record-highs-a9075378"
+    },
+    {
+      "index": 3,
       "title": "Klarna Soars 30% in First Day of Trading on NYSE",
       "url": "https://www.wsj.com/finance/klarna-ipo-nyse-klar-stock-4209012b"
     },
     {
-      "index": 2,
+      "index": 4,
       "title": "India plans relief package for exporters hit by Trump’s Tariffs",
       "url": "https://www.bloomberg.com/news/articles/2025-09-10/india-plans-relief-package-for-exporters-hit-by-trump-s-tariffs"
     },
     {
-      "index": 3,
+      "index": 5,
       "title": "From exporters to bond traders, RBI is facing calls to step in",
       "url": "https://www.bloomberg.com/news/articles/2025-09-10/from-exporters-to-bond-traders-rbi-is-facing-calls-to-step-in"
-    },
-    {
-      "index": 4,
-      "title": "National Australia Bank to cut 410 support roles, to shift some bank work to India",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-09/nab-to-cut-410-support-roles-shift-some-banking-work-to-india"
-    },
-    {
-      "index": 5,
-      "title": "Pot Stocks’ Risky Bet: The IRS Will Chill Out",
-      "url": "https://www.wsj.com/finance/investing/pot-stocks-risky-bet-the-irs-will-chill-out-f447fb85"
     }
   ]
 }
