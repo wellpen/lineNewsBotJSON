@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2025-09-15 18:27:00",
+  "generatedAt": "2025-09-16 06:10:14",
   "news": [
     {
       "index": 1,
+      "title": "Mortgage Rates Are Finally Falling. Here’s Why They Can Move Fast.",
+      "url": "https://www.wsj.com/finance/mortgage-rates-are-finally-falling-heres-why-they-can-move-fast-61fe57c4"
+    },
+    {
+      "index": 2,
       "title": "Weak jobs, steady inflation seal fed rate cut",
       "url": "https://www.bloomberg.com/news/articles/2025-09-13/world-economy-latest-jobs-revisions-steady-inflation-seal-fed-rate-cut"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "Gold pushes toward record as ETFs expand in run-up to the Fed",
       "url": "https://www.bloomberg.com/news/articles/2025-09-12/gold-heads-for-weekly-gain-as-etfs-expand-in-run-up-to-the-fed"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "ECB Holds Rates Steady, Just as Fed Is Poised to Cut",
       "url": "https://www.wsj.com/economy/central-banking/ecb-holds-rates-steady-just-as-fed-is-poised-to-cut-2e71a66e"
-    },
-    {
-      "index": 4,
-      "title": "Global Stock Markets Mostly Rise After S&P 500, Nasdaq Hit Record Highs",
-      "url": "https://www.wsj.com/finance/global-stock-markets-mostly-rise-after-s-p-500-nasdaq-hit-record-highs-a9075378"
     }
   ]
 }
