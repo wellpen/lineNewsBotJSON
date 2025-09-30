@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-09-30 06:11:08",
+  "generatedAt": "2025-09-30 18:27:42",
   "news": [
     {
       "index": 1,
+      "title": "Sanction-hit Nayara is clawing its way back",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-29/sanction-hit-indian-refiner-nayara-is-clawing-its-way-back"
+    },
+    {
+      "index": 2,
+      "title": "Indian IT stocks hope to catch a break after longest losing streak since February",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-29/india-market-buzz-tech-gloom-deepens-bonds-eye-rbi-spark"
+    },
+    {
+      "index": 3,
       "title": "US oil flows to Asia face pressure from expensive tanker rates",
       "url": "https://www.bloomberg.com/news/articles/2025-09-26/us-oil-flows-to-asia-face-pressure-from-expensive-tanker-rates"
     },
     {
-      "index": 2,
+      "index": 4,
       "title": "Goldman Sachs Investment Vehicle Set to Delist in London",
       "url": "https://www.wsj.com/finance/investing/goldman-sachs-investment-vehicle-set-to-delist-in-london-a884ec74"
     },
     {
-      "index": 3,
+      "index": 5,
       "title": "Tariffs Will Hit Slowing U.S. Economy Hard in 2026, OECD Says",
       "url": "https://www.wsj.com/economy/global/u-s-economy-set-to-slow-less-sharply-this-year-but-tariffs-will-hit-hard-in-2026-oecd-says-50f9dfab"
-    },
-    {
-      "index": 4,
-      "title": "India eyeing Bangladesh’s top spot with perks for recycling dying ships",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-16/india-eyeing-bangladesh-s-top-spot-with-perks-for-recycling-dying-ships"
-    },
-    {
-      "index": 5,
-      "title": "Gold Hasn’t Rallied This Much Since 1979",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-price-rising-61bc0b52"
     }
   ]
 }
