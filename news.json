@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-10-03 18:25:46",
+  "generatedAt": "2025-10-04 06:10:17",
   "news": [
     {
       "index": 1,
+      "title": "Gold rallies for sixth day on US rate bets and shutdown concerns",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-02/gold-holds-five-day-rally-on-fed-cut-bets-us-shutdown-concerns"
+    },
+    {
+      "index": 2,
       "title": "Pharma Stocks in Europe Jump After White House Unveils Drug-Buying Site",
       "url": "https://www.wsj.com/health/pharma/pharma-stocks-in-europe-jump-after-white-house-unveils-drug-buying-site-4fd8d76c"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "India RBI rate cut back in play after tariffs: policy guide",
       "url": "https://www.bloomberg.com/news/articles/2025-09-30/india-interest-rate-cut-back-in-play-after-tariffs-policy-guide"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "SORR set to become India’s key interest rate benchmark, replacing Mibor",
       "url": "https://www.bloomberg.com/news/articles/2025-09-30/india-s-benchmark-guiding-1-trillion-in-swaps-faces-overhaul"
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Sanction-hit Nayara is clawing its way back",
       "url": "https://www.bloomberg.com/news/articles/2025-09-29/sanction-hit-indian-refiner-nayara-is-clawing-its-way-back"
-    },
-    {
-      "index": 5,
-      "title": "Indian IT stocks hope to catch a break after longest losing streak since February",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-29/india-market-buzz-tech-gloom-deepens-bonds-eye-rbi-spark"
     }
   ]
 }
