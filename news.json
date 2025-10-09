@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-10-09 06:11:09",
+  "generatedAt": "2025-10-09 18:28:11",
   "news": [
     {
       "index": 1,
+      "title": "Green stocks are quietly beating the world’s biggest trades",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-08/green-stocks-are-quietly-beating-the-world-s-biggest-trades"
+    },
+    {
+      "index": 2,
       "title": "Jaguar Land Rover bailout shows rising cost of cybercrime",
       "url": "https://www.bloomberg.com/news/articles/2025-10-07/jaguar-land-rover-cyber-attack-why-uk-bailout-is-high-risk-move"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "Asia’s youth struggle to find good jobs, warns World Bank",
       "url": "https://www.bloomberg.com/news/articles/2025-10-07/asia-s-youth-struggle-to-find-good-jobs-world-bank-warns"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "Boeing said to prepare for 737 rate hike as soon as October",
       "url": "https://www.bloomberg.com/news/articles/2025-10-06/boeing-said-to-prepare-for-737-rate-hike-as-soon-as-october"
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Indian bank stocks fire up after RBI eases capital market lending",
       "url": "https://www.bloomberg.com/news/articles/2025-10-03/india-market-buzz-rbi-boost-lifts-banks-bourses-set-to-shine"
-    },
-    {
-      "index": 5,
-      "title": "Gold rallies for sixth day on US rate bets and shutdown concerns",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-02/gold-holds-five-day-rally-on-fed-cut-bets-us-shutdown-concerns"
     }
   ]
 }
