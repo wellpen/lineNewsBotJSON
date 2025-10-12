@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-10-12 06:09:54",
+  "generatedAt": "2025-10-12 18:23:45",
   "news": [
     {
       "index": 1,
+      "title": "Silver surges to near record high as gold recedes",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-09/gold-and-silver-retreat-from-highs-as-investors-lock-in-gains"
+    },
+    {
+      "index": 2,
       "title": "Global Markets Mixed, Gold Rally Pauses on Easing Middle Eastern Tensions",
       "url": "https://www.wsj.com/finance/global-markets-mixed-gold-rally-pauses-on-easing-middle-eastern-tensions-49455149"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "Stretched AI valuations, Fed credibility concerns raise risk of market correction: BoE",
       "url": "https://www.bloomberg.com/news/articles/2025-10-08/soaring-ai-valuations-spur-market-correction-risk-boe-says"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "Green stocks are quietly beating the world’s biggest trades",
       "url": "https://www.bloomberg.com/news/articles/2025-10-08/green-stocks-are-quietly-beating-the-world-s-biggest-trades"
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Jaguar Land Rover bailout shows rising cost of cybercrime",
       "url": "https://www.bloomberg.com/news/articles/2025-10-07/jaguar-land-rover-cyber-attack-why-uk-bailout-is-high-risk-move"
-    },
-    {
-      "index": 5,
-      "title": "Asia’s youth struggle to find good jobs, warns World Bank",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-07/asia-s-youth-struggle-to-find-good-jobs-world-bank-warns"
     }
   ]
 }
