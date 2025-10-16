@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-10-16 18:28:57",
+  "generatedAt": "2025-10-17 06:09:04",
   "news": [
     {
       "index": 1,
+      "title": "Strong U.S. Economy Powers Bank of America Profit Higher",
+      "url": "https://www.wsj.com/finance/banking/bank-of-america-bac-q3-earnings-report-stock-2025-6af3d29d"
+    },
+    {
+      "index": 2,
       "title": "Goldman Sachs Profit Surges, Fueled by Dealmaking Boom",
       "url": "https://www.wsj.com/business/earnings/goldman-sachs-gs-q3-earnings-report-stock-2025-1f1ac185"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "Silver surges to near record high as gold recedes",
       "url": "https://www.bloomberg.com/news/articles/2025-10-09/gold-and-silver-retreat-from-highs-as-investors-lock-in-gains"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "Global Markets Mixed, Gold Rally Pauses on Easing Middle Eastern Tensions",
       "url": "https://www.wsj.com/finance/global-markets-mixed-gold-rally-pauses-on-easing-middle-eastern-tensions-49455149"
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Stretched AI valuations, Fed credibility concerns raise risk of market correction: BoE",
       "url": "https://www.bloomberg.com/news/articles/2025-10-08/soaring-ai-valuations-spur-market-correction-risk-boe-says"
-    },
-    {
-      "index": 5,
-      "title": "Green stocks are quietly beating the world’s biggest trades",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-08/green-stocks-are-quietly-beating-the-world-s-biggest-trades"
     }
   ]
 }
