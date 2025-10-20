@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-10-20 06:10:17",
+  "generatedAt": "2025-10-20 18:35:34",
   "news": [
     {
       "index": 1,
+      "title": "Chinese export boom can’t stop economy’s slowdown",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-18/chinese-export-boom-can-t-stop-economy-s-slowdown"
+    },
+    {
+      "index": 2,
       "title": "IMF sees ‘significant’ risks to global growth from US-China row",
       "url": "https://www.bloomberg.com/news/articles/2025-10-17/imf-sees-significant-risks-to-global-growth-from-us-china-row"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "Wall Street jolted by tumble in two regional banks: Markets wrap",
       "url": "https://www.bloomberg.com/news/articles/2025-10-15/stock-market-today-dow-s-p-live-updates"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "Strong U.S. Economy Powers Bank of America Profit Higher",
       "url": "https://www.wsj.com/finance/banking/bank-of-america-bac-q3-earnings-report-stock-2025-6af3d29d"
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Goldman Sachs Profit Surges, Fueled by Dealmaking Boom",
       "url": "https://www.wsj.com/business/earnings/goldman-sachs-gs-q3-earnings-report-stock-2025-1f1ac185"
-    },
-    {
-      "index": 5,
-      "title": "Silver surges to near record high as gold recedes",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-09/gold-and-silver-retreat-from-highs-as-investors-lock-in-gains"
     }
   ]
 }
