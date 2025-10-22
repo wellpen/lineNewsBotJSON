@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-10-22 06:11:08",
+  "generatedAt": "2025-10-22 18:29:24",
   "news": [
     {
       "index": 1,
+      "title": "Japan shifts to the right under ‘Iron Lady’ admirer Takaichi",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-21/japan-shifts-to-the-right-under-iron-lady-admirer-takaichi"
+    },
+    {
+      "index": 2,
       "title": "India pushes to expand rupee settlement with key trade partners",
       "url": "https://www.bloomberg.com/news/articles/2025-10-20/india-pushes-to-expand-rupee-settlement-with-key-trade-partners"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "Chinese export boom can’t stop economy’s slowdown",
       "url": "https://www.bloomberg.com/news/articles/2025-10-18/chinese-export-boom-can-t-stop-economy-s-slowdown"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "IMF sees ‘significant’ risks to global growth from US-China row",
       "url": "https://www.bloomberg.com/news/articles/2025-10-17/imf-sees-significant-risks-to-global-growth-from-us-china-row"
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Wall Street jolted by tumble in two regional banks: Markets wrap",
       "url": "https://www.bloomberg.com/news/articles/2025-10-15/stock-market-today-dow-s-p-live-updates"
-    },
-    {
-      "index": 5,
-      "title": "Strong U.S. Economy Powers Bank of America Profit Higher",
-      "url": "https://www.wsj.com/finance/banking/bank-of-america-bac-q3-earnings-report-stock-2025-6af3d29d"
     }
   ]
 }
