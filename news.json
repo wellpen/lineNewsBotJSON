@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-10-24 06:11:17",
+  "generatedAt": "2025-10-24 18:28:58",
   "news": [
     {
       "index": 1,
+      "title": "McKinsey says bank profits face possible $170 billion AI hit",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-23/mckinsey-says-bank-profits-face-possible-170-billion-ai-hit"
+    },
+    {
+      "index": 2,
+      "title": "Indian bonds lure global investors after RBI’s rupee defense",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-23/indian-bonds-lure-global-investors-after-rbi-s-rupee-defense"
+    },
+    {
+      "index": 3,
       "title": "Satya Nadella’s pay jumps to $96.5 million as Microsoft rides AI boom",
       "url": "https://www.bloomberg.com/news/articles/2025-10-21/microsoft-ceo-gets-96-million-pay-package-on-exceptional-year"
     },
     {
-      "index": 2,
+      "index": 4,
       "title": "Japan shifts to the right under ‘Iron Lady’ admirer Takaichi",
       "url": "https://www.bloomberg.com/news/articles/2025-10-21/japan-shifts-to-the-right-under-iron-lady-admirer-takaichi"
     },
     {
-      "index": 3,
+      "index": 5,
       "title": "India pushes to expand rupee settlement with key trade partners",
       "url": "https://www.bloomberg.com/news/articles/2025-10-20/india-pushes-to-expand-rupee-settlement-with-key-trade-partners"
-    },
-    {
-      "index": 4,
-      "title": "Chinese export boom can’t stop economy’s slowdown",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-18/chinese-export-boom-can-t-stop-economy-s-slowdown"
-    },
-    {
-      "index": 5,
-      "title": "IMF sees ‘significant’ risks to global growth from US-China row",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-17/imf-sees-significant-risks-to-global-growth-from-us-china-row"
     }
   ]
 }
