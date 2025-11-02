@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-02 18:24:42",
+  "generatedAt": "2025-11-03 06:10:29",
   "news": [
     {
       "index": 1,
@@ -20,11 +20,6 @@
       "index": 4,
       "title": "Gold back above $4,000 after plunging on easing haven demand",
       "url": "https://www.bloomberg.com/news/articles/2025-10-27/gold-holds-below-4-000-as-us-china-progress-damps-haven-demand"
-    },
-    {
-      "index": 5,
-      "title": "US September inflation slows, opening door for Fed rate cuts",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-24/us-cpi-rises-less-than-expected-keeping-fed-on-track-for-cut"
     }
   ]
 }
