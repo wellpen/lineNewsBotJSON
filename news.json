@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2025-11-03 06:10:29",
+  "generatedAt": "2025-11-03 18:30:57",
   "news": [
     {
       "index": 1,
+      "title": "Emerging market stocks rose every month this year for first time since 1993",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-31/em-stocks-rise-every-month-this-year-first-time-since-1993"
+    },
+    {
+      "index": 2,
       "title": "Coal India Ltd profit drops amid weaker power demand",
       "url": "https://www.bloomberg.com/news/articles/2025-10-29/india-coal-giant-s-profit-drops-amid-weaker-electricity-demand"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "RBI set to resume bond buys to boost cash, analysts say",
       "url": "https://www.bloomberg.com/news/articles/2025-10-29/india-s-rbi-set-to-resume-bond-buys-to-boost-cash-analysts-say"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "UnitedHealth Revenue Rises as Turnaround Efforts Continue",
       "url": "https://www.wsj.com/business/earnings/unitedhealth-revenue-rises-as-turnaround-efforts-continue-c66c3d8d"
-    },
-    {
-      "index": 4,
-      "title": "Gold back above $4,000 after plunging on easing haven demand",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-27/gold-holds-below-4-000-as-us-china-progress-damps-haven-demand"
     }
   ]
 }
