@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2025-11-05 18:29:37",
+  "generatedAt": "2025-11-06 06:11:50",
   "news": [
     {
       "index": 1,
+      "title": "Global Markets Fall After Fed Officials Express Diverging Views on Cuts",
+      "url": "https://www.wsj.com/finance/global-markets-fall-after-fed-officials-express-diverging-views-on-cuts-91235ae9"
+    },
+    {
+      "index": 2,
       "title": "GST 2.0 fuels $68 billion festival shopping boom in India",
       "url": "https://www.bloomberg.com/news/articles/2025-11-03/modi-tax-cut-fuels-68-billion-festival-shopping-boom-in-india"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "Emerging market stocks rose every month this year for first time since 1993",
       "url": "https://www.bloomberg.com/news/articles/2025-10-31/em-stocks-rise-every-month-this-year-first-time-since-1993"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "Coal India Ltd profit drops amid weaker power demand",
       "url": "https://www.bloomberg.com/news/articles/2025-10-29/india-coal-giant-s-profit-drops-amid-weaker-electricity-demand"
-    },
-    {
-      "index": 4,
-      "title": "RBI set to resume bond buys to boost cash, analysts say",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-29/india-s-rbi-set-to-resume-bond-buys-to-boost-cash-analysts-say"
     }
   ]
 }
