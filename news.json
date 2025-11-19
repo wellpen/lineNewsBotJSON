@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-11-19 18:30:31",
+  "generatedAt": "2025-11-20 06:11:59",
   "news": [
     {
       "index": 1,
+      "title": "Home Depot Cuts Outlook As Home Improvement Slowdown Continues",
+      "url": "https://www.wsj.com/business/earnings/home-depot-cuts-outlook-as-home-improvement-slowdown-continues-402251f8"
+    },
+    {
+      "index": 2,
       "title": "Indian insurers ask banks to allow government bonds as collateral for derivative trades",
       "url": "https://www.bloomberg.com/news/articles/2025-11-17/indian-insurers-ask-banks-to-tweak-bond-trade-norms-after-swings"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "Nomura said to probe if profits inflated at India bond desk",
       "url": "https://www.bloomberg.com/news/articles/2025-11-17/nomura-probes-india-bond-desk-amid-surge-in-strips-trading"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "Global Markets Mixed After Monday’s Rally",
       "url": "https://www.wsj.com/finance/stocks/global-markets-mixed-after-mondays-rally-7bc4c694"
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Gold steadies as traders assess outlook for US interest rates",
       "url": "https://www.bloomberg.com/news/articles/2025-11-06/gold-steadies-as-traders-assess-outlook-for-us-interest-rates"
-    },
-    {
-      "index": 5,
-      "title": "Ozempic Maker Novo Nordisk Lowers Growth Outlook of Its Blockbuster Drugs",
-      "url": "https://www.wsj.com/health/pharma/ozempic-maker-novo-nordisk-lowers-growth-outlook-of-its-blockbuster-drugs-013a0df1"
     }
   ]
 }
