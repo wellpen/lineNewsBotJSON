@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-11-21 06:12:01",
+  "generatedAt": "2025-11-21 18:28:48",
   "news": [
     {
       "index": 1,
+      "title": "India seeks tankers for West Asia oil after Russia sanctions",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-19/india-seeks-ships-for-mideast-oil-as-sanctions-deadline-looms"
+    },
+    {
+      "index": 2,
       "title": "The era of dollar dominance is coming to a close",
       "url": "https://www.bloomberg.com/news/articles/2025-11-18/the-era-of-dollar-dominance-is-coming-to-a-close"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "RBI’s big inflation misses put India’s forecasts under scrutiny",
       "url": "https://www.bloomberg.com/news/articles/2025-11-19/rbi-s-big-inflation-misses-put-india-s-forecasts-under-scrutiny"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "Home Depot Cuts Outlook As Home Improvement Slowdown Continues",
       "url": "https://www.wsj.com/business/earnings/home-depot-cuts-outlook-as-home-improvement-slowdown-continues-402251f8"
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Indian insurers ask banks to allow government bonds as collateral for derivative trades",
       "url": "https://www.bloomberg.com/news/articles/2025-11-17/indian-insurers-ask-banks-to-tweak-bond-trade-norms-after-swings"
-    },
-    {
-      "index": 5,
-      "title": "Nomura said to probe if profits inflated at India bond desk",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-17/nomura-probes-india-bond-desk-amid-surge-in-strips-trading"
     }
   ]
 }
