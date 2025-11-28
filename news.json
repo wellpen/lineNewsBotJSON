@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-11-28 18:29:33",
+  "generatedAt": "2025-11-29 06:11:29",
   "news": [
     {
       "index": 1,
+      "title": "Global Markets Boosted by Fed Rate-Cut Hopes; U.S. Markets Closed for Thanksgiving",
+      "url": "https://www.wsj.com/finance/stocks/global-markets-boosted-by-fed-rate-cut-hopes-u-s-markets-closed-for-thanksgiving-92086600"
+    },
+    {
+      "index": 2,
       "title": "U.S. Treasury Yields Could Fall Further",
       "url": "https://www.wsj.com/finance/investing/jgb-yields-higher-on-hopes-for-boj-rate-increase-ca194204"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "Gold Rises on Renewed U.S. Rate-Cut Bets",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-fed-rate-cut-hopes-b6d480f8"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "Oil Slips After Monday’s Gains With Focus on Russia-Ukraine Developments",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-potential-ukraine-russia-peace-deal-in-focus-0d8746d4"
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Gilt Yields Steady as Fed Rate-Cut Prospects Increase; Budget Awaited",
       "url": "https://www.wsj.com/finance/investing/jgb-yields-higher-amid-hopes-for-boj-rate-increases-352658a8"
-    },
-    {
-      "index": 5,
-      "title": "Heard on the Street Monday Recap: What AI Bust?",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2025/card/heard-on-the-street-monday-recap-what-ai-bust--UZBnPdb391QHxTIbvqCW"
     }
   ]
 }
