@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-12-02 18:31:50",
+  "generatedAt": "2025-12-03 06:11:41",
   "news": [
     {
       "index": 1,
+      "title": "Bitcoin Falls as Prospect of Rate Rise in Japan Spooks Investors",
+      "url": "https://www.wsj.com/economy/central-banking/bitcoin-falls-as-prospect-of-rate-rise-in-japan-spooks-investors-fa092c73"
+    },
+    {
+      "index": 2,
+      "title": "Global Markets Slip Amid Risk Aversion",
+      "url": "https://www.wsj.com/finance/investing/global-markets-slip-amid-risk-aversion-136a8946"
+    },
+    {
+      "index": 3,
       "title": "Wall Street forecasts Indian markets to rebound after tough year",
       "url": "https://www.bloomberg.com/news/articles/2025-11-30/wall-street-predicts-rebound-in-indian-markets-after-tough-year"
     },
     {
-      "index": 2,
+      "index": 4,
       "title": "3 years of AI Mania: How ChatGPT reordered the stock market",
       "url": "https://www.bloomberg.com/news/articles/2025-11-25/three-years-of-ai-mania-how-chatgpt-reordered-the-stock-market"
     },
     {
-      "index": 3,
+      "index": 5,
       "title": "Tech Stocks Rally Premarket; CME Reopens Futures Markets After Outage",
       "url": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-11-27-2025-3eae00a5"
-    },
-    {
-      "index": 4,
-      "title": "Global Markets Boosted by Fed Rate-Cut Hopes; U.S. Markets Closed for Thanksgiving",
-      "url": "https://www.wsj.com/finance/stocks/global-markets-boosted-by-fed-rate-cut-hopes-u-s-markets-closed-for-thanksgiving-92086600"
-    },
-    {
-      "index": 5,
-      "title": "U.S. Treasury Yields Could Fall Further",
-      "url": "https://www.wsj.com/finance/investing/jgb-yields-higher-on-hopes-for-boj-rate-increase-ca194204"
     }
   ]
 }
