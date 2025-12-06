@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-12-06 18:26:44",
+  "generatedAt": "2025-12-07 06:11:15",
   "news": [
     {
       "index": 1,
+      "title": "Global Stock Markets Mostly Rise Ahead of Key U.S. Inflation Data",
+      "url": "https://www.wsj.com/finance/stocks/global-stock-markets-mostly-rise-ahead-of-key-u-s-inflation-data-40ddb772"
+    },
+    {
+      "index": 2,
       "title": "Silver extends retreat from record high as traders book profits",
       "url": "https://www.bloomberg.com/news/articles/2025-12-04/silver-steady-after-profit-taking-brings-end-to-eight-day-rally"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "$2-billion India–Russia submarine deal sealed ahead of Putin’s India visit",
       "url": "https://www.bloomberg.com/news/articles/2025-12-04/india-clinches-2-billion-russia-submarine-deal-as-putin-visits"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "The world’s plastic glut is set to get much worse by 2040, study finds",
       "url": "https://www.bloomberg.com/news/articles/2025-12-03/the-world-s-plastic-glut-is-set-to-get-much-worse-by-2040-study-finds"
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Silver hits record high on supply tightness, Fed rate-cut hopes",
       "url": "https://www.bloomberg.com/news/articles/2025-12-03/silver-steady-near-record-high-on-rate-cut-bets-and-tight-supply"
-    },
-    {
-      "index": 5,
-      "title": "U.S. Futures Fall, Global Markets Mixed; Bitcoin Recovers Slightly",
-      "url": "https://www.wsj.com/finance/stocks/u-s-futures-fall-global-markets-mixed-bitcoin-recovers-slightly-d9cf31c2"
     }
   ]
 }
