@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2025-12-12 06:13:07",
+  "generatedAt": "2025-12-12 18:31:53",
   "news": [
     {
       "index": 1,
+      "title": "India–US trade deal likely by March, says CEA Nageswaran",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-11/india-s-adviser-nageswaran-sees-us-trade-deal-signed-by-march"
+    },
+    {
+      "index": 2,
       "title": "Global Stocks Trade in Narrow Range Ahead of Key Fed Meeting",
       "url": "https://www.wsj.com/finance/investing/global-stocks-trade-in-narrow-range-ahead-of-key-fed-meeting-64f5867a"
     },
     {
-      "index": 2,
+      "index": 3,
       "title": "Russia’s vital oil trade with India is down, but not out",
       "url": "https://www.bloomberg.com/news/articles/2025-12-06/russia-s-vital-oil-trade-with-india-is-down-but-not-out"
     },
     {
-      "index": 3,
+      "index": 4,
       "title": "Global Stock Markets Mostly Rise Ahead of Key U.S. Inflation Data",
       "url": "https://www.wsj.com/finance/stocks/global-stock-markets-mostly-rise-ahead-of-key-u-s-inflation-data-40ddb772"
     },
     {
-      "index": 4,
+      "index": 5,
       "title": "Silver extends retreat from record high as traders book profits",
       "url": "https://www.bloomberg.com/news/articles/2025-12-04/silver-steady-after-profit-taking-brings-end-to-eight-day-rally"
-    },
-    {
-      "index": 5,
-      "title": "$2-billion India–Russia submarine deal sealed ahead of Putin’s India visit",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-04/india-clinches-2-billion-russia-submarine-deal-as-putin-visits"
     }
   ]
 }
